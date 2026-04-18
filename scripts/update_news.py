@@ -1,52 +1,48 @@
-import feedparser
-import re
-import json
-import os
+name: Update News Data
 
-# Keywords for matching
-keywords = ["stock", "equity", "investment", "interest rate", "rates", "inflation", "CPI", "jobs", "payrolls", "tariffs", "trade", "regulation", "SEC", "FTC", "antitrust", "election", "congress", "senate", "white house", "budget", "deficit", "debt ceiling", "shutdown", "geopolitics", "sanctions", "OPEC", "oil", "China"]
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-# Abbreviations to match, case-insensitive
-abbreviations = ["cpi", "sec", "ftc", "opec"]
+# Opt into Node.js 24 for JavaScript-based actions now (recommended)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-# Fetch data from various feeds
-feed_urls = [...]  # List of feed URLs
+permissions:
+  contents: write
 
-matched_items = []
-for url in feed_urls:
-    parsed_feed = feedparser.parse(url)
-    if parsed_feed.bozo or parsed_feed.get('status') not in (200, None):
-        print(f"Warning: {url} returned an error status.")
-        continue
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          ref: main
 
-    for entry in parsed_feed.entries:
-        title = entry.title.lower()
-        content = entry.content[0].value.lower()
-        link = entry.link
-        matched_keywords = [kw for kw in keywords if re.search(r'\b' + re.escape(kw) + r'\b', title) or re.search(r'\b' + re.escape(kw) + r'\b', content)]
-        matched_abbr = [abbr for abbr in abbreviations if re.search(r'\b' + re.escape(abbr) + r'\b', title) or re.search(r'\b' + re.escape(abbr) + r'\b', content)]
-        matched_keywords.extend(matched_abbr)
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-        if matched_keywords:
-            matched_items.append({'title': title, 'link': link, 'matched_keywords': matched_keywords})
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser vaderSentiment
 
-# Fallback mode if fewer than 10 items are matched
-if len(matched_items) < 10:
-    all_items = []
-    for url in feed_urls:
-        parsed_feed = feedparser.parse(url)
-        all_items.extend([{'title': entry.title.lower(), 'link': entry.link} for entry in parsed_feed.entries])
-    # Deduplicate by link
-    unique_links = set()
-    recent_items = []
-    for item in all_items:
-        if item['link'] not in unique_links:
-            unique_links.add(item['link'])
-            recent_items.append(item)
-            if len(recent_items) == 30:
-                break
-    matched_items.extend(recent_items)
+      - name: Update news data
+        run: python scripts/update_news.py
 
-# Save results to data.json
-with open('./data.json', 'w') as json_file:
-    json.dump(matched_items, json_file)
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "chore: update news data"
+          git push
