@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Finance News Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-slate-100 text-slate-900">
+    <main class="mx-auto max-w-6xl p-6 md:p-10">
+      <header class="mb-8">
+        <h1 class="text-3xl font-bold md:text-4xl">Finance News Dashboard</h1>
+        <p class="mt-2 text-slate-600">
+          Filtered RSS headlines with lightweight investment-impact sentiment.
+        </p>
+      </header>
+
+      <section id="status" class="mb-4 text-sm text-slate-500">Loading news…</section>
+      <section
+        id="news-grid"
+        class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
+      ></section>
+    </main>
+
+    <script>
+      const badgeClasses = {
+        Bullish: "bg-emerald-100 text-emerald-800",
+        Bearish: "bg-rose-100 text-rose-800",
+        Neutral: "bg-slate-200 text-slate-700",
+      };
+
+      const formatDate = (value) => {
+        if (!value) return "Unknown date";
+        const date = new Date(value);
+        return Number.isNaN(date.valueOf()) ? value : date.toLocaleString();
+      };
+
+      const render = (items) => {
+        const grid = document.getElementById("news-grid");
+        const status = document.getElementById("status");
+
+        if (!Array.isArray(items) || items.length === 0) {
+          status.textContent = "No matching articles found.";
+          grid.innerHTML = "";
+          return;
+        }
+
+        status.textContent = `Showing ${items.length} filtered articles`;
+        grid.innerHTML = items
+          .map((item) => {
+            const keywords = (item.matched_keywords || [])
+              .map(
+                (keyword) =>
+                  `<span class="rounded-full bg-blue-100 px-2 py-1 text-xs text-blue-800">${keyword}</span>`
+              )
+              .join(" ");
+            const badgeClass = badgeClasses[item.sentiment_label] || badgeClasses.Neutral;
+
+            return `
+              <article class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+                <div class="mb-2 flex flex-wrap items-center gap-2">
+                  <span class="rounded-full px-2 py-1 text-xs font-semibold ${badgeClass}">
+                    Investment Impact: ${item.sentiment_label}
+                  </span>
+                  <span class="text-xs text-slate-500">Score: ${item.sentiment_score}</span>
+                </div>
+                <h2 class="mb-2 text-lg font-semibold leading-snug">
+                  <a class="hover:underline" href="${item.link}" target="_blank" rel="noopener noreferrer">
+                    ${item.title}
+                  </a>
+                </h2>
+                <p class="mb-3 text-sm text-slate-600">${item.summary || ""}</p>
+                <p class="mb-3 text-xs text-slate-500">
+                  ${item.source || "Unknown source"} • ${formatDate(item.published)}
+                </p>
+                <div class="flex flex-wrap gap-2">${keywords}</div>
+              </article>
+            `;
+          })
+          .join("");
+      };
+
+      fetch("./data.json")
+        .then((response) => response.json())
+        .then((data) => render(data))
+        .catch(() => {
+          document.getElementById("status").textContent =
+            "Unable to load data.json. Run the updater script or workflow.";
+        });
+    </script>
+  </body>
+</html>
