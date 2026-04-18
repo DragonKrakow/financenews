@@ -1,6 +1,6 @@
 # Finance News Dashboard
 
-A static GitHub Pages dashboard that aggregates finance/politics-relevant news from free RSS feeds, filters by market-impact keywords, and assigns lightweight sentiment labels (Bullish/Bearish/Neutral) using VADER.
+A static GitHub Pages dashboard that aggregates finance/politics-relevant news from free RSS feeds, filters by market-impact keywords, assigns lightweight sentiment labels (Bullish/Bearish/Neutral) using VADER, and generates educational trading-signal research prompts.
 
 ## Data pipeline
 
@@ -34,6 +34,16 @@ Then it writes root-level `data.json` with:
 - `sentiment_label`
 - `sentiment_score`
 
+It also reads root-level `watchlist.json` and writes `signals.json` with a rule-based, educational signal layer:
+
+- `ticker`
+- `signal`
+- `confidence`
+- `reasoning`
+- `suggested_research_action`
+- `top_related_headline`
+- `last_updated`
+
 ## Local setup and run
 
 From repo root (`/home/runner/work/financenews/financenews`):
@@ -64,7 +74,7 @@ Behavior:
 - Supports manual trigger (`workflow_dispatch`)
 - Installs Python dependencies (`feedparser`, `vaderSentiment`)
 - Runs `scripts/update_news.py`
-- Commits and pushes `data.json` only if it changed (using bot identity)
+- Commits and pushes `data.json` and `signals.json` if they changed (using bot identity)
 
 ## GitHub Pages
 
@@ -72,6 +82,8 @@ This repository is structured for simple Pages hosting from the repo root:
 
 - `index.html`
 - `data.json`
+- `signals.html`
+- `signals.json`
 
 In repository settings, set Pages source to:
 
@@ -80,4 +92,4 @@ In repository settings, set Pages source to:
 
 ## Disclaimer
 
-This project is for informational and educational purposes only and does **not** constitute financial advice, investment advice, or trading recommendations.
+This project is for informational and educational purposes only and does **not** constitute financial advice, investment advice, or trading recommendations. Any "signal" output is an educational research prompt, not personalized advice.

@@ -1,0 +1,110 @@
+[
+  {
+    "ticker": "SPY",
+    "signal": "Neutral",
+    "confidence": "Low",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "top_related_headline": {
+      "title": "No direct trigger in latest run",
+      "link": ""
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "QQQ",
+    "signal": "Neutral",
+    "confidence": "Low",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "top_related_headline": {
+      "title": "No direct trigger in latest run",
+      "link": ""
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "TLT",
+    "signal": "Neutral",
+    "confidence": "Low",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "top_related_headline": {
+      "title": "No direct trigger in latest run",
+      "link": ""
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "XLF",
+    "signal": "Neutral",
+    "confidence": "Low",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "top_related_headline": {
+      "title": "No direct trigger in latest run",
+      "link": ""
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "XLE",
+    "signal": "Bullish",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 13 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
+    "top_related_headline": {
+      "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+      "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "LMT",
+    "signal": "Bullish",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 13 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
+    "top_related_headline": {
+      "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+      "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "GLD",
+    "signal": "Neutral",
+    "confidence": "Low",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "top_related_headline": {
+      "title": "No direct trigger in latest run",
+      "link": ""
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "NVDA",
+    "signal": "Bearish",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
+    "top_related_headline": {
+      "title": "Tariff refunds are coming: Here’s who will get them first",
+      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  },
+  {
+    "ticker": "TSLA",
+    "signal": "Bearish",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
+    "top_related_headline": {
+      "title": "Tariff refunds are coming: Here’s who will get them first",
+      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
+    },
+    "last_updated": "2026-04-18T21:42:01.882842Z"
+  }
+]

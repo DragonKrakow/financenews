@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trading Signals | Finance News Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-slate-100 text-slate-900">
+    <main class="mx-auto max-w-6xl p-6 md:p-10">
+      <nav class="mb-6 flex items-center gap-2 text-sm">
+        <a class="rounded-md border border-slate-300 bg-white px-3 py-1.5 hover:bg-slate-50" href="./index.html">Raw News</a>
+        <a class="rounded-md border border-indigo-300 bg-indigo-50 px-3 py-1.5 font-semibold text-indigo-700" href="./signals.html"
+          >Trading Signals</a
+        >
+      </nav>
+
+      <header class="mb-8">
+        <h1 class="text-3xl font-bold md:text-4xl">Trading Signals (Research Prompts)</h1>
+        <p class="mt-2 text-slate-600">
+          Educational decision-support only. This page is not investment advice or a personalized recommendation.
+        </p>
+      </header>
+
+      <section id="status" class="mb-2 text-sm text-slate-500">Loading signals…</section>
+      <section id="last-updated" class="mb-6 text-sm text-slate-500"></section>
+      <section id="signals-grid" class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"></section>
+    </main>
+
+    <script>
+      const signalBadgeClasses = {
+        Bullish: "bg-emerald-100 text-emerald-800",
+        Bearish: "bg-rose-100 text-rose-800",
+        Neutral: "bg-slate-200 text-slate-700",
+      };
+
+      const confidenceClasses = {
+        High: "bg-violet-100 text-violet-800",
+        Medium: "bg-amber-100 text-amber-800",
+        Low: "bg-slate-200 text-slate-700",
+      };
+
+      const formatDate = (value) => {
+        if (!value) return "Unknown";
+        const date = new Date(value);
+        return Number.isNaN(date.valueOf()) ? value : date.toLocaleString();
+      };
+
+      const render = (signals) => {
+        const grid = document.getElementById("signals-grid");
+        const status = document.getElementById("status");
+        const updated = document.getElementById("last-updated");
+
+        if (!Array.isArray(signals) || signals.length === 0) {
+          status.textContent = "No signals available. Run the updater workflow.";
+          grid.innerHTML = "";
+          updated.textContent = "";
+          return;
+        }
+
+        status.textContent = `Showing ${signals.length} ticker signals`;
+        updated.textContent = `Last Updated: ${formatDate(signals[0].last_updated)}`;
+
+        grid.innerHTML = signals
+          .map((item) => {
+            const signalClass = signalBadgeClasses[item.signal] || signalBadgeClasses.Neutral;
+            const confidenceClass = confidenceClasses[item.confidence] || confidenceClasses.Low;
+            const headline = item.top_related_headline || {};
+
+            return `
+              <article class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+                <div class="mb-3 flex flex-wrap items-center gap-2">
+                  <span class="rounded-full px-2 py-1 text-xs font-semibold ${signalClass}">${item.ticker}: ${item.signal}</span>
+                  <span class="rounded-full px-2 py-1 text-xs font-semibold ${confidenceClass}">${item.confidence} confidence</span>
+                </div>
+                <p class="mb-3 text-sm text-slate-700">${item.reasoning || ""}</p>
+                <p class="mb-3 text-sm text-slate-600"><strong>Suggested research action:</strong> ${item.suggested_research_action || ""}</p>
+                <p class="text-sm text-slate-600">
+                  <strong>Top related headline:</strong>
+                  ${headline.link ? `<a class="text-indigo-700 hover:underline" href="${headline.link}" target="_blank" rel="noopener noreferrer">${headline.title || "Headline"}</a>` : headline.title || "No related headline"}
+                </p>
+              </article>
+            `;
+          })
+          .join("");
+      };
+
+      fetch("./signals.json")
+        .then((response) => response.json())
+        .then((data) => render(data))
+        .catch(() => {
+          document.getElementById("status").textContent =
+            "Unable to load signals.json. Run the updater script or workflow.";
+        });
+    </script>
+  </body>
+</html>

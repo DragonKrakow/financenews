@@ -1,0 +1,56 @@
+[
+  {
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "type": "ETF",
+    "tags": ["S&P 500", "US Equities", "Benchmark"]
+  },
+  {
+    "symbol": "QQQ",
+    "name": "Invesco QQQ Trust",
+    "type": "ETF",
+    "tags": ["Nasdaq", "Growth", "Technology"]
+  },
+  {
+    "symbol": "TLT",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "type": "ETF",
+    "tags": ["Bonds", "Rates", "Duration"]
+  },
+  {
+    "symbol": "XLF",
+    "name": "Financial Select Sector SPDR Fund",
+    "type": "ETF",
+    "tags": ["Financials", "Banks", "US Equities"]
+  },
+  {
+    "symbol": "XLE",
+    "name": "Energy Select Sector SPDR Fund",
+    "type": "ETF",
+    "tags": ["Energy", "Commodities", "Oil & Gas"]
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin Corporation",
+    "type": "Stock",
+    "tags": ["Defense", "Aerospace", "Geopolitics"]
+  },
+  {
+    "symbol": "GLD",
+    "name": "SPDR Gold Shares",
+    "type": "ETF",
+    "tags": ["Gold", "Precious Metals", "Risk-off"]
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "type": "Stock",
+    "tags": ["AI", "Semiconductors", "Growth"]
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "type": "Stock",
+    "tags": ["Consumer", "Automotive", "Trade Exposure"]
+  }
+]
