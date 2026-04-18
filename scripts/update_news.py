@@ -168,7 +168,7 @@ def generate_signals(news_items: list[dict], watchlist: list[dict]) -> list[dict
                     }
                 )
 
-    last_updated = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%fZ")
     generic_reasoning = (
         "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
     )
@@ -191,12 +191,15 @@ def generate_signals(news_items: list[dict], watchlist: list[dict]) -> list[dict
             continue
 
         signal_counts = Counter(match["signal"] for match in matches)
+        tie_reason = ""
         if signal_counts["Bullish"] > signal_counts["Bearish"]:
             signal = "Bullish"
         elif signal_counts["Bearish"] > signal_counts["Bullish"]:
             signal = "Bearish"
         else:
             signal = "Neutral"
+            if signal_counts["Bullish"] or signal_counts["Bearish"]:
+                tie_reason = " Mixed bullish and bearish triggers were balanced, so the net signal is Neutral."
 
         top_match = matches[0]["headline"]
         signals.append(
@@ -204,7 +207,7 @@ def generate_signals(news_items: list[dict], watchlist: list[dict]) -> list[dict
                 "ticker": ticker,
                 "signal": signal,
                 "confidence": confidence_from_count(len(matches)),
-                "reasoning": f"{matches[0]['reasoning']} Triggered by {len(matches)} related headline(s) from the latest news run. Educational use only.",
+                "reasoning": f"{matches[0]['reasoning']} Triggered by {len(matches)} related headline(s) from the latest news run.{tie_reason} Educational use only.",
                 "suggested_research_action": suggested_action_for_signal(signal),
                 "top_related_headline": top_match,
                 "last_updated": last_updated,
