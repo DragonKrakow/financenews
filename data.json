@@ -1,5 +1,25 @@
 [
   {
+    "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
+    "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-19T18:38:11+00:00",
+    "summary": "In a 2026 market that had Microsoft down close to 20%, looking for opportunities to buy after big drawdowns is coming to more tech and software stocks.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-19T16:57:00+00:00",
+    "summary": "The Iran war may or may not be nearing a conclusion. But as far as the stock market is concerned, it’s no longer been worth worrying about.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
+  },
+  {
     "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
     "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -14,7 +34,7 @@
     "link": "https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy",
     "source": "The Guardian Economics",
     "published": "2026-04-19T12:06:46+00:00",
-    "summary": "<p>HSBC, Barclays, Lloyds, NatWest and Santander will this week discuss with chancellor how to limit effects of conflict </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel\">Middle East crisis – live updates</a></p></li></ul><p>The bosses of Britain’s “big five” retail banks have been summoned to a meeting with the chancellor, Rachel Reeves, this week to discuss how to limit the economic impact of the crisis in the Middle East triggered by the US and Israel’s attacks on Iran.</p><p>The chief executives of HSBC, Barclays, Lloyds, NatWest and Santander have been asked to attend an emergency summit, amid increasing acceptance that a major economic hit from the Iran war is unavoidable.</p> <a href=\"https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy\">Continue reading...</a>",
+    "summary": "<p>HSBC, Barclays, Lloyds, NatWest and Santander will this week discuss with chancellor how to limit effects of conflict </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel\">Middle East crisis – live updates</a></p></li></ul><p>The bosses of Britain’s “big five” retail banks have been summoned to a meeting with the chancellor, Rachel Reeves, this week to discuss how to limit the economic impact of the crisis in the Middle East triggered by the US and Israel’s attacks on Iran.</p><p>The chief executives of HSBC, Barclays, Lloyds, NatWest and Santander have been asked to attend an emergency summit on Wednesday, amid increasing acceptance that a major economic hit from the Iran war is unavoidable.</p> <a href=\"https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9674
@@ -24,7 +44,7 @@
     "link": "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate",
     "source": "The Guardian Economics",
     "published": "2026-04-19T11:00:47+00:00",
-    "summary": "<p>Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability</p><p>Remember environmentalist Paul Ehrlich’s 1960s-vintage prediction about how overpopulation would deplete the Earth’s resources and condemn millions to starvation? His Malthusian condemnation of humanity’s voracious appetite has <a href=\"https://www.mdpi.com/2673-8392/5/2/45\">kept a grip on the debate</a> over the future of the planet, even scaring the young out of <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/jomf.12885\">having children</a>.</p><p>Ehrlich was wrong. Yet as we have come around to the thought that overpopulation won’t kill us all, we are being walloped by another demographic emergency: we are not having too many kids, we are having too few. This problem is real.</p> <a href=\"https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate\">Continue reading...</a>",
+    "summary": "<p>Americans having fewer kids plus an ageing population could be a recipe for disaster that further erodes social stability</p><p>Remember environmentalist Paul Ehrlich’s 1960s-vintage prediction about how overpopulation would deplete the Earth’s resources and condemn millions to starvation? His Malthusian condemnation of humanity’s voracious appetite has <a href=\"https://www.mdpi.com/2673-8392/5/2/45\">kept a grip on the debate</a> over the future of the planet, even scaring the young out of <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/jomf.12885\">having children</a>.</p><p>Ehrlich was wrong. Yet as we have come around to the thought that overpopulation won’t kill us all, we are being walloped by another demographic emergency: we are not having too many kids, we are having too few. This problem is real.</p> <a href=\"https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9877
@@ -128,16 +148,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5719
-  },
-  {
-    "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
-    "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T19:46:00+00:00",
-    "summary": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment.’",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1712
   },
   {
     "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
@@ -290,17 +300,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.34
-  },
-  {
-    "title": "Live Nation and Ticketmaster had monopoly over big venues, US jury finds",
-    "link": "https://www.theguardian.com/business/2026/apr/15/live-nation-ticketmaster-monopoly-ruling",
-    "source": "The Guardian Economics",
-    "published": "2026-04-15T20:19:59+00:00",
-    "summary": "<p>Verdict in states’ case says concert giant stifled competition in ticketing industry, raising pressure for changes</p><p>The concert giant Live Nation and its <a href=\"https://www.theguardian.com/business/ticketmaster\">Ticketmaster</a> subsidiary has a harmful monopoly over big concert venues, a Manhattan federal jury has found, dealing the company a loss in a lawsuit over claims brought by dozens of US states.</p><p>The jury deliberated for four days before reaching its decision on Wednesday in the closely watched case, which helped peel back the curtain on a business that dominates live entertainment across much of the world.</p> <a href=\"https://www.theguardian.com/business/2026/apr/15/live-nation-ticketmaster-monopoly-ruling\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
   }
 ]
