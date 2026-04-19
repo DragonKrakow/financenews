@@ -1,63 +1,105 @@
 [
   {
-    "title": "Mayor Mamdani’s $500 million war on the rich will force New York City’s top taxpayers to Florida",
+    "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
     "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T18:40:00+00:00",
-    "summary": "Proposed second-home tax on New York City luxury units is a gamble that the ultrawealthy won’t race for the exit.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Tariff refunds are coming: Here’s who will get them first",
-    "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T18:28:00+00:00",
-    "summary": "Tariff refunds have been in the works for about two months, following a Supreme Court decision.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "Nearly 90% of American adults are vulnerable because they are missing this key document",
-    "link": "https://www.marketwatch.com/story/nearly-90-of-american-adults-are-vulnerable-because-they-are-missing-this-key-document-62820176?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T17:15:00+00:00",
-    "summary": "Here’s why your family is likely to end up in court if something happens to you.",
+    "published": "2026-04-18T22:42:00+00:00",
+    "summary": "Surcharge on luxury units is a gamble that the ultrawealthy won’t leave for low-tax states.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.2263
   },
   {
-    "title": "I gave my friend’s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?",
-    "link": "https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories",
+    "title": "Planning to age in place? Watch out for these hidden costs.",
+    "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T17:12:00+00:00",
-    "summary": "“They cashed the check 10 days after the wedding.”",
+    "published": "2026-04-18T20:29:00+00:00",
+    "summary": "Most retirees want to stay in their homes as they age. It might not be worth it.",
     "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0226
+  },
+  {
+    "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
+    "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T20:29:00+00:00",
+    "summary": "Benefit limits could do a lot to solve Social Security’s fiscal problems, CRFB suggests. But check the fine print.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6522
+  },
+  {
+    "title": "Caregiving has become so crazy expensive that it’s financially devastating to most families",
+    "link": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T20:29:00+00:00",
+    "summary": "Only the wealthiest Americans can bear the costs of long-term care, new research found",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2538
+  },
+  {
+    "title": "2 expensive mistakes most retirees make — and how to avoid them",
+    "link": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T20:29:00+00:00",
+    "summary": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
+    "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T19:46:00+00:00",
+    "summary": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment.’",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1712
+  },
+  {
+    "title": "This is the defense sector’s fastest grower — and a $20 billion trade most investors are missing",
+    "link": "https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T19:44:00+00:00",
+    "summary": "‘Drone-killing’ technology is now a must-have for government agencies — from Washington to Riyadh.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2415
+  },
+  {
+    "title": "Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results",
+    "link": "https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T19:43:00+00:00",
+    "summary": "Implementing AI carries plenty of risks — most of which stem from its tremendous potential.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "This ‘hidden’ price of oil is going to hit your electric bill next",
+    "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T19:16:00+00:00",
+    "summary": "Investors are betting on peace — but they’re not looking at the whole picture.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3071
+  },
+  {
+    "title": "These stocks and ETFs can beat the ‘sell in May’ slump — and dodge the 2026 midterm blues",
+    "link": "https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-18T19:14:00+00:00",
+    "summary": "You don’t have to exit the market to survive a summer lull. Here’s your ‘stay and play’ strategy for the 2026 election cycle.",
+    "matched_keywords": [
+      "Election"
+    ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
-    "link": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T16:10:00+00:00",
-    "summary": "“I buy clothes at thrift stores.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "It’s ridiculously easy for kids to get hooked on gambling. Here’s how parents can help.",
-    "link": "https://www.marketwatch.com/story/its-ridiculously-easy-for-kids-to-get-hooked-on-online-gambling-heres-how-parents-can-help-a242ac1b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T15:32:00+00:00",
-    "summary": "The rise of sports-betting apps and prediction markets has turbocharged teen gambling on games — and parents often have no idea.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
@@ -70,26 +112,6 @@
     "sentiment_score": 0.4033
   },
   {
-    "title": "My friend’s girlfriend went ‘ballistic’ after learning he gives his kids $19,000 a year. Is this a red flag?",
-    "link": "https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T15:00:00+00:00",
-    "summary": "“He spent $1,000 on his girlfriend at Christmas and several hundred dollars on each of her children.”",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
-    "link": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T15:00:00+00:00",
-    "summary": "“My wife is not a fan of tying up $2 million of equity in one building.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3318
-  },
-  {
     "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
     "link": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
     "source": "CNBC Finance",
@@ -100,34 +122,11 @@
     "sentiment_score": 0.5574
   },
   {
-    "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
-    "link": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T14:00:00+00:00",
-    "summary": "“He built our home over the last three years. We are both on the title and carry no mortgage.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.",
-    "link": "https://www.marketwatch.com/story/trump-expects-his-fed-chair-nominee-to-cut-interest-rates-heres-how-kevin-warsh-might-try-to-do-it-f4cf11cd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T13:00:00+00:00",
-    "summary": "Warsh will be pressed on his outlook for rates at his Senate confirmation hearing Tuesday.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
     "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
     "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
     "source": "The Guardian Economics",
     "published": "2026-04-18T11:00:12+00:00",
-    "summary": "<p>Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakers</p><p>Sixteen bets made $100,000 accurately predicting the timing of the US airstrikes against Iran on 27 February. Later, a single user would make over $550,000 after betting that Ayatollah Ali Khamenei would topple, just moments before his assassination by Israeli forces. On 7 April, right before Donald Trump announced a temporary ceasefire with Iran, traders bet $950m that oil prices would come down. They did.</p><p>These bets and other well-timed wagers accurately predicted the precise timing of major developments in the US-Israel war with Iran, creating huge windfalls and raising concerns among lawmakers and experts over potential insider trading.</p> <a href=\"https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns\">Continue reading...</a>",
+    "summary": "<p>Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakers</p><p>Sixteen bets made $100,000 each accurately predicting the timing of the US airstrikes against Iran on 27 February. Later, a single user would make over $550,000 after betting that Ayatollah Ali Khamenei would topple, just moments before his assassination by Israeli forces. On 7 April, right before Donald Trump announced a temporary ceasefire with Iran, traders bet $950m that oil prices would come down. They did.</p><p>These bets and other well-timed wagers accurately predicted the precise timing of major developments in the US-Israel war with Iran, creating huge windfalls and raising concerns among lawmakers and experts over potential insider trading.</p> <a href=\"https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
