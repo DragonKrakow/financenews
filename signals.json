@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "XLF",
@@ -45,7 +45,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "XLE",
@@ -54,10 +54,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 13 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
-      "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
+      "title": "Bank bosses called to meeting with Reeves over impact of Iran war on UK economy",
+      "link": "https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy"
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "LMT",
@@ -66,10 +66,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 13 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
-      "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
+      "title": "Bank bosses called to meeting with Reeves over impact of Iran war on UK economy",
+      "link": "https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy"
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T07:23:01.119066Z"
+    "last_updated": "2026-04-19T13:05:51.080045Z"
   }
 ]
