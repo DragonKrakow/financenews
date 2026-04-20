@@ -1,5 +1,65 @@
 [
   {
+    "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
+    "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T02:01:00+00:00",
+    "summary": "After a three-week-long rally that’s brought the S&amp;P 500 to new record highs, investors are again bracing for uncertainty following a whirlwind of weekend developments concerning the war with Iran.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8271
+  },
+  {
+    "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
+    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-19T23:42:00+00:00",
+    "summary": "“Renting improves cash flow by about $1,300 a month.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
+    "link": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-19T23:41:00+00:00",
+    "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent.”",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
+    "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-19T21:19:57+00:00",
+    "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-19T20:41:00+00:00",
+    "summary": "The Iran war may or may not be nearing a conclusion. But as far as the stock market is concerned, it’s no longer been worth worrying about.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
+  },
+  {
+    "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
+    "link": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-19T20:13:00+00:00",
+    "summary": "A scientific report has raised questions about how much Leqimbi and Kisunla — the “breakthrough” Alzheimer’s drugs that have hit the market in the last few years — really help slow the disease.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.101
+  },
+  {
     "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
     "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
     "source": "CNBC Finance",
@@ -8,26 +68,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-19T16:57:00+00:00",
-    "summary": "The Iran war may or may not be nearing a conclusion. But as far as the stock market is concerned, it’s no longer been worth worrying about.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
-  },
-  {
-    "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
-    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-19T12:36:00+00:00",
-    "summary": "“Renting improves cash flow by about $1,300 a month.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
   },
   {
     "title": "Bank bosses called to meeting with Reeves over impact of Iran war on UK economy",
@@ -48,16 +88,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9877
-  },
-  {
-    "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
-    "link": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-19T11:00:00+00:00",
-    "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent.”",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
   },
   {
     "title": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit | Heather Stewart",
@@ -110,16 +140,6 @@
     "sentiment_score": -0.2263
   },
   {
-    "title": "Planning to age in place? Watch out for these hidden costs.",
-    "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T20:29:00+00:00",
-    "summary": "Most retirees want to stay in their homes as they age. It might not be worth it.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0226
-  },
-  {
     "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
     "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -138,16 +158,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2538
-  },
-  {
-    "title": "2 expensive mistakes most retirees make — and how to avoid them",
-    "link": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T20:29:00+00:00",
-    "summary": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
   },
   {
     "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
@@ -224,7 +234,7 @@
     "link": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
     "source": "The Guardian Economics",
     "published": "2026-04-17T00:19:33+00:00",
-    "summary": "<p>EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513</p><p><strong>The EU expects to start releasing a new €90bn loan to Ukraine in the second quarter, the bloc’s economy chief told AFP on Thursday.</strong> The EU’s economy commissioner, Valdis Dombrovskis, was speaking on the sidelines of the International Monetary Fund and World Bank’s spring meetings, which brought finance ministers, central bankers and other leaders to Washington. “Our support for Ukraine, also continued pressure and sanctions against aggressor Russia was very much part of the agenda,” Dombrovskis said. He warned that Moscow was “emerging as a winner from this war in Iran, because it provides windfall profits to feed Russia’s war machine”.</p><p><strong>Russia hammered civilian areas across Ukraine with drones and missiles on Thursday, <a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\">killing at least 17 people</a></strong><a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\"> </a>and wounding more than 100 others in the worst aerial attack in weeks, Ukrainian authorities said. Nearly 700 drones and dozens of ballistic and cruise missiles were used, as Ukrainian officials said vital stocks of advanced interceptors were running low.</p><p><strong>Donald Trump on Thursday condemned a massive Russian drone and missile attack across Ukraine that ripped</strong> through apartment buildings in the capital, Kyiv. Asked by reporters at the White House for his reaction to the barrage, Trump said: “I think it’s terrible.”</p><p><strong>It is not in the interest of the US that Russia is the winner of the Iran war, the German vice chancellor, Lars Klingbeil, said on Thursday in Washington.</strong> “It’s not in our interest and it cannot be in the interest of the United States,” he said in a joint statement with the finance ministers of Ukraine and Norway on the sidelines of the IMF spring meetings. Klingbeil said the Russian economy was growing thanks to the Middle East conflict and the country was profitting from the energy situation. As the conflict in the Middle East dominated the gathering of finance officials at the IMF in Washington, the ministers of Norway, Germany and Ukraine spoke about not forgetting to support Ukraine in its defence against Russia. “All the meetings here are about the question of what’s happening with the war in Iran, and I think it’s really important we show solidarity with our friends in Ukraine,” Klingbeil said.</p><p><strong>The heads of the EU and Nato on Thursday discussed efforts to bolster Europe’s arms production, as Donald Trump threw doubt on Washington’s commitment to the transatlantic alliance.</strong> “We need to invest more, to produce more and to do both faster,” the European Commission’s president, Ursula von der Leyen, posted online after meeting Nato’s chief, Mark Rutte. European nations are scrambling to bolster their militaries in the face of Russia’s war on Ukraine and pressure from Trump.</p> <a href=\"https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia\">Continue reading...</a>",
+    "summary": "<p>EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,514</p><p><strong>The EU expects to start releasing a new €90bn loan to Ukraine in the second quarter, the bloc’s economy chief told AFP on Thursday.</strong> The EU’s economy commissioner, Valdis Dombrovskis, was speaking on the sidelines of the International Monetary Fund and World Bank’s spring meetings, which brought finance ministers, central bankers and other leaders to Washington. “Our support for Ukraine, also continued pressure and sanctions against aggressor Russia was very much part of the agenda,” Dombrovskis said. He warned that Moscow was “emerging as a winner from this war in Iran, because it provides windfall profits to feed Russia’s war machine”.</p><p><strong>Russia hammered civilian areas across Ukraine with drones and missiles on Thursday, <a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\">killing at least 17 people</a></strong><a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\"> </a>and wounding more than 100 others in the worst aerial attack in weeks, Ukrainian authorities said. Nearly 700 drones and dozens of ballistic and cruise missiles were used, as Ukrainian officials said vital stocks of advanced interceptors were running low.</p><p><strong>Donald Trump on Thursday condemned a massive Russian drone and missile attack across Ukraine that ripped</strong> through apartment buildings in the capital, Kyiv. Asked by reporters at the White House for his reaction to the barrage, Trump said: “I think it’s terrible.”</p><p><strong>It is not in the interest of the US that Russia is the winner of the Iran war, the German vice chancellor, Lars Klingbeil, said on Thursday in Washington.</strong> “It’s not in our interest and it cannot be in the interest of the United States,” he said in a joint statement with the finance ministers of Ukraine and Norway on the sidelines of the IMF spring meetings. Klingbeil said the Russian economy was growing thanks to the Middle East conflict and the country was profitting from the energy situation. As the conflict in the Middle East dominated the gathering of finance officials at the IMF in Washington, the ministers of Norway, Germany and Ukraine spoke about not forgetting to support Ukraine in its defence against Russia. “All the meetings here are about the question of what’s happening with the war in Iran, and I think it’s really important we show solidarity with our friends in Ukraine,” Klingbeil said.</p><p><strong>The heads of the EU and Nato on Thursday discussed efforts to bolster Europe’s arms production, as Donald Trump threw doubt on Washington’s commitment to the transatlantic alliance.</strong> “We need to invest more, to produce more and to do both faster,” the European Commission’s president, Ursula von der Leyen, posted online after meeting Nato’s chief, Mark Rutte. European nations are scrambling to bolster their militaries in the face of Russia’s war on Ukraine and pressure from Trump.</p> <a href=\"https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9867
@@ -290,15 +300,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7506
-  },
-  {
-    "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: 'A fire is being lit under' them",
-    "link": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-15T21:31:54+00:00",
-    "summary": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
   }
 ]

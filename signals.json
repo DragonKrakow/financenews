@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 14 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories"
+      "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
+      "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 14 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories"
+      "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
+      "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-19T18:54:53.075671Z"
+    "last_updated": "2026-04-20T02:53:16.901119Z"
   }
 ]
