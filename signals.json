@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 16 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 17 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+      "title": "European stock markets fall and oil and gas prices jump 5% as strait of Hormuz ‘chaos’ worries investors – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 16 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 17 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+      "title": "European stock markets fall and oil and gas prices jump 5% as strait of Hormuz ‘chaos’ worries investors – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "NVDA",
-    "signal": "Bearish",
+    "signal": "Neutral",
     "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
-    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
     "top_related_headline": {
-      "title": "Tariff refunds are coming: Here’s who will get them first",
-      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
+      "title": "No direct trigger in latest run",
+      "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   },
   {
     "ticker": "TSLA",
-    "signal": "Bearish",
+    "signal": "Neutral",
     "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
-    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
     "top_related_headline": {
-      "title": "Tariff refunds are coming: Here’s who will get them first",
-      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
+      "title": "No direct trigger in latest run",
+      "link": ""
     },
-    "last_updated": "2026-04-20T08:11:52.199760Z"
+    "last_updated": "2026-04-20T13:47:11.688354Z"
   }
 ]
