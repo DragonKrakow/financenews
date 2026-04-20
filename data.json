@@ -1,13 +1,53 @@
 [
   {
+    "title": "The narrow foundations of the current rally — one company is responsible for half of S&P 500 earnings revisions",
+    "link": "https://www.marketwatch.com/story/the-narrow-foundations-of-the-current-rally-one-company-is-responsible-for-half-of-s-p-500-earnings-revisions-68aadd26?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T08:07:00+00:00",
+    "summary": "Talk about a narrow foundation: one company is responsible for half of the increase in S&amp;P 500 earnings expectations since the Iran war started.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+    "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-04-20T07:56:09+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks\">Tehran has ‘no plans to participate’ in new talks, state media reports, as it accuses US of violating ceasefire</a></p></li></ul><p>Energy producers are benefitting from the jump in the oil and gas price.</p><p><strong>BP</strong> (++2.7%) and <strong>Shell</strong> (_+2.4%) are leading the FTSE 100 risers.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "Tariff refunds are coming: Here’s who will get them first",
+    "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T06:48:00+00:00",
+    "summary": "Tariff refunds have been in the works for about two months, following a Supreme Court decision.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
     "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
     "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T02:01:00+00:00",
+    "published": "2026-04-20T05:58:00+00:00",
     "summary": "After a three-week-long rally that’s brought the S&amp;P 500 to new record highs, investors are again bracing for uncertainty following a whirlwind of weekend developments concerning the war with Iran.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8271
+  },
+  {
+    "title": "Quarter of a million people could lose job by middle of 2027 as UK ‘flirts with recession’, analysis says",
+    "link": "https://www.theguardian.com/business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-04-20T05:00:02+00:00",
+    "summary": "<p>Twin reports from top accounting firms underline scale of economic threat as Iran war shatters business confidence</p><p>A quarter of a million people could lose their jobs by the middle of next year as Britain “flirts with recession”, analysis suggests, after business confidence was shattered by the US-Israel war on Iran.</p><p>As the chancellor, <a href=\"https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy\">Rachel Reeves, summoned bank chiefs for talks aimed at containing the fallout</a>, twin reports from top accounting firms underlined the scale of the economic threat facing the UK.</p> <a href=\"https://www.theguardian.com/business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9531
   },
   {
     "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
@@ -130,7 +170,7 @@
     "sentiment_score": -0.1027
   },
   {
-    "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
+    "title": "New York City is floating a $500 million second-home tax. It would hurt industries that support thousands of jobs",
     "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-04-18T22:42:00+00:00",
@@ -138,26 +178,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
-    "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T20:29:00+00:00",
-    "summary": "Benefit limits could do a lot to solve Social Security’s fiscal problems, CRFB suggests. But check the fine print.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6522
-  },
-  {
-    "title": "Caregiving has become so crazy expensive that it’s financially devastating to most families",
-    "link": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-18T20:29:00+00:00",
-    "summary": "Only the wealthiest Americans can bear the costs of long-term care, new research found",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2538
   },
   {
     "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
@@ -280,25 +300,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3612
-  },
-  {
-    "title": "UK could face gaps on supermarket shelves by summer if Iran war continues",
-    "link": "https://www.theguardian.com/business/2026/apr/16/uk-possible-food-shortages-iran-war-co2",
-    "source": "The Guardian Economics",
-    "published": "2026-04-16T09:04:50+00:00",
-    "summary": "<p>Ministers drawing up contingency plans for ‘reasonable worst-case scenario’ if supply of CO<sub>2</sub> is disrupted</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK could face some gaps on supermarket shelves this summer if disruption caused by the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Iran war</a> continues, with shortages of carbon dioxide potentially hitting supplies of chicken, pork and fizzy drinks.</p><p>Government ministers are drawing up contingency plans for a “reasonable worst-case scenario” if the key shipping lane of the <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">strait of Hormuz</a> does not reopen, disrupting supplies of the CO<sub>2</sub> required by the food industry.</p> <a href=\"https://www.theguardian.com/business/2026/apr/16/uk-possible-food-shortages-iran-war-co2\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7906
-  },
-  {
-    "title": "UK economy showed surprise 0.5% growth before Iran war",
-    "link": "https://www.theguardian.com/business/2026/apr/16/uk-economy-in-surprise-05-growth-jump-before-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-04-16T07:33:12+00:00",
-    "summary": "<p>ONS figure for February suggests Britain was gaining momentum before conflict dashed hopes of recovery</p><p>UK GDP expanded by a stronger than expected 0.5% in February, official figures show, suggesting the economy was gaining momentum before the onset of war in the Middle East dashed hopes of recovery.</p><p>The jump, reported by the Office for National Statistics (ONS), was significantly bigger than the 0.1% forecast by economists. January’s flatlining figure was also revised up, to 0.1% growth.</p> <a href=\"https://www.theguardian.com/business/2026/apr/16/uk-economy-in-surprise-05-growth-jump-before-iran-war\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
   }
 ]

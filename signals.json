@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 16 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
-      "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories"
+      "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+      "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 16 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty",
-      "link": "https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories"
+      "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – business live",
+      "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "NVDA",
-    "signal": "Neutral",
+    "signal": "Bearish",
     "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Tariff refunds are coming: Here’s who will get them first",
+      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   },
   {
     "ticker": "TSLA",
-    "signal": "Neutral",
+    "signal": "Bearish",
     "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Tariff refunds are coming: Here’s who will get them first",
+      "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-20T02:53:16.901119Z"
+    "last_updated": "2026-04-20T08:11:52.199760Z"
   }
 ]
