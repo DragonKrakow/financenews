@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 17 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "European stock markets fall and oil and gas prices jump 5% as strait of Hormuz ‘chaos’ worries investors – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
+      "title": "Jersey Mike’s could be one of the biggest restaurant IPOs during a tough time for the sector",
+      "link": "https://www.marketwatch.com/story/jersey-mikes-has-picked-a-tough-time-for-restaurants-to-go-public-ab113893?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 17 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 15 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "European stock markets fall and oil and gas prices jump 5% as strait of Hormuz ‘chaos’ worries investors – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates"
+      "title": "Jersey Mike’s could be one of the biggest restaurant IPOs during a tough time for the sector",
+      "link": "https://www.marketwatch.com/story/jersey-mikes-has-picked-a-tough-time-for-restaurants-to-go-public-ab113893?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-20T13:47:11.688354Z"
+    "last_updated": "2026-04-20T19:08:59.316322Z"
   }
 ]
