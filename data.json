@@ -1,5 +1,37 @@
 [
   {
+    "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
+    "link": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-21T07:49:06+00:00",
+    "summary": "The banking giant is looking to invest in areas deemed critical to economic security, including defense and AI.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "The end of freedom of the seas: Why global shipping may never be the same",
+    "link": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-21T07:43:00+00:00",
+    "summary": "Freedom of maritime navigation has long been considered a staple feature of the post-war liberal order but all this is changing in the era of competing superpowers",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
+    "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-04-21T07:27:14+00:00",
+    "summary": "<p>Bank of England expected to keep interest rates on hold as Iran war casts shadow over labour market</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/21/wage-growth-level-unemployment-rate-falls-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK unexpectedly fell in the three months to February, according to official figures – but the fallout from the conflict in the Middle East is expected to cause a rise in job cuts.</p><p>The Office for National Statistics (ONS) said that the rate of unemployment was 4.9% in the three months to February, the lowest level since last summer. This compares with 5.2% in the three months to January, a rate that economists had expected to also see in February.</p> <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9052
+  },
+  {
     "title": "Do I earn too much to contribute to an IRA?",
     "link": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -88,16 +120,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6059
-  },
-  {
-    "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
-    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T21:19:00+00:00",
-    "summary": "“Renting improves cash flow by about $1,300 a month.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
   },
   {
     "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
@@ -282,25 +304,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6908
-  },
-  {
-    "title": "Cuts to overseas aid will worsen shocks to global economy, David Miliband says",
-    "link": "https://www.theguardian.com/politics/2026/apr/17/cuts-to-oversea-aid-worsen-shocks-global-economy-david-miliband-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-04-17T05:00:21+00:00",
-    "summary": "<p>Exclusive: Former UK foreign secretary says poor and rich countries alike will be hit amid humanitarian crisis sparked by Iran war</p><p>Cuts to overseas aid by countries including the US and the UK risk stoking global economic instability amid the humanitarian crisis resulting from the Iran war, <a href=\"https://www.theguardian.com/politics/davidmiliband\">David Miliband</a> has said.</p><p>The former British foreign secretary and head of the International Rescue Committee (IRC) said <a href=\"https://www.theguardian.com/global-development/2025/sep/23/death-by-aid-cuts-how-a-decision-in-the-us-led-to-the-loss-of-a-mother-in-yemen\">the US “abandoning” of its aid programme</a> under Donald Trump would worsen shocks to the global economy that would impact poor and wealthy countries alike.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/17/cuts-to-oversea-aid-worsen-shocks-global-economy-david-miliband-iran-war\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.975
-  },
-  {
-    "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-    "link": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-    "source": "The Guardian Economics",
-    "published": "2026-04-17T00:19:33+00:00",
-    "summary": "<p>EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,514</p><p><strong>The EU expects to start releasing a new €90bn loan to Ukraine in the second quarter, the bloc’s economy chief told AFP on Thursday.</strong> The EU’s economy commissioner, Valdis Dombrovskis, was speaking on the sidelines of the International Monetary Fund and World Bank’s spring meetings, which brought finance ministers, central bankers and other leaders to Washington. “Our support for Ukraine, also continued pressure and sanctions against aggressor Russia was very much part of the agenda,” Dombrovskis said. He warned that Moscow was “emerging as a winner from this war in Iran, because it provides windfall profits to feed Russia’s war machine”.</p><p><strong>Russia hammered civilian areas across Ukraine with drones and missiles on Thursday, <a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\">killing at least 17 people</a></strong><a href=\"https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy\"> </a>and wounding more than 100 others in the worst aerial attack in weeks, Ukrainian authorities said. Nearly 700 drones and dozens of ballistic and cruise missiles were used, as Ukrainian officials said vital stocks of advanced interceptors were running low.</p><p><strong>Donald Trump on Thursday condemned a massive Russian drone and missile attack across Ukraine that ripped</strong> through apartment buildings in the capital, Kyiv. Asked by reporters at the White House for his reaction to the barrage, Trump said: “I think it’s terrible.”</p><p><strong>It is not in the interest of the US that Russia is the winner of the Iran war, the German vice chancellor, Lars Klingbeil, said on Thursday in Washington.</strong> “It’s not in our interest and it cannot be in the interest of the United States,” he said in a joint statement with the finance ministers of Ukraine and Norway on the sidelines of the IMF spring meetings. Klingbeil said the Russian economy was growing thanks to the Middle East conflict and the country was profitting from the energy situation. As the conflict in the Middle East dominated the gathering of finance officials at the IMF in Washington, the ministers of Norway, Germany and Ukraine spoke about not forgetting to support Ukraine in its defence against Russia. “All the meetings here are about the question of what’s happening with the war in Iran, and I think it’s really important we show solidarity with our friends in Ukraine,” Klingbeil said.</p><p><strong>The heads of the EU and Nato on Thursday discussed efforts to bolster Europe’s arms production, as Donald Trump threw doubt on Washington’s commitment to the transatlantic alliance.</strong> “We need to invest more, to produce more and to do both faster,” the European Commission’s president, Ursula von der Leyen, posted online after meeting Nato’s chief, Mark Rutte. European nations are scrambling to bolster their militaries in the face of Russia’s war on Ukraine and pressure from Trump.</p> <a href=\"https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9867
   }
 ]
