@@ -1,29 +1,109 @@
 [
   {
-    "title": "Stock market’s rally to record highs faces these two looming risks",
-    "link": "https://www.marketwatch.com/story/stock-markets-rally-to-record-highs-faces-these-two-looming-risks-fe8d17ed?mod=mw_rss_topstories",
+    "title": "Do I earn too much to contribute to an IRA?",
+    "link": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T18:48:00+00:00",
-    "summary": "A touch-and-go situation in the Strait of Hormuz isn’t the only risk facing investors this week.",
+    "published": "2026-04-21T02:36:00+00:00",
+    "summary": "You may not be eligible — here are your options.",
     "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "Jersey Mike’s could be one of the biggest restaurant IPOs during a tough time for the sector",
-    "link": "https://www.marketwatch.com/story/jersey-mikes-has-picked-a-tough-time-for-restaurants-to-go-public-ab113893?mod=mw_rss_topstories",
+    "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+    "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T18:18:00+00:00",
-    "summary": "The sandwich shop has confidentially filed for an IPO, even as fast-food and sit-down chains are stuck in a discount war to win over inflation-fatigued consumers.",
+    "published": "2026-04-21T01:46:00+00:00",
+    "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
+    "sentiment_score": -0.7184
+  },
+  {
+    "title": "Okta’s stock is surging. Here’s why identity security has become the next hot thing.",
+    "link": "https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-21T01:22:00+00:00",
+    "summary": "Barclays turned bullish on Okta just days after Raymond James did, as customers are reinvigorating investment into identity security for the first time in years.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
+    "link": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-21T00:43:00+00:00",
+    "summary": "John Ternus is expected to usher in a renewed focus on hardware as Apple positions itself for the age of AI.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support",
+    "link": "https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-21T00:43:00+00:00",
+    "summary": "Amazon is investing another $5 billion in the maker of Claude.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+    "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T23:00:00+00:00",
+    "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer.",
+    "link": "https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T21:49:00+00:00",
+    "summary": "Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary of energy, were tumbling Monday after the surprise disclosure that its CEO was giving up that role. Some analysts say that could actually be good news.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9081
+  },
+  {
+    "title": "Why Cadence’s ‘ChatGPT moment’ may have already arrived",
+    "link": "https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T21:47:00+00:00",
+    "summary": "The rise of agentic AI tools should drive more demand for the company’s electronic design automation systems, an analyst says",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2006
+  },
+  {
+    "title": "AST SpaceMobile’s stock falls after failure of Jeff Bezos-backed satellite launch",
+    "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-falling-after-failure-of-jeff-bezos-backed-satellite-launch-a46cb653?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T21:47:00+00:00",
+    "summary": "Blue Origin successfully launched AST SpaceMobile’s satellite to orbit, but it was at the wrong altitude.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6059
+  },
+  {
+    "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
+    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-20T21:19:00+00:00",
+    "summary": "“Renting improves cash flow by about $1,300 a month.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
   },
   {
     "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
     "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
     "source": "CNBC Finance",
-    "published": "2026-04-20T17:36:27+00:00",
+    "published": "2026-04-20T20:01:02+00:00",
     "summary": "Blue Origin acknowledged the satellite was placed in the wrong orbit, but has not commented since it was deemed lost.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
@@ -40,38 +120,6 @@
     "sentiment_score": 0.5574
   },
   {
-    "title": "Kevin Warsh’s testimony to Congress is out early. He wants the Fed to ‘stay in its lane.’",
-    "link": "https://www.marketwatch.com/story/kevin-warshs-testimony-to-congress-is-out-early-he-wants-the-fed-to-stay-in-its-lane-d6249040?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T17:07:00+00:00",
-    "summary": "Kevin Warsh, President Trump’s nominee to chair the Federal Reserve, will tell Congress that he wants the central bank to “stay in its lane” and focus on its task of fighting inflation.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
-    "link": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T17:00:00+00:00",
-    "summary": "“I buy clothes at thrift stores.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-    "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T16:18:00+00:00",
-    "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
     "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates",
     "source": "The Guardian Economics",
@@ -82,66 +130,16 @@
     "sentiment_score": -0.7003
   },
   {
-    "title": "Why Cadence’s ‘ChatGPT moment’ may have already arrived",
-    "link": "https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T15:19:00+00:00",
-    "summary": "The rise of agentic AI tools should drive more demand for the company’s electronic design automation systems, an analyst says",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2006
-  },
-  {
-    "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
-    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T15:18:00+00:00",
-    "summary": "“Renting improves cash flow by about $1,300 a month.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-    "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T15:16:00+00:00",
-    "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
-  },
-  {
-    "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer.",
-    "link": "https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T15:11:00+00:00",
-    "summary": "Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary of energy, were tumbling Monday after the surprise disclosure that its CEO was giving up that role. Some analysts say that could actually be good news.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9081
-  },
-  {
     "title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
     "link": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
     "source": "The Guardian Economics",
     "published": "2026-04-20T15:00:59+00:00",
-    "summary": "<p>Vinegar, Tim Tams and baby rice are among the products to be scrutinised in the Australian Competition and Consumer Commission’s case</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The consumer watchdog is back in court and taking on Australia’s largest supermarket chain, alleging Woolworths deliberately misled shoppers with fake discounts.</p><p>The Australian Competition and Consumer Commission’s (ACCC) case against Woolworths begins in the federal court in Sydney on Tuesday, almost two months after hearings wrapped up in its <a href=\"https://www.theguardian.com/business/2026/feb/17/coles-discounts-accc-court-down-down-promotions\">very similar case against Coles</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia\">Continue reading...</a>",
+    "summary": "<p>Vinegar, Tim Tams and baby rice are among the products to be scrutinised in the Australian Competition and Consumer Commission’s case</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The consumer watchdog is back in court and taking on Australia’s largest supermarket chain, alleging Woolworths deliberately misled shoppers with fake discounts.</p><p>The Australian Competition and Consumer Commission’s (ACCC) case against Woolworths begins in the federal court in Sydney on Tuesday, almost two months after hearings wrapped up in its <a href=\"https://www.theguardian.com/business/2026/feb/17/coles-discounts-accc-court-down-down-promotions\">very similar case against Coles</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia\">Continue reading...</a>",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7622
-  },
-  {
-    "title": "I will retire in my early 50s. I have $3.2 million — only $200,000 is in a traditional IRA. Have I beaten the IRS?",
-    "link": "https://www.marketwatch.com/story/i-will-retire-in-my-early-50s-i-have-3-2-million-only-200-000-is-in-a-traditional-ira-have-i-beaten-the-irs-3ab5df98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-20T14:30:00+00:00",
-    "summary": "“Approximately $506,000 is in a Roth IRA.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
   },
   {
     "title": "Quarter of a million people could lose job by middle of 2027 as UK ‘flirts with recession’, analysis says",
