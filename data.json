@@ -1,33 +1,15 @@
 [
   {
-    "title": "UK inflation climbs to 3.3%, driven by largest increase in fuel prices in over three years – business live",
+    "title": "Middle East war ‘could wipe out 75% of chancellor’s budget headroom’; UK inflation climbs to 3.3% – business live",
     "link": "https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-04-22T07:51:10+00:00",
-    "summary": "<p>Oil prices fall on ceasefire extension but stay near $100 a barrel as strait of Hormuz remains closed</p><p>A further escalation in the Middle East conflict could have a severe impact on government borrowing, with analysis suggesting the scenario would eradicate three-quarters of Rachel Reeves’ fiscal headroom built up in the autumn budget.</p><p>The influential Resolution Foundation has found that a “severe but plausible scenario”, in which the conflict intensifies and delivers the largest hits to the economy, would result in government borrowing increasing by £16bn a year in 2029-30.</p><p>No-one knows which direction the current conflict in the Middle East will take but we do know that it will make us all poorer.</p><p>The cost of filling up the car has already increased and, from July, so too will energy bills.</p><p>The forecasts here are pure speculation. The impact of the conflict is, as the report’s authors say themselves, highly uncertain.</p><p>The report reinforces why we are right to focus on making the UK more resilient by securing greater energy security and improved public finances.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9098
-  },
-  {
-    "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
-    "link": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T07:36:00+00:00",
-    "summary": "Positive expectations  from the Trump-Xi summit in Beijing mid-May may  serve to underpin toppy equity markets in the near-term",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
-    "link": "https://www.theguardian.com/business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-04-22T06:01:44+00:00",
-    "summary": "<p>Annual March rate adds to pressure on household finances and follows warnings of slowdown to UK economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation accelerated to 3.3% in March after the Iran war triggered the biggest jump in fuel prices for more than three years.</p><p>In the first official snapshot of the damage to living standards in Britain from the US-Israeli war on Iran, the <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/march2026\">Office for National Statistics (ONS)</a> said the consumer prices index increased last month from a rate of 3% in February. The rise matched the forecasts by City economists.</p> <a href=\"https://www.theguardian.com/business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9531
+    "published": "2026-04-22T13:18:42+00:00",
+    "summary": "<p>Oil prices rise again closer to $100 a barrel as strait of Hormuz remains closed; EU energy commissioner warns energy crisis could last months or years even if there is peace</p><p>Here’s more reaction to the rise in UK inflation to 3.3%.</p><p><strong>Sharon Graham</strong>, general secretary of the Unite union, said:</p><p>Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak.</p><p>Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills.</p><p>Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat.</p><p>But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0905
   },
   {
     "title": "Democrats celebrate as Virginia voters approve new congressional maps that could flip House seats in their favor – as it happened",
@@ -42,106 +24,6 @@
     "sentiment_score": 0.8156
   },
   {
-    "title": "Prices for World Cup public transportation range from free to $150. Here’s what’s going on.",
-    "link": "https://www.marketwatch.com/story/prices-for-world-cup-public-transportation-range-from-free-to-150-heres-whats-going-on-4e379437?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T01:28:00+00:00",
-    "summary": "In one instance, train fares are being inflated from $26 to $150.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "What is Cursor? SpaceX could buy the AI company for a whopping $60 billion.",
-    "link": "https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T00:01:00+00:00",
-    "summary": "Anthropic and OpenAI have emphasized AI coding tools, and now SpaceX is looking to bulk up its efforts in this buzzy area.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Takeaway coffee sales plunge as fuel and living costs dent Australian spending. Is the economy next?",
-    "link": "https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-04-22T00:00:03+00:00",
-    "summary": "<p>The trend has been accelerated by the US-Israel war on Iran, leaving households – and cafe owners – glum, surveys suggest</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>For many coffee drinkers, takeaway orders are changing from a habitual purchase to an occasional treat, as elevated petrol prices and other living costs leave households feeling glum.</p><p>This rapid shift in behaviour has disappointed cafe owners and surprised economists, raising an uneasy question: if takeaway coffee sales are falling, is the economy next?</p> <a href=\"https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8922
-  },
-  {
-    "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
-    "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T23:16:00+00:00",
-    "summary": "“I am getting hit with IRMAA in two years.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7845
-  },
-  {
-    "title": "Trump Media CEO Devin Nunes is leaving. This digital-media veteran will take his place.",
-    "link": "https://www.marketwatch.com/story/trump-media-ceo-devin-nunes-is-leaving-this-digital-media-veteran-will-take-his-place-ce2aed2e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T23:14:00+00:00",
-    "summary": "Kevin McGurn, Trump Media’s interim CEO, has been an adviser to the company since December 2024.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Trump administration discussing currency swap line with United Arab Emirates",
-    "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-21T22:09:55+00:00",
-    "summary": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Airlines cut flights as fuel costs surge — an economic fallout from the Iran war that markets may be missing",
-    "link": "https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T22:04:00+00:00",
-    "summary": "For travelers, the disappearing flights are translating into fewer route and connecting options, and of course higher fare prices.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
-  },
-  {
-    "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-    "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T21:56:00+00:00",
-    "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
-  },
-  {
-    "title": "What Apple investors need to know about the next steps for the company and its new CEO",
-    "link": "https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T21:28:00+00:00",
-    "summary": "Tim Cook built a $4 trillion powerhouse. Now John Ternus must fix Apple’s glaring AI gap.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026",
-    "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T21:17:00+00:00",
-    "summary": "Money is flooding into AI. Defense, healthcare and agentics are the big winners, writes Mark Minevich.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
     "title": "Trump’s Fed chair pick says he’ll maintain independence – but won’t say president lost 2020 election",
     "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
     "source": "The Guardian Economics",
@@ -153,46 +35,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9079
-  },
-  {
-    "title": "The meme-stock frenzy is a warning — these 7 high-quality stocks are better bets",
-    "link": "https://www.marketwatch.com/story/from-allbirds-to-ai-the-meme-stock-frenzy-is-warning-you-to-own-this-quality-antimeme-portfolio-instead-6714bb16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-21T21:10:00+00:00",
-    "summary": "Dividend-paying winners are likely to outperform a meme-themed ETF.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "The Guardian view on the true cost of the Iran war: bombs kill – but so does the economic fallout | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/apr/21/the-guardian-view-on-the-true-cost-of-the-iran-war-bombs-kill-but-so-does-the-economic-fallout",
-    "source": "The Guardian Economics",
-    "published": "2026-04-21T18:40:35+00:00",
-    "summary": "<p>There is growing international concern as the fragile two-week ceasefire reaches its Wednesday deadline. Whatever happens next, the poor will pay</p><p>More than 3,300 Iranians, including 383 children, have been killed since the US and Israel launched their illegal war, authorities said this week. Asked about Wednesday’s ceasefire deadline, Donald Trump first <a href=\"https://www.theguardian.com/world/2026/apr/21/trump-resume-bombing-iran-ceasefire\">said</a> that he expected to resume bombing, then unilaterally announced that he was extending the truce “until discussions are concluded”. Whatever happens – or doesn’t – with the US-Iranian peace talks due to take place in Islamabad, the costs of this disastrous conflict will keep growing. The only thing that the sides have in common is that each needs peace, but thinks that it can&nbsp;force the other into significant concessions.</p><p>Iran has deployed its drones and missiles to punishing effect, but knows that its chief weapon is the economic pain it can inflict, primarily through control of the strait of Hormuz. The International Monetary Fund <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">warned</a> last week that a further escalation could trigger a global recession. Its head, Kristalina Georgieva, had already said that the crisis <a href=\"https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06?syn-25a6b1a6=1\">would remain a threat</a> to the global economy even if it ended overnight. The costs <a href=\"https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html\">mount over time</a>. But while the pain is widely spread, it is far from evenly shared. The combination of higher energy, food and fertiliser costs will increasingly hammer poorer and heavily import-reliant nations.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/apr/21/the-guardian-view-on-the-true-cost-of-the-iran-war-bombs-kill-but-so-does-the-economic-fallout\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9914
-  },
-  {
-    "title": "Carney names broad team to advise on tense US-Canada trade talks",
-    "link": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
-    "source": "The Guardian Economics",
-    "published": "2026-04-21T16:15:39+00:00",
-    "summary": "<p>Conservatives and former provincial premiers among those PM names to advisory committee on economic relations</p><p>Canada’s prime minister, <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carney</a>, says his <a href=\"https://www.pm.gc.ca/en/news/news-releases/2026/04/21/prime-minister-carney-announces-new-advisory-committee-canada-us\">new advisory committee on economic relations</a> with the United States will draw on the “best advice and the broadest perspectives” as the country braces for what many expect will be tense trade negotiations with its southern neighbour.</p><p>The 24-member advisory committee, announced on Tuesday, shows the prime minister’s eagerness to reach across the political spectrum to ensure Canada is “well positioned to advance its interests” at the looming trade talks.</p> <a href=\"https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
-    "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-21T13:36:21+00:00",
-    "summary": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
@@ -232,56 +74,6 @@
     "sentiment_score": -0.3634
   },
   {
-    "title": "UK jobs market was in a fragile state – even before Iran war threatened recovery",
-    "link": "https://www.theguardian.com/business/2026/apr/21/uk-jobs-market-iran-war-unemployment-wage-growth-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-04-21T08:06:37+00:00",
-    "summary": "<p>Despite surprise fall in unemployment, weak wage growth and inflation pressures put the squeeze on workers</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates\">UK unemployment shows surprise fall to 4.9%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/21/wage-growth-level-unemployment-rate-falls-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Despite a <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates\">surprise fall in the unemployment rate</a>, the latest jobs data show the labour market in a fragile state, even before the Iran war threatened to derail the UK’s nascent economic recovery.</p><p>At 4.9% in the three months to February, the unemployment rate was down from 5.2% in the previous three months, according to the Office for National Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-jobs-market-iran-war-unemployment-wage-growth-inflation\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9776
-  },
-  {
-    "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
-    "link": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-21T07:49:06+00:00",
-    "summary": "The banking giant is looking to invest in areas deemed critical to economic security, including defense and AI.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
-    "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-20T20:01:02+00:00",
-    "summary": "Blue Origin acknowledged the satellite was placed in the wrong orbit, but has not commented since it was deemed lost.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
-  },
-  {
-    "title": "Lord Skidelsky obituary",
-    "link": "https://www.theguardian.com/books/2026/apr/20/robert-skidelsky-obituary",
-    "source": "The Guardian Economics",
-    "published": "2026-04-20T17:11:11+00:00",
-    "summary": "<p>Economic historian and politician who was a leading authority on the life and work of John Maynard Keynes</p><p>In the summer of 2008, Robert Skidelsky, who has died aged 86, thought he was done with <a href=\"https://www.theguardian.com/business/john-maynard-keynes\">John Maynard Keynes</a>. Having devoted two decades to writing his <a href=\"https://robertskidelsky.com/2003/11/23/essay-confessions-of-a-long-distance-biographer/\">biography of the foremost British economist of the 20th century</a>, he was turning his attention to other interests.</p><p>For Skidelsky, completing the three volumes had been a labour of love. He had moved into Keynes’s Sussex home so that he would pick up the right vibes, configuring the study so that it looked as it had in the 1930s. He wrote at the same desk that Keynes had used.</p> <a href=\"https://www.theguardian.com/books/2026/apr/20/robert-skidelsky-obituary\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "European stock markets fall and oil and gas prices jump as strait of Hormuz ‘chaos’ worries investors – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-20T15:44:01+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks\">Tehran has ‘no plans to participate’ in new talks, state media reports, as it accuses US of violating ceasefire</a></p></li></ul><p>Energy producers are benefitting from the jump in the oil and gas price.</p><p><strong>BP</strong> (+2.7%) and <strong>Shell</strong> (+2.4%) are leading the FTSE 100 risers.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/20/oil-price-stock-markets-us-iran-ceasefire-strait-of-hormuz-open-closed-live-updates\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
     "title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
     "link": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
     "source": "The Guardian Economics",
@@ -294,16 +86,6 @@
     "sentiment_score": -0.7622
   },
   {
-    "title": "Quarter of a million people could lose job by middle of 2027 as UK ‘flirts with recession’, analysis says",
-    "link": "https://www.theguardian.com/business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-04-20T11:13:54+00:00",
-    "summary": "<p>Twin reports from top accounting firms underline scale of economic threat as Iran war shatters business confidence</p><p>A quarter of a million people could lose their jobs by the middle of next year as Britain “flirts with recession”, analysis suggests, after business confidence was shattered by the US-Israel war on Iran.</p><p>As the chancellor, Rachel Reeves, <a href=\"https://www.theguardian.com/business/2026/apr/19/bank-bosses-meeting-rachel-reeves-impact-iran-war-uk-economy\">summoned bank chiefs for talks aimed at containing the fallout</a>, twin reports from top accounting firms underlined the scale of the economic threat facing the UK.</p> <a href=\"https://www.theguardian.com/business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9531
-  },
-  {
     "title": "Millions of Australians will get a $1,000 instant tax deduction under a new law – here’s how it will work",
     "link": "https://www.theguardian.com/australia-news/2026/apr/20/1000-instant-tax-deduction-explained-australia-new-law",
     "source": "The Guardian Economics",
@@ -314,5 +96,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2168
+  },
+  {
+    "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+    "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-14T16:03:43+00:00",
+    "summary": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7876
+  },
+  {
+    "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+    "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-08T18:26:37+00:00",
+    "summary": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4318
   }
 ]

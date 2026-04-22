@@ -9,31 +9,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "QQQ",
-    "signal": "Neutral",
-    "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "signal": "Bullish",
+    "confidence": "Medium",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "TLT",
-    "signal": "Neutral",
-    "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "signal": "Bullish",
+    "confidence": "Medium",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
-      "link": "https://www.theguardian.com/business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war"
+      "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
+      "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
-      "link": "https://www.theguardian.com/business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war"
+      "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
+      "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
       "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
       "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-22T07:52:04.537716Z"
+    "last_updated": "2026-04-22T13:46:28.195404Z"
   }
 ]
