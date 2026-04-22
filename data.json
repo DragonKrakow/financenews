@@ -1,10 +1,22 @@
 [
   {
-    "title": "Middle East war ‘could wipe out 75% of chancellor’s budget headroom’; UK inflation climbs to 3.3% – business live",
+    "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
+    "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-22T18:27:00+00:00",
+    "summary": "It wasn’t all smooth sailing this week as the federal government started the process of accepting claims for massive amounts of tariff refunds.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "Middle East war ‘could wipe out 75% of chancellor’s budget headroom’; UK inflation climbs to 3.3% – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-04-22T13:18:42+00:00",
-    "summary": "<p>Oil prices rise again closer to $100 a barrel as strait of Hormuz remains closed; EU energy commissioner warns energy crisis could last months or years even if there is peace</p><p>Here’s more reaction to the rise in UK inflation to 3.3%.</p><p><strong>Sharon Graham</strong>, general secretary of the Unite union, said:</p><p>Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak.</p><p>Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills.</p><p>Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat.</p><p>But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Continue reading...</a>",
+    "published": "2026-04-22T14:19:05+00:00",
+    "summary": "<p>Oil prices rise again above $100 a barrel as strait of Hormuz remains closed; EU energy commissioner warns energy crisis could last months or years even if there is peace</p><p>Here’s more reaction to the rise in UK inflation to 3.3%.</p><p><strong>Sharon Graham</strong>, general secretary of the Unite union, said:</p><p>Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak.</p><p>Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills.</p><p>Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat.</p><p>But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates"
     ],
@@ -109,17 +121,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7876
-  },
-  {
-    "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-    "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-08T18:26:37+00:00",
-    "summary": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4318
   }
 ]

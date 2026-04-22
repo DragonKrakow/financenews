@@ -9,31 +9,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "QQQ",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
       "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
       "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "TLT",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
       "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
       "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
       "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
       "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
       "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
       "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
+      "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
+      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
+      "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
+      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-22T13:46:28.195404Z"
+    "last_updated": "2026-04-22T19:17:14.093237Z"
   }
 ]
