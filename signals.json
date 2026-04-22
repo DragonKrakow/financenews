@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump"
+      "title": "Takeaway coffee sales plunge as fuel and living costs dent Australian spending. Is the economy next?",
+      "link": "https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs"
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump"
+      "title": "Takeaway coffee sales plunge as fuel and living costs dent Australian spending. Is the economy next?",
+      "link": "https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs"
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
       "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
       "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-21T19:16:05.737703Z"
+    "last_updated": "2026-04-22T02:44:26.059032Z"
   }
 ]
