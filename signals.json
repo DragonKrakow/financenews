@@ -9,31 +9,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "QQQ",
-    "signal": "Bullish",
+    "signal": "Neutral",
     "confidence": "Low",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
-    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
     "top_related_headline": {
-      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
-      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
+      "title": "No direct trigger in latest run",
+      "link": ""
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "TLT",
-    "signal": "Bullish",
+    "signal": "Neutral",
     "confidence": "Low",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
-    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
+    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
+    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
     "top_related_headline": {
-      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
-      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
+      "title": "No direct trigger in latest run",
+      "link": ""
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 9 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
-      "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
+      "title": "POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.",
+      "link": "https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 9 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
-      "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates"
+      "title": "POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.",
+      "link": "https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
-      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories"
+      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
+      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
-      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories"
+      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
+      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
     },
-    "last_updated": "2026-04-22T19:17:14.093237Z"
+    "last_updated": "2026-04-23T02:48:09.138361Z"
   }
 ]
