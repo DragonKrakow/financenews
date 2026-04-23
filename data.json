@@ -1,103 +1,133 @@
 [
   {
-    "title": "UK borrowing to be pushed up by Iran war after dropping last year; oil and gas prices rising – business live",
+    "title": "UK consumer confidence falls as consumers get ‘the jitters’; BP’s new chair suffers investor revolt – business live",
     "link": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
     "source": "The Guardian Economics",
-    "published": "2026-04-23T07:54:15+00:00",
-    "summary": "<p>UK borrowing fell to six-year low in the last year, on a debt/GDP ratio, but economists warn Middle East conflict will push it up again</p><p><strong>Sheena McGuinness, </strong>co-head of energy and natural resources at<strong> RSM UK, </strong>says the drop in UK fuel duty revenues last month is part of the longer-term shift to electric vehicles, adding:</p><p>“With the ongoing conflict in Iran causing concerns over fuel shortages and spiking prices, the downtick may also be driven by consumers beginning to limit their vehicle usage to necessary journeys.”</p><p>While representing only a fraction of government revenue, the drop in fuel duty in response to higher prices for petrol and diesel could be an early warning sign of how the war might weaken activity across the economy and hit overall tax revenues.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates\">Continue reading...</a>",
+    "published": "2026-04-23T13:44:29+00:00",
+    "summary": "<p>Service providers report sharpest acceleration in service sector cost inflation in 30 years, largely due to higher fuel prices</p><p><strong>Economic output across the eurozone has fallen for first time in 16 months, as the Iran war drove up prices.</strong></p><p>Data provider S&amp;P Global has reported that the eurozone private sector dipped into contraction in April, pulled down by a contraction in the services sector.</p><p>“With the ongoing conflict in Iran causing concerns over fuel shortages and spiking prices, the downtick may also be driven by consumers beginning to limit their vehicle usage to necessary journeys.”</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9718
+    "sentiment_score": -0.8442
+  },
+  {
+    "title": "Analysts try to quell market panic after Taiwan Semiconductor said ASML charges too much",
+    "link": "https://www.marketwatch.com/story/analysts-try-to-quell-the-panic-after-taiwan-semiconductor-said-a-high-end-asml-machine-was-too-expensive-e6e43f6e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T13:40:00+00:00",
+    "summary": "There aren’t many customers for ASML’s multi-million-dollar machines, and one of them just drew a line in the sand.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "A historic rally for the S&P 500 is just getting started, says Wall Street veteran who called the April 2025 bottom",
+    "link": "https://www.marketwatch.com/story/a-historic-rally-for-the-s-p-500-is-just-getting-started-says-wall-street-veteran-who-called-the-april-2025-bottom-276aff87?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T13:39:00+00:00",
+    "summary": "Milton Berg offers plenty of reasons why the stock market continues to build on the bottom it saw a year ago.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Memory-chip maker triples revenue and says demand to outstrip supply for at least three more years",
+    "link": "https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T13:35:00+00:00",
+    "summary": "Having rallied 88% so far in 2026, even a record-breaking set of first-quarter numbers from SK Hynix struggled to impress traders.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "QuantumScape’s stock is soaring. Here’s what may be driving the extreme rally.",
+    "link": "https://www.marketwatch.com/story/quantumscapes-stock-is-soaring-heres-what-may-be-driving-the-extreme-rally-a294d3a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T13:31:00+00:00",
+    "summary": "Shares of the battery-technology company are heavily shorted, and the company just signaled flashes of business momentum.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3566
+  },
+  {
+    "title": "I’m a 31-year-old architect ready to leave Austin. Does moving to San Francisco or NYC make the most financial sense for me?",
+    "link": "https://www.marketwatch.com/story/im-a-31-year-old-architect-ready-to-leave-austin-does-moving-to-san-francisco-or-nyc-make-the-most-financial-sense-for-me-1adc2544?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T13:12:00+00:00",
+    "summary": "“I’d be moving with my dog, Teddy, and am able to work remotely.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
   },
   {
     "title": "UK undershoots annual borrowing target by £700m",
     "link": "https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target",
     "source": "The Guardian Economics",
-    "published": "2026-04-23T07:37:58+00:00",
-    "summary": "<p>But Iran war likely to blow hole in Rachel Reeves’s carefully crafted fiscal ‘headroom’ in coming months</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates\">Business live – latest updates</a></p></li></ul><p>The UK government budget came in below its annual borrowing target by £700m, official figures show – but the Iran war is likely to blow a hole in Rachel Reeves’s carefully calculated fiscal “headroom” over the coming months.</p><p>The government borrowed a net total of £132bn for the financial year ending in March, the Office for National Statistics (ONS) said. This slightly undershot<strong> </strong>the £132.7bn that the Office for Budget Responsibility (OBR) had forecast just last month.</p> <a href=\"https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target\">Continue reading...</a>",
+    "published": "2026-04-23T13:11:11+00:00",
+    "summary": "<p>Figure hits three-year low but Iran war expected to blow hole in Reeves’s fiscal ‘headroom’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates\">Business live – latest updates</a></p></li></ul><p>The UK government budget came in below its annual borrowing target by £700m, official figures show – but the Iran war is likely to blow a hole in Rachel Reeves’s carefully calculated fiscal “headroom” over the coming months.</p><p>The government borrowed a net total of £132bn for the financial year ending in March, the Office for National Statistics (ONS) said. This slightly undershot<strong> </strong>the £132.7bn that the Office for Budget Responsibility (OBR) had forecast just last month.</p> <a href=\"https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
-  },
-  {
-    "title": "City firms bank on ‘savvy squirrel’ advertising campaign to push Brits towards investing",
-    "link": "https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business",
-    "source": "The Guardian Economics",
-    "published": "2026-04-23T07:36:32+00:00",
-    "summary": "<p>The campaign is part of government initiative to boost financial risk taking, amid fears UK growth is being stymied</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/apr/23/yes-retail-investment-needs-a-boost-but-savvy-squirrel-looks-too-tame\">Nils Pratley: the ‘Savvy Squirrel looks a hit too tame’</a></p></li></ul><p></p><p>City firms are pinning their hopes on a government-endorsed advertising blitz fronted by a finance “savvy” CGI squirrel to encourage cautious British savers to shift out of cash and start investing.</p><p>The long-awaited retail investment campaign, which will cost up to £50m, is part of the chancellor Rachel Reeves’ nationwide push to encourage more financial risk taking, amid fears risk-averse consumers are losing out and ultimately stymying UK growth.</p> <a href=\"https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3862
-  },
-  {
-    "title": "FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow",
-    "link": "https://www.marketwatch.com/story/ficos-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T01:43:00+00:00",
-    "summary": "The government-backed entities are embracing a rival type of credit score.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_score": -0.91
   },
   {
     "title": "Why ServiceNow’s stock is sliding in the wake of earnings",
     "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T00:23:00+00:00",
+    "published": "2026-04-23T12:42:00+00:00",
     "summary": "Investors may be taking issue with various elements of the software company’s margin forecast.",
     "matched_keywords": [],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
   },
   {
-    "title": "IBM’s stock falls as software revenue underwhelms",
-    "link": "https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories",
+    "title": "American Airlines sees fuel prices rising 45% this quarter, but travel demand keeps growing",
+    "link": "https://www.marketwatch.com/story/american-airlines-reports-record-revenue-as-strong-travel-demand-offsets-higher-fuel-costs-d0b89973?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T00:22:00+00:00",
-    "summary": "Investors have been concerned about AI’s impact on IBM’s software and consulting businesses.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Lululemon is getting a Nike veteran as its new CEO. An analyst says that could be a problem.",
-    "link": "https://www.marketwatch.com/story/lululemon-is-getting-a-nike-veteran-as-its-new-ceo-an-analyst-says-that-could-be-a-problem-500004d1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T00:20:00+00:00",
-    "summary": "Yoga-wear maker Lululemon on Wednesday said its board had approved Nike veteran Heidi O’Neill as its new CEO. But analysts said it was too early to tell if that was the right call, and said questions about Nike’s current struggles could spill over into her new job.",
+    "published": "2026-04-23T12:38:00+00:00",
+    "summary": "It’s a precarious time for the airline sector, as a surge in fuel costs due to the Iran conflict is forcing carriers to cut capacity.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
+    "sentiment_score": -0.6486
   },
   {
-    "title": "CSX says more businesses are shipping via rail to avoid surging fuel costs",
-    "link": "https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories",
+    "title": "Energy stocks are trouncing the rest of the stock market in 2026. Why the Iran war could erode those gains from here.",
+    "link": "https://www.marketwatch.com/story/energy-stocks-are-trouncing-the-rest-of-the-stock-market-in-2026-why-the-iran-war-could-erode-those-gains-from-here-5feb3f46?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T00:18:00+00:00",
-    "summary": "Shares of CSX jumped after hours on Wednesday after the railroad giant raised its sales outlook for the year, as more businesses choose rail to save on fuel costs in the wake of the Iran war.",
+    "published": "2026-04-23T12:35:00+00:00",
+    "summary": "Rising oil prices are putting wind in the sails of oil and gas companies — but only for so long. They are reaching levels now that could start to bite into energy firms’ bottom lines.",
     "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5647
   },
   {
-    "title": "POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.",
-    "link": "https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories",
+    "title": "Why it’s the luckiest U.S. stock market in history, according to one strategist",
+    "link": "https://www.marketwatch.com/story/why-its-the-luckiest-u-s-stock-market-in-history-according-to-one-strategist-4a351ca7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T23:58:00+00:00",
-    "summary": "The photonics company’s stock has run up more than 70% this week on speculation of a major hyperscaler partner, even as short sellers warn of a “tax nightmare.”",
+    "published": "2026-04-23T12:23:00+00:00",
+    "summary": "Financial conditions are easy and the AI boom is driving the economy forward, despite war, tariffs and other headwinds, says this strategist",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8734
+  },
+  {
+    "title": "Avis’s stock has its worst day in 28 years, and what that means for its parabolic rally",
+    "link": "https://www.marketwatch.com/story/aviss-stock-has-its-worst-day-in-28-years-and-what-that-means-for-its-parabolic-rally-e19ad2de?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T12:07:00+00:00",
+    "summary": "Avis Budget’s stock chart just sent some bearish signals to suggest a hard landing is in the works.",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_score": -0.6705
   },
   {
-    "title": "3 tests Apple’s new CEO must pass to prove he can grow the company in ways Tim Cook never did",
-    "link": "https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T22:48:00+00:00",
-    "summary": "Apple’s future rests on this massive pivot.",
+    "title": "City firms bank on ‘Savvy Squirrel’ advertising campaign to push Britons towards investing",
+    "link": "https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business",
+    "source": "The Guardian Economics",
+    "published": "2026-04-23T07:36:32+00:00",
+    "summary": "<p>The campaign is part of government initiative to boost financial risk taking, amid fears UK growth is being stymied</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/apr/23/yes-retail-investment-needs-a-boost-but-savvy-squirrel-looks-too-tame\">Nils Pratley: the ‘Savvy Squirrel looks a bit too tame’</a></p></li></ul><p></p><p>City firms are pinning their hopes on a government-endorsed advertising blitz fronted by a finance “savvy” CGI squirrel to encourage cautious British savers to shift out of cash and start investing.</p><p>The long-awaited retail investment campaign, which will cost up to £50m, is part of the chancellor Rachel Reeves’ nationwide push to encourage more financial risk taking, amid fears risk-averse consumers are losing out and ultimately stymying UK growth.</p> <a href=\"https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business\">Continue reading...</a>",
     "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3862
   },
   {
     "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
@@ -108,36 +138,6 @@
     "matched_keywords": [],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is.",
-    "link": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T22:12:00+00:00",
-    "summary": "When dentists start getting cold calls about private credit, you know the fad has peaked.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9319
-  },
-  {
-    "title": "Flight cuts are spreading as fuel costs surge — and higher summer fares look likely",
-    "link": "https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T22:01:00+00:00",
-    "summary": "For travelers, the disappearing flights are translating into fewer route and connecting options, and of course higher fare prices.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis",
-    "link": "https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-22T21:42:00+00:00",
-    "summary": "The move, which could open up medical research on cannabis as well as banking services for growers, follows an executive order to reclassify the substance in December.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
   },
   {
     "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",

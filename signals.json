@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "XLF",
@@ -45,7 +45,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "XLE",
@@ -54,10 +54,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK borrowing to be pushed up by Iran war after dropping last year; oil and gas prices rising – business live",
+      "title": "UK consumer confidence falls as consumers get ‘the jitters’; BP’s new chair suffers investor revolt – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates"
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "LMT",
@@ -66,10 +66,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK borrowing to be pushed up by Iran war after dropping last year; oil and gas prices rising – business live",
+      "title": "UK consumer confidence falls as consumers get ‘the jitters’; BP’s new chair suffers investor revolt – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates"
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
+      "title": "Why it’s the luckiest U.S. stock market in history, according to one strategist",
+      "link": "https://www.marketwatch.com/story/why-its-the-luckiest-u-s-stock-market-in-history-according-to-one-strategist-4a351ca7?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve"
+      "title": "Why it’s the luckiest U.S. stock market in history, according to one strategist",
+      "link": "https://www.marketwatch.com/story/why-its-the-luckiest-u-s-stock-market-in-history-according-to-one-strategist-4a351ca7?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-23T07:58:11.227178Z"
+    "last_updated": "2026-04-23T13:48:49.066885Z"
   }
 ]
