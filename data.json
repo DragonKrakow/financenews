@@ -1,5 +1,35 @@
 [
   {
+    "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up",
+    "link": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T08:02:00+00:00",
+    "summary": "A soldier made over $400,000 profiting from inside information on the U.S. capture of Venezuelan leader Nicolas Maduro — and made a clumsy attempt to cover it up, according to an indictment.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Stock markets set to fall, Bank of England deputy governor warns; Trump threatens UK with ‘big tariff’ over digital services tax – business live",
+    "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-04-24T07:32:48+00:00",
+    "summary": "<p>Sarah Breeden explains ‘I’m not saying it will happen today, tomorrow, in 12 months’ time’, but system needs to be resilient</p><p><strong>The oil price has risen by almost 1% this morning, as the US and Iran continue to both impose blockades in the strait of Hormuz.</strong></p><p>Brent crude has riesn to $106 a barrel this morning, towards the two-week high of $107.40 set yesterday.</p><p>‘It’s shaping up to be a frustrating Friday, with oil prices on the march higher yet again and companies and consumers left counting the cost of the conflict. In just a week, we’ve had a sharp reversal of hope, with the key strait of Hormuz firmly shut and President Trump issuing shoot-to-kill orders to the US Navy for any boats laying mines.</p><p>Brent crude is up around 20% on the week and is trading around the hot level of $105 a barrel, as any hopes of an immediate easing of the crisis are shattered. President Trump has stressed he’s in no rush to end the war, and with the ceasefire extended for another three weeks, there’s set to be fresh financial pain ahead as key shipments from the region remain blocked. That is set to keep costs elevated for a vast array of commodities, from oil and gas to fertiliser and helium, which are vital for electronics manufacturing.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9891
+  },
+  {
+    "title": "Retail sales rise as British motorists stock up on fuel",
+    "link": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
+    "source": "The Guardian Economics",
+    "published": "2026-04-24T07:16:24+00:00",
+    "summary": "<p>ONS says sales up by 0.7% in March, spurred by big rise in fuel purchases and sunny weather helping retailers</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live\">Business live – latest updates</a></p></li></ul><p>Retail sales in Great Britain rose last month due to motorists stocking up on fuel as they watched prices at the pump escalate rapidly because of the Iran war.</p><p>The Office for National Statistics (ONS) said that the volume of retail sales rose 0.7% last month, well above analysts’ forecasts of just 0.1%, as the quantity of fuel bought hit the highest level since 2021.</p> <a href=\"https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8807
+  },
+  {
     "title": "As Americans turn to blue-collar jobs for stability, here’s which ones offer the most security — and which offer the least",
     "link": "https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -88,16 +118,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5267
-  },
-  {
-    "title": "Nike is cutting 1,400 more jobs — and the company’s shake-up is not done yet",
-    "link": "https://www.marketwatch.com/story/nike-is-cutting-1-400-more-jobs-the-companys-shakeup-is-not-done-yet-2851f3b8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T21:22:00+00:00",
-    "summary": "Nike on Thursday said it would cut around 1,400 jobs in its global operations, the latest efforts to shrink staff as the sneaker-maker’s turnaround efforts remain in flux and as it tries to bring new products to shelves more quickly.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
   },
   {
     "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
@@ -285,29 +305,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4404
-  },
-  {
-    "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-    "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-21T13:13:52+00:00",
-    "summary": "In a much-anticipated hearing before the Banking Committee, the former Fed governor will face questioning over a variety of subjects",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
-    "link": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-21T13:10:05+00:00",
-    "summary": "<p>Bank of England expected to keep interest rates on hold as Iran war casts shadow over labour market</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/21/uk-jobs-market-iran-war-unemployment-wage-growth-inflation\">Jobs market was in fragile state even before Iran war</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/21/wage-growth-level-unemployment-rate-falls-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK unexpectedly fell in the three months to February, according to official figures – but the fallout from the conflict in the Middle East is expected to cause a rise in job cuts.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was 4.9% in February, the lowest level since last summer. This compares with 5.2% in the three months to January, a rate that economists had expected to also see in February.</p> <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9052
   }
 ]
