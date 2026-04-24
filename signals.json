@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 9 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
+      "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+      "link": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 9 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
+      "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+      "link": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "NVDA",
@@ -90,10 +90,10 @@
     "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – business live",
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   },
   {
     "ticker": "TSLA",
@@ -102,9 +102,9 @@
     "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – business live",
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-24T13:27:54.204754Z"
+    "last_updated": "2026-04-24T18:56:00.260117Z"
   }
 ]
