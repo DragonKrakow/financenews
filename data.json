@@ -1,53 +1,113 @@
 [
   {
-    "title": "Trump’s meme coin is down 80% since his first event promoting it. He’s holding another gala for it this weekend.",
-    "link": "https://www.marketwatch.com/story/trumps-meme-coin-is-down-80-since-his-first-event-promoting-it-hes-holding-another-gala-for-it-this-weekend-0fd48fea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T18:23:00+00:00",
-    "summary": "President Donald Trump plans to host another private event for top holders of his meme coin, but the grand functions aren’t sending the $TRUMP digital token to new highs — and the ethical concerns aren’t going away.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.891
-  },
-  {
     "title": "As Americans turn to blue-collar jobs for stability, here’s which ones offer the most security — and which offer the least",
     "link": "https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T18:21:00+00:00",
+    "published": "2026-04-24T01:47:00+00:00",
     "summary": "College affordability issues and tech layoffs have boosted interest in the skilled trades, but “blue-collar work isn’t necessarily insulated from other market forces.”",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5569
   },
   {
-    "title": "Investors are worried about private credit’s close ties to software stocks. So, why is money flooding into these ETFs?",
-    "link": "https://www.marketwatch.com/story/money-is-flooding-into-these-etfs-despite-heavy-software-exposure-and-worries-about-private-credit-3363d7ee?mod=mw_rss_topstories",
+    "title": "Here’s how much money the 2026 NFL draft picks will make — and who’s at risk of losing millions",
+    "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T18:06:00+00:00",
-    "summary": "Some investors are shunning private-credit funds, but billions of dollars are still flowing into funds with a big software exposure.",
+    "published": "2026-04-24T00:23:00+00:00",
+    "summary": "Three NFL players will make over $50 million in tonight’s draft",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Why Intel’s stock is on track for a historic surge after earnings",
+    "link": "https://www.marketwatch.com/story/why-intels-stock-is-on-track-for-a-historic-surge-after-earnings-5128afa7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T00:20:00+00:00",
+    "summary": "Intel shares could see their best post-earnings performance on record and finally surpass their 2000 closing high amid a “CPU renaissance.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans",
+    "link": "https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T00:01:00+00:00",
+    "summary": "Wall Street is underestimating a potential price explosion in next week’s tech-stock earnings reports.",
     "matched_keywords": [],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "French weather forecast office files police complaint following suspicious Polymarket bets",
+    "link": "https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T22:43:00+00:00",
+    "summary": "Temperature readings at Charles de Gaulle International Airport rose by a few degrees in a matter of minutes.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
+    "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T22:30:00+00:00",
+    "summary": "“I am getting hit with IRMAA in two years.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7845
+  },
+  {
+    "title": "Trump is swaying the market like no president has in decades, analysis shows",
+    "link": "https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T22:09:00+00:00",
+    "summary": "Data suggests President Trump has been the driver behind the best and worst days for stocks in his second term.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
   },
   {
     "title": "‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.",
     "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T18:01:00+00:00",
+    "published": "2026-04-23T22:00:00+00:00",
     "summary": "“I have always thought that I did not have any real talents or skills.”",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7351
   },
   {
-    "title": "Tesla is in a no-win situation as it faces the ire of its earliest customers",
-    "link": "https://www.marketwatch.com/story/tesla-is-in-a-no-win-situation-as-it-faces-the-ire-of-its-earliest-customers-ae4bb958?mod=mw_rss_topstories",
+    "title": "The cannabis rescheduling is causing celebration — and confusion — as marijuana stocks sell off",
+    "link": "https://www.marketwatch.com/story/the-cannabis-rescheduling-is-causing-celebration-and-confusion-as-marijuana-stocks-sell-off-f79330e0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T18:01:00+00:00",
-    "summary": "The company plans to replace old vehicle computers in a plan that one analyst said  seemed “expensive and perhaps not even sensible.”",
+    "published": "2026-04-23T21:27:00+00:00",
+    "summary": "Marijuana stocks sold off Thursday, after acting U.S. Attorney General Todd Blanche signed an order rescheduling FDA-approved and state-licensed medical cannabis products as a less harmful substance — a move that led to celebration but also confusion among industry observers.",
     "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Nike is cutting 1,400 more jobs — and the company’s shake-up is not done yet",
+    "link": "https://www.marketwatch.com/story/nike-is-cutting-1-400-more-jobs-the-companys-shakeup-is-not-done-yet-2851f3b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-23T21:22:00+00:00",
+    "summary": "Nike on Thursday said it would cut around 1,400 jobs in its global operations, the latest efforts to shrink staff as the sneaker-maker’s turnaround efforts remain in flux and as it tries to bring new products to shelves more quickly.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
+    "link": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-23T20:46:42+00:00",
+    "summary": "Chief Operating Officer Gerald Beeson saying in a memo that targeting Griffin showed \"ignorance and disdain\" toward contributors to the city's economy.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8316
   },
   {
     "title": "Traders are betting on big moves in Intel on earnings",
@@ -68,56 +128,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "Spirit Airlines is close to getting a bailout. What’s in it for U.S. taxpayers?",
-    "link": "https://www.marketwatch.com/story/spirit-airlines-may-get-a-bailout-whats-in-it-for-u-s-taxpayers-39099d91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T16:56:00+00:00",
-    "summary": "Spirit confirms “very advanced discussions” with the U.S. government.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
-    "link": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T16:55:00+00:00",
-    "summary": "“I currently make $145,000, and my wife makes $98,000.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "I will inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?",
-    "link": "https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T16:28:00+00:00",
-    "summary": "“Some stocks have risen, but others have flopped.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3071
-  },
-  {
-    "title": "A long life isn’t cheap: Underestimating your longevity will cost you",
-    "link": "https://www.marketwatch.com/story/a-long-life-isnt-cheap-underestimating-your-longevity-will-cost-you-32a7033e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T16:27:00+00:00",
-    "summary": "Americans are living longer but aren’t financially prepared for it.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3291
-  },
-  {
-    "title": "Don’t dip into your 401(k) for emergency cash without weighing these costs",
-    "link": "https://www.marketwatch.com/story/before-dipping-into-your-401-k-for-emergency-cash-consider-these-costs-a7ac804c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-23T16:26:00+00:00",
-    "summary": "Here’s what you need to know before taking money from your 401(k) or getting a 401(k) loan",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
   },
   {
     "title": "Iran war hurting UK economy as consumer confidence falls; BP’s new chair suffers investor revolt – as it happened",
@@ -299,18 +309,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9052
-  },
-  {
-    "title": "Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates",
-    "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve",
-    "source": "The Guardian Economics",
-    "published": "2026-04-21T10:00:46+00:00",
-    "summary": "<p>Former Wall Street banker faces questions at confirmation hearing – but his biggest backer is also his biggest liability</p><p>On the face of it, Kevin Warsh looks like an ideal candidate to chair the Federal Reserve, the world’s most important central bank. The 56-year-old Ivy League economist, former Wall Street banker and presidential adviser ticks all the boxes. Unfortunately for Warsh, as he faces what could be a fraught nomination hearing, his biggest backer is also his biggest liability.</p><p>In his second term, Donald Trump has attacked the Fed in a manner both unprecedented and unseemly. He has called current chair Jerome Powell – whom he also appointed – a “<a href=\"https://www.youtube.com/watch?v=3SQ1HzLHq_k\">jerk</a>” and “a stubborn <a href=\"https://www.theguardian.com/business/2025/aug/01/trump-jerome-powell-tariffs-federal-reserve\">MORON</a>”, and repeatedly threatened to <a href=\"https://www.theguardian.com/business/2025/dec/29/trump-jerome-powell-latest-attack-fed-chair\">fire him</a>.</p> <a href=\"https://www.theguardian.com/business/2026/apr/21/kevin-warsh-trump-federal-reserve\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3634
   }
 ]
