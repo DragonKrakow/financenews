@@ -1,83 +1,113 @@
 [
   {
-    "title": "French weather forecast office files police complaint following suspicious Polymarket bets",
-    "link": "https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories",
+    "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
+    "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T18:32:00+00:00",
-    "summary": "Temperature readings at Charles de Gaulle International Airport rose by a few degrees in a matter of minutes.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
-    "title": "Medicare Advantage buyers beware: The rules for selling plans are changing — and could harm seniors",
-    "link": "https://www.marketwatch.com/story/medicare-advantage-buyers-beware-the-rules-for-selling-plans-are-changing-and-could-harm-seniors-77f5daae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T18:11:00+00:00",
-    "summary": "The marketing rules behind Medicare Advantage are about to get looser, benefitting brokers and agents that sell the private-insurance alternative to traditional Medicare",
+    "published": "2026-04-24T22:08:00+00:00",
+    "summary": "“Renting improves cash flow by about $1,300 a month.”",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
+    "sentiment_score": 0.4215
   },
   {
-    "title": "Nuclear reactor company X-energy shares surge 26% as AI drives interest in its IPO",
+    "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
+    "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T21:54:00+00:00",
+    "summary": "“I am getting hit with IRMAA in two years.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7845
+  },
+  {
+    "title": "‘AI genuinely freaks me out’: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position — with a 50-minute commute?",
+    "link": "https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T21:38:00+00:00",
+    "summary": "“Between layoffs and AI taking over lower-level data work, I’m not sure jumping ship for a big raise makes sense.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.374
+  },
+  {
+    "title": "‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?",
+    "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T21:19:00+00:00",
+    "summary": "“The portfolio has grown, but I can’t help feeling that it hasn’t grown as much as it could have.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
     "link": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html",
     "source": "CNBC Finance",
-    "published": "2026-04-24T17:29:10+00:00",
+    "published": "2026-04-24T21:11:23+00:00",
     "summary": "Advanced nuclear reactor company X-energy began trading Friday as the AI boom and electrification broadly spark a flurry of interest in the nuclear industry.",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8779
   },
   {
-    "title": "I went to an advanced high-school personal-finance class. Here’s what I learned.",
-    "link": "https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories",
+    "title": "Nvidia’s stock sees its first record close in 6 months — thanks to Intel",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-first-record-close-in-6-months-thanks-to-intel-21af7d28?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T17:23:00+00:00",
-    "summary": "Financial literacy will get serious treatment in high schools starting next year as part of the AP’s new ‘Career Kickstart’ bundle",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-    "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T17:18:00+00:00",
-    "summary": "While the majority of home buyers are married couples, 21% today are single women, compared to just 9% of single men.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Tesla is headed down a path of ‘runaway, unsustainable’ spending, analysts warn",
-    "link": "https://www.marketwatch.com/story/tesla-is-headed-down-a-path-of-runaway-unsustainable-spending-analysts-warn-60f16c6c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T17:16:00+00:00",
-    "summary": "The company plans to spend “in excess” of $25 billion in 2026, far more than it has ever spent in a single year.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Don’t dip into your 401(k) for emergency cash without weighing these costs",
-    "link": "https://www.marketwatch.com/story/before-dipping-into-your-401-k-for-emergency-cash-consider-these-costs-a7ac804c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T17:15:00+00:00",
-    "summary": "Here’s what you need to know before taking money from your 401(k) or getting a 401(k) loan",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "I’m exactly 5 years from retirement. Here’s what I’ll do first to prepare.",
-    "link": "https://www.marketwatch.com/story/happy-54-birthday-to-me-im-now-exactly-5-years-from-retirement-heres-what-ill-do-first-to-prepare-cc0bf06b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T17:06:00+00:00",
-    "summary": "I just turned 54½, and this could be my most consequential age milestone, because it’s the ideal time for me to start detailed planning for my golden years.",
+    "published": "2026-04-24T21:00:00+00:00",
+    "summary": "Nvidia is finally on track to finish back in $5 trillion territory, capping off an “incredible week” for chip makers.",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Intel’s stock extends its spectacular run by posting its best day in nearly four decades",
+    "link": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T20:54:00+00:00",
+    "summary": "There’s a debate on Wall Street about whether Intel’s financial prospects have materially changed.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "AMD’s stock is red-hot — and just hit a major milestone",
+    "link": "https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T20:36:00+00:00",
+    "summary": "AMD joined the ranks of $500 billion companies, with its shares soaring after Intel’s earnings report.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?",
+    "link": "https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T20:29:00+00:00",
+    "summary": "X-Energy’s stock soared out of the gate after the AI-power play’s upsized IPO priced well above the expected range. But how a stock starts out doesn’t dictate how it will perform over the longer term.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1406
+  },
+  {
+    "title": "Charter’s stock just got hammered. Here’s what fueled its worst day on record.",
+    "link": "https://www.marketwatch.com/story/charters-stock-is-getting-hammered-heres-whats-fueling-its-worst-day-on-record-11f991a0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T20:26:00+00:00",
+    "summary": "Charter lost more internet subscribers than expected in the latest quarter, signaling that the company isn’t out of the woods when it comes to broadband woes.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8519
+  },
+  {
+    "title": "Why crude prices won’t fall back to levels seen before the Iran war anytime soon",
+    "link": "https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-24T19:07:00+00:00",
+    "summary": "SLB and Halliburton both said this week they expect crude prices to remain higher for longer. That will have immediate implications for a host of products — none as scrutinized as gasoline.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9062
   },
   {
     "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
@@ -88,36 +118,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
-  },
-  {
-    "title": "Why the party for Intel and other chip stocks could last a long time",
-    "link": "https://www.marketwatch.com/story/why-the-party-for-intel-and-other-chip-stocks-could-last-a-long-time-dae55c89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T16:52:00+00:00",
-    "summary": "Also in Weekend Reads: A five-year retirement plan, ideas for investors and traders, and advice from the Moneyist.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Here’s how much money the 2026 NFL draft picks will make — and who’s at risk of losing millions",
-    "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T16:38:00+00:00",
-    "summary": "During the NFL’s 2026 draft on Thursday night, 32 of the best college football players joined the league.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "A long life isn’t cheap: Underestimating your longevity can be very expensive",
-    "link": "https://www.marketwatch.com/story/a-long-life-isnt-cheap-underestimating-your-longevity-will-cost-you-32a7033e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-24T16:37:00+00:00",
-    "summary": "Americans are living longer but aren’t financially prepared for it.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3291
   },
   {
     "title": "Bettors on Kalshi now see Warsh likely confirmed by mid-May after DOJ drops Powell probe",
