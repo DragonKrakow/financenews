@@ -1,5 +1,25 @@
 [
   {
+    "title": "Big Tech is the bull market’s win-win trade right now — making this week crucial",
+    "link": "https://www.marketwatch.com/story/big-tech-is-the-bull-markets-win-win-trade-right-now-making-this-week-crucial-45665c97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-26T12:01:00+00:00",
+    "summary": "Big Tech has roared back in April. Why it could be your win-win trade during the U.S.-Iran standoff.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Britain is undermining the care workers it depends on | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
+    "source": "The Guardian Economics",
+    "published": "2026-04-26T10:27:18+00:00",
+    "summary": "<p>Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  </p><p>“We are deflated, we are sad. We feel the government is trying to pull the rug from under our feet,” says David. “It is like we are being criticised for working in a sector which the government called for us to come help with.”</p><p>David – not his real name – is a care worker for adults with learning disabilities. He came to the east of England from Nigeria in 2022 with his wife as the Conservative government turned to migration to tackle the social care recruitment crisis.</p> <a href=\"https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
     "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
     "link": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -88,16 +108,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-    "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-25T16:17:00+00:00",
-    "summary": "While the majority of home buyers are married couples, 21% today are single women, compared to just 9% of single men.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
@@ -292,17 +302,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5994
-  },
-  {
-    "title": "Middle East war ‘could wipe out 75% of chancellor’s budget headroom’; UK inflation climbs to 3.3% – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-22T14:19:05+00:00",
-    "summary": "<p>Oil prices rise again above $100 a barrel as strait of Hormuz remains closed; EU energy commissioner warns energy crisis could last months or years even if there is peace</p><p>Here’s more reaction to the rise in UK inflation to 3.3%.</p><p><strong>Sharon Graham</strong>, general secretary of the Unite union, said:</p><p>Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak.</p><p>Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills.</p><p>Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat.</p><p>But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0905
   }
 ]
