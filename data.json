@@ -1,35 +1,117 @@
 [
   {
-    "title": "Billionaire Ray Dalio says you should have up to 15% of your money in gold because of uncertainty around the Iran war",
-    "link": "https://www.marketwatch.com/story/billionaire-ray-dalio-says-you-should-have-up-to-15-of-your-money-in-gold-because-of-uncertainty-around-the-iran-war-f030e9a8?mod=mw_rss_topstories",
+    "title": "California is one step closer to America’s first billionaire wealth tax — and the divide between red and blue state taxes is getting deeper",
+    "link": "https://www.marketwatch.com/story/california-is-one-step-closer-to-americas-first-billionaire-wealth-tax-and-the-divide-between-red-and-blue-state-taxes-is-getting-deeper-18ef3232?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T19:16:00+00:00",
-    "summary": "The world is changing quickly, including with more transactions taking place away from the dollar system, says Dali.o",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
+    "published": "2026-04-28T00:56:00+00:00",
+    "summary": "This year is shaping up to be a milestone moment for state income taxes after last year’s massive changes to federal income taxes.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   },
   {
-    "title": "Higher inflation is on the way. The Fed needs to make this clearer before it raises rates.",
+    "title": "Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 25%",
+    "link": "https://www.marketwatch.com/story/bed-bath-beyond-is-seeing-new-life-as-rare-sales-growth-lifts-stock-more-than-30-3e1ee945?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T00:34:00+00:00",
+    "summary": "Management highlights the “first quarter of significant revenue growth in 19 quarters.” But the stock is still well below its meme-stock-era highs.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6858
+  },
+  {
+    "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
     "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T19:11:00+00:00",
+    "published": "2026-04-28T00:20:00+00:00",
     "summary": "Fed’s communication should help investors manage risk — including the possibility that rates may rise.",
     "matched_keywords": [
       "Fed"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
   },
   {
-    "title": "Micron and Sandisk shares could soar further thanks to a software-like subscription model",
-    "link": "https://www.marketwatch.com/story/micron-and-sandisk-shares-could-soar-further-thanks-to-a-software-like-subscription-model-80534cd3?mod=mw_rss_topstories",
+    "title": "It’s China’s duty-free retail mecca and a tropical oasis, to boot. For Beijing that’s no longer enough.",
+    "link": "https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T19:05:00+00:00",
-    "summary": "Memory is crucial to AI development, and one analyst sees customers securing supply with “subscriptions.”",
+    "published": "2026-04-28T00:00:00+00:00",
+    "summary": "The island province of Hainan has new marching orders.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds",
+    "link": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-27T23:02:22+00:00",
+    "summary": "Investors' disinterest in getting liquidity at a steep discount comes amid a quarter that saw elevated redemptions across most private-credit, non-traded BDCs.",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
+    "link": "https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T22:30:00+00:00",
+    "summary": "“Now they are deducting that amount from her account.”",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Arm’s stock snaps a seven-day winning streak as it loses some of its AI glow",
+    "link": "https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T22:09:00+00:00",
+    "summary": "Arm shares led Nadsaq 100 decliners on Monday, reflecting more general pressure on AI names and specific concerns about whether Arm will play a role in a potential Qualcomm-OpenAI chip.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4976
+  },
+  {
+    "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
+    "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T22:01:00+00:00",
+    "summary": "“We have $3.5 million in savings — $2.5 million of which are in retirement accounts.”",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Qualcomm’s stock gains as an AI opportunity emerges",
+    "link": "https://www.marketwatch.com/story/qualcomms-stock-soars-as-an-ai-opportunity-emerges-14a6ed98?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T21:23:00+00:00",
+    "summary": "The company is reportedly developing chips for OpenAI.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "A possible SiriusXM-iHeartMedia merger would be the latest ominous sign for radio",
+    "link": "https://www.marketwatch.com/story/a-possible-siriusxm-iheartmedia-merger-would-be-the-latest-ominous-sign-for-radio-23a18d07?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T21:15:00+00:00",
+    "summary": "The potential tie-up would create an advertising behemoth that could help the companies forestall declines as listeners increasingly shift to streaming platforms and podcasts.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors.",
+    "link": "https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-27T21:13:00+00:00",
+    "summary": "Mizuho analyst Gregg Moskowitz downgrade shares of Adobe to neutral from outperform and upgraded shares of CrowdStrike to outperform from neutral on Monday.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
   },
   {
     "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
@@ -42,16 +124,6 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "There’s a pizza price war going on, and Domino’s is feeling the pain",
-    "link": "https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T18:41:00+00:00",
-    "summary": "Domino’s will lean into “pizza innovation” as one way to engage customers who are getting more selective with their spending.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
     "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
     "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
     "source": "CNBC Finance",
@@ -62,66 +134,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7324
-  },
-  {
-    "title": "Poet Technologies’ stock craters nearly 50% in record drop, as Marvell relationship sours",
-    "link": "https://www.marketwatch.com/story/poet-technologies-stock-craters-nearly-50-in-record-drop-as-marvell-relationship-sours-1e37d970?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T18:36:00+00:00",
-    "summary": "Investors are dumping the Poet shares after the company disclosed that chip maker Marvell is walking away from a key AI partnership.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Elon Musk is about to get a lot richer. It was worth the headaches.",
-    "link": "https://www.marketwatch.com/story/elon-musk-is-about-to-get-a-lot-richer-it-was-worth-the-headaches-49a64535?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T18:32:00+00:00",
-    "summary": "Musk had to wait eight years, but he’s finally getting rights to the 304 million shares awarded to him as part of the 2018 compensation package.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "The SEC fears we’re trapped in short-term thinking. Tesla and Amazon prove investors play the long game.",
-    "link": "https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T18:09:00+00:00",
-    "summary": "Semiannual earnings reporting tries to “fix” a problem that the market’s success stories have already solved.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Why individual investors are cautious ahead of earnings for Microsoft, Amazon and the rest of the ‘Magnificent Seven’",
-    "link": "https://www.marketwatch.com/story/why-individual-investors-are-cautious-ahead-of-earnings-for-microsoft-amazon-and-the-rest-of-the-magnificent-seven-c4a92504?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T18:06:00+00:00",
-    "summary": "Retail investors aren’t trading the megacap tech stocks with their usual fervor.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "Private credit isn’t safer than banks — it’s just better at hiding losses",
-    "link": "https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T17:34:00+00:00",
-    "summary": "Investors have no idea that fund returns can reflect clever accounting instead of investment skill.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
-    "title": "Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors.",
-    "link": "https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-27T17:29:00+00:00",
-    "summary": "Mizuho analyst Gregg Moskowitz downgrade shares of Adobe to neutral from outperform and upgraded shares of CrowdStrike to outperform from neutral on Monday.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
   },
   {
     "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
@@ -148,7 +160,7 @@
     "link": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
     "source": "The Guardian Economics",
     "published": "2026-04-27T09:30:55+00:00",
-    "summary": "<p>Critical week for global economy as banks expected to issue warnings over conflict driving up prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The world’s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war.</p><p>In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses.</p> <a href=\"https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning\">Continue reading...</a>",
+    "summary": "<p>Critical week for global economy as banks expected to issue warnings over conflict driving up prices</p><p>The world’s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war.</p><p>In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses.</p> <a href=\"https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning\">Continue reading...</a>",
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9137
@@ -296,15 +308,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3818
-  },
-  {
-    "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
-    "link": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-23T20:46:42+00:00",
-    "summary": "Chief Operating Officer Gerald Beeson saying in a memo that targeting Griffin showed \"ignorance and disdain\" toward contributors to the city's economy.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
   }
 ]
