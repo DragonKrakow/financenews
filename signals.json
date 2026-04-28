@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Rachel Reeves’s fiscal rules buffer should be ‘significantly larger’, say peers",
-      "link": "https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers"
+      "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
+      "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html"
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Rachel Reeves’s fiscal rules buffer should be ‘significantly larger’, say peers",
-      "link": "https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers"
+      "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
+      "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html"
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-      "link": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs"
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-      "link": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs"
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-28T08:27:50.970306Z"
+    "last_updated": "2026-04-28T14:12:29.706066Z"
   }
 ]
