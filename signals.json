@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
-      "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html"
+      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
-      "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html"
+      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
-      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
+      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
+      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Low",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
-      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
+      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
+      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-28T14:12:29.706066Z"
+    "last_updated": "2026-04-28T19:44:08.906030Z"
   }
 ]
