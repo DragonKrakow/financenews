@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "XLF",
@@ -45,7 +45,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "XLE",
@@ -54,10 +54,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
+      "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "LMT",
@@ -66,10 +66,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
+      "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
       "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
     "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
+      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
+      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
     "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
-      "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
+      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
+      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-29T08:22:32.343022Z"
+    "last_updated": "2026-04-29T14:02:25.893675Z"
   }
 ]
