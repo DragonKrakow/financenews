@@ -9,31 +9,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "QQQ",
-    "signal": "Neutral",
+    "signal": "Bullish",
     "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+      "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "TLT",
-    "signal": "Neutral",
+    "signal": "Bullish",
     "confidence": "Low",
-    "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice.",
-    "suggested_research_action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "No direct trigger in latest run",
-      "link": ""
+      "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+      "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
+      "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
+      "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "GLD",
@@ -81,30 +81,30 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "NVDA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
-      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
-    "confidence": "Medium",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Low",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
-      "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
     },
-    "last_updated": "2026-04-29T14:02:25.893675Z"
+    "last_updated": "2026-04-29T19:40:17.758455Z"
   }
 ]

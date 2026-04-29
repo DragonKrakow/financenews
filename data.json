@@ -1,257 +1,101 @@
 [
   {
-    "title": "Government waste, fraud and abuse rose 13% last year — despite Musk and DOGE saying they’d cut $1 trillion from the budget",
-    "link": "https://www.marketwatch.com/story/government-waste-fraud-and-abuse-rose-13-last-year-despite-musk-and-doge-saying-theyd-cut-1-trillion-from-the-budget-346c4d18?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T14:00:00+00:00",
-    "summary": "Cutting it all still won’t save the budget.",
-    "matched_keywords": [],
+    "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+    "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T19:32:45+00:00",
+    "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
+    "matched_keywords": [
+      "Fed"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.8807
+    "sentiment_score": -0.4404
   },
   {
-    "title": "Why this Soros alum is betting on copper and cables over AI chips",
-    "link": "https://www.marketwatch.com/story/why-this-soros-alum-is-betting-on-copper-and-cables-over-ai-chips-283e22ca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T13:34:00+00:00",
-    "summary": "Renaud Saleur is looking past politics to bank on megatrends like electrification, natural resources and AI bricks and mortars.",
-    "matched_keywords": [],
+    "title": "Fed holds rates steady but with highest level of dissent since 1992",
+    "link": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T19:25:28+00:00",
+    "summary": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6124
   },
   {
-    "title": "SoFi just set a slew of lending records, but here’s why its stock is falling",
-    "link": "https://www.marketwatch.com/story/sofi-just-set-a-slew-of-lending-records-but-heres-why-its-stock-is-falling-4c7801a6?mod=mw_rss_topstories",
+    "title": "Powell won’t leave the Fed, says he’ll stay on as governor after term as chair ends",
+    "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T13:33:00+00:00",
-    "summary": "The company didn’t raise its full-year outlook despite beating expectations in the latest quarter.",
-    "matched_keywords": [],
+    "published": "2026-04-29T19:15:00+00:00",
+    "summary": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday.",
+    "matched_keywords": [
+      "Fed"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3226
+    "sentiment_score": 0.25
   },
   {
-    "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
+    "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
+    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T18:53:28+00:00",
+    "summary": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Here's what changed in the new Fed statement",
+    "link": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T18:06:00+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in March.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
+    "source": "The Guardian Economics",
+    "published": "2026-04-29T18:03:35+00:00",
+    "summary": "<p>Chair had said he’d leave after inquiry into building renovations but now says there are ‘remaining steps in the process’ he’s watching</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, is staying on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board left interest rates unchanged for the third time this year on Wednesday, despite Donald Trump’s continued demands for interest rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-04-29T13:31:51+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as PM reveals AstraZeneca’s new UK investment plans</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/29/astrazeneca-makes-surprise-u-turn-with-300m-pharma-investment\"><strong>AstraZeneca makes surprise U-turn with £300m pharma investment in UK</strong></a></p></li></ul><p><strong>The oil price has hit its highest level in a month, following reports that President Trump has instructed aides to prepare for an extended blockade of Iran.</strong></p><p>Brent crude has risen by 1.8% this morning to above $113 a barrel, the highest since 31 March, a week before the US-Iran ceasefire was agreed.</p><p>He assessed that his other options—resume bombing or walk away from the conflict—carried more risk than maintaining the blockade, officials said.</p><p>Yet continuing the blockade also prolongs a conflict that has driven up gas prices, hurt Trump’s poll numbers and further darkened Republicans’ prospects in the midterm elections. It has also caused the lowest number of transits through the Strait of Hormuz since the war began.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates\">Continue reading...</a>",
+    "published": "2026-04-29T17:18:56+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as Brent crude approaches highest level since Middle East conflict began</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/29/astrazeneca-makes-surprise-u-turn-with-300m-pharma-investment\"><strong>AstraZeneca makes surprise U-turn with £300m pharma investment in UK</strong></a></p></li></ul><p><strong>The oil price has hit its highest level in a month, following reports that President Trump has instructed aides to prepare for an extended blockade of Iran.</strong></p><p>Brent crude has risen by 1.8% this morning to above $113 a barrel, the highest since 31 March, a week before the US-Iran ceasefire was agreed.</p><p>He assessed that his other options—resume bombing or walk away from the conflict—carried more risk than maintaining the blockade, officials said.</p><p>Yet continuing the blockade also prolongs a conflict that has driven up gas prices, hurt Trump’s poll numbers and further darkened Republicans’ prospects in the midterm elections. It has also caused the lowest number of transits through the Strait of Hormuz since the war began.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9286
-  },
-  {
-    "title": "Startup Blockworks wants to become the crypto equivalent of Morningstar. How it plans to do it",
-    "link": "https://www.cnbc.com/2026/04/29/blockworks-wants-to-become-the-crypto-equivalent-of-morningstar-how-it-plans-to-do-it.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T13:00:01+00:00",
-    "summary": "Blockworks wants to position itself as the main data provider for the world of digital assets in a bid to attract more investors to the asset class.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
-    "link": "https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T12:55:00+00:00",
-    "summary": "“I do not have any inheritance from anyone coming my way as I lost most of my immediate family when young.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8807
-  },
-  {
-    "title": "UK firms in ‘critical financial stress’ jump by a third as costs rise, report finds",
-    "link": "https://www.theguardian.com/business/2026/apr/29/uk-firms-in-critical-financial-stress-jump-by-a-third-costs-rise-report-says",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T12:30:24+00:00",
-    "summary": "<p>Insolvency firm points to tax rises, staff costs and shaky consumer confidence after number increases to 62,193</p><p>The number of UK businesses in “critical financial distress” has risen by more than a third over the past year, according to insolvency practitioners, as companies contend with a “slew of increased taxes” and the impact of the Middle East conflict.</p><p>Hospitality and leisure firms have been faring particularly badly because of shaky consumer confidence, and rising taxes and staff costs, according to research by the restructuring company Begbies Traynor.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/uk-firms-in-critical-financial-stress-jump-by-a-third-costs-rise-report-says\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5118
-  },
-  {
-    "title": "These 5 AI-proof jobs are hiring — here’s how much they pay and how to get them",
-    "link": "https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T12:28:00+00:00",
-    "summary": "Careers that are not as vulnerable to AI right now share a few common traits: they require physical presence, specialized training, or real-time human interaction.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.354
-  },
-  {
-    "title": "The next recession could actually be a win for stocks — if you can tune out the market noise",
-    "link": "https://www.marketwatch.com/story/the-next-recession-could-actually-be-a-win-for-stocks-if-you-can-tune-out-the-market-noise-534acdee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T12:10:00+00:00",
-    "summary": "Corporate profit margins and P/E multiples — not GDP forecasts — are the real tools to surviving a bear market.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
-    "link": "https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T12:07:00+00:00",
-    "summary": "“Now they are deducting that amount from her account.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "JPMorgan’s Jamie Dimon says a credit-led recession would be ‘worse than people think’",
-    "link": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-says-a-credit-led-recession-would-be-worse-than-people-think-5a388e74?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T12:07:00+00:00",
-    "summary": "JPMorgan Chase CEO Jamie Dimon says an economic downturn sparked by weakness in credit would encompass more than just the private credit segment and be more severe than many expect.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5095
-  },
-  {
-    "title": "The key global oil contract tops $115 as Strait of Hormuz impasse continues",
-    "link": "https://www.marketwatch.com/story/the-key-global-oil-contract-tops-115-as-strait-of-hormuz-impasse-continues-ce2cdf04?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T11:44:00+00:00",
-    "summary": "Oil futures rallied further Wednesday, with the key contract nearing its highs reached in the early days of the Iran war with little progress made on getting oil tankers through the Strait of Hormuz.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3197
-  },
-  {
-    "title": "‘Dirty soda’ is going mainstream. Coke and Pepsi are trying to cash in.",
-    "link": "https://www.marketwatch.com/story/dirty-soda-is-going-mainstream-coke-and-pepsi-are-trying-to-cash-in-3909115c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T11:30:00+00:00",
-    "summary": "Drinks like Dirty Mountain Dew and Coca-Cola Cherry Float are helping the two beverage giants prop up sales. Other major brands are jumping in on the trend as well.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "Lloyds takes £151m hit from Iran war as it forecasts rise in UK unemployment",
-    "link": "https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T09:06:35+00:00",
-    "summary": "<p>Bank expects its base case for GDP growth to be 0.5% this year, lower than IMF’s 0.8% prediction for Britain</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates\">Business live – latest updates</a></p></li></ul><p>Lloyds has said that the economic fallout from the Middle East conflict could cost it £151m amid rising unemployment and inflation and a slowdown in the housing market.</p><p>The FTSE 100 group, whose brands include Lloyds Bank, Halifax and Bank of Scotland, issued a downbeat economic forecast that it said reflected the stagflationary consequences – the double hit of rising inflation at the same time as slower economic growth – for the UK and global economies.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8402
-  },
-  {
-    "title": "UK faces £35bn hit and risk of recession this year over impact of Iran war, thinktank warns",
-    "link": "https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns",
-    "source": "The Guardian Economics",
-    "published": "2026-04-28T23:01:38+00:00",
-    "summary": "<p>Niesr says even under best-case scenario, economy would grow at slower pace in 2026 and 2027 because of conflict</p><p>Britain is facing a £35bn economic hit and the risk of a recession this year as the fallout from the Iran war adds to the pressure on Keir Starmer’s government, a leading thinktank has warned.</p><p>The National Institute of Economic and Social Research (Niesr) said that even under a best-case scenario the UK economy would grow at a much slower pace this year and next because of the Middle East conflict.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9595
-  },
-  {
-    "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
-    "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T20:35:57+00:00",
-    "summary": "It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.9623
   },
   {
     "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
     "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
     "source": "CNBC Finance",
-    "published": "2026-04-28T20:15:32+00:00",
+    "published": "2026-04-29T15:35:18+00:00",
     "summary": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
-    "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T20:14:15+00:00",
-    "summary": "OpenAI has recently missed its own projections for user growth and revenue, the WSJ reported.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-    "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T18:44:41+00:00",
-    "summary": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8591
-  },
-  {
-    "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
-    "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund",
-    "source": "The Guardian Economics",
-    "published": "2026-04-28T16:47:53+00:00",
-    "summary": "<p>Companies are now seeking refunds on tariffs after supreme court ruled Trump’s emergency levies were illegal</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p><a href=\"https://www.theguardian.com/business/generalmotors\">General Motors</a> is expecting a $500m tariff refund after the <a href=\"https://www.theguardian.com/us-news/us-supreme-court\">US supreme court</a> struck down some of Donald Trump’s most sweeping levies.</p><p>That has boosted the Detroit automaker’s outlook for 2026. On Tuesday, GM said it was now looking to rake in $13.5bn-$15.5bn in earnings before interest and taxes this year – up from previous forecasts of $13bn-$15bn.</p> <a href=\"https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8885
-  },
-  {
-    "title": "Meta shares look 'iffy' into earnings. How to trade it",
-    "link": "https://www.cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T15:53:55+00:00",
-    "summary": "Meta heads into earnings Wednesday after the bell with the fundamentals case largely intact. But the technicals are a bit shaky.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.09
-  },
-  {
-    "title": "UAE quits Opec in ‘pivotal moment’ for oil producing group – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-28T14:37:25+00:00",
-    "summary": "<p>It’s UAExit as the United Arab Emirates will leave Opec on 1 May, in a blow to the group of oil producers</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/28/bp-profits-oil-gas-prices-iran-war-first-quarter\"><strong>BP profits more than double as oil and gas prices soar in Iran war</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/28/uae-quit-opec-oil-exporters-cartel-donald-trump\"><strong>UAE quits Opec in win for Trump as oil cartel weakened</strong></a></p></li></ul><p><strong>Although rising energy prices are great news for oil and gas producers, they’re a blow to other businesses, such as housebuilders.</strong></p><p>This morning, <strong>Taylor</strong> <strong>Wimpey</strong> has reported that the cost of building a home is being pushed up, telling shareholders:</p><p>As a result of rising energy costs, build cost inflation is now expected to be low to mid single digit for 2026, with cost pressure and surcharges starting to come through from our supply chain.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9231
-  },
-  {
-    "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
-    "link": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T08:31:40+00:00",
-    "summary": "Beijing's decision to block Meta's acquisition of Manus is a warning to other startups thinking of relocating data, talent and intellectual property abroad.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "Rachel Reeves’s fiscal rules buffer should be ‘significantly larger’, say peers",
-    "link": "https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers",
-    "source": "The Guardian Economics",
-    "published": "2026-04-28T04:00:40+00:00",
-    "summary": "<p>Lord committee says chancellor and recent predecessors have allowed themselves too little room for manoeuvre</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Rachel Reeves should aim to run a “significantly larger” buffer against her fiscal rules, according to a report from a House of Lords committee that says the UK’s public debt is on an unsustainable trajectory.</p><p>The chancellor <a href=\"https://www.theguardian.com/uk-news/2025/nov/26/rachel-reeves-targets-uks-wealthiest-in-26bn-tax-raising-budget\">raised taxes at last year’s budget</a> in order to more than double the “headroom”, or buffer, against her <a href=\"https://www.theguardian.com/uk-news/2025/mar/23/should-rachel-reevess-fiscal-rules-stay-golden-or-are-they-meant-to-be-broken\">fiscal rules</a> to £22bn – some of which is expected to be eroded by the impact of the Iran war.</p> <a href=\"https://www.theguardian.com/business/2026/apr/28/rachel-reevess-fiscal-rules-buffer-should-be-significantly-larger-say-peers\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds",
-    "link": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-27T23:02:22+00:00",
-    "summary": "Investors' disinterest in getting liquidity at a steep discount comes amid a quarter that saw elevated redemptions across most private-credit, non-traded BDCs.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
   },
   {
     "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
@@ -266,43 +110,39 @@
     "sentiment_score": -0.7324
   },
   {
-    "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
-    "link": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
+    "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
+    "link": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
     "source": "The Guardian Economics",
-    "published": "2026-04-27T16:08:33+00:00",
-    "summary": "<p>China sold goods worth about $148bn to EU in first quarter of year, but imported just $65bn</p><p>The EU is experiencing a prolonged “China shock” as a flood of Chinese EVs into Europe helped push Beijing to a record surplus with the bloc.</p><p>New data showed China’s trade surplus – where its exports to the EU exceeded imports from the bloc – was $83bn (£61bn) in the first three months of 2026.</p> <a href=\"https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1154
-  },
-  {
-    "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada’s ARC in $13.6bn deal – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-27T15:39:33+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Shares in athletic apparel and footwear company Adidas have jumped by almost 1.75% in early trading after three of its athletes shone at the London Marathon yesterday.</strong></p><p><strong>Sabastian</strong> <strong>Sawe</strong> and <strong>Yomif</strong> <strong>Kejelcha</strong> both smashed the two-hour barrier in the men’s marathon race, and <strong>Tigst Assefa</strong> set a women-only world record in the women’s race.</p><p>The adidas family is incredibly proud of Sabastian and Tigist’s historic achievements, marking the fastest times humans have ever run in a marathon.</p><p>This is a testament to the years of hard work and dedication they have made, alongside our innovation team, who have built a supershoe which breaks new ground in the Adizero Adios Pro Evo 3.”</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2975
-  },
-  {
-    "title": "G7 central banks poised to hold borrowing costs amid concerns over prolonged Iran war",
-    "link": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
-    "source": "The Guardian Economics",
-    "published": "2026-04-27T09:30:55+00:00",
-    "summary": "<p>Critical week for global economy as banks expected to issue warnings over conflict driving up prices</p><p>The world’s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war.</p><p>In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses.</p> <a href=\"https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning\">Continue reading...</a>",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9137
-  },
-  {
-    "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-    "link": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-    "source": "The Guardian Economics",
-    "published": "2026-04-26T21:30:25+00:00",
-    "summary": "<p>‘Inadequate economic security’ is putting growth and jobs at risk, says British Chambers of Commerce  </p><p>UK business leaders have called on the government to build an EU-style “trade bazooka” to protect Britain’s economic interests in response to the latest tariff threats from Donald Trump.</p><p>As transatlantic tensions rise, the British Chambers of Commerce said the UK’s “inadequate economic security” was putting growth and jobs at risk.</p> <a href=\"https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs\">Continue reading...</a>",
-    "matched_keywords": [],
+    "published": "2026-04-25T11:00:43+00:00",
+    "summary": "<p>The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attack</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan\">war on Iran is “folly”</a>; shadow chancellor Mel Stride should be “lined up for the sack”; and the Liberal Democrat Daisy Cooper’s plan for managing fuel shortages is “fundamentally economically illiterate”.</p><p>Rachel Reeves has always relished a political fight, but in recent days she has been swinging at her opponents with what looks very much like enjoyment.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
+    "sentiment_score": 0.2305
+  },
+  {
+    "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-04-24T15:42:17+00:00",
+    "summary": "<p>Brent crude hits highest level since the US and Iran first agreed a ceasefire in early April</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">US justice department drops criminal investigation against Jerome Powell</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel\">Retail sales rise in Britain after Iran war prompted ‘panic at the pumps’</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning\">Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax</a></p></li></ul><p><strong>Sarah Breeden’s</strong> warning that share prices do not reflect the many risks facing the global economy may have pushed the market down this morning, suggests <strong>Russ Mould,</strong> investment director at<strong> AJ Bell</strong>.</p><p>He explains:</p><p>The stock market reflects what investors think will happen in the future. While markets have been wobbly since the Middle East conflict unfolded, they didn’t pull back sharply in the early stages of the crisis, and more recently they’ve shown resilience. That suggests investors are confident the war will end quickly, and elevated oil and gas prices will retreat as supply is restored.</p><p>Oil prices currently trade at $105 per barrel which is higher than the sub-$70 price seen at the start of 2026, but below the $120+ level when Russia invaded Ukraine in 2022. One could argue current oil prices are high enough to cause pain for businesses and consumers as everything becomes more expensive. There are already signs it is causing problems for companies as they report cautious outlook statements.</p><p>Companies are considerably more pessimistic about the coming months.</p><p>The German economy is being hit hard by the Iran crisis.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9835
+  },
+  {
+    "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
+    "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-21T13:13:52+00:00",
+    "summary": "In a much-anticipated hearing before the Banking Committee, the former Fed governor will face questioning over a variety of subjects",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
   }
 ]
