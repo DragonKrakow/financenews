@@ -1,5 +1,17 @@
 [
   {
+    "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
+    "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-04-29T08:11:51+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs\"><strong>UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs</strong></a></p></li></ul><p><strong>The oil price has hit its highest level in a month, following reports that President Trump has instructed aides to prepare for an extended blockade of Iran.</strong></p><p>Brent crude has risen by 1.8% this morning to above $113 a barrel, the highest since 31 March, a week before the US-Iran ceasefire was agreed.</p><p>He assessed that his other options—resume bombing or walk away from the conflict—carried more risk than maintaining the blockade, officials said.</p><p>Yet continuing the blockade also prolongs a conflict that has driven up gas prices, hurt Trump’s poll numbers and further darkened Republicans’ prospects in the midterm elections. It has also caused the lowest number of transits through the Strait of Hormuz since the war began.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9412
+  },
+  {
     "title": "Two investment strategies for people who are afraid of the stock market",
     "link": "https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -292,15 +304,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6077
-  },
-  {
-    "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
-    "link": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-25T11:53:07+00:00",
-    "summary": "The Breakwave Tanker Shipping ETF (BWET) has surged more than 600% since the beginning of the year, vastly outperforming crude oil and energy stocks.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
   }
 ]
