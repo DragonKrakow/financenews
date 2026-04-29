@@ -1,23 +1,145 @@
 [
   {
-    "title": "‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
-    "link": "https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories",
+    "title": "Two investment strategies for people who are afraid of the stock market",
+    "link": "https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T19:08:00+00:00",
-    "summary": "“Now they are deducting that amount from her account.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Amazon is back in Wall Street’s good graces. Here’s what will determine whether it stays there.",
-    "link": "https://www.marketwatch.com/story/amazon-is-back-in-wall-streets-good-graces-heres-what-will-determine-whether-it-stays-there-78b53ffa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T19:08:00+00:00",
-    "summary": "OpenAI, Anthropic and Meta Platforms are just a few of the companies relying on Amazon for support.",
+    "published": "2026-04-29T02:37:00+00:00",
+    "summary": "ETFs with protection features can help risk-averse investors increase returns while weathering market storms.",
     "matched_keywords": [],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8625
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Can Meta make money on AI beyond consumer ads? That’s a big question going into earnings.",
+    "link": "https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-29T00:59:00+00:00",
+    "summary": "While Meta Platforms has shaped up to be good at monetizing artificial intelligence in consumer-facing advertising, some analysts question whether the company’s AI models have applications beyond that.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
+    "link": "https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-29T00:32:00+00:00",
+    "summary": "The United Arab Amirates decision to leave the Organization of the Petroleum Exporting Countries at the end of the week came as a surprise to some, especially during a time of severe global disruptions to oil production and passage through in the Middle East.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1154
+  },
+  {
+    "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers",
+    "link": "https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-29T00:21:00+00:00",
+    "summary": "Coffee chain hikes outlook as sales top Wall Street’s hopes",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on",
+    "link": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-29T00:20:00+00:00",
+    "summary": "Prediction markets have been a haven for Robinhood traders seeking to ride out volatility.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "UK faces £35bn hit and risk of recession this year over impact of Iran war, thinktank warns",
+    "link": "https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns",
+    "source": "The Guardian Economics",
+    "published": "2026-04-28T23:01:38+00:00",
+    "summary": "<p>Niesr says even under best-case scenario, economy would grow at slower pace in 2026 and 2027 because of conflict</p><p>Britain is facing a £35bn economic hit and the risk of a recession this year as the fallout from the Iran war adds to the pressure on Keir Starmer’s government, a leading thinktank has warned.</p><p>The National Institute of Economic and Social Research (Niesr) said that even under a best-case scenario the UK economy would grow at a much slower pace this year and next because of the Middle East conflict.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns\">Continue reading...</a>",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9595
+  },
+  {
+    "title": "The stock market’s comeback from the Iran-inspired selloff hasn’t been as powerful as you might think",
+    "link": "https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T22:31:00+00:00",
+    "summary": "Yes, the S&amp;P 500 has powered back into record territory. But its equal-weighted sibling is still languishing below its previous peak.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4118
+  },
+  {
+    "title": "It’s time for a Microsoft ‘reset.’ Here’s what investors should focus on now.",
+    "link": "https://www.marketwatch.com/story/its-time-for-a-microsoft-reset-heres-what-investors-should-focus-on-now-a5d9e334?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T22:20:00+00:00",
+    "summary": "With the cloud narrative now better understood, Microsoft has an opportunity to refocus investors around software and dispel negative sentiment.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "These two countries are the most likely to leave OPEC’s orbit next",
+    "link": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T22:17:00+00:00",
+    "summary": "The U.A.E. was the “most likely” candidate to leave OPEC, but others may follow.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0854
+  },
+  {
+    "title": "Bloom Energy is riding the AI wave with a major lift from Oracle",
+    "link": "https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T22:16:00+00:00",
+    "summary": "Wall Street is validating Bloom’s ‘vision,’ and AI accelerating it, CEO says.",
+    "matched_keywords": [],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "This is the most critical question facing U.S. investors right now — and it has nothing to do with Iran",
+    "link": "https://www.marketwatch.com/story/this-is-the-most-critical-question-facing-u-s-investors-right-now-and-it-has-nothing-to-do-with-iran-45bc8f2e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-28T21:52:00+00:00",
+    "summary": "Chip stocks have pulled back from a parabolic rally, and there are technical and historical reasons for investors to worry that a deeper selloff in the sector will hurt the broader stock market.",
+    "matched_keywords": [],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8357
+  },
+  {
+    "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
+    "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-28T20:35:57+00:00",
+    "summary": "It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+    "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-28T20:15:32+00:00",
+    "summary": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
+    "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-28T20:14:15+00:00",
+    "summary": "OpenAI has recently missed its own projections for user growth and revenue, the WSJ reported.",
+    "matched_keywords": [],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
   },
   {
     "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
@@ -30,76 +152,6 @@
     "sentiment_score": -0.8591
   },
   {
-    "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
-    "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T18:42:00+00:00",
-    "summary": "“We have $3.5 million in savings — $2.5 million of which are in retirement accounts.”",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Can Meta make money on AI beyond consumer ads? That’s a big question going into earnings.",
-    "link": "https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T18:42:00+00:00",
-    "summary": "While Meta Platforms has shaped up to be good at monetizing artificial intelligence in consumer-facing advertising, some analysts question whether the company’s AI models have applications beyond that.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
-    "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
-    "link": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-28T18:24:08+00:00",
-    "summary": "OpenAI has recently missed its own projections for user growth and revenue, the WSJ reported.",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "Americans are embracing this terrible car-buying habit. It’s costing them thousands of dollars.",
-    "link": "https://www.marketwatch.com/story/americans-are-embracing-this-terrible-car-buying-habit-its-costing-them-thousands-of-dollars-126f4ffd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T18:08:00+00:00",
-    "summary": "This mistake is easy to make, but hard to dig your way out of.",
-    "matched_keywords": [],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4286
-  },
-  {
-    "title": "‘The Devil Wears Prada 2’ is here — but the glory days of magazines like Vogue are long gone",
-    "link": "https://www.marketwatch.com/story/the-devil-wears-prada-2-is-here-but-the-glory-days-of-magazines-like-vogue-are-long-gone-7630db15?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T17:45:00+00:00",
-    "summary": "The original 2006 movie chronicled the world of fashion magazines at their peak, but since then ad pages and Vogue’s legendary September issue have been cut in half.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "Micron’s stock has boomed on AI optimism. Now comes the ‘tricky part.’",
-    "link": "https://www.marketwatch.com/story/microns-stock-has-boomed-on-ai-optimism-now-comes-the-tricky-part-8baec7cd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T17:13:00+00:00",
-    "summary": "One analyst says the next leg of the Micron rally needs to come from something other than what’s driven the stock up so sharply over the past year.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?",
-    "link": "https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T17:00:00+00:00",
-    "summary": "“The only thing holding me back is worrying about medical costs.”",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1635
-  },
-  {
     "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
     "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund",
     "source": "The Guardian Economics",
@@ -108,26 +160,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8885
-  },
-  {
-    "title": "How to get into the best college possible and pay the least for it",
-    "link": "https://www.marketwatch.com/story/how-to-get-into-the-best-college-possible-and-pay-the-least-for-it-2bc4e23c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T16:47:00+00:00",
-    "summary": "Eight tips from admissions adviser Andy Lockwood shared on MarketWatch’s “Don’t Short Yourself Live.”",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
-  },
-  {
-    "title": "These adviser fees are a hit to your portfolio — here are 2 questions to stop them",
-    "link": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-28T16:37:00+00:00",
-    "summary": "From revenue-sharing ‘kickbacks’ to interest on idle cash, hidden costs may be quietly eroding your returns.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   },
   {
     "title": "Meta shares look 'iffy' into earnings. How to trade it",
@@ -178,16 +210,6 @@
     "matched_keywords": [],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
-  },
-  {
-    "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
-    "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-27T18:45:54+00:00",
-    "summary": "It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
-    "matched_keywords": [],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
@@ -280,27 +302,5 @@
     "matched_keywords": [],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3612
-  },
-  {
-    "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-    "link": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-    "source": "The Guardian Economics",
-    "published": "2026-04-25T11:00:43+00:00",
-    "summary": "<p>The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attack</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan\">war on Iran is “folly”</a>; shadow chancellor Mel Stride should be “lined up for the sack”; and the Liberal Democrat Daisy Cooper’s plan for managing fuel shortages is “fundamentally economically illiterate”.</p><p>Rachel Reeves has always relished a political fight, but in recent days she has been swinging at her opponents with what looks very much like enjoyment.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2305
-  },
-  {
-    "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-    "link": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-24T21:11:23+00:00",
-    "summary": "Advanced nuclear reactor company X-energy began trading Friday as the AI boom and electrification broadly spark a flurry of interest in the nuclear industry.",
-    "matched_keywords": [],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
   }
 ]

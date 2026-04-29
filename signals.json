@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
+      "title": "Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on",
+      "link": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
+      "title": "Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on",
+      "link": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
       "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
       "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund"
     },
-    "last_updated": "2026-04-28T19:44:08.906030Z"
+    "last_updated": "2026-04-29T03:24:20.697437Z"
   }
 ]
