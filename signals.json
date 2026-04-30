@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
       "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
       "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
-      "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
+      "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
+      "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war"
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
-    "confidence": "Medium",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "High",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
-      "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates"
+      "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
+      "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war"
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T08:24:40.430468Z"
+    "last_updated": "2026-04-30T14:01:13.984340Z"
   }
 ]

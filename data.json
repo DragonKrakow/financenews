@@ -1,5 +1,66 @@
 [
   {
+    "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
+    "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T13:11:23+00:00",
+    "summary": "<p>First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fears</p><p>US <a href=\"https://www.theguardian.com/business/economicgrowth\">gross domestic product (GDP)</a> accelerated 2% in the first three months of 2026, though consumer spending is slowing as the war with Iran continues to impact energy prices.</p><p>The last GDP reading for the fourth quarter of 2025 showed that US economic growth slowed to a 0.5% pace, largely due to a contraction in government spending after massive layoffs of federal workers last year. The federal government is down 355,000 workers, or 11.8% of the workforce, since October 2024, according to the Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Inflation rate leaps to nearly 3-year high after Iran war. The Fed’s hands are now tied.",
+    "link": "https://www.marketwatch.com/story/inflation-rate-leaps-to-nearly-3-year-high-due-to-iran-war-now-the-feds-hands-are-tied-2b78b103?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-30T13:08:00+00:00",
+    "summary": "A key measure of inflation used by the Federal Reserve to set  interest rates posted the biggest increase in March in almost three years,  marking another major hurdle for a resilient but harried U.S. economy.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
+    "link": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T12:30:05+00:00",
+    "summary": "<p>ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in February</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise\">Air France-KLM cuts forecasts amid $2.4bn fuel bill rise</a></p></li></ul><p>Inflation across the eurozone soared to 3% this month as <a href=\"https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz\">the Iran war drove up energy prices</a> and growth stumbled.</p><p>Consumer prices rose by 3% in the year to April across the single currency bloc, data from the statistics body Eurostat showed on Thursday morning, up from 2.6% in March and 1.9% in February.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "Why Bank kept interest rates on hold despite message for UK to brace itself for Trumpflation",
+    "link": "https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T12:12:14+00:00",
+    "summary": "<p>The reasons are hardly comforting, pointing to the weakness of a battered economy in the face of this latest crisis</p><p>• <a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\"><strong>Business live – latest updates</strong></a><strong><br /></strong><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\"><strong>• Bank warns ‘higher inflation unavoidable’ after leaving interest rates on hold</strong></a></p><p>The message to the UK’s crisis-weary households from the Bank of England is: brace yourself for Trumpflation – and the higher interest rates it may yet take to rein it in.</p><p>Reading the Bank’s quarterly monetary policy report, it is not difficult to understand <a href=\"https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us\">the fury Rachel Reeves expressed while in Washington this month</a> at the “folly” of the US president’s war on Iran – its economic consequences will hit the UK hard.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.182
+  },
+  {
+    "title": "Bank of England warns ‘higher inflation is unavoidable’ after leaving interest rates on hold",
+    "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T11:01:02+00:00",
+    "summary": "<p>Bank governor says latest MPC decision is reasonable given unpredictability of events unfolding in Middle East</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Why Bank kept rates on hold despite UK bracing for Trumpflation</a></p></li></ul><p>The Bank of England has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as “higher inflation is unavoidable” as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee (MPC) voted to leave borrowing costs on hold on Thursday, with its nine-member committee split 8-1 in their decision.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.743
+  },
+  {
     "title": "Massive profits already earned by property investors to be shielded from Chalmers’ CGT changes",
     "link": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
     "source": "The Guardian Economics",
@@ -10,18 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9129
-  },
-  {
-    "title": "Powell won’t leave the Fed, pushing back further against Trump",
-    "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T23:13:00+00:00",
-    "summary": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
@@ -120,17 +169,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7324
-  },
-  {
-    "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-    "link": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-    "source": "The Guardian Economics",
-    "published": "2026-04-25T11:00:43+00:00",
-    "summary": "<p>The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attack</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan\">war on Iran is “folly”</a>; shadow chancellor Mel Stride should be “lined up for the sack”; and the Liberal Democrat Daisy Cooper’s plan for managing fuel shortages is “fundamentally economically illiterate”.</p><p>Rachel Reeves has always relished a political fight, but in recent days she has been swinging at her opponents with what looks very much like enjoyment.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2305
   }
 ]
