@@ -1,28 +1,63 @@
 [
   {
+    "title": "Kalshi users called it: Powell says he will stay on as Fed governor after chair term ends",
+    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-30T18:50:50+00:00",
+    "summary": "Prediction market platform users don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
+    "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T15:44:01+00:00",
+    "summary": "<p>Governor says decision to keep rates at 3.75% reasonable given unpredictability of events unfolding in Middle East</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Why Bank kept rates on hold despite UK bracing for Trumpflation</a></p></li></ul><p>The Bank of England has left interest rates unchanged at 3.75% but said the UK may need to brace for increases later this year, as “higher inflation is unavoidable” as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee (MPC) voted to leave borrowing costs on hold, but said that if energy costs stayed persistently high it might have to take a more “forceful” response to keep inflation under control.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Bank of England warns UK should brace for higher inflation due to Middle East war – video",
+    "link": "https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T14:45:12+00:00",
+    "summary": "<p>The <a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">Bank of England</a> has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee voted to leave borrowing costs on hold on Thursday, with its nine-members split 8-1 in their decision.</p><p>Andrew Bailey, the central bank’s governor, said the war in the Middle East was causing inflation to rise this year. </p><p>He added that the policymakers were monitoring the global situation and its impact on the UK economy 'very closely', but that the decision to hold rates at 3.75% for now is a 'reasonable place given the situation of the economy and the unpredictability of events in the Middle East'</p><p></p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates?filterKeyEvents=false&amp;page=with%3Ablock-69f333c18f08d9968172aae9#block-69f333c18f08d9968172aae9\">Business live</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Bank of England warns ‘higher inflation is unavoidable’ after leaving interest rates on hold</a></p></li></ul> <a href=\"https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9136
+  },
+  {
+    "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+    "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-30T14:36:04+00:00",
+    "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
     "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
     "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
     "source": "The Guardian Economics",
     "published": "2026-04-30T13:11:23+00:00",
-    "summary": "<p>First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fears</p><p>US <a href=\"https://www.theguardian.com/business/economicgrowth\">gross domestic product (GDP)</a> accelerated 2% in the first three months of 2026, though consumer spending is slowing as the war with Iran continues to impact energy prices.</p><p>The last GDP reading for the fourth quarter of 2025 showed that US economic growth slowed to a 0.5% pace, largely due to a contraction in government spending after massive layoffs of federal workers last year. The federal government is down 355,000 workers, or 11.8% of the workforce, since October 2024, according to the Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war\">Continue reading...</a>",
+    "summary": "<p>First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fears</p><p>US <a href=\"https://www.theguardian.com/business/economicgrowth\">gross domestic product (GDP)</a> accelerated to an annual rate of 2% in the first three months of 2026, though consumer spending is slowing as the war with Iran continues to impact energy prices.</p><p>The last GDP reading for the fourth quarter of 2025 showed that US economic growth slowed to an annual pace of 0.5%, largely due to a contraction in government spending after massive layoffs of federal workers last year. The federal government is down 355,000 workers, or 11.8% of the workforce, since October 2024, according to the Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war\">Continue reading...</a>",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6249
-  },
-  {
-    "title": "Inflation rate leaps to nearly 3-year high after Iran war. The Fed’s hands are now tied.",
-    "link": "https://www.marketwatch.com/story/inflation-rate-leaps-to-nearly-3-year-high-due-to-iran-war-now-the-feds-hands-are-tied-2b78b103?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-30T13:08:00+00:00",
-    "summary": "A key measure of inflation used by the Federal Reserve to set  interest rates posted the biggest increase in March in almost three years,  marking another major hurdle for a resilient but harried U.S. economy.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
   },
   {
     "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
@@ -41,24 +76,12 @@
     "link": "https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation",
     "source": "The Guardian Economics",
     "published": "2026-04-30T12:12:14+00:00",
-    "summary": "<p>The reasons are hardly comforting, pointing to the weakness of a battered economy in the face of this latest crisis</p><p>• <a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\"><strong>Business live – latest updates</strong></a><strong><br /></strong><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\"><strong>• Bank warns ‘higher inflation unavoidable’ after leaving interest rates on hold</strong></a></p><p>The message to the UK’s crisis-weary households from the Bank of England is: brace yourself for Trumpflation – and the higher interest rates it may yet take to rein it in.</p><p>Reading the Bank’s quarterly monetary policy report, it is not difficult to understand <a href=\"https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us\">the fury Rachel Reeves expressed while in Washington this month</a> at the “folly” of the US president’s war on Iran – its economic consequences will hit the UK hard.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Continue reading...</a>",
+    "summary": "<p>The reasons are hardly comforting, pointing to the weakness of a battered economy in the face of this latest crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Bank warns ‘higher inflation unavoidable’ after leaving interest rates on hold</a></p></li></ul><p>The message to the UK’s crisis-weary households from the Bank of England is: brace yourself for Trumpflation – and the higher interest rates it may yet take to rein it in.</p><p>Reading the Bank’s quarterly monetary policy report, it is not difficult to understand <a href=\"https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us\">the fury Rachel Reeves expressed while in Washington this month</a> at the “folly” of the US president’s war on Iran – its economic consequences will hit the UK hard.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.182
-  },
-  {
-    "title": "Bank of England warns ‘higher inflation is unavoidable’ after leaving interest rates on hold",
-    "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T11:01:02+00:00",
-    "summary": "<p>Bank governor says latest MPC decision is reasonable given unpredictability of events unfolding in Middle East</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Why Bank kept rates on hold despite UK bracing for Trumpflation</a></p></li></ul><p>The Bank of England has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as “higher inflation is unavoidable” as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee (MPC) voted to leave borrowing costs on hold on Thursday, with its nine-member committee split 8-1 in their decision.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
   },
   {
     "title": "Massive profits already earned by property investors to be shielded from Chalmers’ CGT changes",
@@ -73,18 +96,6 @@
     "sentiment_score": 0.9129
   },
   {
-    "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
-    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T20:11:46+00:00",
-    "summary": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
     "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
     "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
     "source": "The Guardian Economics",
@@ -96,18 +107,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
-    "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T19:32:45+00:00",
-    "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
   },
   {
     "title": "Fed holds rates steady but with highest level of dissent since 1992",

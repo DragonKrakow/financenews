@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
       "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
       "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "XLF",
@@ -45,7 +45,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "XLE",
@@ -54,10 +54,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
-      "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war"
+      "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
+      "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold"
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "LMT",
@@ -66,10 +66,10 @@
     "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
-      "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war"
+      "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
+      "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold"
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-04-30T14:01:13.984340Z"
+    "last_updated": "2026-04-30T19:25:38.414927Z"
   }
 ]
