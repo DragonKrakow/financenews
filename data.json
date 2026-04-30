@@ -1,5 +1,54 @@
 [
   {
+    "title": "Existing property investors likely to avoid more tax under possible CGT changes in Chalmers’ May budget",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T01:25:29+00:00",
+    "summary": "<p>Treasurer tells Commonwealth Bank podcast that he aims to ‘recognise the decisions that people have taken in the past’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Existing property investors look set to avoid paying more tax under Labor’s mooted <a href=\"https://www.theguardian.com/commentisfree/2026/apr/28/cgt-capital-gains-discounts-tax-australia\">changes to CGT</a> in next month’s budget, after Jim Chalmers said he wanted to “make sure that we recognise the decisions that people have taken in the past” and flagged any reforms would not generate “a huge amount of revenue”.</p><p>The treasurer is widely expected to modify the flat 50% tax discount on profits from the sale of assets held for more than one year, potentially returning to the pre-1999 model where capital gains are adjusted for inflation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5856
+  },
+  {
+    "title": "Powell won’t leave the Fed, pushing back further against Trump",
+    "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-04-29T23:13:00+00:00",
+    "summary": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
+    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T20:11:46+00:00",
+    "summary": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
+    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
+    "source": "The Guardian Economics",
+    "published": "2026-04-29T20:09:36+00:00",
+    "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
     "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
     "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
     "source": "CNBC Finance",
@@ -25,30 +74,6 @@
     "sentiment_score": 0.6124
   },
   {
-    "title": "Powell won’t leave the Fed, says he’ll stay on as governor after term as chair ends",
-    "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-04-29T19:15:00+00:00",
-    "summary": "“I will continue to serve as a governor for a period of time to be determined,” the outgoing Federal Reserve chair said Wednesday.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
-    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T18:53:28+00:00",
-    "summary": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
     "title": "Here's what changed in the new Fed statement",
     "link": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html",
     "source": "CNBC Finance",
@@ -59,19 +84,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
-    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T18:03:35+00:00",
-    "summary": "<p>Chair had said he’d leave after inquiry into building renovations but now says there are ‘remaining steps in the process’ he’s watching</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, is staying on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board left interest rates unchanged for the third time this year on Wednesday, despite Donald Trump’s continued demands for interest rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
   },
   {
     "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
@@ -132,17 +144,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9835
-  },
-  {
-    "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-    "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-21T13:13:52+00:00",
-    "summary": "In a much-anticipated hearing before the Banking Committee, the former Fed governor will face questioning over a variety of subjects",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   }
 ]
