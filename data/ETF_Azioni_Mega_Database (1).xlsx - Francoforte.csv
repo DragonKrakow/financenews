@@ -1,0 +1,101 @@
+Borsa,Azienda,Ticker,Settore,Paese,Dividend Yield %,Market Cap €bn
+Francoforte,SAP,SAP1,Tech,NL,2.49,818.9
+Francoforte,SAP,SAP2,Energia,NL,1.65,306
+Francoforte,SAP,SAP3,Tech,UK,0.77,675.5
+Francoforte,SAP,SAP4,Lusso,IT,0.47,621.4
+Francoforte,SAP,SAP5,Finanza,NL,2.47,84
+Francoforte,SAP,SAP6,Industria,IT,5.08,190.6
+Francoforte,SAP,SAP7,Energia,UK,3.16,794
+Francoforte,SAP,SAP8,Lusso,US,5.75,53.2
+Francoforte,SAP,SAP9,Energia,US,3.5,109.7
+Francoforte,SAP,SAP10,Lusso,NL,2.54,436.5
+Francoforte,Siemens,SIEM1,Sanità,DE,4.75,479.5
+Francoforte,Siemens,SIEM2,Difesa,NL,5.4,37.7
+Francoforte,Siemens,SIEM3,Tech,NL,4.79,431.8
+Francoforte,Siemens,SIEM4,Industria,DE,1.53,132.4
+Francoforte,Siemens,SIEM5,Difesa,DE,4.98,95.2
+Francoforte,Siemens,SIEM6,Lusso,UK,0.8,300.4
+Francoforte,Siemens,SIEM7,Sanità,IT,2.56,661.9
+Francoforte,Siemens,SIEM8,Industria,NL,2.75,153.2
+Francoforte,Siemens,SIEM9,Energia,US,3.59,892.3
+Francoforte,Siemens,SIEM10,Industria,FR,3.24,647.8
+Francoforte,Allianz,ALLI1,Lusso,UK,0.18,574.1
+Francoforte,Allianz,ALLI2,Tech,NL,3.25,738.6
+Francoforte,Allianz,ALLI3,Energia,DE,4.33,644.8
+Francoforte,Allianz,ALLI4,Industria,FR,5.52,118.4
+Francoforte,Allianz,ALLI5,Tech,FR,0.39,505.5
+Francoforte,Allianz,ALLI6,Difesa,IT,0.73,505.9
+Francoforte,Allianz,ALLI7,Industria,US,5.74,132
+Francoforte,Allianz,ALLI8,Energia,IT,2.23,771.6
+Francoforte,Allianz,ALLI9,Lusso,NL,4.5,203.7
+Francoforte,Allianz,ALLI10,Lusso,DE,1.76,478.3
+Francoforte,BASF,BASF1,Difesa,FR,4.3,452.7
+Francoforte,BASF,BASF2,Industria,DE,2.7,651.3
+Francoforte,BASF,BASF3,Finanza,NL,2.05,7.5
+Francoforte,BASF,BASF4,Tech,NL,5.66,183
+Francoforte,BASF,BASF5,Finanza,IT,4.9,174.4
+Francoforte,BASF,BASF6,Energia,DE,5.7,448.1
+Francoforte,BASF,BASF7,Finanza,IT,3.96,69.5
+Francoforte,BASF,BASF8,Finanza,UK,5.72,110.4
+Francoforte,BASF,BASF9,Lusso,NL,3.23,833.3
+Francoforte,BASF,BASF10,Difesa,US,4.19,214.1
+Francoforte,Deutsche Telekom,DEUT1,Lusso,US,4.31,532.6
+Francoforte,Deutsche Telekom,DEUT2,Energia,FR,5.67,91.6
+Francoforte,Deutsche Telekom,DEUT3,Industria,IT,4.39,27.8
+Francoforte,Deutsche Telekom,DEUT4,Finanza,UK,4.88,753.2
+Francoforte,Deutsche Telekom,DEUT5,Energia,DE,5.81,75.1
+Francoforte,Deutsche Telekom,DEUT6,Industria,UK,2.48,522.8
+Francoforte,Deutsche Telekom,DEUT7,Difesa,UK,5.41,356.3
+Francoforte,Deutsche Telekom,DEUT8,Energia,NL,2.27,83.1
+Francoforte,Deutsche Telekom,DEUT9,Lusso,UK,0.45,845.9
+Francoforte,Deutsche Telekom,DEUT10,Lusso,US,5.49,117.1
+Francoforte,Mercedes-Benz,MERC1,Sanità,UK,4.97,128
+Francoforte,Mercedes-Benz,MERC2,Lusso,DE,2.08,584.8
+Francoforte,Mercedes-Benz,MERC3,Difesa,IT,3.63,709.5
+Francoforte,Mercedes-Benz,MERC4,Industria,IT,4.73,85.1
+Francoforte,Mercedes-Benz,MERC5,Energia,US,3.35,302.2
+Francoforte,Mercedes-Benz,MERC6,Tech,FR,5.14,45.4
+Francoforte,Mercedes-Benz,MERC7,Industria,UK,1.11,695
+Francoforte,Mercedes-Benz,MERC8,Lusso,FR,1.49,202.9
+Francoforte,Mercedes-Benz,MERC9,Industria,UK,4.55,495.7
+Francoforte,Mercedes-Benz,MERC10,Finanza,DE,2.57,143.7
+Francoforte,BMW,BMW1,Energia,UK,2.92,534.3
+Francoforte,BMW,BMW2,Sanità,DE,1.23,310.4
+Francoforte,BMW,BMW3,Finanza,DE,1.43,406.6
+Francoforte,BMW,BMW4,Industria,UK,4.84,193.9
+Francoforte,BMW,BMW5,Sanità,FR,0.18,433.3
+Francoforte,BMW,BMW6,Energia,UK,0.99,320.5
+Francoforte,BMW,BMW7,Sanità,DE,2.95,422.1
+Francoforte,BMW,BMW8,Sanità,DE,4.44,214.5
+Francoforte,BMW,BMW9,Energia,DE,1.98,886.8
+Francoforte,BMW,BMW10,Tech,DE,4.49,186.6
+Francoforte,Rheinmetall,RHEI1,Difesa,DE,5.37,80.6
+Francoforte,Rheinmetall,RHEI2,Industria,DE,2.79,133.4
+Francoforte,Rheinmetall,RHEI3,Tech,IT,4.58,159.9
+Francoforte,Rheinmetall,RHEI4,Sanità,UK,3.76,717.9
+Francoforte,Rheinmetall,RHEI5,Industria,FR,4.89,135.9
+Francoforte,Rheinmetall,RHEI6,Tech,UK,5.31,770.7
+Francoforte,Rheinmetall,RHEI7,Difesa,FR,0.96,56.3
+Francoforte,Rheinmetall,RHEI8,Tech,FR,2.88,337
+Francoforte,Rheinmetall,RHEI9,Lusso,UK,1.24,651.6
+Francoforte,Rheinmetall,RHEI10,Energia,UK,5.62,699.4
+Francoforte,Adidas,ADID1,Finanza,NL,3.11,200.6
+Francoforte,Adidas,ADID2,Tech,IT,1.32,689.8
+Francoforte,Adidas,ADID3,Lusso,NL,5.17,14.7
+Francoforte,Adidas,ADID4,Tech,DE,0.42,682.5
+Francoforte,Adidas,ADID5,Tech,IT,4.97,121.5
+Francoforte,Adidas,ADID6,Energia,NL,4.31,764.6
+Francoforte,Adidas,ADID7,Energia,FR,3.27,444.4
+Francoforte,Adidas,ADID8,Energia,US,4.39,459.8
+Francoforte,Adidas,ADID9,Energia,FR,0.84,809.1
+Francoforte,Adidas,ADID10,Sanità,IT,1.95,855.5
+Francoforte,Infineon,INFI1,Tech,DE,3.87,669.9
+Francoforte,Infineon,INFI2,Difesa,NL,3.78,504.1
+Francoforte,Infineon,INFI3,Tech,UK,2.02,668.9
+Francoforte,Infineon,INFI4,Industria,DE,2.05,125.2
+Francoforte,Infineon,INFI5,Industria,NL,1.19,57.9
+Francoforte,Infineon,INFI6,Lusso,FR,5.44,701
+Francoforte,Infineon,INFI7,Industria,NL,2.06,671.8
+Francoforte,Infineon,INFI8,Industria,NL,5.93,262.1
+Francoforte,Infineon,INFI9,Sanità,DE,5.86,91.2
+Francoforte,Infineon,INFI10,Energia,NL,0.69,248.2
