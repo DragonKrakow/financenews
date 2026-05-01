@@ -1,3 +1,4 @@
+import csv
 import json
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
@@ -12,37 +13,125 @@ RSS_FEEDS = {
     "CNBC Finance": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
     "MarketWatch Top Stories": "http://feeds.marketwatch.com/marketwatch/topstories/",
     "The Guardian Economics": "https://www.theguardian.com/business/economics/rss",
+    "Telegram: geopolitics_prime (RSS.app)": "https://rss.app/r/feed/PNtcWNxuZCdoI4fa",
+    "Telegram: market_briefing_italia (RSS.app)": "https://rss.app/r/feed/lBa4vy39mNxqvI7b",
 }
 
-KEYWORDS = ["Interest Rates", "Election", "Trade War", "Fed", "Regulation"]
+KEYWORDS = [
+    "Interest Rates",
+    "Election",
+    "Trade War",
+    "Fed",
+    "Regulation",
+    # Expanded themes
+    "Defense",
+    "Aerospace",
+    "Commodities",
+    "Oil",
+    "Natural Gas",
+    "Gold",
+    "Silver",
+    "Mining",
+    "Metals",
+    "Semiconductors",
+    "Chips",
+    "AI",
+    "Artificial Intelligence",
+    "Robotics",
+    "Clean Energy",
+    "Renewables",
+    "Supply Chain",
+    "Logistics",
+    "Shipping",
+    "Transport",
+]
+
 NEGATIVE_SENTIMENT_THRESHOLD = -0.2
 IMPACT_RULES = {
     "geopolitical_risk": {
-        "keywords": ["war", "strike", "conflict"],
+        "keywords": ["war", "strike", "conflict", "missile", "drone", "nato", "sanctions"],
         "requires_negative_sentiment": True,
         "impact": {
             "LMT": "Bullish",
             "XLE": "Bullish",
+            "ITA": "Bullish",
+            "XAR": "Bullish",
+            "VANECK_DEFENSE_UCITS": "Bullish",
+            "WTEU_DEFENCE_UCITS": "Bullish",
+            "GLD": "Bullish",
         },
-        "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums.",
+        "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold.",
     },
     "rate_cut_dovish": {
-        "keywords": ["rate cut", "dovish"],
+        "keywords": ["rate cut", "dovish", "soft landing", "disinflation"],
         "requires_negative_sentiment": False,
         "impact": {
             "QQQ": "Bullish",
             "TLT": "Bullish",
+            "XLK": "Bullish",
+            "VGT": "Bullish",
         },
         "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds.",
     },
     "trade_tariff_pressure": {
-        "keywords": ["tariff", "trade war"],
+        "keywords": ["tariff", "trade war", "export controls", "chip ban"],
         "requires_negative_sentiment": False,
         "impact": {
             "TSLA": "Bearish",
             "NVDA": "Bearish",
+            "SOXX": "Bearish",
+            "SMH": "Bearish",
         },
         "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies.",
+    },
+    "oil_supply_shock": {
+        "keywords": ["opec", "oil", "brent", "wti", "pipeline", "refinery", "hormuz"],
+        "requires_negative_sentiment": False,
+        "impact": {
+            "XLE": "Bullish",
+            "VDE": "Bullish",
+            "USO": "Bullish",
+        },
+        "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures.",
+    },
+    "gas_supply_shock": {
+        "keywords": ["natural gas", "lng", "ttf", "storage", "pipeline"],
+        "requires_negative_sentiment": False,
+        "impact": {
+            "UNG": "Bullish",
+        },
+        "reasoning": "Gas supply/demand shocks can drive natural gas volatility and influence gas-linked exposures.",
+    },
+    "semis_ai_boom": {
+        "keywords": ["semiconductor", "chip", "chips", "gpu", "ai", "artificial intelligence", "data center"],
+        "requires_negative_sentiment": False,
+        "impact": {
+            "NVDA": "Bullish",
+            "SOXX": "Bullish",
+            "SMH": "Bullish",
+            "VVSM": "Bullish",
+        },
+        "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles.",
+    },
+    "transport_supply_chain": {
+        "keywords": ["shipping", "freight", "port", "red sea", "suez", "logistics", "supply chain"],
+        "requires_negative_sentiment": False,
+        "impact": {
+            "IYT": "Bullish",
+            "XTN": "Bullish",
+            "SUPL": "Bullish",
+        },
+        "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures.",
+    },
+    "precious_metals_riskoff": {
+        "keywords": ["risk-off", "safe haven", "gold", "silver", "bank stress"],
+        "requires_negative_sentiment": False,
+        "impact": {
+            "GLD": "Bullish",
+            "PHYS_GOLD_ETC": "Bullish",
+            "WT_PHYSICAL_SILVER": "Bullish",
+        },
+        "reasoning": "Risk-off sentiment can support precious metals demand.",
     },
 }
 
@@ -75,6 +164,40 @@ def normalize_published(raw_value: str) -> str:
 def load_watchlist(repo_root: Path) -> list[dict]:
     watchlist_path = repo_root / "watchlist.json"
     return json.loads(watchlist_path.read_text(encoding="utf-8"))
+
+
+def load_csv_tickers(csv_path: Path) -> list[str]:
+    if not csv_path.exists():
+        return []
+
+    with csv_path.open("r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        tickers = []
+        for row in reader:
+            ticker = (row.get("Ticker") or "").strip()
+            if not ticker:
+                continue
+            tickers.append(ticker)
+    # de-dupe, stable
+    seen = set()
+    out = []
+    for t in tickers:
+        if t in seen:
+            continue
+        seen.add(t)
+        out.append(t)
+    return out
+
+
+def merge_watchlist(base: list[dict], extra_tickers: list[str]) -> list[dict]:
+    existing = {item.get("symbol") for item in base}
+    merged = list(base)
+    for t in extra_tickers:
+        if t in existing:
+            continue
+        merged.append({"symbol": t, "name": t, "type": "Ticker", "tags": ["Imported", "Database"]})
+        existing.add(t)
+    return merged
 
 
 def confidence_from_count(count: int) -> str:
@@ -221,8 +344,13 @@ def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
     output_file = repo_root / "data.json"
     signals_file = repo_root / "signals.json"
+
     news_items = generate_news_data()
-    watchlist = load_watchlist(repo_root)
+
+    base_watchlist = load_watchlist(repo_root)
+    imported_tickers = load_csv_tickers(repo_root / "data" / "etf_azioni_francoforte.csv")
+    watchlist = merge_watchlist(base_watchlist, imported_tickers)
+
     signals = generate_signals(news_items, watchlist)
 
     output_file.write_text(json.dumps(news_items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
