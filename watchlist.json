@@ -52,5 +52,45 @@
     "name": "Tesla, Inc.",
     "type": "Stock",
     "tags": ["Consumer", "Automotive", "Trade Exposure"]
-  }
+  },
+
+  {"symbol":"ITA","name":"iShares U.S. Aerospace & Defense ETF","type":"ETF","tags":["Defense","Aerospace"]},
+  {"symbol":"XAR","name":"SPDR S&P Aerospace & Defense ETF","type":"ETF","tags":["Defense","Aerospace"]},
+  {"symbol":"VANECK_DEFENSE_UCITS","name":"VanEck Defense UCITS ETF","type":"ETF","tags":["Defense","Europe"]},
+  {"symbol":"WTEU_DEFENCE_UCITS","name":"WisdomTree Europe Defence UCITS ETF","type":"ETF","tags":["Defense","Europe"]},
+
+  {"symbol":"INVESCO_BCOM_UCITS","name":"Invesco Bloomberg Commodity UCITS ETF","type":"ETF","tags":["Commodities","Broad"]},
+  {"symbol":"WT_ENH_COMMODITY_UCITS","name":"WisdomTree Enhanced Commodity UCITS ETF","type":"ETF","tags":["Commodities","Broad"]},
+  {"symbol":"ISHR_DIV_COM_SWAP_UCITS","name":"iShares Diversified Commodity Swap UCITS ETF","type":"ETF","tags":["Commodities","Broad"]},
+
+  {"symbol":"MSCI_GLBL_METALS_MINING_UCITS","name":"iShares MSCI Global Metals & Mining Producers UCITS ETF","type":"ETF","tags":["Mining","Metals"]},
+  {"symbol":"XME","name":"SPDR S&P Metals & Mining ETF","type":"ETF","tags":["Mining","Metals"]},
+
+  {"symbol":"PHYS_GOLD_ETC","name":"iShares Physical Gold ETC","type":"ETC","tags":["Gold","Precious Metals"]},
+  {"symbol":"WT_PHYSICAL_SILVER","name":"WisdomTree Physical Silver","type":"ETC","tags":["Silver","Precious Metals"]},
+
+  {"symbol":"SMH","name":"VanEck Semiconductor ETF","type":"ETF","tags":["Semiconductors","AI"]},
+  {"symbol":"VVSM","name":"VanEck Semiconductor UCITS ETF","type":"ETF","tags":["Semiconductors","AI","UCITS"]},
+  {"symbol":"SOXX","name":"iShares Semiconductor ETF","type":"ETF","tags":["Semiconductors","AI"]},
+  {"symbol":"AMUNDI_SEMI_UCITS","name":"Amundi MSCI Semiconductors UCITS ETF","type":"ETF","tags":["Semiconductors","AI","UCITS"]},
+
+  {"symbol":"VGT","name":"Vanguard Information Technology ETF","type":"ETF","tags":["Technology","Broad Tech"]},
+  {"symbol":"XLK","name":"Technology Select Sector SPDR Fund","type":"ETF","tags":["Technology","Broad Tech"]},
+  {"symbol":"ISHR_WORLD_IT_UCITS","name":"iShares MSCI World Information Technology UCITS ETF","type":"ETF","tags":["Technology","Broad Tech","UCITS"]},
+
+  {"symbol":"BOTZ","name":"Global X Robotics & Artificial Intelligence ETF","type":"ETF","tags":["AI","Robotics"]},
+  {"symbol":"RBOT","name":"iShares Automation & Robotics UCITS ETF","type":"ETF","tags":["AI","Robotics","UCITS"]},
+  {"symbol":"WT_AI_UCITS","name":"WisdomTree Artificial Intelligence UCITS ETF","type":"ETF","tags":["AI","UCITS"]},
+  {"symbol":"XTRACKERS_AI_BIGDATA","name":"Xtrackers Artificial Intelligence & Big Data ETF","type":"ETF","tags":["AI","Big Data"]},
+
+  {"symbol":"VDE","name":"Vanguard Energy ETF","type":"ETF","tags":["Energy","Traditional"]},
+  {"symbol":"INRG","name":"iShares Global Clean Energy UCITS ETF","type":"ETF","tags":["Energy","Clean","UCITS"]},
+  {"symbol":"LG_CLEAN_ENERGY","name":"L&G Clean Energy ETF","type":"ETF","tags":["Energy","Clean"]},
+
+  {"symbol":"IYT","name":"iShares Transportation Average ETF","type":"ETF","tags":["Supply Chain","Transportation"]},
+  {"symbol":"XTN","name":"SPDR S&P Transportation ETF","type":"ETF","tags":["Supply Chain","Transportation"]},
+  {"symbol":"SUPL","name":"ProShares Supply Chain Logistics ETF","type":"ETF","tags":["Supply Chain","Logistics"]},
+
+  {"symbol":"USO","name":"United States Oil Fund","type":"ETF","tags":["Commodities","Oil"]},
+  {"symbol":"UNG","name":"United States Natural Gas Fund","type":"ETF","tags":["Commodities","Natural Gas"]}
 ]
