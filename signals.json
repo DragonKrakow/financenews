@@ -9,31 +9,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "QQQ",
     "signal": "Bullish",
-    "confidence": "Low",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
-      "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
+      "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
+      "link": "https://www.marketwatch.com/story/new-fed-chair-warsh-will-have-a-fight-on-his-hands-if-he-pushes-for-interest-rate-cuts-a1fb5595?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "TLT",
     "signal": "Bullish",
-    "confidence": "Low",
-    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 1 related headline(s) from the latest news run. Educational use only.",
+    "confidence": "Medium",
+    "reasoning": "Dovish policy expectations can support growth assets and longer-duration bonds. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
-      "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate"
+      "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
+      "link": "https://www.marketwatch.com/story/new-fed-chair-warsh-will-have-a-fight-on-his-hands-if-he-pushes-for-interest-rate-cuts-a1fb5595?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "XLF",
@@ -45,31 +45,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold"
+      "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
+      "link": "https://www.marketwatch.com/story/new-fed-chair-warsh-will-have-a-fight-on-his-hands-if-he-pushes-for-interest-rate-cuts-a1fb5595?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Negative geopolitical headlines can increase defense demand and energy risk premiums. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
-      "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold"
+      "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
+      "link": "https://www.marketwatch.com/story/new-fed-chair-warsh-will-have-a-fight-on-his-hands-if-he-pushes-for-interest-rate-cuts-a1fb5595?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "GLD",
@@ -81,7 +81,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "NVDA",
@@ -93,7 +93,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   },
   {
     "ticker": "TSLA",
@@ -105,6 +105,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-05-01T13:22:51.674342Z"
+    "last_updated": "2026-05-01T19:15:12.462034Z"
   }
 ]
