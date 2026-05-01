@@ -1,15 +1,89 @@
 [
   {
-    "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
-    "link": "https://www.marketwatch.com/story/new-fed-chair-warsh-will-have-a-fight-on-his-hands-if-he-pushes-for-interest-rate-cuts-a1fb5595?mod=mw_rss_topstories",
+    "title": "Trump talks up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries",
+    "link": "https://www.marketwatch.com/story/trump-to-talk-up-his-push-to-lower-costs-as-analysts-see-bruising-midterms-for-gop-due-to-economic-worries-66086c74?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-01T17:56:00+00:00",
-    "summary": "Statements from three officials show inflation fears are giving them cold feet about any more rate cuts.",
+    "published": "2026-05-01T21:42:00+00:00",
+    "summary": "President Donald Trump on Friday delivered a wide-ranging speech that focused in part on his efforts to lower taxes and other costs, as analysts predict defeats for his party in November’s midterm elections due to voters’ affordability concerns.",
     "matched_keywords": [
-      "Fed"
+      "Election"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7703
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+    "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-01T21:39:03+00:00",
+    "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Apple just gave a clue that an AI acquisition may be in the cards",
+    "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-01T19:35:00+00:00",
+    "summary": "Apple is officially retiring its net-cash-neutral target, and some suspect the iPhone maker is preparing for a major acquisition to close the gap in the AI race.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+    "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-01T18:12:52+00:00",
+    "summary": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8689
+  },
+  {
+    "title": "If Spirit ends up shutting down, these airlines stand to benefit",
+    "link": "https://www.marketwatch.com/story/spirits-days-of-offering-no-frills-flights-may-be-numbered-as-shutdown-looms-de1ef648?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-01T17:59:00+00:00",
+    "summary": "A shuttered airline would open up precious airport slots, gates and routes, and could create opportunities for other carriers to expand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9246
+  },
+  {
+    "title": "Wall Street is finding a new use for the latest retail-trading obsession",
+    "link": "https://www.marketwatch.com/story/wall-street-is-finding-a-new-use-for-the-latest-retail-trading-obsession-07378fbe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-01T17:58:00+00:00",
+    "summary": "As more people start using prediction markets, Wall Street is finding ways to derive value from them.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Average price of gas in California edges past $6 a gallon, highest level in four years",
+    "link": "https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-05-01T17:00:34+00:00",
+    "summary": "<p>Analysts say Americans have now paid $21.7bn more to fill their tanks since the start of the US war on Iran</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/01/exxon-chevron-quarterly-earnings\">Exxon and Chevron quarterly earnings fall despite soaring oil prices</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>The average price for a gallon of gas in <a href=\"https://www.theguardian.com/us-news/california\">California</a> rose to $6 this week as fuel prices across the US reached their highest level in almost four years.</p><p>The American Automobile Association reported on Friday that California consumers were paying an average of $6.06, while the national average hit $4.39. The Golden state is the most expensive US market for gas but costs have also risen nationally with a 27-cent rise this week following two weeks of falling prices, AAA said in a <a href=\"https://gasprices.aaa.com/oil-prices-spike-national-average-up-nearly-30-cents-in-one-week/\">statement</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4854
   },
   {
     "title": "The Guardian view on Britain’s fragile systems: when global shocks hit your shopping bill | Editorial",
@@ -18,22 +92,83 @@
     "published": "2026-05-01T16:53:13+00:00",
     "summary": "<p>Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded</p><p>When the Bank of England warned this week that food inflation could <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/april/monetary-policy-report-april-2026.pdf\">reach 7%</a> by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, <a href=\"https://www.bbc.co.uk/news/articles/cdj7dydl2lno\">fertiliser</a> and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption.</p><p>The Bank is right that <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">interest rates</a> cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security that the country that has yet to build into its infrastructure.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates"
+      "Interest Rates",
+      "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6387
   },
   {
-    "title": "Trump to talk up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries",
-    "link": "https://www.marketwatch.com/story/trump-to-talk-up-his-push-to-lower-costs-as-analysts-see-bruising-midterms-for-gop-due-to-economic-worries-66086c74?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-01T16:37:00+00:00",
-    "summary": "President Donald Trump on Friday is slated to give a speech about his efforts to lower taxes and other costs, as analysts predict defeats for his party in November’s midterm elections in large part due to voters’ affordability concerns.",
+    "title": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
+    "link": "https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
+    "source": "The Guardian Economics",
+    "published": "2026-05-01T15:00:03+00:00",
+    "summary": "<p>The seven-day trial in the watchdog’s case against the supermarket offered a rare glimpse into its internal machinations</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Picture this: you’re at Woolworths, weighing up which laundry powder offers the best value for money.</p><p>A 2kg box of Fab is on sale with a “Prices Dropped” promotional ticket showing it “Is” $8. The label also says the laundry powder has been reduced, and “Was” $14.</p> <a href=\"https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop\">Continue reading...</a>",
     "matched_keywords": [
-      "Election"
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9359
+  },
+  {
+    "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
+    "link": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
+    "source": "The Guardian Economics",
+    "published": "2026-05-01T09:31:08+00:00",
+    "summary": "<p>Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment</p><p>NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations.</p><p>Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”.</p> <a href=\"https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "China’s EV price war turns into AI arms race beyond cheaper cars",
+    "link": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-01T04:19:25+00:00",
+    "summary": "Chinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
+    "sentiment_score": -0.8248
+  },
+  {
+    "title": "China’s self-driving truck leaders say AI breakthroughs won’t accelerate rollout — here’s why",
+    "link": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-01T01:10:28+00:00",
+    "summary": "Rapid advances in AI for coding and chatbots doesn't change the timeline for getting self-driving vehicles on the road, industry executives in China said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Tony Blair’s thinktank urges Labour to scrap ‘unaffordable’ pension triple lock",
+    "link": "https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T23:01:30+00:00",
+    "summary": "<p>State pension was ‘built for a different era’, says former PM’s organisation amid pressure on government finances</p><p>Labour has been urged by Tony Blair’s thinktank to scrap the <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">pensions triple lock</a> amid mounting pressure on government finances.</p><p>With the Iran war threatening to derail public spending plans, the Tony Blair Institute (TBI) said the “unaffordable” manifesto pledge to maintain the triple lock should be torn up as part of a wider overhaul of the state pension.</p> <a href=\"https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9313
+  },
+  {
+    "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+    "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-30T19:36:55+00:00",
+    "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7351
   },
   {
     "title": "Kalshi users called it: Powell says he will stay on as Fed governor after chair term ends",
@@ -42,7 +177,8 @@
     "published": "2026-04-30T18:50:50+00:00",
     "summary": "Prediction market platform users don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
     "matched_keywords": [
-      "Fed"
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0516
@@ -54,7 +190,8 @@
     "published": "2026-04-30T15:44:01+00:00",
     "summary": "<p>Governor says decision to keep rates at 3.75% reasonable given unpredictability of events unfolding in Middle East</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Why Bank kept rates on hold despite UK bracing for Trumpflation</a></p></li></ul><p>The Bank of England has left interest rates unchanged at 3.75% but said the UK may need to brace for increases later this year, as “higher inflation is unavoidable” as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee (MPC) voted to leave borrowing costs on hold, but said that if energy costs stayed persistently high it might have to take a more “forceful” response to keep inflation under control.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates"
+      "Interest Rates",
+      "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
@@ -66,7 +203,8 @@
     "published": "2026-04-30T14:45:12+00:00",
     "summary": "<p>The <a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">Bank of England</a> has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee voted to leave borrowing costs on hold on Thursday, with its nine-members split 8-1 in their decision.</p><p>Andrew Bailey, the central bank’s governor, said the war in the Middle East was causing inflation to rise this year. </p><p>He added that the policymakers were monitoring the global situation and its impact on the UK economy 'very closely', but that the decision to hold rates at 3.75% for now is a 'reasonable place given the situation of the economy and the unpredictability of events in the Middle East'</p><p></p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates?filterKeyEvents=false&amp;page=with%3Ablock-69f333c18f08d9968172aae9#block-69f333c18f08d9968172aae9\">Business live</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Bank of England warns ‘higher inflation is unavoidable’ after leaving interest rates on hold</a></p></li></ul> <a href=\"https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates"
+      "Interest Rates",
+      "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9136
@@ -78,10 +216,24 @@
     "published": "2026-04-30T14:36:04+00:00",
     "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
     "matched_keywords": [
-      "Fed"
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4404
+  },
+  {
+    "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
+    "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T13:38:54+00:00",
+    "summary": "<p>Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shut</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li></ul><p>The global oil price hit $126 a barrel on Thursday, its highest level since 2022, after Donald Trump said the US blockade of Iranian ports could last for months and peace talks remained stalled.</p><p>After surging more than 13% in 24 hours, the price of Brent crude futures reached its highest price since the war began on 28 February. Not since Russia’s 2022 invasion of Ukraine has Brent topped $120, with the price then peaking at $139.</p> <a href=\"https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
   },
   {
     "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
@@ -90,7 +242,9 @@
     "published": "2026-04-30T13:11:23+00:00",
     "summary": "<p>First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fears</p><p>US <a href=\"https://www.theguardian.com/business/economicgrowth\">gross domestic product (GDP)</a> accelerated to an annual rate of 2% in the first three months of 2026, though consumer spending is slowing as the war with Iran continues to impact energy prices.</p><p>The last GDP reading for the fourth quarter of 2025 showed that US economic growth slowed to an annual pace of 0.5%, largely due to a contraction in government spending after massive layoffs of federal workers last year. The federal government is down 355,000 workers, or 11.8% of the workforce, since October 2024, according to the Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war\">Continue reading...</a>",
     "matched_keywords": [
-      "Fed"
+      "Fed",
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6249
@@ -102,7 +256,9 @@
     "published": "2026-04-30T12:30:05+00:00",
     "summary": "<p>ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in February</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise\">Air France-KLM cuts forecasts amid $2.4bn fuel bill rise</a></p></li></ul><p>Inflation across the eurozone soared to 3% this month as <a href=\"https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz\">the Iran war drove up energy prices</a> and growth stumbled.</p><p>Consumer prices rose by 3% in the year to April across the single currency bloc, data from the statistics body Eurostat showed on Thursday morning, up from 2.6% in March and 1.9% in February.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates"
+      "Interest Rates",
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
@@ -120,16 +276,67 @@
     "sentiment_score": 0.182
   },
   {
+    "title": "Here's why surging oil prices may not derail the consumer trade",
+    "link": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-30T11:16:27+00:00",
+    "summary": "Wall Street is already looking beyond Big Tech quarterly results.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2235
+  },
+  {
+    "title": "Why is Britain’s economy so stuck? It’s the tension between what voters want and what the bond markets allow | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/30/britain-economy-stuck-tension-bond-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T07:00:12+00:00",
+    "summary": "<p>There is no such thing as the Bond Dealers party, but there might as well be – the people who trade in UK debt exert a stranglehold over our politics</p><p>The days of two-party politics are over. When voters go to the polls in England next week, they will have five main contenders to choose from. In Scotland and Wales, the nationalists make it a six-strong race.</p><p>This fragmentation reflects the deep discontent with Labour and the Conservatives. One thing in common between the Greens and Reform UK is that they are each benefiting from a sense that radical parties are worth a punt because nothing could be worse than it is now.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/apr/30/britain-economy-stuck-tension-bond-markets\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7919
+  },
+  {
+    "title": "Rising costs forcing 3m UK households to skip meals, Which? report finds",
+    "link": "https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report",
+    "source": "The Guardian Economics",
+    "published": "2026-04-30T05:01:08+00:00",
+    "summary": "<p>Consumer insight tracker shows 85% are worried about food prices and a majority think the economy will deteriorate</p><p>Three million UK households are being forced to skip meals as consumers resort to drastic measures to deal with rising costs, according to a Which? report published on Thursday.</p><p>The conflict in the Middle East and subsequent surge in oil and raw material prices has led to businesses <a href=\"https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets\">preparing to raise prices</a>, putting more pressure on household finances and hitting consumer confidence.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8538
+  },
+  {
     "title": "Massive profits already earned by property investors to be shielded from Chalmers’ CGT changes",
     "link": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
     "source": "The Guardian Economics",
     "published": "2026-04-30T01:25:29+00:00",
     "summary": "<p>Treasurer tells Commonwealth Bank podcast that he aims to ‘recognise the decisions that people have taken in the past’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Massive paper profits earned over recent years by property investors will be shielded from Labor’s changes to the CGT discount, after Jim Chalmers said any new tax rules would “recognise the decisions that people have taken in the past”.</p><p>The treasurer is widely expected to modify the 50% tax discount on profits from the sale of assets held for more than one year, potentially returning to the pre-1999 model where capital gains are adjusted for inflation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors\">Continue reading...</a>",
     "matched_keywords": [
-      "Fed"
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9129
+  },
+  {
+    "title": "SoFi CEO defends decision to hold guidance steady",
+    "link": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T22:48:10+00:00",
+    "summary": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0176
   },
   {
     "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
@@ -139,7 +346,8 @@
     "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Fed"
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
@@ -168,41 +376,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T17:18:56+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as Brent crude approaches highest level since Middle East conflict began</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/apr/29/astrazeneca-makes-surprise-u-turn-with-300m-pharma-investment\"><strong>AstraZeneca makes surprise U-turn with £300m pharma investment in UK</strong></a></p></li></ul><p><strong>The oil price has hit its highest level in a month, following reports that President Trump has instructed aides to prepare for an extended blockade of Iran.</strong></p><p>Brent crude has risen by 1.8% this morning to above $113 a barrel, the highest since 31 March, a week before the US-Iran ceasefire was agreed.</p><p>He assessed that his other options—resume bombing or walk away from the conflict—carried more risk than maintaining the blockade, officials said.</p><p>Yet continuing the blockade also prolongs a conflict that has driven up gas prices, hurt Trump’s poll numbers and further darkened Republicans’ prospects in the midterm elections. It has also caused the lowest number of transits through the Strait of Hormuz since the war began.</p> <a href=\"https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9623
-  },
-  {
-    "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
-    "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T15:35:18+00:00",
-    "summary": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
-    "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-27T18:36:16+00:00",
-    "summary": "Dalio said that if Kevin Warsh were to cut rates, it would risk damaging confidence in the central bank at a critical moment.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7324
   }
 ]
