@@ -178,7 +178,7 @@ def load_csv_tickers(csv_path: Path) -> list[str]:
             if not ticker:
                 continue
             tickers.append(ticker)
-    # de-dupe, stable
+
     seen = set()
     out = []
     for t in tickers:
@@ -255,14 +255,12 @@ def generate_news_data() -> list[dict]:
             if kws:
                 matched_items.append(item)
 
-    # Sort newest first
     def sort_key(it):
         return (it.get("published") or "", it.get("title") or "")
 
     matched_items.sort(key=sort_key, reverse=True)
     all_items.sort(key=sort_key, reverse=True)
 
-    # Fallback: if too few keyword matches, still publish recent items
     if len(matched_items) < 10:
         return all_items[:30]
     return matched_items[:30]
@@ -348,7 +346,7 @@ def main() -> None:
     news_items = generate_news_data()
 
     base_watchlist = load_watchlist(repo_root)
-    imported_tickers = load_csv_tickers(repo_root / "data" / "etf_azioni_francoforte.csv")
+    imported_tickers = load_csv_tickers(repo_root / "data" / "ETF_Azioni_Mega_Database (1).xlsx - Francoforte.csv")
     watchlist = merge_watchlist(base_watchlist, imported_tickers)
 
     signals = generate_signals(news_items, watchlist)
