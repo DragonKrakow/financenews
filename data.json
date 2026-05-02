@@ -1,5 +1,92 @@
 [
   {
+    "title": "Meet the unsinkable U.S. economy — oil prices are surging, Iran tensions are rising, but it won’t crack",
+    "link": "https://www.marketwatch.com/story/meet-the-unsinkable-u-s-economy-oil-prices-are-surging-iran-tensions-are-rising-but-it-wont-crack-ee27477f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T13:00:00+00:00",
+    "summary": "High tariffs, stubborn inflation, government shutdowns, war with Iran, rising oil prices — nothing in the turbulent past year has poked a hole in a seemingly unsinkable U.S. economy.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8945
+  },
+  {
+    "title": "EV drivers are taking a victory lap — right past the gas stations selling $4-a-gallon fuel",
+    "link": "https://www.marketwatch.com/story/ev-drivers-are-taking-a-victory-lap-right-past-the-gas-stations-selling-4-a-gallon-fuel-6931f634?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T13:00:00+00:00",
+    "summary": "Electric-vehicle drivers are taking a victory lap as the war in Iran has slowed global oil supplies and pushed up the cost of gasoline.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "America’s biggest oil companies are making less money than before the Iran war",
+    "link": "https://www.marketwatch.com/story/americas-biggest-oil-companies-are-making-less-money-than-before-the-iran-war-bff3b455?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T12:30:00+00:00",
+    "summary": "Even once the Strait of Hormuz reopens, it will take months for oil and gas flows to get back to normal, Exxon and Chevron warn.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "This Japanese toilet maker seeking ‘the perfect flush’ is moonlighting as a hot AI play",
+    "link": "https://www.marketwatch.com/story/this-japanese-toilet-maker-seeking-the-perfect-flush-is-moonlighting-as-a-hot-ai-play-30d11f1a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T12:00:00+00:00",
+    "summary": "Toto is “aiming to achieve a toilet that never needs cleaning.” It’s also supplying electrostatic chucks — a semiconductor-manufacturing component critical to the memory-chip boom.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
+    "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T11:30:00+00:00",
+    "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Japan just put a ‘Band-Aid’ on the yen. Why high oil prices could soon rip it off.",
+    "link": "https://www.marketwatch.com/story/japan-just-put-a-band-aid-on-the-yen-why-high-oil-prices-could-soon-rip-it-off-21374282?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T11:30:00+00:00",
+    "summary": "Concerns about high oil prices are adding to inflation fears in Japan, as the BOJ just moved to rescue the yen from a roughly 40-year low.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
+    "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T10:30:00+00:00",
+    "summary": "“This letter is in memory of all the patients who died waiting for their medical appointments to begin.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8402
+  },
+  {
     "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
     "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,30 +97,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.296
-  },
-  {
-    "title": "Thinking of raiding your 401(k) for a hardship withdrawal? Ask these questions first.",
-    "link": "https://www.marketwatch.com/story/3-questions-to-ask-before-raiding-your-401-k-for-a-hardship-withdrawal-d514e9b2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-01T22:06:00+00:00",
-    "summary": "Money coaches tell you how to move past the stigma and decide if tapping your retirement fund is rational or reactive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Trump talks up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries",
-    "link": "https://www.marketwatch.com/story/trump-to-talk-up-his-push-to-lower-costs-as-analysts-see-bruising-midterms-for-gop-due-to-economic-worries-66086c74?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-01T21:42:00+00:00",
-    "summary": "President Donald Trump on Friday delivered a wide-ranging speech that focused in part on his efforts to lower taxes and other costs, as analysts predict defeats for his party in November’s midterm elections due to voters’ affordability concerns.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
   },
   {
     "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
@@ -313,68 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9129
-  },
-  {
-    "title": "SoFi CEO defends decision to hold guidance steady",
-    "link": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T22:48:10+00:00",
-    "summary": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0176
-  },
-  {
-    "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
-    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T20:09:36+00:00",
-    "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Fed holds rates steady but with highest level of dissent since 1992",
-    "link": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T19:25:28+00:00",
-    "summary": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Here's what changed in the new Fed statement",
-    "link": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T18:06:00+00:00",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in March.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Traders brace for $800 billion in earnings-related stock movement",
-    "link": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T17:24:27+00:00",
-    "summary": "Wenesday night is the main event for earnings season, with Alphabet, Amazon, Meta and Microsoft – four of the \"Magnificent Seven\" — set to report.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
   }
 ]
