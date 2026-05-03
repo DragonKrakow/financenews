@@ -1,5 +1,42 @@
 [
   {
+    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-02T23:23:07+00:00",
+    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8555
+  },
+  {
+    "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
+    "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T20:45:00+00:00",
+    "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
+    "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-02T20:10:00+00:00",
+    "summary": "“This letter is in memory of all the patients who died waiting for their medical appointments to begin.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8402
+  },
+  {
     "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
     "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -37,19 +74,6 @@
     "sentiment_score": -0.3869
   },
   {
-    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-02T16:37:52+00:00",
-    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8555
-  },
-  {
     "title": "These 3 companies are keeping the lights on for AI’s energy demand — and cashing in",
     "link": "https://www.marketwatch.com/story/big-techs-ai-build-out-needs-these-3-companies-to-keep-the-lights-on-and-theyre-cashing-in-e46bcba2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -60,18 +84,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3919
-  },
-  {
-    "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-    "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T13:54:00+00:00",
-    "summary": "The S&amp;P 500 just banked its best month since 2020 — but to keep those gains, stop celebrating and focus long-term.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8807
   },
   {
     "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
@@ -363,19 +375,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0176
-  },
-  {
-    "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
-    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T20:09:36+00:00",
-    "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
   }
 ]
