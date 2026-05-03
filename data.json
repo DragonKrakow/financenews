@@ -1,5 +1,17 @@
 [
   {
+    "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
+    "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-03T16:00:00+00:00",
+    "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
     "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -50,42 +62,6 @@
     "sentiment_score": 0.5574
   },
   {
-    "title": "Two investment strategies for people who are afraid of the stock market",
-    "link": "https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T17:14:00+00:00",
-    "summary": "ETFs with protection features can help risk-averse investors increase returns while weathering market storms.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Spirit Airlines made this critical mistake that drove its demise",
-    "link": "https://www.marketwatch.com/story/spirit-airlines-made-this-critical-mistake-that-drove-its-demise-df3ea39d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T17:12:00+00:00",
-    "summary": "Spirit has canceled all future flights and is immediately shutting down.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3869
-  },
-  {
-    "title": "These 3 companies are keeping the lights on for AI’s energy demand — and cashing in",
-    "link": "https://www.marketwatch.com/story/big-techs-ai-build-out-needs-these-3-companies-to-keep-the-lights-on-and-theyre-cashing-in-e46bcba2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T15:30:00+00:00",
-    "summary": "The headlines focus on apps, but the big money is flowing to agentic AI’s boring industrial backbone.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
-  },
-  {
     "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
     "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
     "source": "CNBC Finance",
@@ -128,7 +104,7 @@
     "link": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
     "source": "The Guardian Economics",
     "published": "2026-05-01T16:53:13+00:00",
-    "summary": "<p>Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded</p><p>When the Bank of England warned this week that food inflation could <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/april/monetary-policy-report-april-2026.pdf\">reach 7%</a> by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, <a href=\"https://www.bbc.co.uk/news/articles/cdj7dydl2lno\">fertiliser</a> and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption.</p><p>The Bank is right that <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">interest rates</a> cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security that the country that has yet to build into its infrastructure.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill\">Continue reading...</a>",
+    "summary": "<p>Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded</p><p>When the Bank of England warned this week that food inflation could <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/april/monetary-policy-report-april-2026.pdf\">reach 7%</a> by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, <a href=\"https://www.bbc.co.uk/news/articles/cdj7dydl2lno\">fertiliser</a> and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption.</p><p>The Bank is right that <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">interest rates</a> cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security the country that has yet to build into its infrastructure.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -375,5 +351,32 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0176
+  },
+  {
+    "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
+    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
+    "source": "The Guardian Economics",
+    "published": "2026-04-29T20:09:36+00:00",
+    "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Fed holds rates steady but with highest level of dissent since 1992",
+    "link": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-04-29T19:25:28+00:00",
+    "summary": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   }
 ]
