@@ -1,22 +1,9 @@
 [
   {
-    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-02T23:23:07+00:00",
-    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8555
-  },
-  {
     "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
     "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T20:45:00+00:00",
+    "published": "2026-05-03T13:06:00+00:00",
     "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
     "matched_keywords": [
       "Fed"
@@ -28,13 +15,26 @@
     "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
     "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T20:10:00+00:00",
+    "published": "2026-05-03T11:06:00+00:00",
     "summary": "“This letter is in memory of all the patients who died waiting for their medical appointments to begin.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8402
+  },
+  {
+    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-02T23:23:07+00:00",
+    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8555
   },
   {
     "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
