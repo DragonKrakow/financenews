@@ -1,5 +1,31 @@
 [
   {
+    "title": "Women in developing countries hardest hit by rising debt burden, UN research finds",
+    "link": "https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
+    "source": "The Guardian Economics",
+    "published": "2026-05-04T05:00:16+00:00",
+    "summary": "<p>Study warns women face job losses and increased unpaid care duties as debt and conflict-driven turbulence force spending cuts</p><p>Women are hit hardest when the debt burden in developing countries rises, a trend expected to worsen as the war in the Middle East continues, UN research shows.</p><p>A report by experts from the UN Development Programme (UNDP), based on data from 85 countries gathered across three decades, shows women are disproportionately affected when debt repayments increase significantly.</p> <a href=\"https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.959
+  },
+  {
+    "title": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in ‘most responsible’ budget yet",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet",
+    "source": "The Guardian Economics",
+    "published": "2026-05-04T04:34:06+00:00",
+    "summary": "<p>The treasurer also says May federal budget will play ‘helpful, not harmful, role in fight against inflation’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jim Chalmers has warned there will be little room for more cost-of-living support in his fifth and “most responsible” budget yet, as he ruled out an immediate extension of the 26-cent cut to the fuel excise and downplayed hopes for <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/limiting-capital-gains-tax-changes-to-new-investments-would-severely-delay-budget-reforms-deloitte-says\">additional tax relief</a> for workers.</p><p>The treasurer also said Australian voters would forgive Labor for breaking a pre-election vow not to touch negative gearing rules for landlords, which is set to form part of a package that would also <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors\">scale back the capital gains tax discount</a> in the name of intergenerational fairness.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9445
+  },
+  {
     "title": "Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz",
     "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -352,31 +378,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9129
-  },
-  {
-    "title": "SoFi CEO defends decision to hold guidance steady",
-    "link": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T22:48:10+00:00",
-    "summary": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0176
-  },
-  {
-    "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
-    "link": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-    "source": "The Guardian Economics",
-    "published": "2026-04-29T20:09:36+00:00",
-    "summary": "<p>Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US Federal Reserve chair, Jerome Powell, will remain on the central bank’s rate-setting board after his term as chair ends in May, a contentious move that signals continued uncertainty at the Fed.</p><p>Powell made the announcement after the Fed board on Wednesday left interest rates unchanged for the third time this year, despite Donald Trump’s continued demands for rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
   }
 ]
