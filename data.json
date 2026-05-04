@@ -1,5 +1,78 @@
 [
   {
+    "title": "Spirit Airlines made this critical mistake that drove its demise",
+    "link": "https://www.marketwatch.com/story/spirit-airlines-made-this-critical-mistake-that-drove-its-demise-df3ea39d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T13:38:00+00:00",
+    "summary": "Spirit has canceled all future flights and is immediately shutting down.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3869
+  },
+  {
+    "title": "EV drivers are taking a victory lap — right past the gas stations selling $4-a-gallon fuel",
+    "link": "https://www.marketwatch.com/story/ev-drivers-are-taking-a-victory-lap-right-past-the-gas-stations-selling-4-a-gallon-fuel-6931f634?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T13:37:00+00:00",
+    "summary": "Electric-vehicle drivers are taking a victory lap as the war in Iran has slowed global oil supplies and pushed up the cost of gasoline.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
+    "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T13:21:00+00:00",
+    "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Oil prices climb after disputed report of Iran strike on U.S. warship",
+    "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T12:07:00+00:00",
+    "summary": "Oil is off to a volatile start to the week on a disputed report of a strike on a U.S. Navy ship in the Strait of Hormuz.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
+    "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T11:21:00+00:00",
+    "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
+    "link": "https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-05-04T10:51:55+00:00",
+    "summary": "<p>Beef and olive oil costs increase the most as climate and energy shocks drive inflation, research suggests</p><p>Food prices are on track to be 50% higher in November than at the start of the cost of living crisis in 2021, research suggests.</p><p>Climate and energy shocks have driven an almost quadrupling of the pace of food price growth, according to research from the thinktank Energy and Climate Intelligence Unit (ECIU), with costs rising in five years at about the same rate as they had over the previous two decades.</p> <a href=\"https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
     "title": "Women in developing countries hardest hit by rising debt burden, UN research finds",
     "link": "https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
     "source": "The Guardian Economics",
@@ -26,19 +99,6 @@
     "sentiment_score": 0.9445
   },
   {
-    "title": "Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T03:02:00+00:00",
-    "summary": "Investors appeared skeptical Sunday after President Donald Trump said the U.S. will work to “free” neutral shipping that’s been stranded in the Persian Gulf since the start of the war with Iran.",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8225
-  },
-  {
     "title": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
     "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
     "source": "The Guardian Economics",
@@ -50,42 +110,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8105
-  },
-  {
-    "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-    "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T20:10:00+00:00",
-    "summary": "The S&amp;P 500 just banked its best month since 2020 — but to keep those gains, stop celebrating and focus long-term.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8807
-  },
-  {
-    "title": "OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.",
-    "link": "https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T19:55:00+00:00",
-    "summary": "In a largely symbolic move, the OPEC+ nations announced Sunday that they would slightly increase crude production in June, as the war with Iran continues to stifle the world’s supply of oil.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8235
-  },
-  {
-    "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
-    "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T19:14:00+00:00",
-    "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
@@ -352,31 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7919
-  },
-  {
-    "title": "Rising costs forcing 3m UK households to skip meals, Which? report finds",
-    "link": "https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T05:01:08+00:00",
-    "summary": "<p>Consumer insight tracker shows 85% are worried about food prices and a majority think the economy will deteriorate</p><p>Three million UK households are being forced to skip meals as consumers resort to drastic measures to deal with rising costs, according to a Which? report published on Thursday.</p><p>The conflict in the Middle East and subsequent surge in oil and raw material prices has led to businesses <a href=\"https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets\">preparing to raise prices</a>, putting more pressure on household finances and hitting consumer confidence.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8538
-  },
-  {
-    "title": "Massive profits already earned by property investors to be shielded from Chalmers’ CGT changes",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T01:25:29+00:00",
-    "summary": "<p>Treasurer tells Commonwealth Bank podcast that he aims to ‘recognise the decisions that people have taken in the past’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Massive paper profits earned over recent years by property investors will be shielded from Labor’s changes to the CGT discount, after Jim Chalmers said any new tax rules would “recognise the decisions that people have taken in the past”.</p><p>The treasurer is widely expected to modify the 50% tax discount on profits from the sale of assets held for more than one year, potentially returning to the pre-1999 model where capital gains are adjusted for inflation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9129
   }
 ]
