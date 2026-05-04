@@ -1,39 +1,65 @@
 [
   {
+    "title": "Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T03:02:00+00:00",
+    "summary": "Investors appeared skeptical Sunday after President Donald Trump said the U.S. will work to “free” neutral shipping that’s been stranded in the Persian Gulf since the start of the war with Iran.",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8225
+  },
+  {
+    "title": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+    "source": "The Guardian Economics",
+    "published": "2026-05-04T01:50:28+00:00",
+    "summary": "<p>The RBA is expected to lift rates again this week after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank could raise interest rates again on Tuesday, after lifting rates in February and March.</p><p>Financial markets imply there is about a two-thirds chance of a third hike, after soaring fuel prices pushed inflation to its <a href=\"https://www.theguardian.com/business/2026/apr/29/inflation-increase-australia-rba-reserve-bank-interest-rates-fuel-iran\">highest rate since 2023</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8105
+  },
+  {
+    "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
+    "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-03T20:10:00+00:00",
+    "summary": "The S&amp;P 500 just banked its best month since 2020 — but to keep those gains, stop celebrating and focus long-term.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8807
+  },
+  {
+    "title": "OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.",
+    "link": "https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-03T19:55:00+00:00",
+    "summary": "In a largely symbolic move, the OPEC+ nations announced Sunday that they would slightly increase crude production in June, as the war with Iran continues to stifle the world’s supply of oil.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8235
+  },
+  {
     "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
     "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T16:00:00+00:00",
+    "published": "2026-05-03T19:14:00+00:00",
     "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
-    "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T13:06:00+00:00",
-    "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
-    "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-03T11:06:00+00:00",
-    "summary": "“This letter is in memory of all the patients who died waiting for their medical appointments to begin.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8402
   },
   {
     "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
@@ -47,19 +73,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8555
-  },
-  {
-    "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
-    "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-02T17:38:00+00:00",
-    "summary": "Fed’s communication should help investors manage risk — including the possibility that rates may rise.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
   },
   {
     "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
@@ -365,18 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "Fed holds rates steady but with highest level of dissent since 1992",
-    "link": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-29T19:25:28+00:00",
-    "summary": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
   }
 ]
