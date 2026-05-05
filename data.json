@@ -1,9 +1,72 @@
 [
   {
-    "title": "UK 30-year borrowing costs hit highest since 1998 amid oil price surge and political instability – business live",
+    "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/this-narrow-shipping-lane-is-how-trump-now-wants-oil-tankers-to-navigate-the-strait-of-hormuz-3d020281?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T19:15:00+00:00",
+    "summary": "If the U.S. succeeds in shepherding more vesses out of the strait safely, hundreds of ships still stuck on either side of the strait, including massive oil tankers, would find their way to markets, taking off some of the pressure that has led global crude prices rise more than 50%.",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
+    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T17:49:45+00:00",
+    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
+    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T17:31:00+00:00",
+    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays",
+    "link": "https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T16:39:00+00:00",
+    "summary": "At some point, you have to hand over financial control to your newly minted adult.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
+    "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T16:30:00+00:00",
+    "summary": "“We are 66 and 76, respectively. We own our home, which is paid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5209
+  },
+  {
+    "title": "UK 30-year borrowing costs hit highest since 1998 amid oil price surge and political uncertainty – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-05T13:51:28+00:00",
+    "published": "2026-05-05T16:08:18+00:00",
     "summary": "<p>Long-term UK borrowing costs hit 28-year high on expectations of higher inflation, and speculation that local elections could prompt leadership challenge</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves\">Full story: <strong>UK’s long-term borrowing costs hit highest level since 1998</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war\"><strong>HSBC profits fall amid $400m fraud-related charge and Iran war</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation\">Australia hikes interest rates to 4.35% in blow to mortgage holders</a></p></li></ul><p><strong>Those credit losses have “overshadowed” HSBC’s results in the last quarter, reports Will Howlett, financials analyst at Quilter Cheviot:</strong></p><p>HSBC’s quarter was dominated by a sharp and unexpected jump in credit losses, which took the shine off otherwise solid trading and pushed profits just below expectations. A $400m fraud-related loss in the UK drove a marked rise in bad loan charges and has put fresh focus on the risks sitting within more complex lending, even as the rest of the loan book remains stable.</p><p>Profits were broadly flat on last year, as higher income was absorbed by rising costs and credit charges. Revenues grew 4%, slightly ahead of expectations, helped mainly by fees rather than interest income. Wealth management continued to perform well, though growth has slowed from last year’s pace.</p><p>“HSBC’s results always bring more of an international flavour than its UK peers. Unfortunately that means the Hormuz crisis looms large in the results, casting a shadow over an otherwise solid set of numbers.</p><p>The theme is grimly familiar to investors; were it not for the crisis, earnings outlooks would be much rosier. The warnings around the economic impact will only continue to grow the longer the situation remains unresolved.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
@@ -12,31 +75,19 @@
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7347
+    "sentiment_score": 0.5851
   },
   {
-    "title": "‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec",
-    "link": "https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T13:41:00+00:00",
-    "summary": "The head of BlackRock’s fundamental equities global technology team, Tony Kim, says AI is rewiring the global economy, and that will just keep going.",
+    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
+    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T14:17:28+00:00",
+    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Why the oil market is too complacent about the supply threat it’s facing",
-    "link": "https://www.marketwatch.com/story/why-the-oil-market-is-too-complacent-about-the-supply-threat-its-facing-1e9aff20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T13:22:00+00:00",
-    "summary": "While there are 7.8 billion barrels stockpiled on paper, the reality is more like 1.4 billion barrels and as the market begins to process this realization, SocGen forecasts the oil price will rise.",
-    "matched_keywords": [
-      "Oil"
-    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.228
+    "sentiment_score": -0.3182
   },
   {
     "title": "Rachel Reeves and Scott Bessent argued in person about Iran war, sources say",
@@ -54,41 +105,16 @@
     "sentiment_score": -0.9698
   },
   {
-    "title": "Coinbase will lay off 14% of its staff as AI spurs ‘a new way of working’",
-    "link": "https://www.marketwatch.com/story/coinbase-will-lay-off-14-of-its-staff-as-ai-spurs-a-new-way-of-working-35124858?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T12:40:00+00:00",
-    "summary": "Coinbase will pivot to more “one-person teams,” meaning that employees will be asked to act as engineers, designers and product managers all in one — with the help of AI.",
+    "title": "New threat to Labour spending plans as UK long-term borrowing costs hit highest level since 1998",
+    "link": "https://www.theguardian.com/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T12:05:12+00:00",
+    "summary": "<p>Inflation fears fuelled by Iran war and renewed uncertainty over Starmer’s leadership prompt bond sell-off</p><p>The risk to Labour’s tax and spending plans from the war in Iran was underscored on Tuesday, as long-term government borrowing costs hit their highest level since 1998.</p><p>Fears of higher inflation as a result of the conflict have fuelled a selloff across government bond markets, which City analysts say has been exacerbated in the UK by uncertainty about the future of Keir Starmer’s government.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
-    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T11:55:00+00:00",
-    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
-    "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T11:37:00+00:00",
-    "summary": "“We are 66 and 76, respectively. We own our home, which is paid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5209
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.969
   },
   {
     "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
@@ -177,18 +203,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8689
-  },
-  {
-    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
-    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:46:25+00:00",
-    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   },
   {
     "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
@@ -351,19 +365,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7351
-  },
-  {
-    "title": "Kalshi users called it: Powell says he will stay on as Fed governor after chair term ends",
-    "link": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-30T18:50:50+00:00",
-    "summary": "Prediction market platform users don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
   },
   {
     "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
