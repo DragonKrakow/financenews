@@ -1,5 +1,56 @@
 [
   {
+    "title": "This is why stocks keep rallying, according to Morgan Stanley",
+    "link": "https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T08:07:00+00:00",
+    "summary": "The steady increase in earnings growth expectations has led to a compression in the price-earnings multiple for the S&amp;P 500 index.  Furthermore, the growth is broader and more sustainable, Morgan Stanley argues",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "HSBC hit by $400m UK fraud-related charge; Rachel Reeves ‘clashed with Scott Bessent’ over Iran war criticism – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T07:57:49+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation\">Australia hikes interest rates to 4.35% in blow to mortgage holders</a></p></li></ul><p><strong>Those credit losses have “overshadowed” HSBC’s results in the last quarter, reports Will Howlett, financials analyst at Quilter Cheviot:</strong></p><p>HSBC’s quarter was dominated by a sharp and unexpected jump in credit losses, which took the shine off otherwise solid trading and pushed profits just below expectations. A $400m fraud-related loss in the UK drove a marked rise in bad loan charges and has put fresh focus on the risks sitting within more complex lending, even as the rest of the loan book remains stable.</p><p>Profits were broadly flat on last year, as higher income was absorbed by rising costs and credit charges. Revenues grew 4%, slightly ahead of expectations, helped mainly by fees rather than interest income. Wealth management continued to perform well, though growth has slowed from last year’s pace.</p><p>“HSBC’s results always bring more of an international flavour than its UK peers. Unfortunately that means the Hormuz crisis looms large in the results, casting a shadow over an otherwise solid set of numbers.</p><p>The theme is grimly familiar to investors; were it not for the crisis, earnings outlooks would be much rosier. The warnings around the economic impact will only continue to grow the longer the situation remains unresolved.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5432
+  },
+  {
+    "title": "‘There is a good deal of fear’: what would a Labour leadership challenge mean for bond markets?",
+    "link": "https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T06:00:45+00:00",
+    "summary": "<p>Rayner and Burnham are trying to gain markets’ confidence amid concerns they could loosen fiscal rules if they replace Starmer</p><p>Who calls the shots on the bin collections in Sunderland, potholes in Hackney, or schools in Cardiff is not normally of interest to City traders in the multitrillion-pound sovereign bond market.</p><p>But for those dealing in UK government debt, Thursday’s <a href=\"https://www.theguardian.com/politics/ng-interactive/2026/apr/23/mapped-local-elections-labour-may-unprecedented-losses\">local and devolved government elections</a> are significantly more important than usual, amid speculation that a dire showing for Keir Starmer’s Labour party could topple him as prime minister.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7726
+  },
+  {
+    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it could affect you",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T04:59:28+00:00",
+    "summary": "<p>The RBA has lifted rates again after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February and March.</p><p>In a widely expected move, the central bank raised the cash rate to 4.35%, from 4.1%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7476
+  },
+  {
     "title": "Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards",
     "link": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -172,19 +223,6 @@
     "sentiment_score": 0.9445
   },
   {
-    "title": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-    "source": "The Guardian Economics",
-    "published": "2026-05-04T01:50:28+00:00",
-    "summary": "<p>The RBA is expected to lift rates again this week after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank could raise interest rates again on Tuesday, after lifting rates in February and March.</p><p>Financial markets imply there is about a two-thirds chance of a third hike, after soaring fuel prices pushed inflation to its <a href=\"https://www.theguardian.com/business/2026/apr/29/inflation-increase-australia-rba-reserve-bank-interest-rates-fuel-iran\">highest rate since 2023</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8105
-  },
-  {
     "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
     "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
     "source": "CNBC Finance",
@@ -333,44 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "Bank of England warns UK should brace for higher inflation due to Middle East war – video",
-    "link": "https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T14:45:12+00:00",
-    "summary": "<p>The <a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">Bank of England</a> has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee voted to leave borrowing costs on hold on Thursday, with its nine-members split 8-1 in their decision.</p><p>Andrew Bailey, the central bank’s governor, said the war in the Middle East was causing inflation to rise this year. </p><p>He added that the policymakers were monitoring the global situation and its impact on the UK economy 'very closely', but that the decision to hold rates at 3.75% for now is a 'reasonable place given the situation of the economy and the unpredictability of events in the Middle East'</p><p></p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates?filterKeyEvents=false&amp;page=with%3Ablock-69f333c18f08d9968172aae9#block-69f333c18f08d9968172aae9\">Business live</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Bank of England warns ‘higher inflation is unavoidable’ after leaving interest rates on hold</a></p></li></ul> <a href=\"https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9136
-  },
-  {
-    "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
-    "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-30T14:36:04+00:00",
-    "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
-    "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T13:38:54+00:00",
-    "summary": "<p>Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shut</p><p>The global oil price hit $126 a barrel on Thursday, its highest level since 2022, after Donald Trump said the US blockade of Iranian ports could last for months and peace talks remained stalled.</p><p>After surging more than 13% in 24 hours, the price of Brent crude futures reached its highest price since the war began on 28 February. Not since Russia’s 2022 invasion of Ukraine has Brent topped $120, with the price then peaking at $139.</p> <a href=\"https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   }
 ]
