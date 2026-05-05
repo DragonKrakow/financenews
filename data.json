@@ -1,21 +1,9 @@
 [
   {
-    "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
-    "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T19:41:00+00:00",
-    "summary": "FedEx and UPS shares are falling, but one analyst isn’t sure that Amazon’s new service will have a significantly disruptive effect.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1655
-  },
-  {
     "title": "Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards",
     "link": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T19:15:00+00:00",
+    "published": "2026-05-05T02:46:00+00:00",
     "summary": "Loyal customers who amassed thousands of points through flight purchases and credit-card swipes might not see a penny in compensation for their accumulated rewards.",
     "matched_keywords": [
       "AI"
@@ -24,30 +12,77 @@
     "sentiment_score": 0.9337
   },
   {
-    "title": "‘We’re worried the honey pot will run dry’: Does the government borrow from my Social Security to fund federal programs?",
-    "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+    "title": "‘If all six have hantavirus, that’s very worrisome’: This is the key question about the cruise-ship outbreak",
+    "link": "https://www.marketwatch.com/story/if-all-six-have-hantavirus-thats-very-worrisome-this-is-what-we-know-about-the-cruise-ship-outbreak-eb1df8d5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T18:58:00+00:00",
-    "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+    "published": "2026-05-05T01:00:00+00:00",
+    "summary": "A rare form of hantavirus can be spread from person to person, raising concern that the current outbreak is the result of the Andes virus.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Palantir posts its fastest revenue growth ever while calling out ‘AI slop’",
+    "link": "https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-05T00:20:00+00:00",
+    "summary": "Palantir earnings beat expectations on the heels of explosive demand in the company’s core U.S. market.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "‘I always did the graveyard shift’: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
+    "link": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T23:30:00+00:00",
+    "summary": "The Committee for a Responsible Federal Budget published a paper suggesting capping Social Security at $100,000 for a married couple.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
+    "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T23:05:00+00:00",
+    "summary": "FedEx and UPS shares are falling, but one analyst isn’t sure that Amazon’s new service will have a significantly disruptive effect.",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_score": 0.1655
   },
   {
-    "title": "This chart is a flashing warning sign that the Fed might yet rattle the markets with rate hikes by year-end",
-    "link": "https://www.marketwatch.com/story/this-chart-is-a-flashing-warning-sign-that-the-fed-might-yet-rattle-the-markets-with-rate-hikes-by-year-end-94c25b10?mod=mw_rss_topstories",
+    "title": "Tesla just hit a ‘symbolic’ self-driving milestone. Real-world success will be tougher.",
+    "link": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T18:58:00+00:00",
-    "summary": "The U.S. bond market is increasingly concerned that accelerating inflation could pressure the Federal Reserve to raise interest rates to try and tamp down price pressures — even as U.S. stocks continued to trade near record highs on Monday.",
+    "published": "2026-05-04T23:02:00+00:00",
+    "summary": "Tesla has reached the threshold Musk once said would be required to achieve “safe unsupervised self-driving,” but the company still faces various hurdles.",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "The silent crisis taxing your grocery bill could get a lot louder",
+    "link": "https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-04T22:07:00+00:00",
+    "summary": "As fertilizer costs hit 2026 highs and U.S. farmers cut planting, investors are looking to these stocks to hedge against food scarcity.",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_score": -0.7351
   },
   {
     "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
@@ -97,43 +132,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
-    "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T18:45:00+00:00",
-    "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘I always did the graveyard shift’: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
-    "link": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T18:30:00+00:00",
-    "summary": "The Committee for a Responsible Federal Budget published a paper suggesting capping Social Security at $100,000 for a married couple.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Optics is the next big AI bottleneck. This company could be an underrated beneficiary.",
-    "link": "https://www.marketwatch.com/story/optics-is-the-next-big-ai-bottleneck-this-company-could-be-an-underrated-beneficiary-df4cedf3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-04T18:21:00+00:00",
-    "summary": "GlobalFoundries just introduced a new technology to boost the use of co-packaged optics in AI data centers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
   },
   {
     "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
