@@ -1,87 +1,64 @@
 [
   {
-    "title": "I am 56, single with no heirs and renewing my $400,000, 10-year term life policy. Do I need it?",
-    "link": "https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories",
+    "title": "Hantavirus outbreaks rarely happen. This Andes strain is ‘a complicated public-health situation.’",
+    "link": "https://www.marketwatch.com/story/hantavirus-outbreaks-rarely-happen-this-andes-strain-is-a-complicated-public-health-situation-b0c7dbb4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T14:15:00+00:00",
-    "summary": "“The agent said he could not add my brother because he does not depend on my income, so has no insurable interest.”",
+    "published": "2026-05-06T19:19:00+00:00",
+    "summary": "At least two people departed the MV Hondius cruise ship in late April and one has tested positive for the Andes strain, a type of hantavirus.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+    "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T18:28:00+00:00",
+    "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays",
+    "link": "https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T18:12:00+00:00",
+    "summary": "At some point, you have to hand over financial control to your newly minted adult.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
+    "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T16:58:59+00:00",
+    "summary": "<p>US president says war will end if Tehran agrees to deal, but that ‘bombing starts’ again if it does not</p><p></p><p>Oil prices fell and stock markets rose as Donald Trump said the war with Iran would end and the strait of Hormuz would be “open to all” if Tehran struck a deal with Washington.</p><p>The US president posted on social media: “Assuming Iran agrees to give what has been agreed to, which is, perhaps, a big assumption, the already legendary Epic Fury will be at an end, and the highly effective Blockade will allow the Hormuz Strait to be OPEN TO ALL, including Iran.”</p> <a href=\"https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5439
+  },
+  {
+    "title": "Up to 150 former WH Smith stores face closure, putting thousands of jobs at risk",
+    "link": "https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T13:43:36+00:00",
+    "summary": "<p>Modella Capital, which rebranded shops as TG Jones, unveils radical restructuring plan, including rent holidays</p><p>Up to 150 former WH Smith stores are likely to close, putting thousands of jobs at risk under a radical restructuring plan by their new owner, which had rebranded the shops as TG Jones.</p><p>The investment company Modella Capital, which bought WH Smith’s chain of 480 high street stores <a href=\"https://www.theguardian.com/business/2025/mar/28/wh-smith-brand-to-disappear-as-76m-sale-of-stores-to-modella-agreed\">for £76m last year</a>, blamed “weak consumer spending” as it set out the plan to landlords on Wednesday.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5688
-  },
-  {
-    "title": "Micron just did in three days what once took 37 years",
-    "link": "https://www.marketwatch.com/story/micron-just-did-in-three-days-what-once-took-37-years-91931d50?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T14:09:00+00:00",
-    "summary": "Wall Street is betting that the AI boom has ushered in a high-growth era for Micron and its stock.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "My husband has a $225,000 pension. We don’t trust his ‘too big to fail’ employer. Where do we invest it?",
-    "link": "https://www.marketwatch.com/story/my-husband-has-a-225-000-pension-we-dont-trust-his-too-big-to-fail-employer-where-do-we-invest-it-5aa53611?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T14:04:00+00:00",
-    "summary": "“Ideally, we are looking for a guaranteed return with minimal risk.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "8 multibillion-dollar companies later, this serial entrepreneur shares his proven blueprint for massive returns",
-    "link": "https://www.marketwatch.com/story/this-billionaires-blueprint-for-a-200-bagger-why-youre-thinking-too-small-in-a-world-of-infinite-capital-bdf114ff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T14:02:00+00:00",
-    "summary": "Billionaire investor Brad Jacobs explains why the biggest mistake investors make today is failing to take advantage of ‘infinite capital.’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Why the U.K. may be about to rattle bond markets again",
-    "link": "https://www.marketwatch.com/story/why-friday-may-see-another-spike-in-bond-market-anxiety-bcb66488?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T14:01:00+00:00",
-    "summary": "It’s not just inflation concerns that have been pushing U.K. yields to multi-decade highs",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Here’s who benefits if the S&P 500 eases its rules for ‘megacap’ companies",
-    "link": "https://www.marketwatch.com/story/heres-who-benefits-if-the-s-p-500-eases-its-rules-for-megacap-companies-9cc8e559?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T13:55:00+00:00",
-    "summary": "It’s not just SpaceX, Anthropic and OpenAI: Stripe, Databricks and Waymo could also face easier index entry if they choose to go public.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
-  },
-  {
-    "title": "Disney’s new CEO lays out his long-term vision as he seeks to grow streaming overseas",
-    "link": "https://www.marketwatch.com/story/disneys-stock-rises-as-earnings-signal-that-the-theme-park-business-is-healthy-ca576ef4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T13:52:00+00:00",
-    "summary": "In his first earnings report as Disney CEO, Josh D’Amaro said he planned to invest in content, find new ways to reach customers and leverage new technology to grow the business.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
+    "sentiment_score": -0.743
   },
   {
     "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
@@ -101,12 +78,12 @@
     "link": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
     "source": "The Guardian Economics",
     "published": "2026-05-06T11:10:39+00:00",
-    "summary": "<p>G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spending</p><p>Cutting debt servicing costs for the world’s poorest countries could free up $900bn (£660bn) a year for development, <a href=\"https://www.development-finance.org/en/news/894-5-may-oslo-debt-relief-could-allow-g77-to-double-social-climate-nature-spending\">a new report to the UN secretary general</a> has claimed.</p><p>Prepared by advocacy group Development Finance International (DFI) with the support of the Norwegian government and launched in Oslo today, the analysis warned that the world is facing “the worst ever debt-provoked development crisis”.</p> <a href=\"https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report\">Continue reading...</a>",
+    "summary": "<p>G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spending</p><p>Cutting debt servicing costs for the world’s poorest countries could free up $900bn (£660bn) a year for development, <a href=\"https://www.development-finance.org/en/news/894-5-may-oslo-debt-relief-could-allow-g77-to-double-social-climate-nature-spending\">a new report to the UN secretary general</a> has claimed.</p><p>Prepared by advocacy group Development Finance International (DFI) and launched in Oslo today, the analysis warned that the world is facing “the worst ever debt-provoked development crisis”.</p> <a href=\"https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4497
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
   },
   {
     "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
@@ -375,5 +352,29 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6387
+  },
+  {
+    "title": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
+    "link": "https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
+    "source": "The Guardian Economics",
+    "published": "2026-05-01T15:00:03+00:00",
+    "summary": "<p>The seven-day trial in the watchdog’s case against the supermarket offered a rare glimpse into its internal machinations</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Picture this: you’re at Woolworths, weighing up which laundry powder offers the best value for money.</p><p>A 2kg box of Fab is on sale with a “Prices Dropped” promotional ticket showing it “Is” $8. The label also says the laundry powder has been reduced, and “Was” $14.</p> <a href=\"https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9359
+  },
+  {
+    "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
+    "link": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
+    "source": "The Guardian Economics",
+    "published": "2026-05-01T09:31:08+00:00",
+    "summary": "<p>Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment</p><p>NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations.</p><p>Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”.</p> <a href=\"https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
   }
 ]
