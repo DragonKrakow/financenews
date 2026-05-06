@@ -1,9 +1,59 @@
 [
   {
+    "title": "Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T02:22:00+00:00",
+    "summary": "Crude-oil futures fell late Tuesday after President Donald Trump said his latest effort to partially reopen the Strait of Hormuz would be paused, to buy more time to reach an agreement to end hostilities with Iran.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1189
+  },
+  {
+    "title": "Astera Labs’ stock climbs as the company strives to make AI chips more powerful",
+    "link": "https://www.marketwatch.com/story/astera-labs-stock-climbs-as-the-company-strives-to-make-ai-chips-more-powerful-2c9be4d6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T00:32:00+00:00",
+    "summary": "The connectivity company also issued upbeat earnings results",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4754
+  },
+  {
+    "title": "Super Micro’s stock surges as Wall Street cheers its margin recovery",
+    "link": "https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T00:31:00+00:00",
+    "summary": "Shares of the AI server maker jumped 18% as investors shrugged off a revenue miss and celebrated a rebound in gross margins.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8481
+  },
+  {
+    "title": "Upstart’s stock is getting punished after earnings. Here’s the big gripe.",
+    "link": "https://www.marketwatch.com/story/upstarts-stock-is-getting-punished-after-earnings-heres-the-big-gripe-6d27ca70?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T00:30:00+00:00",
+    "summary": "The AI lending company came up short on a key profit metric, but its CEO says that analysts may have mismodeled seasonal trends.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0129
+  },
+  {
     "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz",
     "link": "https://www.marketwatch.com/story/this-narrow-shipping-lane-is-how-trump-now-wants-oil-tankers-to-navigate-the-strait-of-hormuz-3d020281?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T19:15:00+00:00",
+    "published": "2026-05-05T23:13:00+00:00",
     "summary": "If the U.S. succeeds in shepherding more vesses out of the strait safely, hundreds of ships still stuck on either side of the strait, including massive oil tankers, would find their way to markets, taking off some of the pressure that has led global crude prices rise more than 50%.",
     "matched_keywords": [
       "Oil",
@@ -14,53 +64,28 @@
     "sentiment_score": -0.128
   },
   {
+    "title": "Rubio insists US is ‘very fortunate’ as Iran war pushes gas price near $4.50",
+    "link": "https://www.theguardian.com/us-news/2026/may/05/marco-rubio-iran-gas-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T21:55:57+00:00",
+    "summary": "<p>US secretary of state says US is better off than other countries hit by disruption in oil supplies</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/apr/16/us-readers-rising-gas-prices-iran-trump\">‘A dollar or two increase is devastating’: US readers on toll of rising gas prices</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/marco-rubio\">Marco Rubio</a> has argued the US is in a “very fortunate” position as fuel prices continue to climb nationwide amid disruption sparked by the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Israel war on Iran.</a></p><p>With average <a href=\"https://www.theguardian.com/business/2026/apr/29/gas-prices-hormuz-oil-surge\">US fuel prices</a> now approaching $4.50 a gallon – their highest level in four years – the US secretary of state was asked on Tuesday how long Americans should accept them at such levels.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/05/marco-rubio-iran-gas-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8176
+  },
+  {
     "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
     "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
     "source": "CNBC Finance",
-    "published": "2026-05-05T17:49:45+00:00",
+    "published": "2026-05-05T19:36:16+00:00",
     "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4939
-  },
-  {
-    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
-    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T17:31:00+00:00",
-    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays",
-    "link": "https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T16:39:00+00:00",
-    "summary": "At some point, you have to hand over financial control to your newly minted adult.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
-    "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T16:30:00+00:00",
-    "summary": "“We are 66 and 76, respectively. We own our home, which is paid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5209
   },
   {
     "title": "UK 30-year borrowing costs hit highest since 1998 amid oil price surge and political uncertainty – as it happened",
@@ -353,30 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9313
-  },
-  {
-    "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
-    "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-    "source": "CNBC Finance",
-    "published": "2026-04-30T19:36:55+00:00",
-    "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
-  },
-  {
-    "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
-    "link": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T15:44:01+00:00",
-    "summary": "<p>Governor says decision to keep rates at 3.75% reasonable given unpredictability of events unfolding in Middle East</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">Why Bank kept rates on hold despite UK bracing for Trumpflation</a></p></li></ul><p>The Bank of England has left interest rates unchanged at 3.75% but said the UK may need to brace for increases later this year, as “higher inflation is unavoidable” as a result of the war in the Middle East.</p><p>The Bank’s rate-setting monetary policy committee (MPC) voted to leave borrowing costs on hold, but said that if energy costs stayed persistently high it might have to take a more “forceful” response to keep inflation under control.</p> <a href=\"https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   }
 ]
