@@ -1,5 +1,42 @@
 [
   {
+    "title": "‘I always did the graveyard shift’: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
+    "link": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T07:55:00+00:00",
+    "summary": "The Committee for a Responsible Federal Budget published a paper suggesting capping Social Security at $100,000 for a married couple.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec",
+    "link": "https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T06:32:00+00:00",
+    "summary": "The head of BlackRock’s fundamental equities global technology team, Tony Kim, says AI is rewiring the global economy, and that will just keep going.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
+    "link": "https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T04:00:01+00:00",
+    "summary": "<p>Shoppers concerned about effect of Middle East conflict, as UK retailers say government running out of time to cut costs</p><p>Four in five people are worried that the Iran war will make food more expensive, according to a new poll, as businesses warned the “window is closing” for ministers to cut energy costs for UK retailers.</p><p>Research by Opinium found that 80% of people are worried about the rising price of groceries, which would come from retailers passing on cost increases to consumers, while 73% expect the conflict to push up prices of other products.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9648
+  },
+  {
     "title": "Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz",
     "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -342,41 +379,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0516
-  },
-  {
-    "title": "China’s EV price war turns into AI arms race beyond cheaper cars",
-    "link": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-01T04:19:25+00:00",
-    "summary": "Chinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8248
-  },
-  {
-    "title": "China’s self-driving truck leaders say AI breakthroughs won’t accelerate rollout — here’s why",
-    "link": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-01T01:10:28+00:00",
-    "summary": "Rapid advances in AI for coding and chatbots doesn't change the timeline for getting self-driving vehicles on the road, industry executives in China said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Tony Blair’s thinktank urges Labour to scrap ‘unaffordable’ pension triple lock",
-    "link": "https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock",
-    "source": "The Guardian Economics",
-    "published": "2026-04-30T23:01:30+00:00",
-    "summary": "<p>State pension was ‘built for a different era’, says former PM’s organisation amid pressure on government finances</p><p>Labour has been urged by Tony Blair’s thinktank to scrap the <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">pensions triple lock</a> amid mounting pressure on government finances.</p><p>With the Iran war threatening to derail public spending plans, the Tony Blair Institute (TBI) said the “unaffordable” manifesto pledge to maintain the triple lock should be torn up as part of a wider overhaul of the state pension.</p> <a href=\"https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9313
   }
 ]
