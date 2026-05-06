@@ -1,28 +1,112 @@
 [
   {
-    "title": "‘I always did the graveyard shift’: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
-    "link": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories",
+    "title": "I am 56, single with no heirs and renewing my $400,000, 10-year term life policy. Do I need it?",
+    "link": "https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T07:55:00+00:00",
-    "summary": "The Committee for a Responsible Federal Budget published a paper suggesting capping Social Security at $100,000 for a married couple.",
+    "published": "2026-05-06T14:15:00+00:00",
+    "summary": "“The agent said he could not add my brother because he does not depend on my income, so has no insurable interest.”",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5688
   },
   {
-    "title": "‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec",
-    "link": "https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories",
+    "title": "Micron just did in three days what once took 37 years",
+    "link": "https://www.marketwatch.com/story/micron-just-did-in-three-days-what-once-took-37-years-91931d50?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T06:32:00+00:00",
-    "summary": "The head of BlackRock’s fundamental equities global technology team, Tony Kim, says AI is rewiring the global economy, and that will just keep going.",
+    "published": "2026-05-06T14:09:00+00:00",
+    "summary": "Wall Street is betting that the AI boom has ushered in a high-growth era for Micron and its stock.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "My husband has a $225,000 pension. We don’t trust his ‘too big to fail’ employer. Where do we invest it?",
+    "link": "https://www.marketwatch.com/story/my-husband-has-a-225-000-pension-we-dont-trust-his-too-big-to-fail-employer-where-do-we-invest-it-5aa53611?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T14:04:00+00:00",
+    "summary": "“Ideally, we are looking for a guaranteed return with minimal risk.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "8 multibillion-dollar companies later, this serial entrepreneur shares his proven blueprint for massive returns",
+    "link": "https://www.marketwatch.com/story/this-billionaires-blueprint-for-a-200-bagger-why-youre-thinking-too-small-in-a-world-of-infinite-capital-bdf114ff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T14:02:00+00:00",
+    "summary": "Billionaire investor Brad Jacobs explains why the biggest mistake investors make today is failing to take advantage of ‘infinite capital.’",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "Why the U.K. may be about to rattle bond markets again",
+    "link": "https://www.marketwatch.com/story/why-friday-may-see-another-spike-in-bond-market-anxiety-bcb66488?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T14:01:00+00:00",
+    "summary": "It’s not just inflation concerns that have been pushing U.K. yields to multi-decade highs",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Here’s who benefits if the S&P 500 eases its rules for ‘megacap’ companies",
+    "link": "https://www.marketwatch.com/story/heres-who-benefits-if-the-s-p-500-eases-its-rules-for-megacap-companies-9cc8e559?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T13:55:00+00:00",
+    "summary": "It’s not just SpaceX, Anthropic and OpenAI: Stripe, Databricks and Waymo could also face easier index entry if they choose to go public.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "Disney’s new CEO lays out his long-term vision as he seeks to grow streaming overseas",
+    "link": "https://www.marketwatch.com/story/disneys-stock-rises-as-earnings-signal-that-the-theme-park-business-is-healthy-ca576ef4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T13:52:00+00:00",
+    "summary": "In his first earnings report as Disney CEO, Josh D’Amaro said he planned to invest in content, find new ways to reach customers and leverage new technology to grow the business.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
+    "link": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T12:33:58+00:00",
+    "summary": "<p>Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran\">Oil prices fall as Trump hails ‘progress’ on Iran deal</a></p></li></ul><p>Airlines and other companies are increasingly using fuel surcharges to cover soaring costs, a survey has found, in a further sign of Iran war-linked inflation hitting the economy.</p><p>A poll of companies in the services sector, which includes airlines, found <a href=\"https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history\">rising fuel prices</a> had contributed to businesses raising prices at the fastest pace in more than three years in April.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1406
+  },
+  {
+    "title": "Cut borrowing costs for poorer countries to free up $900bn for development – report",
+    "link": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T11:10:39+00:00",
+    "summary": "<p>G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spending</p><p>Cutting debt servicing costs for the world’s poorest countries could free up $900bn (£660bn) a year for development, <a href=\"https://www.development-finance.org/en/news/894-5-may-oslo-debt-relief-could-allow-g77-to-double-social-climate-nature-spending\">a new report to the UN secretary general</a> has claimed.</p><p>Prepared by advocacy group Development Finance International (DFI) with the support of the Norwegian government and launched in Oslo today, the analysis warned that the world is facing “the worst ever debt-provoked development crisis”.</p> <a href=\"https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4497
   },
   {
     "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
@@ -35,70 +119,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9648
-  },
-  {
-    "title": "Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T02:22:00+00:00",
-    "summary": "Crude-oil futures fell late Tuesday after President Donald Trump said his latest effort to partially reopen the Strait of Hormuz would be paused, to buy more time to reach an agreement to end hostilities with Iran.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1189
-  },
-  {
-    "title": "Astera Labs’ stock climbs as the company strives to make AI chips more powerful",
-    "link": "https://www.marketwatch.com/story/astera-labs-stock-climbs-as-the-company-strives-to-make-ai-chips-more-powerful-2c9be4d6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T00:32:00+00:00",
-    "summary": "The connectivity company also issued upbeat earnings results",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4754
-  },
-  {
-    "title": "Super Micro’s stock surges as Wall Street cheers its margin recovery",
-    "link": "https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T00:31:00+00:00",
-    "summary": "Shares of the AI server maker jumped 18% as investors shrugged off a revenue miss and celebrated a rebound in gross margins.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8481
-  },
-  {
-    "title": "Upstart’s stock is getting punished after earnings. Here’s the big gripe.",
-    "link": "https://www.marketwatch.com/story/upstarts-stock-is-getting-punished-after-earnings-heres-the-big-gripe-6d27ca70?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T00:30:00+00:00",
-    "summary": "The AI lending company came up short on a key profit metric, but its CEO says that analysts may have mismodeled seasonal trends.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0129
-  },
-  {
-    "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/this-narrow-shipping-lane-is-how-trump-now-wants-oil-tankers-to-navigate-the-strait-of-hormuz-3d020281?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-05T23:13:00+00:00",
-    "summary": "If the U.S. succeeds in shepherding more vesses out of the strait safely, hundreds of ships still stuck on either side of the strait, including massive oil tankers, would find their way to markets, taking off some of the pressure that has led global crude prices rise more than 50%.",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   },
   {
     "title": "Rubio insists US is ‘very fortunate’ as Iran war pushes gas price near $4.50",
@@ -355,29 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6387
-  },
-  {
-    "title": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
-    "link": "https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T15:00:03+00:00",
-    "summary": "<p>The seven-day trial in the watchdog’s case against the supermarket offered a rare glimpse into its internal machinations</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Picture this: you’re at Woolworths, weighing up which laundry powder offers the best value for money.</p><p>A 2kg box of Fab is on sale with a “Prices Dropped” promotional ticket showing it “Is” $8. The label also says the laundry powder has been reduced, and “Was” $14.</p> <a href=\"https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9359
-  },
-  {
-    "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
-    "link": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T09:31:08+00:00",
-    "summary": "<p>Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment</p><p>NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations.</p><p>Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”.</p> <a href=\"https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
   }
 ]
