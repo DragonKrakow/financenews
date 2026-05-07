@@ -96,19 +96,6 @@
     "sentiment_score": 0.6908
   },
   {
-    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
-    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T20:45:00+00:00",
-    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
     "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
     "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
     "source": "The Guardian Economics",
@@ -373,5 +360,18 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9445
+  },
+  {
+    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-02T23:23:07+00:00",
+    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8555
   }
 ]
