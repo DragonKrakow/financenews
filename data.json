@@ -1,15 +1,75 @@
 [
   {
-    "title": "These long-distance couples are mourning the airline America loved to hate",
-    "link": "https://www.marketwatch.com/story/spirits-cheap-flights-kept-long-distance-relationships-alive-now-these-couples-are-scrambling-to-stay-connected-ca7e4745?mod=mw_rss_topstories",
+    "title": "Time is running out to avoid a power crunch in America: ‘The current situation is not tenable’",
+    "link": "https://www.marketwatch.com/story/time-is-running-out-to-avoid-a-power-crunch-in-america-the-current-situation-is-not-tenable-b6f7f0d2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T14:03:00+00:00",
-    "summary": "‘There are probably countless weddings, funerals, reunions, weekend getaways and, yes — long distance relationships — that Spirit enabled’ with its flights under $100.",
+    "published": "2026-05-07T19:24:00+00:00",
+    "summary": "Nonprofit grid operator PJM has called for reforms, but the ’devil is in the details’ as it seeks to avoid a worst-case scenario.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Palo Alto Networks’ stock is basking in the glow of a cybersecurity revival",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-basking-in-the-glow-of-a-cybersecurity-revival-c822e0aa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T19:03:00+00:00",
+    "summary": "Investors are starting to see cybersecurity companies more as AI beneficiaries than as AI losers, one analyst notes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0865
+  },
+  {
+    "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
+    "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T18:49:00+00:00",
+    "summary": "“We are 66 and 76, respectively. We own our home, which is paid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5209
+  },
+  {
+    "title": "Beef is very expensive right now — and Shake Shack just lost money for the first time in years",
+    "link": "https://www.marketwatch.com/story/beef-is-very-expensive-right-now-and-shake-shack-just-lost-money-for-the-first-time-in-years-4e13e375?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T17:10:00+00:00",
+    "summary": "The burger chain’s shares were dropping nearly 30% in the face of cost inflation and challenging consumer sentiment.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
+    "link": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-07T16:55:23+00:00",
+    "summary": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+    "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T16:42:00+00:00",
+    "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
@@ -22,30 +82,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
-  },
-  {
-    "title": "I lost my job and can’t afford to go on a $2,000 trip with friends. Am I a jerk for backing out?",
-    "link": "https://www.marketwatch.com/story/i-lost-my-job-and-cant-afford-to-go-on-a-2-000-trip-with-friends-am-i-a-jerk-for-backing-out-53202bd6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T13:52:00+00:00",
-    "summary": "“Obviously when I said I could go on this trip I was still employed.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "People who make less than $40,000 a year are hurt the most by the recent increase in gas prices, says the Fed",
-    "link": "https://www.marketwatch.com/story/everyones-paying-more-for-gas-but-only-some-are-cutting-back-heres-why-6366212e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T13:34:00+00:00",
-    "summary": "When gas prices surged in March, lower-income drivers tried to cut back, but they still felt the sticker shock. On the other hand, rich drivers barely flinched.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
   },
   {
     "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
@@ -337,44 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8555
-  },
-  {
-    "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
-    "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-01T21:39:03+00:00",
-    "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Average price of gas in California edges past $6 a gallon, highest level in four years",
-    "link": "https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T17:00:34+00:00",
-    "summary": "<p>Analysts say Americans have now paid $21.7bn more to fill their tanks since the start of the US war on Iran</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/01/exxon-chevron-quarterly-earnings\">Exxon and Chevron quarterly earnings fall despite soaring oil prices</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>The average price for a gallon of gas in <a href=\"https://www.theguardian.com/us-news/california\">California</a> rose to $6 this week as fuel prices across the US reached their highest level in almost four years.</p><p>The American Automobile Association reported on Friday that California consumers were paying an average of $6.06, while the national average hit $4.39. The Golden state is the most expensive US market for gas but costs have also risen nationally with a 27-cent rise this week following two weeks of falling prices, AAA said in a <a href=\"https://gasprices.aaa.com/oil-prices-spike-national-average-up-nearly-30-cents-in-one-week/\">statement</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4854
-  },
-  {
-    "title": "The Guardian view on Britain’s fragile systems: when global shocks hit your shopping bill | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T16:53:13+00:00",
-    "summary": "<p>Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded</p><p>When the Bank of England warned this week that food inflation could <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/april/monetary-policy-report-april-2026.pdf\">reach 7%</a> by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, <a href=\"https://www.bbc.co.uk/news/articles/cdj7dydl2lno\">fertiliser</a> and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption.</p><p>The Bank is right that <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">interest rates</a> cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security the country that has yet to build into its infrastructure.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6387
   }
 ]
