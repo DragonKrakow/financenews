@@ -3,7 +3,7 @@
     "title": "Hantavirus outbreaks rarely happen. This Andes strain is ‘a complicated public-health situation.’",
     "link": "https://www.marketwatch.com/story/hantavirus-outbreaks-rarely-happen-this-andes-strain-is-a-complicated-public-health-situation-b0c7dbb4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T19:19:00+00:00",
+    "published": "2026-05-07T02:15:00+00:00",
     "summary": "At least two people departed the MV Hondius cruise ship in late April and one has tested positive for the Andes strain, a type of hantavirus.",
     "matched_keywords": [
       "AI"
@@ -12,10 +12,82 @@
     "sentiment_score": 0.4939
   },
   {
+    "title": "Arm puts a big number on its newest venture, but its stock falls",
+    "link": "https://www.marketwatch.com/story/arms-stock-soars-as-the-company-puts-a-big-number-on-its-newest-venture-21bce404?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T00:31:00+00:00",
+    "summary": "The chip designer said it has more than $2 billion in customer demand for its first-ever data-center CPU",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "My husband has a $225,000 pension. We don’t trust his ‘too big to fail’ employer. Where do we invest it?",
+    "link": "https://www.marketwatch.com/story/my-husband-has-a-225-000-pension-we-dont-trust-his-too-big-to-fail-employer-where-do-we-invest-it-5aa53611?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T00:30:00+00:00",
+    "summary": "“Ideally, we are looking for a guaranteed return with minimal risk.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Fortinet’s stock rockets higher as earnings help dispel fears of AI disruption",
+    "link": "https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T00:30:00+00:00",
+    "summary": "An “increasingly complex threat environment” is boosting demand for Fortinet’s cybersecurity offerings",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?",
+    "link": "https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T23:56:00+00:00",
+    "summary": "“The agent said he could not add my brother because he does not depend on my income, so has no insurable interest.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3774
+  },
+  {
+    "title": "Traders point to suspicious activity in the oil market on Wednesday",
+    "link": "https://www.marketwatch.com/story/traders-point-to-suspicious-activity-in-the-oil-market-on-wednesday-3a6821d9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-06T22:36:00+00:00",
+    "summary": "Oil contracts worth $1.7 billion changed hands in the hour before an Axios report sent oil prices lower Wednesday. Some experts are calling the spike in activity suspicious.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
+    "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+    "source": "The Guardian Economics",
+    "published": "2026-05-06T21:30:30+00:00",
+    "summary": "<p>Powerful property and farming firm Grosvenor Group says knock-on effect of Iran war could arrive next year</p><p>Fertiliser shortages caused by the Iran war have driven up costs for UK farmers by up to 70% and will have a “dramatic” impact on food prices globally next year, according to one of Britain’s most powerful property and farming companies.</p><p>Mark Preston, <a href=\"https://www.theguardian.com/business/2025/may/28/trump-tariff-war-global-damage-grosvenor-duke-westminster\">executive trustee of the 349-year-old Grosvenor Group</a>, controlled by the <a href=\"https://www.theguardian.com/news/2023/apr/25/duke-of-westminster-hugh-grosvenor-profile\">Duke of Westminster</a>, said fertiliser “was already quite expensive” before the 50% to 70% surge in prices since the start of the Iran war in late February.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8809
+  },
+  {
     "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
     "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T18:28:00+00:00",
+    "published": "2026-05-06T21:24:00+00:00",
     "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
     "matched_keywords": [
       "AI"
@@ -24,16 +96,17 @@
     "sentiment_score": 0.6908
   },
   {
-    "title": "Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays",
-    "link": "https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories",
+    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
+    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-06T18:12:00+00:00",
-    "summary": "At some point, you have to hand over financial control to your newly minted adult.",
+    "published": "2026-05-06T20:45:00+00:00",
+    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
     "matched_keywords": [
+      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
+    "sentiment_score": 0.8176
   },
   {
     "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
@@ -65,7 +138,7 @@
     "link": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
     "source": "The Guardian Economics",
     "published": "2026-05-06T12:33:58+00:00",
-    "summary": "<p>Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran\">Oil prices fall as Trump hails ‘progress’ on Iran deal</a></p></li></ul><p>Airlines and other companies are increasingly using fuel surcharges to cover soaring costs, a survey has found, in a further sign of Iran war-linked inflation hitting the economy.</p><p>A poll of companies in the services sector, which includes airlines, found <a href=\"https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history\">rising fuel prices</a> had contributed to businesses raising prices at the fastest pace in more than three years in April.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows\">Continue reading...</a>",
+    "summary": "<p>Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran\">Oil prices fall as Trump hails ‘progress’ on Iran deal</a></p></li></ul><p>Airlines and other companies are increasingly using fuel surcharges to cover soaring costs, a survey has found, in a further sign of Iran war-linked inflation hitting the economy.</p><p>A poll of companies in the services sector, which includes airlines, found <a href=\"https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history\">rising fuel prices</a> had contributed to businesses raising prices at the fastest pace in more than three years in April.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -300,81 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9445
-  },
-  {
-    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-02T23:23:07+00:00",
-    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8555
-  },
-  {
-    "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
-    "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-01T21:39:03+00:00",
-    "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Average price of gas in California edges past $6 a gallon, highest level in four years",
-    "link": "https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T17:00:34+00:00",
-    "summary": "<p>Analysts say Americans have now paid $21.7bn more to fill their tanks since the start of the US war on Iran</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/01/exxon-chevron-quarterly-earnings\">Exxon and Chevron quarterly earnings fall despite soaring oil prices</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>The average price for a gallon of gas in <a href=\"https://www.theguardian.com/us-news/california\">California</a> rose to $6 this week as fuel prices across the US reached their highest level in almost four years.</p><p>The American Automobile Association reported on Friday that California consumers were paying an average of $6.06, while the national average hit $4.39. The Golden state is the most expensive US market for gas but costs have also risen nationally with a 27-cent rise this week following two weeks of falling prices, AAA said in a <a href=\"https://gasprices.aaa.com/oil-prices-spike-national-average-up-nearly-30-cents-in-one-week/\">statement</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4854
-  },
-  {
-    "title": "The Guardian view on Britain’s fragile systems: when global shocks hit your shopping bill | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T16:53:13+00:00",
-    "summary": "<p>Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded</p><p>When the Bank of England warned this week that food inflation could <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/april/monetary-policy-report-april-2026.pdf\">reach 7%</a> by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, <a href=\"https://www.bbc.co.uk/news/articles/cdj7dydl2lno\">fertiliser</a> and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption.</p><p>The Bank is right that <a href=\"https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation\">interest rates</a> cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security the country that has yet to build into its infrastructure.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our <a href=\"https://www.theguardian.com/letters\">letters</a> section, please <a href=\"mailto:mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20underneath%20your%20letter.%20Letters%20are%20usually%20published%20with%20the%20author’s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20if%20your%20letter%20is%20used.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6387
-  },
-  {
-    "title": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
-    "link": "https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T15:00:03+00:00",
-    "summary": "<p>The seven-day trial in the watchdog’s case against the supermarket offered a rare glimpse into its internal machinations</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Picture this: you’re at Woolworths, weighing up which laundry powder offers the best value for money.</p><p>A 2kg box of Fab is on sale with a “Prices Dropped” promotional ticket showing it “Is” $8. The label also says the laundry powder has been reduced, and “Was” $14.</p> <a href=\"https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9359
-  },
-  {
-    "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
-    "link": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
-    "source": "The Guardian Economics",
-    "published": "2026-05-01T09:31:08+00:00",
-    "summary": "<p>Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment</p><p>NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations.</p><p>Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”.</p> <a href=\"https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
   }
 ]
