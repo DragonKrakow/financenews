@@ -1,62 +1,94 @@
 [
   {
-    "title": "Oil back over $100 as US-Iran ceasefire comes under pressure; British Airways’ parent company warns jet fuel could be ‘restricted’ – business live",
+    "title": "US economy beats forecasts with 115,000 new jobs added in April; pound and UK bonds stronger as Starmer pledges to stay on as PM – business live",
     "link": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-08T07:42:38+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>London’s stock market is sliding at the start of trading.</strong></p><p>The <strong>FTSE</strong> <strong>100</strong> index has dropped by 67 points, or 0.65%, to 10,209 points.</p><p>“We are actively managing the uncertainty created by the fuel price increase and its impact, taking the necessary action on yields, costs and capacity. We currently see no issues with fuel availability in our main markets, particularly as we benefit from our investment in fuel self-supply at our hubs.</p><p>Whilst the impact of the higher fuel price will inevitably lead to lower profit this year than we originally anticipated, we are confident in our business model and strategy, which has made us one of the best-performing airline groups in the world, and which gives us the opportunity to prove our resilience. This confidence means we are on track to continue with the remaining €1 billion return of excess cash.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-05-08T13:42:16+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>UK bond prices have now rallied, after Keir Starmer pledged not to resign and analysts suggested Labour was not doing as badly as feared in the council elections.</strong></p><p>The yield (or interest rate) on benchmark 10-year bonds has dropped by 2.6 basis points (0.026 of a percentage point) to 4.894% this morning.</p><p>No, I’m not going to walk away and plunge the country into chaos. We were elected to deal with these challenges and that’s what we will do.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
-      "Oil",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3798
+  },
+  {
+    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T13:32:00+00:00",
+    "summary": "“Our net worth is about $4 million, and we are both 60.”",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9222
+    "sentiment_score": 0.7096
   },
   {
-    "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
-    "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
+    "title": "7 stocks expecting a post-earnings jolt — including Applied Materials and Cisco Systems",
+    "link": "https://www.marketwatch.com/story/7-stocks-expecting-a-post-earnings-jolt-including-applied-materials-and-cisco-systems-75ce0f33?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T07:31:00+00:00",
-    "summary": "“There’s no way my dad and my mom paid enough into Medicare to cover my dad’s six months in long-term critical care.”",
+    "published": "2026-05-08T13:29:00+00:00",
+    "summary": "S&amp;P 500 investors are charging ahead — and bullish market indicators blaze the trail.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7351
-  },
-  {
-    "title": "UK house price growth forecast halved as Iran war fallout hits housing market",
-    "link": "https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T07:30:21+00:00",
-    "summary": "<p>Halifax says cost of typical home fell by 0.1% in April, the second consecutive monthly drop, with pace of annual growth down from 0.8%. to 0.4%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Business news – live updates </a></p></li></ul><p>UK house prices fell for a second consecutive month in April, as Halifax halved its estimate for the annual rate of growth due to the conflict in the Middle East.</p><p>Halifax, which is part of Lloyds – Britain’s biggest mortgage lender – said that the cost of a typical UK home fell by 0.1% in April, to £299,313. This followed a 0.5% fall in March.</p> <a href=\"https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
+    "sentiment_score": 0.0
   },
   {
-    "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
-    "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
+    "title": "The year’s best tech trade is hiding in plain sight — and no, it’s not the Nasdaq",
+    "link": "https://www.marketwatch.com/story/the-years-best-tech-trade-is-hiding-in-plain-sight-and-no-its-not-the-nasdaq-e11287c9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T02:57:00+00:00",
-    "summary": "Oil futures moved higher late Thursday while stock-index futures were little changed after the U.S. and Iran exchanged fire in the Persian Gulf,  and after a federal court struck down President Donald Trump’s backup tariff plan.",
+    "published": "2026-05-08T13:25:00+00:00",
+    "summary": "While Wall Street fixates on the “Magnificent Seven,” South Korea’s KOSPI has quietly delivered a staggering 75% gain since January.",
     "matched_keywords": [
-      "Fed",
-      "Oil"
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "My husband has a $225,000 pension. We don’t trust his ‘too big to fail’ employer. Where do we invest it?",
+    "link": "https://www.marketwatch.com/story/my-husband-has-a-225-000-pension-we-dont-trust-his-too-big-to-fail-employer-where-do-we-invest-it-5aa53611?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T13:00:00+00:00",
+    "summary": "“Ideally, we are looking for a guaranteed return with minimal risk.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "US added 115,000 jobs in April in surprise gain amid Iran war uncertainty",
+    "link": "https://www.theguardian.com/business/2026/may/08/april-jobs-report",
+    "source": "The Guardian Economics",
+    "published": "2026-05-08T12:34:59+00:00",
+    "summary": "<p>Unemployment remained steady at 4.3% as the US-Israel war on Iran continues to rattle the American economy</p><p>US employers added 115,000 jobs in April and the unemployment rate remained steady at 4.3%, a surprisingly robust gain to the labor market<strong> </strong>as the US-Israel war with Iran continued to drive up economic uncertainty.</p><p>Economists projected about 55,000 new jobs and a 4.3% unemployment rate. A day earlier, the labor department announced 200,000 people filed for weekly unemployment benefits, a slight increase from the week before.</p> <a href=\"https://www.theguardian.com/business/2026/may/08/april-jobs-report\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.8402
+    "sentiment_score": -0.7713
+  },
+  {
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T12:25:00+00:00",
+    "summary": "The biggest promotion is often the one we can give ourselves by cutting back on our spending.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
     "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
     "source": "CNBC Finance",
-    "published": "2026-05-08T00:56:49+00:00",
+    "published": "2026-05-08T11:57:57+00:00",
     "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
     "matched_keywords": [
       "AI",
@@ -66,100 +98,44 @@
     "sentiment_score": 0.25
   },
   {
-    "title": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
-    "link": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories",
+    "title": "Trump walks back threat to rip up part of EU trade deal but tells bloc to ratify by 4 July",
+    "link": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
+    "source": "The Guardian Economics",
+    "published": "2026-05-08T10:39:54+00:00",
+    "summary": "<p>US president expresses impatience at speed of EU’s implementation and warns of ‘much higher’ tariffs</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling\">US trade court rules against Trump’s 10% global tariffs</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Donald Trump has walked back from his threat to tear up part of the US trade deal with the EU by hiking tariffs on car imports.</p><p>The US president has given the EU until 4 July to implement its side of the deal, reducing tariffs to zero on most American imports, warning that the bloc would face “much higher” tariffs if it did not do so.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9392
+  },
+  {
+    "title": "Stocks at all-time highs can still go higher. Here’s one case for buying into the rally.",
+    "link": "https://www.marketwatch.com/story/stocks-at-all-time-highs-can-still-go-higher-heres-one-case-for-buying-into-the-rally-fa95364e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:32:00+00:00",
-    "summary": "The company’s stock falls as co-founders say the layoffs are “not a cost-cutting exercise.”",
+    "published": "2026-05-08T10:36:00+00:00",
+    "summary": "If hostilities dissipate in the Persian Gulf then investors should be able to refocus their attention on the real drivers of the market: earnings and the AI boom",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.4767
   },
   {
-    "title": "Iren’s stock soars as a major Nvidia investment overshadows revenue shortfall",
-    "link": "https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:30:00+00:00",
-    "summary": "Nvidia is taking a major stake in Iren to build out a 5-gigawatt global footprint for its AI factory ambitions",
+    "title": "UK house price growth halved as Iran war fallout hits housing market",
+    "link": "https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market",
+    "source": "The Guardian Economics",
+    "published": "2026-05-08T07:30:21+00:00",
+    "summary": "<p>Halifax says cost of typical home fell by 0.1% in April, the second consecutive monthly drop, with pace of annual growth down from 0.8%. to 0.4%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Business news – live updates </a></p></li></ul><p>UK house prices fell for a second consecutive month in April, as Halifax halved its estimate for the annual rate of growth owing to the conflict in the Middle East.</p><p>Halifax, which is part of Lloyds – Britain’s biggest mortgage lender – said that the cost of a typical UK home fell by 0.1% in April, to £299,313. This followed a 0.5% fall in March.</p> <a href=\"https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market\">Continue reading...</a>",
     "matched_keywords": [
+      "Election",
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "SoundHound’s stock falls as acquisitions weigh on earnings results",
-    "link": "https://www.marketwatch.com/story/soundhounds-stock-falls-as-acquisitions-weigh-on-earnings-results-f24fc593?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:29:00+00:00",
-    "summary": "The company said revenue would’ve grown more not counting its recent acquisitions, but analysts say they put SoundHound in a strong position.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
-  },
-  {
-    "title": "Airbnb is seeing some of its fastest growth from this surprising segment",
-    "link": "https://www.marketwatch.com/story/airbnb-is-seeing-some-of-its-fastest-growth-from-this-surprising-segment-7e1b6320?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:26:00+00:00",
-    "summary": "The travel app has seen some demand disruptions from the Iran war, but is showing early success with its recent pivot into offering hotel bookings",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "AI is coming for your job after all. These new announcements prove it.",
-    "link": "https://www.marketwatch.com/story/ai-is-coming-for-your-job-after-all-these-new-announcements-prove-it-3fa74d86?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:17:00+00:00",
-    "summary": "The tech sector is leading a rush of mass layoffs. Cloudflare, Upwork and Bill outlined big cuts on Thursday, following Coinbase’s announcement earlier in the week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "5 reasons stocks are rallying in the face of an oil-price shock",
-    "link": "https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T00:14:00+00:00",
-    "summary": "U.S. stocks were lower Thursday but still higher for the week, with the S&amp;P 500 on the verge of breaking above 7,400 for the first time ever.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "CoreWeave shares plunge. Revenue doubles but AI costs are rising.",
-    "link": "https://www.marketwatch.com/story/coreweave-reports-unprecedented-100-billion-backlog-but-that-comes-at-a-cost-98b385c7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T22:46:00+00:00",
-    "summary": "Shares of CoreWeave fell 9% in after-hours trading as investors considered shrinking margins and lower-than-expected revenue guidance",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "There’s a new worry keeping Treasury yields and borrowing costs higher",
-    "link": "https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T22:41:00+00:00",
-    "summary": "Oil, the Iran war and inflation risks are putting a new floor under longer-duration Treasury yields",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
+    "sentiment_score": -0.128
   },
   {
     "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
@@ -374,5 +350,31 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7726
+  },
+  {
+    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it could affect you",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+    "source": "The Guardian Economics",
+    "published": "2026-05-05T04:59:28+00:00",
+    "summary": "<p>The RBA has lifted rates again after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February and March.</p><p>In a widely expected move, the central bank raised the cash rate to 4.35%, from 4.1%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7476
+  },
+  {
+    "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+    "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-04T18:55:20+00:00",
+    "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
