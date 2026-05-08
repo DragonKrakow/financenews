@@ -1,51 +1,149 @@
 [
   {
-    "title": "Time is running out to avoid a power crunch in America: ‘The current situation is not tenable’",
-    "link": "https://www.marketwatch.com/story/time-is-running-out-to-avoid-a-power-crunch-in-america-the-current-situation-is-not-tenable-b6f7f0d2?mod=mw_rss_topstories",
+    "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+    "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T19:24:00+00:00",
-    "summary": "Nonprofit grid operator PJM has called for reforms, but the ’devil is in the details’ as it seeks to avoid a worst-case scenario.",
+    "published": "2026-05-08T02:57:00+00:00",
+    "summary": "Oil futures moved higher late Thursday while stock-index futures were little changed after the U.S. and Iran exchanged fire in the Persian Gulf,  and after a federal court struck down President Donald Trump’s backup tariff plan.",
+    "matched_keywords": [
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8402
+  },
+  {
+    "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+    "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-08T00:56:49+00:00",
+    "summary": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
+    "link": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T00:32:00+00:00",
+    "summary": "The company’s stock falls as co-founders say the layoffs are “not a cost-cutting exercise.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
+    "sentiment_score": -0.2732
   },
   {
-    "title": "Palo Alto Networks’ stock is basking in the glow of a cybersecurity revival",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-basking-in-the-glow-of-a-cybersecurity-revival-c822e0aa?mod=mw_rss_topstories",
+    "title": "Iren’s stock soars as a major Nvidia investment overshadows revenue shortfall",
+    "link": "https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T19:03:00+00:00",
-    "summary": "Investors are starting to see cybersecurity companies more as AI beneficiaries than as AI losers, one analyst notes.",
+    "published": "2026-05-08T00:30:00+00:00",
+    "summary": "Nvidia is taking a major stake in Iren to build out a 5-gigawatt global footprint for its AI factory ambitions",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0865
+    "sentiment_score": 0.0
   },
   {
-    "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
-    "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
+    "title": "SoundHound’s stock falls as acquisitions weigh on earnings results",
+    "link": "https://www.marketwatch.com/story/soundhounds-stock-falls-as-acquisitions-weigh-on-earnings-results-f24fc593?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T18:49:00+00:00",
-    "summary": "“We are 66 and 76, respectively. We own our home, which is paid off.”",
+    "published": "2026-05-08T00:29:00+00:00",
+    "summary": "The company said revenue would’ve grown more not counting its recent acquisitions, but analysts say they put SoundHound in a strong position.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5209
+    "sentiment_score": 0.6652
   },
   {
-    "title": "Beef is very expensive right now — and Shake Shack just lost money for the first time in years",
-    "link": "https://www.marketwatch.com/story/beef-is-very-expensive-right-now-and-shake-shack-just-lost-money-for-the-first-time-in-years-4e13e375?mod=mw_rss_topstories",
+    "title": "Airbnb is seeing some of its fastest growth from this surprising segment",
+    "link": "https://www.marketwatch.com/story/airbnb-is-seeing-some-of-its-fastest-growth-from-this-surprising-segment-7e1b6320?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T17:10:00+00:00",
-    "summary": "The burger chain’s shares were dropping nearly 30% in the face of cost inflation and challenging consumer sentiment.",
+    "published": "2026-05-08T00:26:00+00:00",
+    "summary": "The travel app has seen some demand disruptions from the Iran war, but is showing early success with its recent pivot into offering hotel bookings",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "AI is coming for your job after all. These new announcements prove it.",
+    "link": "https://www.marketwatch.com/story/ai-is-coming-for-your-job-after-all-these-new-announcements-prove-it-3fa74d86?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T00:17:00+00:00",
+    "summary": "The tech sector is leading a rush of mass layoffs. Cloudflare, Upwork and Bill outlined big cuts on Thursday, following Coinbase’s announcement earlier in the week.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "5 reasons stocks are rallying in the face of an oil-price shock",
+    "link": "https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-08T00:14:00+00:00",
+    "summary": "U.S. stocks were lower Thursday but still higher for the week, with the S&amp;P 500 on the verge of breaking above 7,400 for the first time ever.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "CoreWeave shares plunge. Revenue doubles but AI costs are rising.",
+    "link": "https://www.marketwatch.com/story/coreweave-reports-unprecedented-100-billion-backlog-but-that-comes-at-a-cost-98b385c7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T22:46:00+00:00",
+    "summary": "Shares of CoreWeave fell 9% in after-hours trading as investors considered shrinking margins and lower-than-expected revenue guidance",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "There’s a new worry keeping Treasury yields and borrowing costs higher",
+    "link": "https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T22:41:00+00:00",
+    "summary": "Oil, the Iran war and inflation risks are putting a new floor under longer-duration Treasury yields",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.743
+  },
+  {
+    "title": "‘Americans are not great at managing money’: Social Security and Medicare saved my father from financial ruin",
+    "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-07T22:30:00+00:00",
+    "summary": "“There’s no way my dad and my mom paid enough into Medicare to cover my dad’s six months in long-term critical care.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7502
+  },
+  {
+    "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
+    "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-07T21:35:53+00:00",
+    "summary": "\"War in Iran resulted in recession-level industry decline in the U.S. as consumer confidence collapsed in late February and March,\" the company said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
   },
   {
     "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
@@ -58,30 +156,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
-    "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-07T16:42:00+00:00",
-    "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
-    "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-07T13:56:42+00:00",
-    "summary": "\"War in Iran resulted in recession-level industry decline in the U.S. as consumer confidence collapsed in late February and March,\" the company said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
   },
   {
     "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
@@ -298,80 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Kalshi traders see April jobs report coming in better than economists' estimates",
-    "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:48:20+00:00",
-    "summary": "The figure is higher than consensus estimates for 57,000 jobs gained in April, according to analysts polled by FactSet.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
-    "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
-    "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:47:05+00:00",
-    "summary": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8689
-  },
-  {
-    "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
-    "link": "https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-05-04T10:51:55+00:00",
-    "summary": "<p>Beef and olive oil costs increase the most as climate and energy shocks drive inflation, research suggests</p><p>Food prices are on track to be 50% higher in November than at the start of the cost of living crisis in 2021, research suggests.</p><p>Climate and energy shocks have driven an almost quadrupling of the pace of food price growth, according to research from the thinktank Energy and Climate Intelligence Unit (ECIU), with costs rising in five years at about the same rate as they had over the previous two decades.</p> <a href=\"https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Women in developing countries hardest hit by rising debt burden, UN research finds",
-    "link": "https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
-    "source": "The Guardian Economics",
-    "published": "2026-05-04T05:00:16+00:00",
-    "summary": "<p>Study warns women face job losses and increased unpaid care duties as debt and conflict-driven turbulence force spending cuts</p><p>Women are hit hardest when the debt burden in developing countries rises, a trend expected to worsen as the war in the Middle East continues, UN research shows.</p><p>A report by experts from the UN Development Programme (UNDP), based on data from 85 countries gathered across three decades, shows women are disproportionately affected when debt repayments increase significantly.</p> <a href=\"https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.959
-  },
-  {
-    "title": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in ‘most responsible’ budget yet",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet",
-    "source": "The Guardian Economics",
-    "published": "2026-05-04T04:34:06+00:00",
-    "summary": "<p>The treasurer also says May federal budget will play ‘helpful, not harmful, role in fight against inflation’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jim Chalmers has warned there will be little room for more cost-of-living support in his fifth and “most responsible” budget yet, as he ruled out an immediate extension of the 26-cent cut to the fuel excise and downplayed hopes for <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/limiting-capital-gains-tax-changes-to-new-investments-would-severely-delay-budget-reforms-deloitte-says\">additional tax relief</a> for workers.</p><p>The treasurer also said Australian voters would forgive Labor for breaking a pre-election vow not to touch negative gearing rules for landlords, which is set to form part of a package that would also <a href=\"https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors\">scale back the capital gains tax discount</a> in the name of intergenerational fairness.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9445
-  },
-  {
-    "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-    "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-02T23:23:07+00:00",
-    "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8555
   }
 ]
