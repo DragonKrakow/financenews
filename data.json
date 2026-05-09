@@ -1,5 +1,53 @@
 [
   {
+    "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
+    "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T13:00:00+00:00",
+    "summary": "Wall Street is glomming on to yet another acronym inspired in part by Mexican cuisine.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "The most prestigious job in AI has no description",
+    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T12:30:00+00:00",
+    "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T11:45:00+00:00",
+    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T10:46:00+00:00",
+    "summary": "“Our net worth is about $4 million, and we are both 60.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
     "title": "‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.",
     "link": "https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,67 +58,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8658
-  },
-  {
-    "title": "Dunkin’ is making its return to the stock market — with a new twist",
-    "link": "https://www.marketwatch.com/story/dunkin-is-making-its-return-to-the-stock-market-with-a-new-twist-c89f1cc2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T22:07:00+00:00",
-    "summary": "Inspire Brands — which owns Dunkin’, Arby’s and other chains — has confidentially filed for an IPO.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Gold has climbed back above a key trend line. Are more gains on the way?",
-    "link": "https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T21:44:00+00:00",
-    "summary": "Gold broke above an important short-term technical level on Friday — a sign that the precious metal may be starting to regain momentum after a sluggish stretch since the start of the Iran conflict.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.101
-  },
-  {
-    "title": "AMD, Micron shares surge on a big day for chip-sector outperformance",
-    "link": "https://www.marketwatch.com/story/amd-micron-shares-surge-on-a-big-day-for-chip-sector-outperformance-fe2d5306?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T21:07:00+00:00",
-    "summary": "There’s been a dramatic “return to AI data-center optimism,” one analyst notes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "Ageism is corporate self-sabotage — America’s ‘brain drain’ is costing shareholders billions",
-    "link": "https://www.marketwatch.com/story/ageism-is-still-an-acceptable-bias-among-employers-and-its-costing-shareholders-billions-aa308465?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T20:39:00+00:00",
-    "summary": "Discarding experienced workers isn’t a strategy  —  it’s short-sighted thinking that AI won’t fix.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?",
-    "link": "https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T20:24:00+00:00",
-    "summary": "“The agent said he could not add my brother because he does not depend on my income, so has no insurable interest.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3774
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
@@ -377,5 +364,18 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7476
+  },
+  {
+    "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+    "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-04T18:55:20+00:00",
+    "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
