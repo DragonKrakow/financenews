@@ -1,63 +1,113 @@
 [
   {
-    "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
-    "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
+    "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
+    "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T13:00:00+00:00",
-    "summary": "Wall Street is glomming on to yet another acronym inspired in part by Mexican cuisine.",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
     "matched_keywords": [
-      "Oil"
+      "Gold",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
+    "sentiment_score": 0.8176
   },
   {
-    "title": "The most prestigious job in AI has no description",
-    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+    "title": "The year’s best tech trade is hiding in plain sight — and no, it’s not the Nasdaq",
+    "link": "https://www.marketwatch.com/story/the-years-best-tech-trade-is-hiding-in-plain-sight-and-no-its-not-the-nasdaq-e11287c9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T12:30:00+00:00",
-    "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "While Wall Street fixates on the “Magnificent Seven,” South Korea’s KOSPI has quietly delivered a staggering 75% gain since January.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "The food inflation crisis will soon be all investors are talking about",
+    "link": "https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "As fertilizer costs hit 2026 highs and U.S. farmers cut planting, investors are looking to these stocks to hedge against food scarcity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
+  },
+  {
+    "title": "Stuck in ‘survival spending’? 5 ways to build wealth even when the odds seem stacked against you.",
+    "link": "https://www.marketwatch.com/story/stuck-in-survival-spending-5-ways-to-build-wealth-even-when-the-odds-seem-stacked-against-you-83cf0ca3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "Solve problems, concentrate wealth and manage risk to get ahead.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Ageism is corporate self-sabotage — America’s ‘brain drain’ is costing shareholders billions",
+    "link": "https://www.marketwatch.com/story/ageism-is-still-an-acceptable-bias-among-employers-and-its-costing-shareholders-billions-aa308465?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "Discarding experienced workers isn’t a strategy  —  it’s short-sighted thinking that AI won’t fix.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "8 multibillion-dollar companies later, this serial entrepreneur shares his proven blueprint for massive returns",
+    "link": "https://www.marketwatch.com/story/this-billionaires-blueprint-for-a-200-bagger-why-youre-thinking-too-small-in-a-world-of-infinite-capital-bdf114ff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "Billionaire investor Brad Jacobs explains why the biggest mistake investors make today is failing to take advantage of ‘infinite capital.’",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "7 stocks expecting a post-earnings jolt — including Applied Materials and Cisco Systems",
+    "link": "https://www.marketwatch.com/story/7-stocks-expecting-a-post-earnings-jolt-including-applied-materials-and-cisco-systems-75ce0f33?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-09T19:03:00+00:00",
+    "summary": "S&amp;P 500 investors are charging ahead — and bullish market indicators blaze the trail.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
+    "sentiment_score": 0.0
   },
   {
-    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
-    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+    "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T11:45:00+00:00",
-    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
-    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T10:46:00+00:00",
-    "summary": "“Our net worth is about $4 million, and we are both 60.”",
+    "published": "2026-05-09T19:02:00+00:00",
+    "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
+    "sentiment_score": 0.6908
   },
   {
-    "title": "‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.",
-    "link": "https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories",
+    "title": "Kevin Warsh is right about Fed reform — but his inflation solution is a trap",
+    "link": "https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-08T22:14:00+00:00",
-    "summary": "An extra set of eyes on these kinds of  tasks can help people remain independent longer",
+    "published": "2026-05-09T19:02:00+00:00",
+    "summary": "Warsh’s belief that AI is a guaranteed disinflationary force could trigger premature rate cuts.",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8658
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
@@ -321,58 +371,6 @@
     "published": "2026-05-05T11:00:01+00:00",
     "summary": "Blueprint Capital's Power100 weekend convenes diverse leaders in finance ahead of the Milken Institute Global Conference.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Reform UK’s immigration policies are a significant risk to the UK economy | Sushil Wadhwani",
-    "link": "https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T09:00:35+00:00",
-    "summary": "<p>An exodus of workers will be damaging – and electoral change might help Britain escape instability and low growth</p><p>While all eyes are on the Middle East and the risk of a global recession, a possible scenario with significant downside risk for the UK economy after the next general election is building: the impact of anti-immigration policies.</p><p>We do not know enough about the actual policy changes a Reform UK-led government would impose, but if we get forced repatriation (including of some who were born in Britain) combined with a climate of fear, the economic disruption could be highly significant.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9509
-  },
-  {
-    "title": "‘There is a good deal of fear’: what would a Labour leadership challenge mean for bond markets?",
-    "link": "https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T06:00:45+00:00",
-    "summary": "<p>Rayner and Burnham are trying to gain markets’ confidence amid concerns they could loosen fiscal rules if they replace Starmer</p><p>Who calls the shots on the bin collections in Sunderland, potholes in Hackney, or schools in Cardiff is not normally of interest to City traders in the multitrillion-pound sovereign bond market.</p><p>But for those dealing in UK government debt, Thursday’s <a href=\"https://www.theguardian.com/politics/ng-interactive/2026/apr/23/mapped-local-elections-labour-may-unprecedented-losses\">local and devolved government elections</a> are significantly more important than usual, amid speculation that a dire showing for Keir Starmer’s Labour party could topple him as prime minister.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7726
-  },
-  {
-    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it could affect you",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T04:59:28+00:00",
-    "summary": "<p>The RBA has lifted rates again after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February and March.</p><p>In a widely expected move, the central bank raised the cash rate to 4.35%, from 4.1%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7476
-  },
-  {
-    "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-    "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:55:20+00:00",
-    "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
-    "matched_keywords": [
-      "Gold",
       "AI"
     ],
     "sentiment_label": "Neutral",
