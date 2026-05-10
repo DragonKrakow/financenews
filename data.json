@@ -1,5 +1,57 @@
 [
   {
+    "title": "As Nvidia earnings draw closer, here are 5 things investors need to watch",
+    "link": "https://www.marketwatch.com/story/as-nvidia-earnings-draw-closer-here-are-5-things-investors-need-to-watch-d11d8136?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T16:56:00+00:00",
+    "summary": "The chip maker’s stock has been a laggard — but Goldman Sachs sees five potential catalysts that could come out of its earnings call later this month.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
+    "link": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-05-10T14:00:27+00:00",
+    "summary": "<p>The economic warnings are bleak, but full extent of shortages are still not felt for many European countries</p><p>The <a href=\"https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea\">biggest energy shock</a> in modern history, jet fuel shortages <a href=\"https://www.theguardian.com/business/2026/apr/16/europe-supply-jet-fuel-iran-war-flight-cancellations-iea\">“within weeks”</a>, a <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">global recession</a> – since Iran throttled shipping flows through the strait of Hormuz at the end of February the economic warnings have become increasingly dire.</p><p>Yet 10 weeks on from the first US-Israeli attacks, share indices, companies and governments have been surprisingly sanguine. Every day the divergence grows between the eerie quiet on markets and alarming warnings of an imminent supply chain crunch.</p> <a href=\"https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Supply Chain",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.875
+  },
+  {
+    "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
+    "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T14:00:00+00:00",
+    "summary": "Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
+    "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T13:30:00+00:00",
+    "summary": "“There’s no way my dad and my mom paid enough into Medicare to cover my dad’s six months in long-term critical care.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
+  },
+  {
     "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
     "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,30 +74,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7096
-  },
-  {
-    "title": "The most prestigious role in AI has no job description",
-    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-10T01:32:00+00:00",
-    "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
-    "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T19:25:00+00:00",
-    "summary": "“There’s no way my dad and my mom paid enough into Medicare to cover my dad’s six months in long-term critical care.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7351
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
@@ -352,30 +380,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7476
-  },
-  {
-    "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-    "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:55:20+00:00",
-    "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Kalshi traders see April jobs report coming in better than economists' estimates",
-    "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-04T18:48:20+00:00",
-    "summary": "The figure is higher than consensus estimates for 57,000 jobs gained in April, according to analysts polled by FactSet.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
   }
 ]
