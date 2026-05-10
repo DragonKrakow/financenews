@@ -1,5 +1,29 @@
 [
   {
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T12:25:00+00:00",
+    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T11:25:00+00:00",
+    "summary": "“Our net worth is about $4 million, and we are both 60.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
     "title": "The most prestigious role in AI has no job description",
     "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,42 +46,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7351
-  },
-  {
-    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
-    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T19:25:00+00:00",
-    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "These long-distance couples are mourning the airline America loved to hate",
-    "link": "https://www.marketwatch.com/story/spirits-cheap-flights-kept-long-distance-relationships-alive-now-these-couples-are-scrambling-to-stay-connected-ca7e4745?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T19:11:00+00:00",
-    "summary": "‘There are probably countless weddings, funerals, reunions, weekend getaways and, yes — long distance relationships — that Spirit enabled’ with its flights under $100.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.",
-    "link": "https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-09T19:09:00+00:00",
-    "summary": "An extra set of eyes on these kinds of  tasks can help people remain independent longer",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8658
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
@@ -377,5 +365,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Kalshi traders see April jobs report coming in better than economists' estimates",
+    "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-04T18:48:20+00:00",
+    "summary": "The figure is higher than consensus estimates for 57,000 jobs gained in April, according to analysts polled by FactSet.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
   }
 ]
