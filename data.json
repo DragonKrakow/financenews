@@ -1,5 +1,79 @@
 [
   {
+    "title": "U.S. stock futures fall, oil surges as Trump calls Iran’s latest offer to end war ‘totally unacceptable’",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T03:01:00+00:00",
+    "summary": "U.S. stock-index futures fell and oil prices rose on Sunday, after President Donald Trump called Iran’s response to the latest U.S. proposal to end the war “totally unacceptable.”",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8316
+  },
+  {
+    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T00:37:00+00:00",
+    "summary": "“Our net worth is about $4 million, and we are both 60.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T23:35:00+00:00",
+    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+    "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T22:00:00+00:00",
+    "summary": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8519
+  },
+  {
+    "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
+    "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T20:20:00+00:00",
+    "summary": "Wall Street is glomming on to yet another acronym inspired in part by Mexican cuisine.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
+    "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-10T20:13:00+00:00",
+    "summary": "Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
     "title": "As Nvidia earnings draw closer, here are 5 things investors need to watch",
     "link": "https://www.marketwatch.com/story/as-nvidia-earnings-draw-closer-here-are-5-things-investors-need-to-watch-d11d8136?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -27,19 +101,6 @@
     "sentiment_score": -0.875
   },
   {
-    "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
-    "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-10T14:00:00+00:00",
-    "summary": "Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
-  },
-  {
     "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
     "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -50,30 +111,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7351
-  },
-  {
-    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
-    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-10T12:25:00+00:00",
-    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
-    "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-10T11:25:00+00:00",
-    "summary": "“Our net worth is about $4 million, and we are both 60.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
   },
   {
     "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
@@ -341,44 +378,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Reform UK’s immigration policies are a significant risk to the UK economy | Sushil Wadhwani",
-    "link": "https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T09:00:35+00:00",
-    "summary": "<p>An exodus of workers will be damaging – and electoral change might help Britain escape instability and low growth</p><p>While all eyes are on the Middle East and the risk of a global recession, a possible scenario with significant downside risk for the UK economy after the next general election is building: the impact of anti-immigration policies.</p><p>We do not know enough about the actual policy changes a Reform UK-led government would impose, but if we get forced repatriation (including of some who were born in Britain) combined with a climate of fear, the economic disruption could be highly significant.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9509
-  },
-  {
-    "title": "‘There is a good deal of fear’: what would a Labour leadership challenge mean for bond markets?",
-    "link": "https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T06:00:45+00:00",
-    "summary": "<p>Rayner and Burnham are trying to gain markets’ confidence amid concerns they could loosen fiscal rules if they replace Starmer</p><p>Who calls the shots on the bin collections in Sunderland, potholes in Hackney, or schools in Cardiff is not normally of interest to City traders in the multitrillion-pound sovereign bond market.</p><p>But for those dealing in UK government debt, Thursday’s <a href=\"https://www.theguardian.com/politics/ng-interactive/2026/apr/23/mapped-local-elections-labour-may-unprecedented-losses\">local and devolved government elections</a> are significantly more important than usual, amid speculation that a dire showing for Keir Starmer’s Labour party could topple him as prime minister.</p> <a href=\"https://www.theguardian.com/business/2026/may/05/labour-leadership-challenge-bond-markets-angela-rayner-andy-burnham-keir-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7726
-  },
-  {
-    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it could affect you",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-    "source": "The Guardian Economics",
-    "published": "2026-05-05T04:59:28+00:00",
-    "summary": "<p>The RBA has lifted rates again after soaring fuel prices pushed up inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February and March.</p><p>In a widely expected move, the central bank raised the cash rate to 4.35%, from 4.1%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7476
   }
 ]
