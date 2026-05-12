@@ -1,77 +1,112 @@
 [
   {
-    "title": "U.S. households face serious pain beyond gas prices as diesel nears record highs",
-    "link": "https://www.marketwatch.com/story/u-s-households-face-serious-pain-beyond-gas-prices-as-diesel-nears-record-highs-030f1ce1?mod=mw_rss_topstories",
+    "title": "Iren’s stock pulls back as investors assess the steep price of the AI buildout",
+    "link": "https://www.marketwatch.com/story/irens-stock-pulls-back-as-investors-assess-the-steep-price-of-the-ai-buildout-3013b59b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:53:00+00:00",
-    "summary": "Diesel is what powers the trucks, trains and tractors. It’s what the U.S. economy runs on.",
+    "published": "2026-05-12T01:15:00+00:00",
+    "summary": "Iren will take on debt in the wake of its new Nvidia partnership. One analyst said Monday’s stock drop is an overreaction.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
+    "sentiment_score": -0.6486
   },
   {
-    "title": "Nvidia has added an Oracle’s worth of market cap in just four trading days",
-    "link": "https://www.marketwatch.com/story/nvidia-has-added-an-oracles-worth-of-market-cap-in-just-four-trading-days-253f4fe8?mod=mw_rss_topstories",
+    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
+    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:52:00+00:00",
-    "summary": "Nvidia’s stock is on pace to record its best four-session gain of 2026 after severely lagging the chip sector in the year to date.",
+    "published": "2026-05-11T23:49:00+00:00",
+    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
+    "sentiment_score": 0.765
   },
   {
-    "title": "Kevin Warsh is right about Fed reform — but his inflation solution is a trap",
-    "link": "https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories",
+    "title": "BuzzFeed’s stock more than doubles as beleaguered media company gets a lifeline",
+    "link": "https://www.marketwatch.com/story/buzzfeeds-stock-more-than-doubles-as-beleaguered-media-company-gets-a-lifeline-7dea1e61?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:47:00+00:00",
-    "summary": "Warsh’s belief that AI is a guaranteed disinflationary force could trigger premature rate cuts.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
-    "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:38:00+00:00",
-    "summary": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8519
-  },
-  {
-    "title": "‘Technically, I’m not sick’: Can I take paid sick leave for my egg-retrieval fertility treatment?",
-    "link": "https://www.marketwatch.com/story/technically-im-not-sick-can-i-take-paid-sick-leave-for-my-egg-retrieval-fertility-treatment-004fc73e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:30:00+00:00",
-    "summary": "“I’m a hard worker who pretty much never takes sick days.”",
+    "published": "2026-05-11T23:31:00+00:00",
+    "summary": "Shares of BuzzFeed were up more than 130% in the extended session after the company said Byron Allen’s family office agreed to take a majority stake.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2505
+    "sentiment_score": 0.5106
   },
   {
-    "title": "Strategy’s Michael Saylor raps about how he gets shareholders to pay for bitcoin buys",
-    "link": "https://www.marketwatch.com/story/strategys-michael-saylor-raps-about-how-he-gets-shareholders-to-pay-for-bitcoin-buys-479e0011?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T18:14:00+00:00",
-    "summary": "Strategy has sold more common stock to buy bitcoin, and Executive Chair Michael Saylor has posted a video on X in which he raps about using the “equity ATM” in an effort to hurt those who bet against the company and bitcoin.",
+    "title": "UK households cut back spending at fastest rate in 18 months, Barclays says",
+    "link": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-05-11T23:01:07+00:00",
+    "summary": "<p>Dip in credit card spending in April, particularly on travel, suggests Britons preparing for harder times amid Iran war fallout</p><p>Households cut back on their spending in April at the fastest pace in 18 months, as the conflict in the Middle East provoked fears of another cost of living crisis, a report from one of the UK’s biggest banks has suggested.</p><p>Barclays, which processes nearly 40% of the UK’s credit and debit card transactions, said its data showed there had been a 0.1% fall in card spending last month compared with a year earlier. This was the first year-on-year fall since November 2024.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
+    "sentiment_score": -0.9217
+  },
+  {
+    "title": "AI investment ‘advice’ is 50% more likely to pump you up — and trip you into costly blunders",
+    "link": "https://www.marketwatch.com/story/ai-investment-advice-is-50-more-likely-to-pump-you-up-and-trip-you-into-costly-blunders-1fcdd3d1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T22:45:00+00:00",
+    "summary": "AI fuels impulsive actions — a human ‘defense coach’ is your best bet to win the market’s ‘loser’s game.’",
+    "matched_keywords": [
+      "Defense",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?",
+    "link": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T22:29:00+00:00",
+    "summary": "Brent crude futures charts produced a technical pattern that hasn’t been seen in 36 years, and what that could mean for oil prices.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Here’s the next AI ‘battleground’ — and how investors can get in on the action",
+    "link": "https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T21:44:00+00:00",
+    "summary": "Lumentum’s stock has been red hot, but there are plenty of lesser-known ways to capitalize on the growing connectivity needs of AI data centers, according to Bernstein.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2617
+  },
+  {
+    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
+    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T21:28:00+00:00",
+    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Cash-strapped homeowners may soon have no choice but to repair their aging houses. These stocks can benefit.",
+    "link": "https://www.marketwatch.com/story/cash-strapped-homeowners-may-soon-have-no-choice-but-to-repair-their-aging-houses-0241bbdc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-11T21:19:00+00:00",
+    "summary": "Home Depot and Lowe’s have struggled this year, but UBS analysts say they’re due to benefit as homeowners reach a tipping point with units built during the mid-2000s housing boom.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
   },
   {
     "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
@@ -344,41 +379,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1406
-  },
-  {
-    "title": "Cut borrowing costs for poorer countries to free up $900bn for development – report",
-    "link": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
-    "source": "The Guardian Economics",
-    "published": "2026-05-06T11:10:39+00:00",
-    "summary": "<p>G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spending</p><p>Cutting debt servicing costs for the world’s poorest countries could free up $900bn (£660bn) a year for development, <a href=\"https://www.development-finance.org/en/news/894-5-may-oslo-debt-relief-could-allow-g77-to-double-social-climate-nature-spending\">a new report to the UN secretary general</a> has claimed.</p><p>Prepared by advocacy group Development Finance International (DFI) and launched in Oslo today, the analysis warned that the world is facing “the worst ever debt-provoked development crisis”.</p> <a href=\"https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
-    "link": "https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
-    "source": "The Guardian Economics",
-    "published": "2026-05-06T04:00:01+00:00",
-    "summary": "<p>Shoppers concerned about effect of Middle East conflict, as UK retailers say government running out of time to cut costs</p><p>Four in five people are worried that the Iran war will make food more expensive, according to a new poll, as businesses warned the “window is closing” for ministers to cut energy costs for UK retailers.</p><p>Research by Opinium found that 80% of people are worried about the rising price of groceries, which would come from retailers passing on cost increases to consumers, while 73% expect the conflict to push up prices of other products.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9648
-  },
-  {
-    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-05T19:36:16+00:00",
-    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
   }
 ]
