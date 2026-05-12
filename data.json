@@ -1,10 +1,97 @@
 [
   {
-    "title": "UK long-term borrowing costs dip from 28-year high after Starmer allies back PM – business live",
+    "title": "The Iran war flashpoint isn’t oil prices — it’s not knowing what comes next",
+    "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T19:16:00+00:00",
+    "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Americans from cruise-ship outbreak could be quarantined until mid-June",
+    "link": "https://www.marketwatch.com/story/americans-from-cruise-ship-outbreak-could-be-quarantined-until-mid-june-2ca52170?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T19:13:00+00:00",
+    "summary": "The Andes virus has a long incubation period, and the World Health Organization said there may be more infections “in the coming weeks.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "AI is ‘absolutely useless’ at forecasting inflation. This proven model is 12 times more accurate.",
+    "link": "https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T18:20:00+00:00",
+    "summary": "A “low-tech” tool from the Cleveland Fed consistently outperforms generative AI, which has struggled to provide reliable forecasts.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "As airfares soar 21%, these are the cheapest cities to fly into",
+    "link": "https://www.marketwatch.com/story/as-airfares-soar-21-these-are-the-cheapest-cities-to-fly-into-f59620db?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T18:04:00+00:00",
+    "summary": "Some airlines have raised fares, cut routes and hiked bag fees in response to increasing jet-fuel prices.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Why the oil crisis could become a full-blown catastrophe within a month",
+    "link": "https://www.marketwatch.com/story/why-the-oil-crisis-could-become-a-full-blown-catastrophe-within-a-month-84129cd0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T17:52:00+00:00",
+    "summary": "Global crude reserves are rapidly depleting, pushing the world toward scarcity.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9217
+  },
+  {
+    "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
+    "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+    "source": "The Guardian Economics",
+    "published": "2026-05-12T17:36:01+00:00",
+    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Long-term UK borrowing costs soared to the highest level in almost three decades on Tuesday as fears about a change of Labour leadership triggered investor jitters and warnings of further bond market turmoil.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds, or gilts, hit a high on Tuesday of 5.81%, a rise of 14 basis points and the highest since 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Did rents really surge in April and boost inflation? Here’s the real story.",
+    "link": "https://www.marketwatch.com/story/did-rents-really-surge-in-april-and-boost-inflation-heres-the-real-story-c967fa20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T17:15:00+00:00",
+    "summary": "The rising shelter costs are actually slowing. Unfortunately, other prices are rising again.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "UK long-term borrowing costs dip from 28-year high after Starmer allies back PM – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-12T13:50:27+00:00",
-    "summary": "<p>UK bond yields hit highest since 1998 this morning, before easing back as some cabinet ministers voiced support for Keir Starmer</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\"><strong>Politics live: Keir Starmer tells cabinet he is not resigning amid growing pressure to stand down</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit\">Starmer on the brink as cabinet ministers urge him to quit</a></p></li></ul><p><br /></p><p><strong>Chris Beauchamp</strong>, chief market analyst at investing and trading platform <strong>IG</strong>, says:</p><p>There is no clear plan for what comes next, but markets are already pricing in a new PM who will open the floodgates on spending despite the UK’s dangerous fiscal situation.</p><p>Faced with hordes of Labour MPs worried about their re-election chances as Reform surges, a new PM will find it very hard to resist calls to spend more money in order to shore up their embattled party.</p><p><strong>We could see a blowout in longer-dated gilts if this turns into a dogfight</strong>– political, fiscal and inflationary risks will rise.</p><p>Markets tend to dislike a lack of certainty over who runs a government; the fiscal position is already fragile and likely to become worse should a left-leaning ticket prioritise spending; and that this makes inflation stickier.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Continue reading...</a>",
+    "published": "2026-05-12T16:23:49+00:00",
+    "summary": "<p>UK bond yields hit highest since 1998 this morning, before easing back as some cabinet ministers voiced support for Keir Starmer</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Full story: <strong>UK borrowing costs hit highest since 1998 amid Starmer uncertainty</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\"><strong>Politics live: Keir Starmer tells cabinet he is not resigning amid growing pressure to stand down</strong></a></p></li></ul><p><strong>Chris Beauchamp</strong>, chief market analyst at investing and trading platform <strong>IG</strong>, says:</p><p>There is no clear plan for what comes next, but markets are already pricing in a new PM who will open the floodgates on spending despite the UK’s dangerous fiscal situation.</p><p>Faced with hordes of Labour MPs worried about their re-election chances as Reform surges, a new PM will find it very hard to resist calls to spend more money in order to shore up their embattled party.</p><p><strong>We could see a blowout in longer-dated gilts if this turns into a dogfight</strong>– political, fiscal and inflationary risks will rise.</p><p>Markets tend to dislike a lack of certainty over who runs a government; the fiscal position is already fragile and likely to become worse should a left-leaning ticket prioritise spending; and that this makes inflation stickier.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Oil",
@@ -14,78 +101,16 @@
     "sentiment_score": -0.8666
   },
   {
-    "title": "This dot-com survivor says AI build-out is more like 1997 than 1999 — and still urges investors to hold more cash",
-    "link": "https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T13:35:00+00:00",
-    "summary": "The riveting gains for microchip stocks have many analysts drawing parallels to 1999, just ahead of the dot-com crash, when the build-out of a key technology led to parabolic moves and frenzied speculation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6115
-  },
-  {
-    "title": "Inflation jumps to 3-year high, CPI shows, and that’s not the end of it",
-    "link": "https://www.marketwatch.com/story/inflation-jumps-to-3-year-high-cpi-shows-and-thats-not-the-end-of-it-4de88cd4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T13:17:00+00:00",
-    "summary": "The U.S. inflation rate leaped to a nearly three-year high of 3.8% in April because of higher gas prices — and the pain for consumers isn’t going away anytime soon.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T13:07:00+00:00",
-    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first",
-    "link": "https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T12:11:00+00:00",
-    "summary": "Michael Terpin explained his theory of four-year cycles in the bitcoin price that bottom during midterm-election years. One more correction is coming before another bull market.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "UK borrowing costs hit highest since 1998 amid Starmer uncertainty",
-    "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+    "title": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
+    "link": "https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war",
     "source": "The Guardian Economics",
-    "published": "2026-05-12T11:28:46+00:00",
-    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Long-term UK borrowing costs have soared to the highest level in almost three decades amid fears about a change of Labour leadership, before dropping back as cabinet ministers rallied around Keir Starmer.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds jumped 11 basis points on Tuesday morning to 5.794%, the highest since May 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
+    "published": "2026-05-12T15:09:45+00:00",
+    "summary": "<p>Prices rose 3.8% over the last year, according to Bureau of Labor Statistics data, highest jump since 2023</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US inflation jumped to 3.8% in April as the war in the Middle East continued to drive energy prices and everyday costs for Americans.</p><p>Prices rose 3.8% over the last year, according to the data from the Bureau of Labor Statistics, the highest jump since 2023.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
-    "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T11:05:00+00:00",
-    "summary": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
+    "sentiment_score": -0.7717
   },
   {
     "title": "Labour must offer more than ‘better managed decline’ on economy, MPs urge",
@@ -348,19 +373,6 @@
     "sentiment_score": -0.8692
   },
   {
-    "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
-    "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
-    "source": "The Guardian Economics",
-    "published": "2026-05-06T16:58:59+00:00",
-    "summary": "<p>US president says war will end if Tehran agrees to deal, but that ‘bombing starts’ again if it does not</p><p></p><p>Oil prices fell and stock markets rose as Donald Trump said the war with Iran would end and the strait of Hormuz would be “open to all” if Tehran struck a deal with Washington.</p><p>The US president posted on social media: “Assuming Iran agrees to give what has been agreed to, which is, perhaps, a big assumption, the already legendary Epic Fury will be at an end, and the highly effective Blockade will allow the Hormuz Strait to be OPEN TO ALL, including Iran.”</p> <a href=\"https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5439
-  },
-  {
     "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
     "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
     "source": "CNBC Finance",
@@ -371,17 +383,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4939
-  },
-  {
-    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
-    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-05T14:17:28+00:00",
-    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   }
 ]
