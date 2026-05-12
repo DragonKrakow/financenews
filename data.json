@@ -1,37 +1,98 @@
 [
   {
-    "title": "UK long-term borrowing costs hit highest since 1998 as Starmer faces pressure to stand down – business live",
+    "title": "UK long-term borrowing costs dip from 28-year high after Starmer allies back PM – business live",
     "link": "https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-12T08:32:30+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\"><strong>Politics Live: Minister says Starmer is ‘listening’ but refuses to say if PM will stay on ahead of critical cabinet meeting</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit\">Starmer on the brink as cabinet ministers urge him to quit</a></p></li></ul><p><br /></p><p><strong>Chris Beauchamp</strong>, chief market analyst at investing and trading platform <strong>IG</strong>, says:</p><p>There is no clear plan for what comes next, but markets are already pricing in a new PM who will open the floodgates on spending despite the UK’s dangerous fiscal situation.</p><p>Faced with hordes of Labour MPs worried about their re-election chances as Reform surges, a new PM will find it very hard to resist calls to spend more money in order to shore up their embattled party.</p><p><strong>We could see a blowout in longer-dated gilts if this turns into a dogfight</strong>– political, fiscal and inflationary risks will rise.</p><p>Markets tend to dislike a lack of certainty over who runs a government; the fiscal position is already fragile and likely to become worse should a left-leaning ticket prioritise spending; and that this makes inflation stickier.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Continue reading...</a>",
+    "published": "2026-05-12T13:50:27+00:00",
+    "summary": "<p>UK bond yields hit highest since 1998 this morning, before easing back as some cabinet ministers voiced support for Keir Starmer</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\"><strong>Politics live: Keir Starmer tells cabinet he is not resigning amid growing pressure to stand down</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit\">Starmer on the brink as cabinet ministers urge him to quit</a></p></li></ul><p><br /></p><p><strong>Chris Beauchamp</strong>, chief market analyst at investing and trading platform <strong>IG</strong>, says:</p><p>There is no clear plan for what comes next, but markets are already pricing in a new PM who will open the floodgates on spending despite the UK’s dangerous fiscal situation.</p><p>Faced with hordes of Labour MPs worried about their re-election chances as Reform surges, a new PM will find it very hard to resist calls to spend more money in order to shore up their embattled party.</p><p><strong>We could see a blowout in longer-dated gilts if this turns into a dogfight</strong>– political, fiscal and inflationary risks will rise.</p><p>Markets tend to dislike a lack of certainty over who runs a government; the fiscal position is already fragile and likely to become worse should a left-leaning ticket prioritise spending; and that this makes inflation stickier.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9458
+    "sentiment_score": -0.8666
+  },
+  {
+    "title": "This dot-com survivor says AI build-out is more like 1997 than 1999 — and still urges investors to hold more cash",
+    "link": "https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T13:35:00+00:00",
+    "summary": "The riveting gains for microchip stocks have many analysts drawing parallels to 1999, just ahead of the dot-com crash, when the build-out of a key technology led to parabolic moves and frenzied speculation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6115
+  },
+  {
+    "title": "Inflation jumps to 3-year high, CPI shows, and that’s not the end of it",
+    "link": "https://www.marketwatch.com/story/inflation-jumps-to-3-year-high-cpi-shows-and-thats-not-the-end-of-it-4de88cd4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T13:17:00+00:00",
+    "summary": "The U.S. inflation rate leaped to a nearly three-year high of 3.8% in April because of higher gas prices — and the pain for consumers isn’t going away anytime soon.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
+    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T13:07:00+00:00",
+    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first",
+    "link": "https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T12:11:00+00:00",
+    "summary": "Michael Terpin explained his theory of four-year cycles in the bitcoin price that bottom during midterm-election years. One more correction is coming before another bull market.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "UK borrowing costs hit highest since 1998 amid Starmer uncertainty",
     "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
     "source": "The Guardian Economics",
-    "published": "2026-05-12T08:30:28+00:00",
-    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Long-term UK borrowing costs have soared to the highest level in nearly three decades while the pound and stocks fell, as investors braced for a potential change of leadership, with <a href=\"https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit\">cabinet ministers urging Keir Starmer to quit</a>.</p><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">Starmer is consulting colleagues</a> before a crunch cabinet meeting on Tuesday morning that comes after ministerial aides quit and more than 70 MPs publicly called for him to go.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
+    "published": "2026-05-12T11:28:46+00:00",
+    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Long-term UK borrowing costs have soared to the highest level in almost three decades amid fears about a change of Labour leadership, before dropping back as cabinet ministers rallied around Keir Starmer.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds jumped 11 basis points on Tuesday morning to 5.794%, the highest since May 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
+    "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T11:05:00+00:00",
+    "summary": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "Labour must offer more than ‘better managed decline’ on economy, MPs urge",
     "link": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
     "source": "The Guardian Economics",
     "published": "2026-05-12T08:00:18+00:00",
-    "summary": "<p>Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>An influential group of MPs has said that Labour needs an urgent renewal of economic strategy to offer voters “more than better management of decline” before the next general election.</p><p>With Keir Starmer <a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">fighting to ward off a leadership challenge</a>, the leading backbenchers from the soft-left <a href=\"https://www.theguardian.com/politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform\">Tribune</a> group published a series of essays calling for bolder action to salvage its remaining time in power.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer\">Continue reading...</a>",
+    "summary": "<p>Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>An influential group of MPs has said Labour needs an urgent renewal of economic strategy to offer voters “more than better management of decline” before the next general election.</p><p>With Keir Starmer <a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">fighting to ward off a leadership challenge</a>, the leading backbenchers from the soft-left <a href=\"https://www.theguardian.com/politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform\">Tribune</a> group published a series of essays calling for bolder action to salvage the party’s remaining time in power.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Oil",
@@ -51,91 +112,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9217
-  },
-  {
-    "title": "Iren’s stock pulls back as investors assess the steep price of the AI buildout",
-    "link": "https://www.marketwatch.com/story/irens-stock-pulls-back-as-investors-assess-the-steep-price-of-the-ai-buildout-3013b59b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T01:15:00+00:00",
-    "summary": "Iren will take on debt in the wake of its new Nvidia partnership. One analyst said Monday’s stock drop is an overreaction.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T23:49:00+00:00",
-    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "BuzzFeed’s stock more than doubles as beleaguered media company gets a lifeline",
-    "link": "https://www.marketwatch.com/story/buzzfeeds-stock-more-than-doubles-as-beleaguered-media-company-gets-a-lifeline-7dea1e61?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T23:31:00+00:00",
-    "summary": "Shares of BuzzFeed were up more than 130% in the extended session after the company said Byron Allen’s family office agreed to take a majority stake.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "AI investment ‘advice’ is 50% more likely to pump you up — and trip you into costly blunders",
-    "link": "https://www.marketwatch.com/story/ai-investment-advice-is-50-more-likely-to-pump-you-up-and-trip-you-into-costly-blunders-1fcdd3d1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T22:45:00+00:00",
-    "summary": "AI fuels impulsive actions — a human ‘defense coach’ is your best bet to win the market’s ‘loser’s game.’",
-    "matched_keywords": [
-      "Defense",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
-    "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?",
-    "link": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T22:29:00+00:00",
-    "summary": "Brent crude futures charts produced a technical pattern that hasn’t been seen in 36 years, and what that could mean for oil prices.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
-  },
-  {
-    "title": "Here’s the next AI ‘battleground’ — and how investors can get in on the action",
-    "link": "https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T21:44:00+00:00",
-    "summary": "Lumentum’s stock has been red hot, but there are plenty of lesser-known ways to capitalize on the growing connectivity needs of AI data centers, according to Bernstein.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2617
-  },
-  {
-    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
-    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-11T21:28:00+00:00",
-    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
   },
   {
     "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
@@ -383,5 +359,29 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5439
+  },
+  {
+    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
+    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T19:36:16+00:00",
+    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
+    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T14:17:28+00:00",
+    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   }
 ]
