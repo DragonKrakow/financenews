@@ -1,15 +1,127 @@
 [
   {
-    "title": "20 stocks in the S&P 500 of companies with soaring sales and improving profit margins",
-    "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories",
+    "title": "Ford’s stock is the S&P 500’s biggest gainer. The carmaker is putting a very Tesla spin on things.",
+    "link": "https://www.marketwatch.com/story/fords-stock-is-the-s-p-500s-biggest-gainer-the-carmaker-is-putting-a-very-tesla-spin-on-things-c3291673?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T14:36:00+00:00",
-    "summary": "This earnings season’s big winners include makers of AI-oriented hardware, but the list also includes some surprises.",
+    "published": "2026-05-13T19:46:00+00:00",
+    "summary": "Ford’s stock is having its best day in six years, after Morgan Stanley gave a rosy outlook for the automaker’s energy business.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6542
+    "sentiment_score": 0.743
+  },
+  {
+    "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+    "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-13T19:29:29+00:00",
+    "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "The real cost of the Iran war isn’t higher prices — it’s market paralysis",
+    "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T18:51:00+00:00",
+    "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
+    "link": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T18:49:24+00:00",
+    "summary": "<p>Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates</p><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> confirmed Kevin Warsh as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, one of the most powerful roles in the federal government that holds enormous sway over the economy.</p><p>The 54-45 Senate vote on Wednesday was split along party lines, with the exception of Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. Warsh was confirmed for a four-year term as chair and a 14-year appointment on the Fed’s rate-setting board.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3384
+  },
+  {
+    "title": "5 tests Kevin Warsh will face as Fed chair",
+    "link": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T18:49:00+00:00",
+    "summary": "Wall Street and Washington will be watching to see how he reacts to political pressure and whether he can get the central bank on board with the major changes he favors.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0164
+  },
+  {
+    "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
+    "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T18:36:00+00:00",
+    "summary": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, an outdated strategy quietly drains your portfolio.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "What CEOs from Tesla, Nvidia and over a dozen other companies hope to gain by joining Trump in China",
+    "link": "https://www.marketwatch.com/story/what-ceos-from-tesla-nvidia-and-over-a-dozen-other-companies-hope-to-gain-by-joining-trump-in-china-98f1559c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T18:31:00+00:00",
+    "summary": "On his visit to China this week, President Donald Trump is bringing along at least 17 executives from prominent U.S. companies. Here’s what it means for them.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+    "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-13T18:13:49+00:00",
+    "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5511
+  },
+  {
+    "title": "Cathie Wood’s flagship fund is largely missing out on a booming tech-fueled bull run",
+    "link": "https://www.marketwatch.com/story/cathie-woods-flagship-fund-is-largely-missing-out-on-a-booming-tech-fueled-bull-run-85615079?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T18:10:00+00:00",
+    "summary": "Cathie Wood’s flagship ETF actively invests in shares of companies expected to be disruptive and innovative. But so far this year, the fund appears to be missing out on big gains tied to technology and artificial intelligence.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "The king’s speech: what is the government’s legislative agenda for the next 12 months?",
+    "link": "https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T14:47:18+00:00",
+    "summary": "<p>Keir Starmer set out bills to abolish NHS England, overhaul Send provision, limit jury trials and forge ties with EU</p><p>Keir Starmer has laid out long-promised changes to education, health and the courts in the king’s speech, which maps out the government’s agenda for the next year.</p><p>The speech delivered by King Charles cited bills to abolish NHS England, overhaul the provision of special educational needs teaching, limit trials by jury, introduce digital ID and end the leasehold system in England and Wales. It also included vehicles for closer alignment with the EU, and measures to boost the economy through the nationalisation of British Steel and pilot schemes to boost innovation in areas such as defence technology and AI-controlled ships.</p> <a href=\"https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8779
   },
   {
     "title": "Global oil inventories falling at record pace amid Iran war; US producer price inflation hits four-year high – as it happened",
@@ -25,30 +137,6 @@
     "sentiment_score": -0.9343
   },
   {
-    "title": "America’s day of fiscal reckoning draws closer",
-    "link": "https://www.marketwatch.com/story/americas-day-of-fiscal-reckoning-draws-closer-cc3d8d1a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T14:34:00+00:00",
-    "summary": "Inflation just wiped out all the U.S. wage gains since Donald Trump was elected president.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "I want to go on a trip this fall. Should I wait until the Iran war ends to book my flight?",
-    "link": "https://www.marketwatch.com/story/i-want-to-go-on-a-trip-this-fall-should-i-wait-until-the-iran-war-ends-to-book-my-flight-b526f5d6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T14:24:00+00:00",
-    "summary": "“Currently tickets from New York City are sitting at over $1,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
     "title": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
     "link": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances",
     "source": "The Guardian Economics",
@@ -60,30 +148,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7137
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T14:02:00+00:00",
-    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "Alphabet is the top holding of this five-star fund that is also finding 240% gains in the ‘unsexy’ side of the AI buildout",
-    "link": "https://www.marketwatch.com/story/alphabet-is-the-top-holding-of-this-five-star-fund-that-is-also-finding-240-gains-in-the-unsexy-side-of-the-ai-buildout-f0ce376f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T13:47:00+00:00",
-    "summary": "Moving across market caps has kept the Chase Growth Fund agile and one step ahead of the S&amp;P 500.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
   },
   {
     "title": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty",
@@ -306,32 +370,6 @@
     "sentiment_score": 0.25
   },
   {
-    "title": "US consumer confidence hits record low as Americans fret about rising prices; jobs report beats forecasts – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T17:19:21+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>UK bond prices have now rallied, after Keir Starmer pledged not to resign and analysts suggested Labour was not doing as badly as feared in the council elections.</strong></p><p>The yield (or interest rate) on benchmark 10-year bonds has dropped by 2.6 basis points (0.026 of a percentage point) to 4.894% this morning.</p><p>No, I’m not going to walk away and plunge the country into chaos. We were elected to deal with these challenges and that’s what we will do.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2937
-  },
-  {
-    "title": "UK borrowing costs fall and pound rises after Starmer says he will stay as PM",
-    "link": "https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T17:16:04+00:00",
-    "summary": "<p>Bond yields drop as market fears ease that Labour leader will be replaced by a more leftwing rival</p><p>UK government borrowing costs fell and the pound rose on Friday as <a href=\"https://www.theguardian.com/politics/2026/may/08/keir-starmer-local-election-losses-labour\">Keir Starmer vowed to remain as prime minister</a> despite the Labour party losing hundreds of council seats across England.</p><p>Investors calculated that some of the intense pressure on Starmer’s leadership had eased, as Labour appeared on track for <a href=\"https://www.theguardian.com/politics/2026/may/08/labour-local-elections-keir-starmer-cling-on\">smaller losses than election experts had predicted</a>.</p> <a href=\"https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8252
-  },
-  {
     "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
     "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
     "source": "CNBC Finance",
@@ -342,41 +380,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
-  },
-  {
-    "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
-    "link": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-07T16:55:23+00:00",
-    "summary": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-05T19:36:16+00:00",
-    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
-    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-05T14:17:28+00:00",
-    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   }
 ]
