@@ -1,90 +1,113 @@
 [
   {
-    "title": "The Iran war flashpoint isn’t oil prices — it’s not knowing what comes next",
+    "title": "My retirement fund is like an AI version of me. It keeps working when I’m not able to.",
+    "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T00:00:00+00:00",
+    "summary": "“Not taking care of your money becomes, in a visceral sense, not taking care of yourself.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4717
+  },
+  {
+    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
+    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T23:36:00+00:00",
+    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Three-quarters of UK millionaires would be happy to pay more tax, research finds",
+    "link": "https://www.theguardian.com/news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds",
+    "source": "The Guardian Economics",
+    "published": "2026-05-12T23:01:13+00:00",
+    "summary": "<p>Despite concerns super-rich are leaving due to tax burdens, 88% of those surveyed were proud to live in UK and would pay more to fund public services</p><p>Nine in 10 UK millionaires are proud to live in Britain and three-quarters would be willing to pay more tax to ensure public assets get the funding they need, according to research.</p><p>Despite widely reported concerns that the wealthy are choosing to leave the country owing to higher taxes, the survey found millionaires were much more concerned about medical workers moving away than wealthy people emigrating.</p> <a href=\"https://www.theguardian.com/news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9269
+  },
+  {
+    "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
     "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T19:16:00+00:00",
+    "published": "2026-05-12T22:37:00+00:00",
     "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7096
   },
   {
-    "title": "Americans from cruise-ship outbreak could be quarantined until mid-June",
-    "link": "https://www.marketwatch.com/story/americans-from-cruise-ship-outbreak-could-be-quarantined-until-mid-june-2ca52170?mod=mw_rss_topstories",
+    "title": "Here’s the silver lining for stocks and 5% Treasury yields",
+    "link": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T19:13:00+00:00",
-    "summary": "The Andes virus has a long incubation period, and the World Health Organization said there may be more infections “in the coming weeks.”",
+    "published": "2026-05-12T22:21:00+00:00",
+    "summary": "Higher rates mean higher costs for borrowers, but 5% isn’t a level that’s prone to sticking around in the Treasury market",
+    "matched_keywords": [
+      "Silver"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
+    "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T22:02:00+00:00",
+    "summary": "CME Group plans to launch futures that would let investors bet on the price of computing power.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Copper prices are now at their highest level on record. AI is only part of the story.",
+    "link": "https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-12T21:43:00+00:00",
+    "summary": "Copper refining now has a Strait of Hormuz problem.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "AI is ‘absolutely useless’ at forecasting inflation. This proven model is 12 times more accurate.",
-    "link": "https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T18:20:00+00:00",
-    "summary": "A “low-tech” tool from the Cleveland Fed consistently outperforms generative AI, which has struggled to provide reliable forecasts.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
+    "sentiment_score": -0.4019
   },
   {
-    "title": "As airfares soar 21%, these are the cheapest cities to fly into",
-    "link": "https://www.marketwatch.com/story/as-airfares-soar-21-these-are-the-cheapest-cities-to-fly-into-f59620db?mod=mw_rss_topstories",
+    "title": "Clothes just saw the biggest price jump in three years. How much more will shoppers pay?",
+    "link": "https://www.marketwatch.com/story/clothes-just-saw-the-biggest-price-jump-in-three-years-how-much-more-will-shoppers-pay-4aba43d7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T18:04:00+00:00",
-    "summary": "Some airlines have raised fares, cut routes and hiked bag fees in response to increasing jet-fuel prices.",
+    "published": "2026-05-12T21:09:00+00:00",
+    "summary": "Analysts said manufacturers and retailers raised prices in response to — and in further anticipation of — the effects of the Iran war.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Why the oil crisis could become a full-blown catastrophe within a month",
-    "link": "https://www.marketwatch.com/story/why-the-oil-crisis-could-become-a-full-blown-catastrophe-within-a-month-84129cd0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T17:52:00+00:00",
-    "summary": "Global crude reserves are rapidly depleting, pushing the world toward scarcity.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9217
+    "sentiment_score": -0.6326
   },
   {
     "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
     "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
     "source": "The Guardian Economics",
     "published": "2026-05-12T17:36:01+00:00",
-    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Long-term UK borrowing costs soared to the highest level in almost three decades on Tuesday as fears about a change of Labour leadership triggered investor jitters and warnings of further bond market turmoil.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds, or gilts, hit a high on Tuesday of 5.81%, a rise of 14 basis points and the highest since 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
+    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><p>Long-term UK borrowing costs soared to the highest level in almost three decades on Tuesday as fears about a change of Labour leadership triggered investor jitters and warnings of further bond market turmoil.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds, or gilts, hit a high on Tuesday of 5.81%, a rise of 14 basis points and the highest since 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6808
-  },
-  {
-    "title": "Did rents really surge in April and boost inflation? Here’s the real story.",
-    "link": "https://www.marketwatch.com/story/did-rents-really-surge-in-april-and-boost-inflation-heres-the-real-story-c967fa20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T17:15:00+00:00",
-    "summary": "The rising shelter costs are actually slowing. Unfortunately, other prices are rising again.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   },
   {
     "title": "UK long-term borrowing costs dip from 28-year high after Starmer allies back PM – as it happened",
@@ -117,10 +140,9 @@
     "link": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
     "source": "The Guardian Economics",
     "published": "2026-05-12T08:00:18+00:00",
-    "summary": "<p>Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>An influential group of MPs has said Labour needs an urgent renewal of economic strategy to offer voters “more than better management of decline” before the next general election.</p><p>With Keir Starmer <a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">fighting to ward off a leadership challenge</a>, the leading backbenchers from the soft-left <a href=\"https://www.theguardian.com/politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform\">Tribune</a> group published a series of essays calling for bolder action to salvage the party’s remaining time in power.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer\">Continue reading...</a>",
+    "summary": "<p>Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewal</p><p>An influential group of MPs has said Labour needs an urgent renewal of economic strategy to offer voters “more than better management of decline” before the next general election.</p><p>With Keir Starmer <a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">fighting to ward off a leadership challenge</a>, the leading backbenchers from the soft-left <a href=\"https://www.theguardian.com/politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform\">Tribune</a> group published a series of essays calling for bolder action to salvage the party’s remaining time in power.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
@@ -359,29 +381,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
-    "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-    "source": "The Guardian Economics",
-    "published": "2026-05-07T09:39:54+00:00",
-    "summary": "<p>Powerful property and farming firm Grosvenor Group says knock-on effect of Iran war could arrive next year</p><p>Fertiliser shortages caused by the Iran war have driven up costs for UK farmers by up to 70% and will have a “dramatic” impact on food prices globally next year, according to one of Britain’s most powerful property and farming companies.</p><p>Mark Preston, <a href=\"https://www.theguardian.com/business/2025/may/28/trump-tariff-war-global-damage-grosvenor-duke-westminster\">executive trustee of the 349-year-old Grosvenor Group</a>, controlled by the <a href=\"https://www.theguardian.com/news/2023/apr/25/duke-of-westminster-hugh-grosvenor-profile\">Duke of Westminster</a>, said fertiliser “was already quite expensive” before the 50% to 70% surge in prices since the start of the Iran war in late February.</p> <a href=\"https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8692
-  },
-  {
-    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-05T19:36:16+00:00",
-    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
   }
 ]
