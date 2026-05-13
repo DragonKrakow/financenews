@@ -1,5 +1,30 @@
 [
   {
+    "title": "UK government borrowing costs falling as Starmer holds on to power – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T08:28:35+00:00",
+    "summary": "<p>After day of ‘Starmer drama’, UK bond yields are dropping in early trading as prime minister appears to fend off leadership challenge</p><p><strong>The UK stock market has opened higher, as the mood brightens in the City.</strong></p><p>The blue-chip <strong>FTSE</strong> <strong>100</strong> share index is up 66 points, or 0.65%, at 10,331 points. Mining stocks are among the risers, following a rise in the copper price this week.</p><p>The average 2-year fixed residential mortgage rate today is 5.74%. This is down from 5.75% yesterday</p><p>The average 5-year fixed residential mortgage rate today is 5.67%. This is unchanged from yesterday</p> <a href=\"https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Mining"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "The stock market doesn’t need Fed cuts, says Morgan Stanley as it rachets S&P 500 view higher",
+    "link": "https://www.marketwatch.com/story/the-stock-market-doesnt-need-fed-cuts-says-morgan-stanley-as-it-rachets-s-p-500-view-higher-d39742b0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T08:20:00+00:00",
+    "summary": "It’s the season for new stock-market price targets, and Morgan Stanley joined the upper echelon of Wall Street targets for the S&amp;P 500 with its new outlook released Wednesday.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
     "title": "My retirement fund is like an AI version of me. It keeps working when I’m not able to.",
     "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -83,18 +108,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
-  },
-  {
-    "title": "Clothes just saw the biggest price jump in three years. How much more will shoppers pay?",
-    "link": "https://www.marketwatch.com/story/clothes-just-saw-the-biggest-price-jump-in-three-years-how-much-more-will-shoppers-pay-4aba43d7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T21:09:00+00:00",
-    "summary": "Analysts said manufacturers and retailers raised prices in response to — and in further anticipation of — the effects of the Iran war.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6326
   },
   {
     "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
@@ -343,20 +356,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9392
-  },
-  {
-    "title": "UK house price growth halved as Iran war fallout hits housing market",
-    "link": "https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T07:30:21+00:00",
-    "summary": "<p>Halifax says cost of typical home fell by 0.1% in April, the second consecutive monthly drop, with pace of annual growth down from 0.8%. to 0.4%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Business news – live updates </a></p></li></ul><p>UK house prices fell for a second consecutive month in April, as Halifax halved its estimate for the annual rate of growth owing to the conflict in the Middle East.</p><p>Halifax, which is part of Lloyds – Britain’s biggest mortgage lender – said that the cost of a typical UK home fell by 0.1% in April, to £299,313. This followed a 0.5% fall in March.</p> <a href=\"https://www.theguardian.com/money/2026/may/08/uk-house-price-growth-forecast-halved-iran-war-housing-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   },
   {
     "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
