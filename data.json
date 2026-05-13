@@ -1,52 +1,101 @@
 [
   {
-    "title": "UK government borrowing costs falling as Starmer holds on to power – business live",
+    "title": "20 stocks in the S&P 500 of companies with soaring sales and improving profit margins",
+    "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T14:36:00+00:00",
+    "summary": "This earnings season’s big winners include makers of AI-oriented hardware, but the list also includes some surprises.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6542
+  },
+  {
+    "title": "Global oil inventories falling at record pace amid Iran war; US producer price inflation hits four-year high – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-13T08:28:35+00:00",
-    "summary": "<p>After day of ‘Starmer drama’, UK bond yields are dropping in early trading as prime minister appears to fend off leadership challenge</p><p><strong>The UK stock market has opened higher, as the mood brightens in the City.</strong></p><p>The blue-chip <strong>FTSE</strong> <strong>100</strong> share index is up 66 points, or 0.65%, at 10,331 points. Mining stocks are among the risers, following a rise in the copper price this week.</p><p>The average 2-year fixed residential mortgage rate today is 5.74%. This is down from 5.75% yesterday</p><p>The average 5-year fixed residential mortgage rate today is 5.67%. This is unchanged from yesterday</p> <a href=\"https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates\">Continue reading...</a>",
+    "published": "2026-05-13T14:34:14+00:00",
+    "summary": "<p>IEA warns that mounting supply losses from the Strait of Hormuz are depleting global oil inventories at a record pace</p><p><strong>Global oil stocks are being run down at a record pace as supply losses mount due to the ongoing Iran war, the International Energy Agency has warned.</strong></p><p>In its latest outlook report, the <strong>IEA</strong> reports that global oil inventories fell by 129 million barrels in March, and by a further 117 million barrels in April, as countries dipped into their reserves to cover the shortfall following the Middle East conflict.</p><p>More than ten weeks after the war in the Middle East began, mounting supply losses from the Strait of Hormuz are depleting global oil inventories at a record pace.</p><p>The petrochemical and aviation sectors are currently most affected, but higher prices, a weaker economic environment and demand-saving measures will increasingly impact fuel use.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
-      "Mining"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "The stock market doesn’t need Fed cuts, says Morgan Stanley as it rachets S&P 500 view higher",
-    "link": "https://www.marketwatch.com/story/the-stock-market-doesnt-need-fed-cuts-says-morgan-stanley-as-it-rachets-s-p-500-view-higher-d39742b0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T08:20:00+00:00",
-    "summary": "It’s the season for new stock-market price targets, and Morgan Stanley joined the upper echelon of Wall Street targets for the S&amp;P 500 with its new outlook released Wednesday.",
-    "matched_keywords": [
-      "Fed"
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_score": -0.9343
   },
   {
-    "title": "My retirement fund is like an AI version of me. It keeps working when I’m not able to.",
-    "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
+    "title": "America’s day of fiscal reckoning draws closer",
+    "link": "https://www.marketwatch.com/story/americas-day-of-fiscal-reckoning-draws-closer-cc3d8d1a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T00:00:00+00:00",
-    "summary": "“Not taking care of your money becomes, in a visceral sense, not taking care of yourself.”",
+    "published": "2026-05-13T14:34:00+00:00",
+    "summary": "Inflation just wiped out all the U.S. wage gains since Donald Trump was elected president.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4717
+    "sentiment_score": 0.34
   },
   {
-    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
-    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
+    "title": "I want to go on a trip this fall. Should I wait until the Iran war ends to book my flight?",
+    "link": "https://www.marketwatch.com/story/i-want-to-go-on-a-trip-this-fall-should-i-wait-until-the-iran-war-ends-to-book-my-flight-b526f5d6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T23:36:00+00:00",
-    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
+    "published": "2026-05-13T14:24:00+00:00",
+    "summary": "“Currently tickets from New York City are sitting at over $1,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
+    "link": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T14:03:24+00:00",
+    "summary": "<p>With US inflation at a three-year high, US president insisted he’s not focused on economic hardship sparked by the conflict</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has said the growing financial pressure inflicted on Americans by the war on Iran is “not even a little bit” motivating him to make a peace deal with Tehran.</p><p>With <a href=\"https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war\">US inflation at a three-year high</a>, and fuel costs still climbing after a sharp rise in oil prices, the US president said on Tuesday that he is not focused on the economic hardship sparked by the conflict.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7137
+  },
+  {
+    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
+    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T14:02:00+00:00",
+    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "Alphabet is the top holding of this five-star fund that is also finding 240% gains in the ‘unsexy’ side of the AI buildout",
+    "link": "https://www.marketwatch.com/story/alphabet-is-the-top-holding-of-this-five-star-fund-that-is-also-finding-240-gains-in-the-unsexy-side-of-the-ai-buildout-f0ce376f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T13:47:00+00:00",
+    "summary": "Moving across market caps has kept the Chase Growth Fund agile and one step ahead of the S&amp;P 500.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty",
+    "link": "https://www.theguardian.com/business/2026/may/13/uk-housebuilder-vistry-significantly-lower-profits-iran-war-uncertainty",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T09:46:15+00:00",
+    "summary": "<p>Bovis Homes owner’s shares plunge 10.5% after being forced to cut prices as buyers become cautious</p><p>One of the UK’s biggest housebuilders has said its profits will be “significantly” lower, as it was forced to cut prices after heightened uncertainty caused by the US-Israeli war on Iran.</p><p>Vistry’s shares plunged 10.5% in early trading on Wednesday, hitting their lowest level in nearly 15 years, as it told shareholders its first-half profits would be hit by the fallout from the Middle East conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/uk-housebuilder-vistry-significantly-lower-profits-iran-war-uncertainty\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9442
   },
   {
     "title": "Three-quarters of UK millionaires would be happy to pay more tax, research finds",
@@ -59,55 +108,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9269
-  },
-  {
-    "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
-    "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T22:37:00+00:00",
-    "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Here’s the silver lining for stocks and 5% Treasury yields",
-    "link": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T22:21:00+00:00",
-    "summary": "Higher rates mean higher costs for borrowers, but 5% isn’t a level that’s prone to sticking around in the Treasury market",
-    "matched_keywords": [
-      "Silver"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
-    "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T22:02:00+00:00",
-    "summary": "CME Group plans to launch futures that would let investors bet on the price of computing power.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Copper prices are now at their highest level on record. AI is only part of the story.",
-    "link": "https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-12T21:43:00+00:00",
-    "summary": "Copper refining now has a Strait of Hormuz problem.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
   },
   {
     "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
@@ -332,32 +332,6 @@
     "sentiment_score": -0.8252
   },
   {
-    "title": "US added 115,000 jobs in April in surprise gain amid Iran war uncertainty",
-    "link": "https://www.theguardian.com/business/2026/may/08/april-jobs-report",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T12:34:59+00:00",
-    "summary": "<p>Unemployment remained steady at 4.3% as the US-Israel war on Iran continues to rattle the American economy</p><p>US employers added 115,000 jobs in April and the unemployment rate remained steady at 4.3%, a surprisingly robust gain to the labor market<strong> </strong>as the US-Israel war with Iran continued to drive up economic uncertainty.</p><p>Economists projected about 55,000 new jobs and a 4.3% unemployment rate. A day earlier, the labor department announced 200,000 people filed for weekly unemployment benefits, a slight increase from the week before.</p> <a href=\"https://www.theguardian.com/business/2026/may/08/april-jobs-report\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7713
-  },
-  {
-    "title": "Trump walks back threat to rip up part of EU trade deal but tells bloc to ratify by 4 July",
-    "link": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
-    "source": "The Guardian Economics",
-    "published": "2026-05-08T10:39:54+00:00",
-    "summary": "<p>US president expresses impatience at speed of EU’s implementation and warns of ‘much higher’ tariffs</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling\">US trade court rules against Trump’s 10% global tariffs</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Donald Trump has walked back from his threat to tear up part of the US trade deal with the EU by hiking tariffs on car imports.</p><p>The US president has given the EU until 4 July to implement its side of the deal, reducing tariffs to zero on most American imports, warning that the bloc would face “much higher” tariffs if it did not do so.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9392
-  },
-  {
     "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
     "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
     "source": "CNBC Finance",
@@ -380,5 +354,29 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
+  },
+  {
+    "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
+    "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T19:36:16+00:00",
+    "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
+    "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-05T14:17:28+00:00",
+    "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   }
 ]
