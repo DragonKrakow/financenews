@@ -1,21 +1,57 @@
 [
   {
-    "title": "Ford’s stock is the S&P 500’s biggest gainer. The carmaker is putting a very Tesla spin on things.",
-    "link": "https://www.marketwatch.com/story/fords-stock-is-the-s-p-500s-biggest-gainer-the-carmaker-is-putting-a-very-tesla-spin-on-things-c3291673?mod=mw_rss_topstories",
+    "title": "20 stocks in the S&P 500 of companies with soaring sales and improving profit margins",
+    "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T19:46:00+00:00",
-    "summary": "Ford’s stock is having its best day in six years, after Morgan Stanley gave a rosy outlook for the automaker’s energy business.",
+    "published": "2026-05-14T00:43:00+00:00",
+    "summary": "This earnings season’s big winners include makers of AI-oriented hardware, but the list also includes some surprises.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
+    "sentiment_score": 0.6542
+  },
+  {
+    "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record",
+    "link": "https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T00:12:00+00:00",
+    "summary": "Cisco’s stock soars into record territory, after the networking giant announced plans to invest more in AI and upbeat earnings report.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Cerebras’s massive IPO will be a fresh test of investor excitement for AI infrastructure",
+    "link": "https://www.marketwatch.com/story/cerebrass-ipo-will-be-fresh-a-test-of-investor-excitement-for-ai-infrastructure-3499a2a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T23:52:00+00:00",
+    "summary": "Late Wednesday, the company priced its IPO at $185 a share, far above the top of its previously announced range of $150-$160.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
+    "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T23:34:00+00:00",
+    "summary": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, an outdated strategy quietly drains your portfolio.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
     "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
     "source": "CNBC Finance",
-    "published": "2026-05-13T19:29:29+00:00",
+    "published": "2026-05-13T23:21:35+00:00",
     "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
     "matched_keywords": [
       "Fed",
@@ -25,66 +61,41 @@
     "sentiment_score": 0.8126
   },
   {
-    "title": "The real cost of the Iran war isn’t higher prices — it’s market paralysis",
-    "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
+    "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service",
+    "link": "https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T18:51:00+00:00",
-    "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
+    "published": "2026-05-13T22:03:00+00:00",
+    "summary": "Amazon will combine its Rufus AI shopping assistant with its Alexa+ platform, just two weeks after CEO Andy Jassy sang Rufus’s praises.",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
+    "title": "The world lost nearly 1 billion barrels in oil supply over the past 75 days. Why investors aren’t worrying enough.",
+    "link": "https://www.marketwatch.com/story/the-world-lost-nearly-1-billion-barrels-in-oil-supply-over-the-past-75-days-why-investors-arent-worrying-enough-5a777ae0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-13T20:59:00+00:00",
+    "summary": "Global oil prices have climbed by nearly 50% since the the end of February, but the rise pales in comparison to an estimated loss of nearly 1 billion barrels since the start of the Iran war 75 days ago.",
+    "matched_keywords": [
+      "Oil"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
+    "sentiment_score": -0.8922
   },
   {
     "title": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
     "link": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
     "source": "The Guardian Economics",
-    "published": "2026-05-13T18:49:24+00:00",
-    "summary": "<p>Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates</p><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> confirmed Kevin Warsh as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, one of the most powerful roles in the federal government that holds enormous sway over the economy.</p><p>The 54-45 Senate vote on Wednesday was split along party lines, with the exception of Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. Warsh was confirmed for a four-year term as chair and a 14-year appointment on the Fed’s rate-setting board.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair\">Continue reading...</a>",
+    "published": "2026-05-13T20:10:15+00:00",
+    "summary": "<p>Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates</p><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> confirmed Kevin Warsh as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, one of the most powerful roles in the federal government that holds enormous sway over the economy.</p><p>The 54-45 Senate vote on Wednesday was split along party lines, with the exception of the Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. It was most divisive confirmation vote for the position in history.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3384
-  },
-  {
-    "title": "5 tests Kevin Warsh will face as Fed chair",
-    "link": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T18:49:00+00:00",
-    "summary": "Wall Street and Washington will be watching to see how he reacts to political pressure and whether he can get the central bank on board with the major changes he favors.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0164
-  },
-  {
-    "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
-    "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T18:36:00+00:00",
-    "summary": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, an outdated strategy quietly drains your portfolio.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "What CEOs from Tesla, Nvidia and over a dozen other companies hope to gain by joining Trump in China",
-    "link": "https://www.marketwatch.com/story/what-ceos-from-tesla-nvidia-and-over-a-dozen-other-companies-hope-to-gain-by-joining-trump-in-china-98f1559c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T18:31:00+00:00",
-    "summary": "On his visit to China this week, President Donald Trump is bringing along at least 17 executives from prominent U.S. companies. Here’s what it means for them.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
   },
   {
     "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
@@ -97,19 +108,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5511
-  },
-  {
-    "title": "Cathie Wood’s flagship fund is largely missing out on a booming tech-fueled bull run",
-    "link": "https://www.marketwatch.com/story/cathie-woods-flagship-fund-is-largely-missing-out-on-a-booming-tech-fueled-bull-run-85615079?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-13T18:10:00+00:00",
-    "summary": "Cathie Wood’s flagship ETF actively invests in shares of companies expected to be disruptive and innovative. But so far this year, the fund appears to be missing out on big gains tied to technology and artificial intelligence.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
   },
   {
     "title": "The king’s speech: what is the government’s legislative agenda for the next 12 months?",
