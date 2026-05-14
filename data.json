@@ -1,15 +1,173 @@
 [
   {
-    "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-    "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
+    "title": "All-you-can-eat deals are back at restaurants like Red Lobster and Applebee’s. Here’s how to get your money’s worth.",
+    "link": "https://www.marketwatch.com/story/all-you-can-eat-deals-are-back-at-restaurants-like-red-lobster-and-applebees-heres-how-to-get-your-moneys-worth-3d672c35?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T14:15:00+00:00",
-    "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund.”",
+    "published": "2026-05-14T19:24:00+00:00",
+    "summary": "As inflation has tightened household budgets, several chain restaurants have brought back all-you-can-eat deals to drive foot traffic.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.",
+    "link": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T19:01:00+00:00",
+    "summary": "Boeing’s stock on Thursday headed for its steepest fall in six months after President Donald Trump said China is buying 200 of the company’s jets, disappointing investors who had expected more than double that number.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+    "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-14T18:50:31+00:00",
+    "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+    "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-14T18:45:00+00:00",
+    "summary": "In the letter, Dana White said that the cap is already starting to create problems for the gambling industry.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Some short sellers are seeing opportunity in this tech mania. How they're spotting fake AI stocks",
+    "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-14T18:35:22+00:00",
+    "summary": "Hedge fund managers said the current environment — fueled by aggressive spending on AI — is creating a fertile backdrop for bearish wagers",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Trump’s best China trade deal is the one he doesn’t make",
+    "link": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T18:34:00+00:00",
+    "summary": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Cerebras’s stock rockets out of the gate, in a sign the AI boom is as strong as ever",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T18:03:00+00:00",
+    "summary": "The chip maker’s shares opened 89% above the IPO price before trading was briefly halted for volatility, before rallying further.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
+  },
+  {
+    "title": "The gilt market will hover over any Labour leadership contest | Nils Pratley",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest",
+    "source": "The Guardian Economics",
+    "published": "2026-05-14T17:54:01+00:00",
+    "summary": "<p>The Iran war is the bigger story – but the bond market is primed to deliver a kick if extreme positions arise from a formal race</p><p>It is a mistake to think every twitch in the price of UK government debt is caused by the latest instalment in the great Labour leadership meltdown. Waiting for Wes is not the only drama in town for your average bond vigilante. Resolution – or not – to the Iran conflict is still the bigger story.</p><p>Those vigilantes will not be ignoring events in Westminster, obviously. It’s just that there is not yet much to chew on in terms of what it means for fixed-income investors’ daily diet of expectations for inflation, interest rates, growth, borrowing and so on.</p> <a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7341
+  },
+  {
+    "title": "Analysts say this restaurant chain has figured out how to feed everyone — GLP-1 users included",
+    "link": "https://www.marketwatch.com/story/analysts-say-this-restaurant-chain-has-figured-out-how-to-feed-everyone-glp-1-users-included-bc34f211?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T17:34:00+00:00",
+    "summary": "J.P. Morgan upgraded Cheesecake Factory’s stock, as weight-loss drugs and cautious consumers make the restaurant industry more anxious.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4005
+  },
+  {
+    "title": "Trump discloses big buys of shares in Boeing and Nvidia as the companies look set to gain from his China trip",
+    "link": "https://www.marketwatch.com/story/trump-discloses-big-buys-of-shares-in-boeing-and-nvidia-as-the-companies-look-set-to-gain-from-his-china-trip-1081bd1d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T17:10:00+00:00",
+    "summary": "President Donald Trump has filed a disclosure showing massive buying and selling of U.S. stocks, index funds and other securities, including purchasing at least $1 million in shares of Boeing and Nvidia as those companies expect to score new business during his trip to China.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8402
+  },
+  {
+    "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+    "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-14T15:09:47+00:00",
+    "summary": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Labor’s budget will benefit the young – but does little to woo voters drawn to One Nation",
+    "link": "https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb",
+    "source": "The Guardian Economics",
+    "published": "2026-05-14T15:00:11+00:00",
+    "summary": "<p>Jim Chalmers’ budget tips the scales in favour of younger and less well-off households – but it’s middle-class gen X that are turning to the rightwing party</p><ul><li><p>Explore all of our<a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\"> 2026 Australia federal budget coverage</a></p></li></ul><p>Labor’s fifth budget will do what it says on the tin: it will benefit the young and the poor at the expense of the older and the rich.</p><p>This is the most obvious takeaway from distributional analysis conducted by Ben Phillips, an associate professor at the ANU’s Centre for Social Policy Research.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8567
+  },
+  {
+    "title": "U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol",
+    "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-14T14:37:08+00:00",
+    "summary": "The U.S. Treasury secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Reeves seizes on surprise UK growth as evidence Labour leadership must stay",
+    "link": "https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
+    "source": "The Guardian Economics",
+    "published": "2026-05-14T14:28:37+00:00",
+    "summary": "<p>Chancellor says ‘now not the time to put economic stability at risk’ as ONS records 0.3% growth in first month of Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p>The chancellor has seized on official figures showing the UK economy was more resilient than feared at the start of the Iran war as evidence to keep the current Labour leadership in place.</p><p>Rachel Reeves hailed the fact that the economy unexpectedly grew in March, during the first month of the conflict in the Middle East, as proof the government had “the right economic plan”.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6444
   },
   {
     "title": "Reeves warns against risking economic stability with leadership battle, after UK growth beats forecasts in March – as it happened",
@@ -25,115 +183,16 @@
     "sentiment_score": -0.9754
   },
   {
-    "title": "Reeves seizes on surprise UK growth as evidence Labour leadership must stay",
-    "link": "https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T13:56:54+00:00",
-    "summary": "<p>Chancellor says ‘now not the time to put economic stability at risk’ as ONS records 0.3% growth in first month of Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p>The chancellor has seized on official figures showing the UK economy was more resilient than feared at the start of the Iran war as evidence to keep the current Labour leadership in place.</p><p>Rachel Reeves hailed the fact that the economy unexpectedly grew in March, during the first month of the conflict in the Middle East, as proof the government had “the right economic plan”.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6444
-  },
-  {
-    "title": "The commodities guru who warned about silver falling now, is saying the hantavirus could do the same to oil",
-    "link": "https://www.marketwatch.com/story/the-commodities-guru-who-warned-about-silver-falling-now-is-saying-the-hantavirus-could-do-the-same-to-oil-a0504be0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T13:38:00+00:00",
-    "summary": "What if the Hantavirus turns into a black-swan for oil? This former hedge-fund executive is taking out some insurance against that.",
-    "matched_keywords": [
-      "Commodities",
-      "Oil",
-      "Silver",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
-    "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T13:21:00+00:00",
-    "summary": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, an outdated strategy quietly drains your portfolio.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
-    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T12:45:00+00:00",
-    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "U.S. retail sales rise again, but higher gas prices and inflation play a big role",
-    "link": "https://www.marketwatch.com/story/u-s-retail-sales-increase-again-but-higher-gas-prices-and-inflation-played-a-big-role-167ae1c3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T12:41:00+00:00",
-    "summary": "Sales at retailers rose in April for the third month in a row, but the increase stemmed in large part from drivers spending more on gasoline because of higher prices. Spending was on the softer side after adjusting for inflation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7227
-  },
-  {
-    "title": "Rachel Reeves suggests if it ain’t broke, don’t fix it - as fight to keep her job goes on",
+    "title": "Rachel Reeves suggests if it ain’t broke, don’t fix it – as fight to keep her job goes on",
     "link": "https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost",
     "source": "The Guardian Economics",
     "published": "2026-05-14T11:44:15+00:00",
-    "summary": "<p>The GDP boost has raised the chancellor’s prospects for staying in post, whoever wins the Labour leadership battle</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p><p></p></li></ul><p></p><p></p><p>The message from Rachel Reeves is clear. After Britain’s economy defied the predictions for a slump in March, despite the fallout from the Iran war, why put things at risk with a roll of the dice in domestic politics?</p><p>Responding to bumper <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">growth of 0.3% in March</a> – much stronger than City economists’ forecasts for a 0.2% contraction – the chancellor said the figures showed she had the right economic plan, in a comment laced with subtext.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Continue reading...</a>",
+    "summary": "<p>The GDP boost has raised the chancellor’s prospects for staying in post, whoever wins the Labour leadership battle</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p><p></p></li></ul><p></p><p></p><p>The message from Rachel Reeves is clear. After Britain’s economy defied the predictions for a slump in March, despite the fallout from the Iran war, why put things at risk with a roll of the dice in domestic politics?</p><p>Responding to bumper <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">growth of 0.3% in March</a> – much stronger than City economists’ forecasts for a 0.2% contraction – the chancellor said the figures showed she had the right economic plan, in a comment laced with subtext.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7269
-  },
-  {
-    "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record",
-    "link": "https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T11:37:00+00:00",
-    "summary": "Cisco’s stock soars into record territory, after the networking giant announced plans to invest more in AI and upbeat earnings report.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Nvidia moves one step closer to a breakthrough on Chinese exports after reaching another milestone",
-    "link": "https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T11:20:00+00:00",
-    "summary": "Nvidia’s chief executive Jensen Huang has been lobbying for a long time for the ability to export advanced semiconductor chips to China in the face of opposition from both Washington and Beijing. It appears a breakthrough might have been made.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol",
-    "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-14T11:02:12+00:00",
-    "summary": "The U.S. Treasury Secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
   },
   {
     "title": "‘Inevitable’ jet fuel shortages will drive up air fares this summer, says Willie Walsh",
@@ -311,71 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7351
-  },
-  {
-    "title": "UK households cut back spending at fastest rate in 16 months, Barclays says",
-    "link": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T06:40:42+00:00",
-    "summary": "<p>Dip in credit card spending in April, particularly on travel, suggests Britons preparing for harder times amid Iran war fallout</p><p>Households cut back on their spending in April at the fastest pace in 16 months, as the conflict in the Middle East provoked fears of another cost of living crisis, a report from one of the UK’s biggest banks has suggested.</p><p>Barclays, which processes nearly 40% of the UK’s credit and debit card transactions, said its data showed there had been a 0.1% fall in card spending last month compared with a year earlier. This was the first year-on-year fall since November 2024.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9217
-  },
-  {
-    "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
-    "link": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-11T16:08:00+00:00",
-    "summary": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "UK government borrowing costs rise as Starmer ‘fails to reassure bond markets’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-11T16:03:38+00:00",
-    "summary": "<p>Yields on 10- and 30-year British government bonds have risen today, as investors digest possibility of leadership challenge</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/11/uk-gilt-yields-creep-higher-as-starmer-speech-fails-to-dispel-investor-jitters\"><strong>UK borrowing costs rise as Starmer speech fails to dispel investor ‘jitters’</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid\">Starmer faces fight to survive as Streeting and Rayner eye leadership bids</a></p></li></ul><p><strong>Government bond yields are rising across the board this morning, although UK debt is leading the losses.</strong></p><p>US and eurozone borrowing costs have also pushed higher, on concerns that the lack of progress towards ending the Iran war will lead to higher oil prices, more inflation, and higher interest rates.</p><p>Inflationary headwinds as a consequence of the conflict in the Middle East are weighing on a number of UK businesses. We have already heard from companies like <strong>Next</strong>, <strong>Asos</strong>, <strong>Sainsbury’s</strong> and <strong>WH</strong> <strong>Smith</strong> which have warned of higher costs. Now shares in <strong>Victrex</strong> have shed almost 6% today on the back of a profit warning. It anticipates weaker annual profit before tax of between £42m and £44m for fiscal 2026, falling short of estimates for £46.6m. First half underlying pre-tax also profit dropped by 18% to £19m.</p><p>The UK mid-cap polymer maker says the Iran war will push up energy and raw material inflation. The company is responding by reducing headcount by 10% to cut costs elsewhere.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
-  },
-  {
-    "title": "UK borrowing costs rise as Starmer speech fails to dispel investor ‘jitters’",
-    "link": "https://www.theguardian.com/business/2026/may/11/uk-gilt-yields-creep-higher-as-starmer-speech-fails-to-dispel-investor-jitters",
-    "source": "The Guardian Economics",
-    "published": "2026-05-11T14:35:38+00:00",
-    "summary": "<p>Bond yields creep higher on concerns about potential for political instability and rising inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The cost of government borrowing has crept higher as Keir Starmer’s crucial speech failed to dispel investor “jitters” in the bond markets over political instability combined with fears of rising inflation.</p><p>The yield, effectively the interest rate, on the benchmark 10-year UK government bonds (known as gilts) rose eight basis points (or 0.08 of a percentage point) to 5% on Monday.</p> <a href=\"https://www.theguardian.com/business/2026/may/11/uk-gilt-yields-creep-higher-as-starmer-speech-fails-to-dispel-investor-jitters\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Democrats are playing with fire in trying to reclaim tax cuts from Republicans",
-    "link": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
-    "source": "The Guardian Economics",
-    "published": "2026-05-11T10:00:51+00:00",
-    "summary": "<p>Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle class</p><p>Soul-searching within the Democratic party is to be expected after its loss in the 2024 election. Donald Trump’s <a href=\"https://news.gallup.com/poll/651719/economy-important-issue-2024-presidential-vote.aspx\">edge over Kamala Harris</a> in voters’ perceptions of economic competence (perplexing though it now <a href=\"https://www.washingtonpost.com/politics/2026/05/03/trump-approval-ratings-poll/\">appears</a> following a year of erratic policymaking) was bound to inspire a call to rethink the party platform.</p><p>Yet the second-guessing is steering the Democrats down a dangerous path to embracing a tax-cutting strategy that risks defeating the project to enable a healthier, more equitable society.</p> <a href=\"https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1263
   }
 ]
