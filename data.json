@@ -1,21 +1,45 @@
 [
   {
-    "title": "All-you-can-eat deals are back at restaurants like Red Lobster and Applebee’s. Here’s how to get your money’s worth.",
-    "link": "https://www.marketwatch.com/story/all-you-can-eat-deals-are-back-at-restaurants-like-red-lobster-and-applebees-heres-how-to-get-your-moneys-worth-3d672c35?mod=mw_rss_topstories",
+    "title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
+    "link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T19:24:00+00:00",
-    "summary": "As inflation has tightened household budgets, several chain restaurants have brought back all-you-can-eat deals to drive foot traffic.",
+    "published": "2026-05-15T03:11:00+00:00",
+    "summary": "Overbought warnings come ahead of a massive tech and retail earnings lineup.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Trump’s best China trade deal is the one he doesn’t make",
+    "link": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T03:09:00+00:00",
+    "summary": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Dead people claiming Social Security? Here’s one — but we’re still looking for the other 19,999,999.",
+    "link": "https://www.marketwatch.com/story/dead-people-claiming-social-security-heres-one-but-were-still-looking-for-the-other-19-999-999-7166612d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T02:16:00+00:00",
+    "summary": "After a year of hunting down Social Security cheats, here’s where we stand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3716
   },
   {
     "title": "Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.",
     "link": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T19:01:00+00:00",
+    "published": "2026-05-15T02:08:00+00:00",
     "summary": "Boeing’s stock on Thursday headed for its steepest fall in six months after President Donald Trump said China is buying 200 of the company’s jets, disappointing investors who had expected more than double that number.",
     "matched_keywords": [
       "AI"
@@ -24,10 +48,60 @@
     "sentiment_score": -0.4404
   },
   {
+    "title": "Figma has a fix for its ailing stock — a new way to make money off its AI products",
+    "link": "https://www.marketwatch.com/story/figma-has-a-fix-for-its-ailing-stock-a-new-way-to-make-money-off-its-ai-products-2a4f3489?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T00:15:00+00:00",
+    "summary": "Figma’s stock soars after earnings beat expectations again, and the full-year outlook was raised.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair",
+    "link": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T22:11:00+00:00",
+    "summary": "There is a perception that new Fed chairs are tested by market turmoil.",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
+    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T22:00:00+00:00",
+    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
+    "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-14T22:00:00+00:00",
+    "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
     "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
     "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
     "source": "CNBC Finance",
-    "published": "2026-05-14T18:50:31+00:00",
+    "published": "2026-05-14T21:47:36+00:00",
     "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
     "matched_keywords": [
       "Fed",
@@ -61,30 +135,6 @@
     "sentiment_score": 0.0772
   },
   {
-    "title": "Trump’s best China trade deal is the one he doesn’t make",
-    "link": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T18:34:00+00:00",
-    "summary": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Cerebras’s stock rockets out of the gate, in a sign the AI boom is as strong as ever",
-    "link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T18:03:00+00:00",
-    "summary": "The chip maker’s shares opened 89% above the IPO price before trading was briefly halted for volatility, before rallying further.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
     "title": "The gilt market will hover over any Labour leadership contest | Nils Pratley",
     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest",
     "source": "The Guardian Economics",
@@ -96,30 +146,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7341
-  },
-  {
-    "title": "Analysts say this restaurant chain has figured out how to feed everyone — GLP-1 users included",
-    "link": "https://www.marketwatch.com/story/analysts-say-this-restaurant-chain-has-figured-out-how-to-feed-everyone-glp-1-users-included-bc34f211?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T17:34:00+00:00",
-    "summary": "J.P. Morgan upgraded Cheesecake Factory’s stock, as weight-loss drugs and cautious consumers make the restaurant industry more anxious.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4005
-  },
-  {
-    "title": "Trump discloses big buys of shares in Boeing and Nvidia as the companies look set to gain from his China trip",
-    "link": "https://www.marketwatch.com/story/trump-discloses-big-buys-of-shares-in-boeing-and-nvidia-as-the-companies-look-set-to-gain-from-his-china-trip-1081bd1d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T17:10:00+00:00",
-    "summary": "President Donald Trump has filed a disclosure showing massive buying and selling of U.S. stocks, index funds and other securities, including purchasing at least $1 million in shares of Boeing and Nvidia as those companies expect to score new business during his trip to China.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8402
   },
   {
     "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
@@ -138,12 +164,13 @@
     "link": "https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb",
     "source": "The Guardian Economics",
     "published": "2026-05-14T15:00:11+00:00",
-    "summary": "<p>Jim Chalmers’ budget tips the scales in favour of younger and less well-off households – but it’s middle-class gen X that are turning to the rightwing party</p><ul><li><p>Explore all of our<a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\"> 2026 Australia federal budget coverage</a></p></li></ul><p>Labor’s fifth budget will do what it says on the tin: it will benefit the young and the poor at the expense of the older and the rich.</p><p>This is the most obvious takeaway from distributional analysis conducted by Ben Phillips, an associate professor at the ANU’s Centre for Social Policy Research.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb\">Continue reading...</a>",
+    "summary": "<p>Jim Chalmers’ budget tips the scales in favour of younger and less well-off households – but it’s middle-class gen X that are turning to the rightwing party</p><ul><li><p>Explore all of our<a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\"> 2026 Australia federal budget coverage</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor’s fifth budget will do what it says on the tin: it will benefit the young and the poor at the expense of the older and the rich.</p><p>This is the most obvious takeaway from distributional analysis conducted by Ben Phillips, an associate professor at the Australian National University’s Centre for Social Policy Research.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb\">Continue reading...</a>",
     "matched_keywords": [
-      "Fed"
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8567
+    "sentiment_score": 0.8687
   },
   {
     "title": "U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol",
@@ -345,30 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8666
-  },
-  {
-    "title": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
-    "link": "https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T15:09:45+00:00",
-    "summary": "<p>Prices rose 3.8% over the last year, according to Bureau of Labor Statistics data, highest jump since 2023</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US inflation jumped to 3.8% in April as the war in the Middle East continued to drive energy prices and everyday costs for Americans.</p><p>Prices rose 3.8% over the last year, according to the data from the Bureau of Labor Statistics, the highest jump since 2023.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "Labour must offer more than ‘better managed decline’ on economy, MPs urge",
-    "link": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T08:00:18+00:00",
-    "summary": "<p>Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewal</p><p>An influential group of MPs has said Labour needs an urgent renewal of economic strategy to offer voters “more than better management of decline” before the next general election.</p><p>With Keir Starmer <a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\">fighting to ward off a leadership challenge</a>, the leading backbenchers from the soft-left <a href=\"https://www.theguardian.com/politics/2025/nov/06/labour-mps-revive-tribune-to-take-on-reform\">Tribune</a> group published a series of essays calling for bolder action to salvage the party’s remaining time in power.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
   }
 ]
