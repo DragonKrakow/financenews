@@ -1,5 +1,30 @@
 [
   {
+    "title": "UK borrowing costs rise and sterling falls as City traders brace for Burnham – Business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T08:45:05+00:00",
+    "summary": "<p>The UK’s 350 wealthiest individuals and families now have a combined wealth of £784bn, Sunday Times reports</p><p><strong><a href=\"https://www.thetimes.com/sunday-times-rich-list/feature/article/chris-hohn-sunday-times-giving-list-2026-nsprcb96x\">The Sunday Times have also calculated</a> the UK’s biggest donors to charity.</strong></p><p>Hedge fund manager <strong>Sir</strong> <strong>Chris</strong> <strong>Hohn</strong> tops the list after giving away £1.4bn — or 16.8% of his estimated £8.6bn wealth in the last year, either personally or through his three foundations which include <strong>The Children’s Investment (TCI)</strong> fund.</p><p>“I don’t need to persuade [anyone] that rich people are hoarding their money, many have made pledges but it’s about 0.4 per cent of their wealth they give away a year.”</p><p>“I’m not doing this for publicity, but to see if I can encourage others to give. Our life is a gift and that means our money is a gift and we’re meant to share it.”</p><p>The fact the number of billionaires has risen to 157 and their wealth has grown to £784 billion is outrageous, while one in five kids are living in poverty, small businesses are going under, and services are crippled by underinvestment.</p><p>Right now, it feels like the Rich List is a running total of everything that is wrong in our society—a handful of people counting obscene amounts of wealth while everyone else scrapes by. It’s blindingly obvious, to anyone paying attention, that we need to do something about this.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9819
+  },
+  {
+    "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+    "link": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T06:46:57+00:00",
+    "summary": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
     "title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
     "link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -84,18 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4404
-  },
-  {
-    "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-    "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T22:00:00+00:00",
-    "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
@@ -358,19 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6808
-  },
-  {
-    "title": "UK long-term borrowing costs dip from 28-year high after Starmer allies back PM – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T16:23:49+00:00",
-    "summary": "<p>UK bond yields hit highest since 1998 this morning, before easing back as some cabinet ministers voiced support for Keir Starmer</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Full story: <strong>UK borrowing costs hit highest since 1998 amid Starmer uncertainty</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates\"><strong>Politics live: Keir Starmer tells cabinet he is not resigning amid growing pressure to stand down</strong></a></p></li></ul><p><strong>Chris Beauchamp</strong>, chief market analyst at investing and trading platform <strong>IG</strong>, says:</p><p>There is no clear plan for what comes next, but markets are already pricing in a new PM who will open the floodgates on spending despite the UK’s dangerous fiscal situation.</p><p>Faced with hordes of Labour MPs worried about their re-election chances as Reform surges, a new PM will find it very hard to resist calls to spend more money in order to shore up their embattled party.</p><p><strong>We could see a blowout in longer-dated gilts if this turns into a dogfight</strong>– political, fiscal and inflationary risks will rise.</p><p>Markets tend to dislike a lack of certainty over who runs a government; the fiscal position is already fragile and likely to become worse should a left-leaning ticket prioritise spending; and that this makes inflation stickier.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8666
   }
 ]
