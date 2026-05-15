@@ -1,9 +1,146 @@
 [
   {
-    "title": "UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – business live",
+    "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+    "link": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T19:00:19+00:00",
+    "summary": "The outgoing Fed governor shares big ideas with the incoming chair.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+    "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T18:37:00+00:00",
+    "summary": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Your 6-month emergency savings won’t cut it: The AI layoff wave is forcing an 18-month cash cushion",
+    "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T18:28:00+00:00",
+    "summary": "Artificial intelligence will displace some jobs and replace others. Here’s how to make sure you’re on the right side of change.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "10 stocks to protect you from the risky AI trade",
+    "link": "https://www.marketwatch.com/story/10-stocks-to-protect-you-from-the-risky-ai-trade-de4665d8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T18:18:00+00:00",
+    "summary": "Also in Weekend Reads: Tips for selling a home, the bond market’s reaction as Kevin Warsh takes over at the Fed and advice from the Moneyist.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Nvidia, Intel and other hot chip stocks fall as AI exuberance fades",
+    "link": "https://www.marketwatch.com/story/intel-nvidia-and-other-hot-chip-stocks-fall-as-ai-exuberance-fades-c2fae3d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T17:38:00+00:00",
+    "summary": "“Even a little bit of China disappointment is enough to cause ripples throughout the industry,” an analyst says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Stocks and bonds are swept up in selloff as Trump’s China visit fails to pry open Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T17:29:00+00:00",
+    "summary": "Fears of a 2022-style inflation problem are bubbling back up, but also hope for a Trump pivot on the Iran conflict.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4118
+  },
+  {
+    "title": "Cerebras’s stock looks like a risky bet on AI hype",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-looks-like-a-risky-bet-on-ai-hype-a26d66ee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T17:21:00+00:00",
+    "summary": "The chip company’s shares trade at a very expensive sales multiple on a trailing basis.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
+    "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T17:02:06+00:00",
+    "summary": "The Roundhill Memory ETF (DRAM) just reached $10 billion in assets at the fastest pace ever for an exchange-traded fund according to TMX VettaFi.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "The most prestigious role in AI has no job description",
+    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T16:56:00+00:00",
+    "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
+    "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T16:27:26+00:00",
+    "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
+    "link": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T16:17:30+00:00",
+    "summary": "<p>UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worries</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Business live – latest updates</a></p></li></ul><p>The pound was heading for its worst week in 18 months on Friday as City traders anticipated that the UK prime minister, Keir Starmer, <a href=\"https://www.theguardian.com/politics/2026/may/14/potential-labour-leadership-candidates-streeting-miliband-rayner-burnham\">could face a challenge </a>from the Manchester mayor, Andy Burnham, later this year.</p><p>After days of uncertainty over Starmer’s future, sterling dropped by about three cents, or 2.2%, during the week to $1.332 on Friday, a five-week low. That would be the largest weekly drop against the US dollar since Donald Trump’s election win in early November 2024.</p> <a href=\"https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9022
+  },
+  {
+    "title": "UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-15T14:07:13+00:00",
+    "published": "2026-05-15T16:09:42+00:00",
     "summary": "<p>UK 10-year government bond yields have hit their highest since 2008</p><p><strong><a href=\"https://www.thetimes.com/sunday-times-rich-list/feature/article/chris-hohn-sunday-times-giving-list-2026-nsprcb96x\">The Sunday Times have also calculated</a> the UK’s biggest donors to charity.</strong></p><p>Hedge fund manager <strong>Sir</strong> <strong>Chris</strong> <strong>Hohn</strong> tops the list after giving away £1.4bn — or 16.8% of his estimated £8.6bn wealth in the last year, either personally or through his three foundations which include <strong>The Children’s Investment (TCI)</strong> fund.</p><p>“I don’t need to persuade [anyone] that rich people are hoarding their money, many have made pledges but it’s about 0.4 per cent of their wealth they give away a year.”</p><p>“I’m not doing this for publicity, but to see if I can encourage others to give. Our life is a gift and that means our money is a gift and we’re meant to share it.”</p><p>The fact the number of billionaires has risen to 157 and their wealth has grown to £784 billion is outrageous, while one in five kids are living in poverty, small businesses are going under, and services are crippled by underinvestment.</p><p>Right now, it feels like the Rich List is a running total of everything that is wrong in our society—a handful of people counting obscene amounts of wealth while everyone else scrapes by. It’s blindingly obvious, to anyone paying attention, that we need to do something about this.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
@@ -12,53 +149,16 @@
     "sentiment_score": 0.9731
   },
   {
-    "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
-    "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T13:52:00+00:00",
-    "summary": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8519
-  },
-  {
-    "title": "Cerebras’s stock pulls back after a blowout opening day",
-    "link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T13:46:00+00:00",
-    "summary": "The chip maker’s shares opened 89% above the IPO price before trading was briefly halted for volatility, but then pared some gains.",
+    "title": "Wealth of Britain’s 157 billionaires now equal to 22% of country’s GDP",
+    "link": "https://www.theguardian.com/inequality/2026/may/15/wealth-britain-billionaires-gdp-rich-list-inequality",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T15:06:55+00:00",
+    "summary": "<p>This ‘ghost GDP’ shows how headline economic growth is increasingly disconnected from reality for most, says report</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates\">UK politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Business live – latest updates</a></p></li></ul><p>The wealth of Britain’s 157 billionaires is now equivalent to more than a fifth of the country’s entire GDP, according to analysis by the Equality Trust – a fivefold increase since 1990.</p><p>The charity describes the trend, based on data in <a href=\"https://www.thetimes.com/sunday-times-rich-list\">this year’s Sunday Times rich list</a>, as Britain’s “ghost GDP”: headline economic growth increasingly disconnected from everyday life.</p> <a href=\"https://www.theguardian.com/inequality/2026/may/15/wealth-britain-billionaires-gdp-rich-list-inequality\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Trump discloses big buys of shares in Boeing and Nvidia as the companies look set to gain from his China trip",
-    "link": "https://www.marketwatch.com/story/trump-discloses-big-buys-of-shares-in-boeing-and-nvidia-as-the-companies-look-set-to-gain-from-his-china-trip-1081bd1d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T13:36:00+00:00",
-    "summary": "President Donald Trump has filed a disclosure showing massive buying and selling of U.S. stocks, index funds and other securities, including purchasing at least $1 million in shares of Boeing and Nvidia as those companies expect to score new business during his trip to China.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8402
-  },
-  {
-    "title": "The stock market surge has delivered a rare signal. Here’s what history suggests happens next, says Goldman Sachs.",
-    "link": "https://www.marketwatch.com/story/the-stock-market-surge-has-delivered-a-rare-signal-heres-what-history-suggests-happens-next-says-goldman-sachs-fc0d6dd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T13:30:00+00:00",
-    "summary": "Momentum and risk appetite are ascendant, but that may be a problem, say Goldman Sachs strategists.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_score": 0.9705
   },
   {
     "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
@@ -73,32 +173,6 @@
     "sentiment_score": 0.3818
   },
   {
-    "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
-    "link": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-05-15T13:08:03+00:00",
-    "summary": "<p>UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worries</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Business live – latest updates</a></p></li></ul><p>The pound was heading for its worst week in 18 months on Friday as City traders anticipated that the UK prime minister, Keir Starmer, <a href=\"https://www.theguardian.com/politics/2026/may/14/potential-labour-leadership-candidates-streeting-miliband-rayner-burnham\">could face a challenge </a>from the Manchester mayor, Andy Burnham, later this year.</p><p>After days of uncertainty over Starmer’s future, sterling dropped by almost three cents, or 2%, during the week to $1.336 on Friday, a five-week low. That would be the largest weekly drop against the US dollar since Donald Trump’s election win in early November 2024.</p> <a href=\"https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9022
-  },
-  {
-    "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
-    "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T13:00:00+00:00",
-    "summary": "“When I use a credit card, tips are usually added immediately.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
     "title": "From Team Reeves to Manchesterism: Labour’s four economic camps explained",
     "link": "https://www.theguardian.com/politics/2026/may/15/rachel-reeves-manchesterism-labour-economics-wes-streeting-andy-burnham",
     "source": "The Guardian Economics",
@@ -109,31 +183,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.009
-  },
-  {
-    "title": "Here’s why materials should be an important part of investor portfolios, according to Bank of America",
-    "link": "https://www.marketwatch.com/story/here-are-the-new-bulls-on-the-block-for-2026-afeefb60?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T12:43:00+00:00",
-    "summary": "The impact of AI capex, the geopolitical race for resources, rising defense spend and a housing shortage in America all argue in favor of exposure of materials in conjunction with tech for a “barbell” approach to risk",
-    "matched_keywords": [
-      "Defense",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-    "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T12:00:00+00:00",
-    "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump",
@@ -322,55 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8126
-  },
-  {
-    "title": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
-    "link": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
-    "source": "The Guardian Economics",
-    "published": "2026-05-13T20:10:15+00:00",
-    "summary": "<p>Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates</p><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> confirmed Kevin Warsh as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, one of the most powerful roles in the federal government that holds enormous sway over the economy.</p><p>The 54-45 Senate vote on Wednesday was split along party lines, with the exception of the Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. It was most divisive confirmation vote for the position in history.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3384
-  },
-  {
-    "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
-    "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-13T18:13:49+00:00",
-    "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5511
-  },
-  {
-    "title": "The king’s speech: what is the government’s legislative agenda for the next 12 months?",
-    "link": "https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months",
-    "source": "The Guardian Economics",
-    "published": "2026-05-13T14:47:18+00:00",
-    "summary": "<p>Keir Starmer set out bills to abolish NHS England, overhaul Send provision, limit jury trials and forge ties with EU</p><p>Keir Starmer has laid out long-promised changes to education, health and the courts in the king’s speech, which maps out the government’s agenda for the next year.</p><p>The speech delivered by King Charles cited bills to abolish NHS England, overhaul the provision of special educational needs teaching, limit trials by jury, introduce digital ID and end the leasehold system in England and Wales. It also included vehicles for closer alignment with the EU, and measures to boost the economy through the nationalisation of British Steel and pilot schemes to boost innovation in areas such as defence technology and AI-controlled ships.</p> <a href=\"https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
-  },
-  {
-    "title": "Global oil inventories falling at record pace amid Iran war; US producer price inflation hits four-year high – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-13T14:34:14+00:00",
-    "summary": "<p>IEA warns that mounting supply losses from the Strait of Hormuz are depleting global oil inventories at a record pace</p><p><strong>Global oil stocks are being run down at a record pace as supply losses mount due to the ongoing Iran war, the International Energy Agency has warned.</strong></p><p>In its latest outlook report, the <strong>IEA</strong> reports that global oil inventories fell by 129 million barrels in March, and by a further 117 million barrels in April, as countries dipped into their reserves to cover the shortfall following the Middle East conflict.</p><p>More than ten weeks after the war in the Middle East began, mounting supply losses from the Strait of Hormuz are depleting global oil inventories at a record pace.</p><p>The petrochemical and aviation sectors are currently most affected, but higher prices, a weaker economic environment and demand-saving measures will increasingly impact fuel use.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/13/uk-bond-market-yields-political-turmoil-oil-inflation-housing-market-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9343
   }
 ]
