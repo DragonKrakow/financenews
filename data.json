@@ -1,15 +1,152 @@
 [
   {
-    "title": "UK borrowing costs rise and sterling falls as City traders brace for Burnham – Business live",
+    "title": "UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – business live",
     "link": "https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-15T08:45:05+00:00",
-    "summary": "<p>The UK’s 350 wealthiest individuals and families now have a combined wealth of £784bn, Sunday Times reports</p><p><strong><a href=\"https://www.thetimes.com/sunday-times-rich-list/feature/article/chris-hohn-sunday-times-giving-list-2026-nsprcb96x\">The Sunday Times have also calculated</a> the UK’s biggest donors to charity.</strong></p><p>Hedge fund manager <strong>Sir</strong> <strong>Chris</strong> <strong>Hohn</strong> tops the list after giving away £1.4bn — or 16.8% of his estimated £8.6bn wealth in the last year, either personally or through his three foundations which include <strong>The Children’s Investment (TCI)</strong> fund.</p><p>“I don’t need to persuade [anyone] that rich people are hoarding their money, many have made pledges but it’s about 0.4 per cent of their wealth they give away a year.”</p><p>“I’m not doing this for publicity, but to see if I can encourage others to give. Our life is a gift and that means our money is a gift and we’re meant to share it.”</p><p>The fact the number of billionaires has risen to 157 and their wealth has grown to £784 billion is outrageous, while one in five kids are living in poverty, small businesses are going under, and services are crippled by underinvestment.</p><p>Right now, it feels like the Rich List is a running total of everything that is wrong in our society—a handful of people counting obscene amounts of wealth while everyone else scrapes by. It’s blindingly obvious, to anyone paying attention, that we need to do something about this.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Continue reading...</a>",
+    "published": "2026-05-15T14:07:13+00:00",
+    "summary": "<p>UK 10-year government bond yields have hit their highest since 2008</p><p><strong><a href=\"https://www.thetimes.com/sunday-times-rich-list/feature/article/chris-hohn-sunday-times-giving-list-2026-nsprcb96x\">The Sunday Times have also calculated</a> the UK’s biggest donors to charity.</strong></p><p>Hedge fund manager <strong>Sir</strong> <strong>Chris</strong> <strong>Hohn</strong> tops the list after giving away £1.4bn — or 16.8% of his estimated £8.6bn wealth in the last year, either personally or through his three foundations which include <strong>The Children’s Investment (TCI)</strong> fund.</p><p>“I don’t need to persuade [anyone] that rich people are hoarding their money, many have made pledges but it’s about 0.4 per cent of their wealth they give away a year.”</p><p>“I’m not doing this for publicity, but to see if I can encourage others to give. Our life is a gift and that means our money is a gift and we’re meant to share it.”</p><p>The fact the number of billionaires has risen to 157 and their wealth has grown to £784 billion is outrageous, while one in five kids are living in poverty, small businesses are going under, and services are crippled by underinvestment.</p><p>Right now, it feels like the Rich List is a running total of everything that is wrong in our society—a handful of people counting obscene amounts of wealth while everyone else scrapes by. It’s blindingly obvious, to anyone paying attention, that we need to do something about this.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9819
+    "sentiment_score": 0.9731
+  },
+  {
+    "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+    "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T13:52:00+00:00",
+    "summary": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8519
+  },
+  {
+    "title": "Cerebras’s stock pulls back after a blowout opening day",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T13:46:00+00:00",
+    "summary": "The chip maker’s shares opened 89% above the IPO price before trading was briefly halted for volatility, but then pared some gains.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "Trump discloses big buys of shares in Boeing and Nvidia as the companies look set to gain from his China trip",
+    "link": "https://www.marketwatch.com/story/trump-discloses-big-buys-of-shares-in-boeing-and-nvidia-as-the-companies-look-set-to-gain-from-his-china-trip-1081bd1d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T13:36:00+00:00",
+    "summary": "President Donald Trump has filed a disclosure showing massive buying and selling of U.S. stocks, index funds and other securities, including purchasing at least $1 million in shares of Boeing and Nvidia as those companies expect to score new business during his trip to China.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8402
+  },
+  {
+    "title": "The stock market surge has delivered a rare signal. Here’s what history suggests happens next, says Goldman Sachs.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-surge-has-delivered-a-rare-signal-heres-what-history-suggests-happens-next-says-goldman-sachs-fc0d6dd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T13:30:00+00:00",
+    "summary": "Momentum and risk appetite are ascendant, but that may be a problem, say Goldman Sachs strategists.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
+    "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T13:28:11+00:00",
+    "summary": "Bill Ackman's Pershing Square Capital Management has built a position in Microsoft, the billionaire hedge fund manager said Friday in a post on X.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
+    "link": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T13:08:03+00:00",
+    "summary": "<p>UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worries</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Business live – latest updates</a></p></li></ul><p>The pound was heading for its worst week in 18 months on Friday as City traders anticipated that the UK prime minister, Keir Starmer, <a href=\"https://www.theguardian.com/politics/2026/may/14/potential-labour-leadership-candidates-streeting-miliband-rayner-burnham\">could face a challenge </a>from the Manchester mayor, Andy Burnham, later this year.</p><p>After days of uncertainty over Starmer’s future, sterling dropped by almost three cents, or 2%, during the week to $1.336 on Friday, a five-week low. That would be the largest weekly drop against the US dollar since Donald Trump’s election win in early November 2024.</p> <a href=\"https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9022
+  },
+  {
+    "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+    "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T13:00:00+00:00",
+    "summary": "“When I use a credit card, tips are usually added immediately.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "From Team Reeves to Manchesterism: Labour’s four economic camps explained",
+    "link": "https://www.theguardian.com/politics/2026/may/15/rachel-reeves-manchesterism-labour-economics-wes-streeting-andy-burnham",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T12:54:36+00:00",
+    "summary": "<p>Wes Streeting or Andy Burnham could launch a leadership bid – here are policies from which they could choose</p><p>Wes Streeting may not have launched a leadership challenge against Keir Starmer, but <a href=\"https://www.theguardian.com/politics/2026/may/14/wes-streeting-quits-cabinet-and-calls-on-starmer-to-resign\">he has called for a “battle of ideas”</a> about the government’s future direction.</p><p>When it comes to economic policy, there are (at least) four overlapping Labour camps, which have recently generated a flurry of policies from which the leadership contenders could choose. Here we run through the main ideas behind each camp.</p> <a href=\"https://www.theguardian.com/politics/2026/may/15/rachel-reeves-manchesterism-labour-economics-wes-streeting-andy-burnham\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.009
+  },
+  {
+    "title": "Here’s why materials should be an important part of investor portfolios, according to Bank of America",
+    "link": "https://www.marketwatch.com/story/here-are-the-new-bulls-on-the-block-for-2026-afeefb60?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T12:43:00+00:00",
+    "summary": "The impact of AI capex, the geopolitical race for resources, rising defense spend and a housing shortage in America all argue in favor of exposure of materials in conjunction with tech for a “barbell” approach to risk",
+    "matched_keywords": [
+      "Defense",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
+    "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T12:00:00+00:00",
+    "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump",
+    "link": "https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump",
+    "source": "The Guardian Economics",
+    "published": "2026-05-15T11:00:38+00:00",
+    "summary": "<p>The president’s ultimate goal is to push the Fed – among other independent US institutions – to bend to his will</p><p><a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell,</a> who stepped down this week as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, had his hits and misses. The Fed was late to react as prices started rising when the Covid pandemic abated, but they eventually acted forcefully and achieved the most rare of feats: a “soft landing”, curbing inflation without sparking a recession or damaging employment.</p><p>Strangely, given the chaotic era of pandemic and <a href=\"https://www.theguardian.com/business/tariffs\">tariffs</a> that coincided with Powell’s time as chair, monetary policy may not define his legacy. Powell’s most lasting accomplishment will most likely be his outspoken efforts to defend the independence of the Fed from an assault by the imperial presidency of Donald Trump.</p> <a href=\"https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9246
   },
   {
     "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
@@ -23,92 +160,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
-  },
-  {
-    "title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
-    "link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T03:11:00+00:00",
-    "summary": "Overbought warnings come ahead of a massive tech and retail earnings lineup.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Trump’s best China trade deal is the one he doesn’t make",
-    "link": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T03:09:00+00:00",
-    "summary": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Dead people claiming Social Security? Here’s one — but we’re still looking for the other 19,999,999.",
-    "link": "https://www.marketwatch.com/story/dead-people-claiming-social-security-heres-one-but-were-still-looking-for-the-other-19-999-999-7166612d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T02:16:00+00:00",
-    "summary": "After a year of hunting down Social Security cheats, here’s where we stand.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3716
-  },
-  {
-    "title": "Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.",
-    "link": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T02:08:00+00:00",
-    "summary": "Boeing’s stock on Thursday headed for its steepest fall in six months after President Donald Trump said China is buying 200 of the company’s jets, disappointing investors who had expected more than double that number.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "Figma has a fix for its ailing stock — a new way to make money off its AI products",
-    "link": "https://www.marketwatch.com/story/figma-has-a-fix-for-its-ailing-stock-a-new-way-to-make-money-off-its-ai-products-2a4f3489?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T00:15:00+00:00",
-    "summary": "Figma’s stock soars after earnings beat expectations again, and the full-year outlook was raised.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair",
-    "link": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T22:11:00+00:00",
-    "summary": "There is a perception that new Fed chairs are tested by market turmoil.",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
-    "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-14T22:00:00+00:00",
-    "summary": "“My current house is all paid off, and it’s worth $650,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
   },
   {
     "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
@@ -321,55 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9343
-  },
-  {
-    "title": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
-    "link": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances",
-    "source": "The Guardian Economics",
-    "published": "2026-05-13T14:03:24+00:00",
-    "summary": "<p>With US inflation at a three-year high, US president insisted he’s not focused on economic hardship sparked by the conflict</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has said the growing financial pressure inflicted on Americans by the war on Iran is “not even a little bit” motivating him to make a peace deal with Tehran.</p><p>With <a href=\"https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war\">US inflation at a three-year high</a>, and fuel costs still climbing after a sharp rise in oil prices, the US president said on Tuesday that he is not focused on the economic hardship sparked by the conflict.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7137
-  },
-  {
-    "title": "UK housebuilder Vistry warns of ‘significantly’ lower profits amid Iran war uncertainty",
-    "link": "https://www.theguardian.com/business/2026/may/13/uk-housebuilder-vistry-significantly-lower-profits-iran-war-uncertainty",
-    "source": "The Guardian Economics",
-    "published": "2026-05-13T09:46:15+00:00",
-    "summary": "<p>Bovis Homes owner’s shares plunge 10.5% after being forced to cut prices as buyers become cautious</p><p>One of the UK’s biggest housebuilders has said its profits will be “significantly” lower, as it was forced to cut prices after heightened uncertainty caused by the US-Israeli war on Iran.</p><p>Vistry’s shares plunged 10.5% in early trading on Wednesday, hitting their lowest level in nearly 15 years, as it told shareholders its first-half profits would be hit by the fallout from the Middle East conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/uk-housebuilder-vistry-significantly-lower-profits-iran-war-uncertainty\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9442
-  },
-  {
-    "title": "Three-quarters of UK millionaires would be happy to pay more tax, research finds",
-    "link": "https://www.theguardian.com/news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T23:01:13+00:00",
-    "summary": "<p>Despite concerns super-rich are leaving due to tax burdens, 88% of those surveyed were proud to live in UK and would pay more to fund public services</p><p>Nine in 10 UK millionaires are proud to live in Britain and three-quarters would be willing to pay more tax to ensure public assets get the funding they need, according to research.</p><p>Despite widely reported concerns that the wealthy are choosing to leave the country owing to higher taxes, the survey found millionaires were much more concerned about medical workers moving away than wealthy people emigrating.</p> <a href=\"https://www.theguardian.com/news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9269
-  },
-  {
-    "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
-    "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
-    "source": "The Guardian Economics",
-    "published": "2026-05-12T17:36:01+00:00",
-    "summary": "<p>Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change</p><p>Long-term UK borrowing costs soared to the highest level in almost three decades on Tuesday as fears about a change of Labour leadership triggered investor jitters and warnings of further bond market turmoil.</p><p>With investors worried about potential changes to Labour’s tax and spending plans, the yield – in effect the interest rate – on 30-year government bonds, or gilts, hit a high on Tuesday of 5.81%, a rise of 14 basis points and the highest since 1998.</p> <a href=\"https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
   }
 ]
