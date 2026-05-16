@@ -1,5 +1,65 @@
 [
   {
+    "title": "This hedge fund just dumped the ‘big three’ airline stocks, as the industry faces soaring fuel costs",
+    "link": "https://www.marketwatch.com/story/this-hedge-fund-just-dumped-the-big-three-airline-stocks-as-the-industry-faces-soaring-fuel-costs-4ae4f9ba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T21:48:00+00:00",
+    "summary": "Appaloosa sold off its entire positions in Delta, American and United, while loading up on shares of Amazon and Uber.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta",
+    "link": "https://www.marketwatch.com/story/berkshires-abel-sours-on-some-of-warren-buffetts-picks-while-betting-big-on-delta-7ad679f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T21:41:00+00:00",
+    "summary": "Warren Buffett exited U.S. airlines back in 2020, but successor Greg Abel placed a $2.8 billion fresh bet on Delta.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T20:57:00+00:00",
+    "summary": "Fears of a 2022-style inflation problem are bubbling back up, but there’s also hope for a Trump pivot on the Iran conflict.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4118
+  },
+  {
+    "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
+    "link": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T20:50:03+00:00",
+    "summary": "The Omaha-based company built a position worth more than $2.6 billion, making Delta Berkshire's 14th-largest holding at the end of March.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "Your 3-6 months of emergency savings is dangerous — the new job market forces an 18-month cash cushion",
+    "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-15T20:18:00+00:00",
+    "summary": "Artificial intelligence will displace some jobs and replace others. Here’s how to make sure you’re on the right side of change.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
     "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
     "link": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
     "source": "CNBC Finance",
@@ -13,80 +73,6 @@
     "sentiment_score": 0.5267
   },
   {
-    "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-    "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T18:37:00+00:00",
-    "summary": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Your 6-month emergency savings won’t cut it: The AI layoff wave is forcing an 18-month cash cushion",
-    "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T18:28:00+00:00",
-    "summary": "Artificial intelligence will displace some jobs and replace others. Here’s how to make sure you’re on the right side of change.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "10 stocks to protect you from the risky AI trade",
-    "link": "https://www.marketwatch.com/story/10-stocks-to-protect-you-from-the-risky-ai-trade-de4665d8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T18:18:00+00:00",
-    "summary": "Also in Weekend Reads: Tips for selling a home, the bond market’s reaction as Kevin Warsh takes over at the Fed and advice from the Moneyist.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "Nvidia, Intel and other hot chip stocks fall as AI exuberance fades",
-    "link": "https://www.marketwatch.com/story/intel-nvidia-and-other-hot-chip-stocks-fall-as-ai-exuberance-fades-c2fae3d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T17:38:00+00:00",
-    "summary": "“Even a little bit of China disappointment is enough to cause ripples throughout the industry,” an analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Stocks and bonds are swept up in selloff as Trump’s China visit fails to pry open Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T17:29:00+00:00",
-    "summary": "Fears of a 2022-style inflation problem are bubbling back up, but also hope for a Trump pivot on the Iran conflict.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4118
-  },
-  {
-    "title": "Cerebras’s stock looks like a risky bet on AI hype",
-    "link": "https://www.marketwatch.com/story/cerebrass-stock-looks-like-a-risky-bet-on-ai-hype-a26d66ee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T17:21:00+00:00",
-    "summary": "The chip company’s shares trade at a very expensive sales multiple on a trailing basis.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
     "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
     "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
     "source": "CNBC Finance",
@@ -97,18 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "The most prestigious role in AI has no job description",
-    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T16:56:00+00:00",
-    "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   },
   {
     "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
@@ -371,5 +345,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8126
+  },
+  {
+    "title": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
+    "link": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
+    "source": "The Guardian Economics",
+    "published": "2026-05-13T20:10:15+00:00",
+    "summary": "<p>Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates</p><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> confirmed Kevin Warsh as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, one of the most powerful roles in the federal government that holds enormous sway over the economy.</p><p>The 54-45 Senate vote on Wednesday was split along party lines, with the exception of the Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. It was most divisive confirmation vote for the position in history.</p> <a href=\"https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3384
+  },
+  {
+    "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+    "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-13T18:13:49+00:00",
+    "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5511
   }
 ]
