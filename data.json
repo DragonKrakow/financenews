@@ -1,9 +1,33 @@
 [
   {
-    "title": "Trump's second meeting with China's Xi in a year steers the U.S. away from Taiwan again",
+    "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
+    "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-16T09:54:15+00:00",
+    "summary": "Bill Ackman's Pershing Square Capital Management has built a position in Microsoft, the billionaire hedge fund manager said Friday in a post on X.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
+    "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-16T09:00:00+00:00",
+    "summary": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
     "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
     "source": "CNBC Finance",
-    "published": "2026-05-16T07:23:16+00:00",
+    "published": "2026-05-16T08:26:02+00:00",
     "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
     "matched_keywords": [
       "AI"
@@ -36,18 +60,6 @@
     "sentiment_score": 0.6486
   },
   {
-    "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T20:57:00+00:00",
-    "summary": "Fears of a 2022-style inflation problem are bubbling back up, but there’s also hope for a Trump pivot on the Iran conflict.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4118
-  },
-  {
     "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
     "link": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
     "source": "CNBC Finance",
@@ -58,18 +70,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "Your 3–6 months of emergency savings won’t cut it — why the job market demands an 18-month cash cushion",
-    "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-15T20:18:00+00:00",
-    "summary": "Artificial intelligence will displace some jobs and replace others. Here’s how to make sure you’re on the right side of change.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   },
   {
     "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
@@ -145,18 +145,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9705
-  },
-  {
-    "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-    "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T13:28:11+00:00",
-    "summary": "Bill Ackman's Pershing Square Capital Management has built a position in Microsoft, the billionaire hedge fund manager said Friday in a post on X.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "From Team Reeves to Manchesterism: Labour’s four economic camps explained",
@@ -370,5 +358,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3384
+  },
+  {
+    "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+    "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-13T18:13:49+00:00",
+    "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5511
   }
 ]
