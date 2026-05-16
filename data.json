@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump's second meeting with China's Xi in a year steers the U.S. away from Taiwan again",
+    "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-16T07:23:16+00:00",
+    "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "This hedge fund just dumped the ‘big three’ airline stocks, as the industry faces soaring fuel costs",
     "link": "https://www.marketwatch.com/story/this-hedge-fund-just-dumped-the-big-three-airline-stocks-as-the-industry-faces-soaring-fuel-costs-4ae4f9ba?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -48,7 +60,7 @@
     "sentiment_score": 0.2263
   },
   {
-    "title": "Your 3-6 months of emergency savings is dangerous — the new job market forces an 18-month cash cushion",
+    "title": "Your 3–6 months of emergency savings won’t cut it — why the job market demands an 18-month cash cushion",
     "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-05-15T20:18:00+00:00",
@@ -57,7 +69,7 @@
       "Artificial Intelligence"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
+    "sentiment_score": 0.1779
   },
   {
     "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
@@ -358,17 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3384
-  },
-  {
-    "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
-    "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-13T18:13:49+00:00",
-    "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5511
   }
 ]
