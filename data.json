@@ -1,5 +1,17 @@
 [
   {
+    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-16T22:47:00+00:00",
+    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
     "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
     "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -48,30 +60,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8225
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-16T16:45:00+00:00",
-    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "The real cost of the Iran war isn’t higher prices — it’s market paralysis",
-    "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-16T16:35:00+00:00",
-    "summary": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
   },
   {
     "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
@@ -371,5 +359,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9118
+  },
+  {
+    "title": "‘There’s a risk of another Liz Truss moment’: City raises spectre of bond market meltdown again",
+    "link": "https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again",
+    "source": "The Guardian Economics",
+    "published": "2026-05-14T06:00:19+00:00",
+    "summary": "<p>As Keir Starmer’s leadership totters, investors warn a Labour leadership contest ignoring public finances and market realpolitik could be disastrous</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p></p><p><br /></p><p>A rise in borrowing costs and warnings to avoid a “Liz Truss moment”. As Keir Starmer faces a potential leadership challenge, the spectre of the bond market looms large.</p><p>Amid febrile conditions in Westminster, the prospect of Britain switching prime ministers for a sixth time in seven years has fuelled a sharp sell-off in the market for UK government debt.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
   }
 ]
