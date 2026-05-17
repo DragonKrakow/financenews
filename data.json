@@ -1,5 +1,53 @@
 [
   {
+    "title": "AI-related layoffs a boost for stocks? Not necessarily",
+    "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-17T13:09:10+00:00",
+    "summary": "The data underscores an uncomfortable reality.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+    "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-17T13:00:00+00:00",
+    "summary": "“When I use a credit card, tips are usually added immediately.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
+    "source": "The Guardian Economics",
+    "published": "2026-05-17T11:52:06+00:00",
+    "summary": "<p>The challenge of how to look after an ageing population has been ducked by politicians for too long</p><p>If a new Labour leader wants to underline their determination to wrestle with Britain’s political challenges, it is hard to think of a better place to start than with the creaking social care settlement.</p><p>A new collection of essays, to be published by the Fabian Society this week, urges the government – whoever leads it – to crack on with creating a “national care service” more closely aligned to the NHS and ensure it is properly funded.</p> <a href=\"https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9595
+  },
+  {
+    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-17T10:11:00+00:00",
+    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
     "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
     "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
     "source": "The Guardian Economics",
@@ -23,18 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2523
-  },
-  {
-    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-16T22:47:00+00:00",
-    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
   },
   {
     "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
@@ -334,42 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5574
-  },
-  {
-    "title": "Reeves seizes on surprise UK growth as evidence Labour leadership must stay",
-    "link": "https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T14:28:37+00:00",
-    "summary": "<p>Chancellor says ‘now not the time to put economic stability at risk’ as ONS records 0.3% growth in first month of Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p>The chancellor has seized on official figures showing the UK economy was more resilient than feared at the start of the Iran war as evidence to keep the current Labour leadership in place.</p><p>Rachel Reeves hailed the fact that the economy unexpectedly grew in March, during the first month of the conflict in the Middle East, as proof the government had “the right economic plan”.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6444
-  },
-  {
-    "title": "Reeves warns against risking economic stability with leadership battle, after UK growth beats forecasts in March – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T14:14:48+00:00",
-    "summary": "<p>Chancellor warns against plunging the country ‘into chaos’ with leadership battle, after economy grows at fastest pace in a year in Q1 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p><strong>Rachel</strong> <strong>Reeves</strong> has also suggested she’ll announce details of help with the cost of living crisis next week.</p><p>Speaking to BBC News this morning, the chancellor says:</p><p>Next week I’ll be setting out more detail on how, because of the numbers that we’ve seen today, we’ll be able to put more money in to support people – familes and businesses – with the conflict challenges that we know we’re facing.</p><p>GDP rose by a bumper 0.6% q/q in Q1 (consensus and CE forecast 0.6%), but this will be the high point for the year given the effects of the war in Iran will sap growth from Q2. In our baseline scenario, the economy doesn’t grow at all in Q2 and Q3. Prolonged political instability is an extra downside risk to our forecasts.</p><p>Risks remain clearly tilted to the downside moving forwards, principally as a result of the ongoing Middle East conflict, and subsequent surge in energy prices, which will in turn impact the economy in the manner of a significant negative demand shock, over the next couple of quarters.</p><p>Added to which, renewed political uncertainty in Westminster is also likely to act as a significant headwind to the economy at large, not only delaying major investment decisions, but with said uncertainty having also resulted in considerably tighter financial conditions as a result of the recent sell-off in gilts across the curve.</p><p>The UK economy outperformed in the first quarter of this year with growth reaching 0.6% quarter over quarter, despite being at odds with lacklustre survey indicators during this period. This continues the recent pattern of unexpectedly strong growth in the first quarter of the year, while stockpiling of some goods ahead of anticipated shortages arising from the Iran war lifted demand in March.</p><p>“Nevertheless, recession risks have risen, and we now expect the UK economy to contract mildly in the second and third quarters of this year. The main driver is a prolonged energy price shock pushing headline inflation above 4.0% in the coming months, and the resulting pressure on the Bank of England to raise interest rates to counter emerging ‘second-round’ effects.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9754
-  },
-  {
-    "title": "Rachel Reeves suggests if it ain’t broke, don’t fix it – as fight to keep her job goes on",
-    "link": "https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T11:44:15+00:00",
-    "summary": "<p>The GDP boost has raised the chancellor’s prospects for staying in post, whoever wins the Labour leadership battle</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p><p></p></li></ul><p></p><p></p><p>The message from Rachel Reeves is clear. After Britain’s economy defied the predictions for a slump in March, despite the fallout from the Iran war, why put things at risk with a roll of the dice in domestic politics?</p><p>Responding to bumper <a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">growth of 0.3% in March</a> – much stronger than City economists’ forecasts for a 0.2% contraction – the chancellor said the figures showed she had the right economic plan, in a comment laced with subtext.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   }
 ]
