@@ -1,5 +1,30 @@
 [
   {
+    "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
+    "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
+    "source": "The Guardian Economics",
+    "published": "2026-05-17T07:38:45+00:00",
+    "summary": "<p>‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behind</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Tech entrepreneurs have mocked the government’s capital gains tax changes by posting AI-generated photos of Anthony Albanese as their “new founder” and warning that increased taxes could push people away from working for new businesses or send startups overseas.</p><p>Startups and entrepreneurs may yet receive a carve-out in the federal government’s <a href=\"https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-tax-reform-capital-gains-cgt-changes-negative-gearing-housing-first-time-home-buyers-investors-explained\">planned changes to the CGT discount</a>, with the prime minister saying he wanted to support innovation and the treasurer, Jim Chalmers, revealing that consultation was continuing with the sector.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8948
+  },
+  {
+    "title": "The ungovernable country? Why Britain keeps losing prime ministers",
+    "link": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+    "source": "The Guardian Economics",
+    "published": "2026-05-17T05:00:31+00:00",
+    "summary": "<p>May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?</p><p></p><p>They were times in which prime ministers seemed to be on their way out as soon as they’d arrived. The big strategic decisions the country faced were ducked or postponed. The public finances repeatedly wobbled, yet efforts to rationalise the tax system faltered in the face of vested interests, including farmers. Reforms to social security were trumpeted before being diluted. The whole business of politics was animated by rancour and rivalry, rather than practical action. All the while, populists waited in the wings.</p><p>This is not a sneak peak into a future history book about today’s Britain, but a description of the French fourth republic, which staggered after a difficult birth in 1946 until 1958, when the exhausted regime ceded the authority to create a new order to Gen Charles de Gaulle, effectively putting itself out of its misery.</p> <a href=\"https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2523
+  },
+  {
     "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
     "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -346,30 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7269
-  },
-  {
-    "title": "‘Inevitable’ jet fuel shortages will drive up air fares this summer, says Willie Walsh",
-    "link": "https://www.theguardian.com/world/2026/may/14/inevitable-jet-fuel-shortages-will-drive-up-air-fares-this-summer-says-willie-walsh",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T08:35:06+00:00",
-    "summary": "<p>Impact of disruption from Iran war may be felt into 2027 even if strait of Hormuz reopens, says aviation body boss</p><p>Increases in air fares for travellers in Europe are “inevitable” over the peak summer period because of the <a href=\"https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history\">high cost of jet fuel</a>, according to the head of the international aviation body.</p><p>While some airlines faced with weak demand have reduced their European fares recently, Willie Walsh, the former British Airways boss who leads the International Air Transport Association, said there was no way carriers could absorb the extra costs in the long run.</p> <a href=\"https://www.theguardian.com/world/2026/may/14/inevitable-jet-fuel-shortages-will-drive-up-air-fares-this-summer-says-willie-walsh\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9118
-  },
-  {
-    "title": "‘There’s a risk of another Liz Truss moment’: City raises spectre of bond market meltdown again",
-    "link": "https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T06:00:19+00:00",
-    "summary": "<p>As Keir Starmer’s leadership totters, investors warn a Labour leadership contest ignoring public finances and market realpolitik could be disastrous</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data\">UK economy records surprise 0.3% growth despite Iran war</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost\">Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’</a></p></li></ul><p></p><p><br /></p><p>A rise in borrowing costs and warnings to avoid a “Liz Truss moment”. As Keir Starmer faces a potential leadership challenge, the spectre of the bond market looms large.</p><p>Amid febrile conditions in Westminster, the prospect of Britain switching prime ministers for a sixth time in seven years has fuelled a sharp sell-off in the market for UK government debt.</p> <a href=\"https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
   }
 ]
