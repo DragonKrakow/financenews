@@ -1,9 +1,46 @@
 [
   {
+    "title": "Arm’s stock could rise another 45% as the ‘renaissance of CPUs’ takes hold, analyst says",
+    "link": "https://www.marketwatch.com/story/arms-stock-could-rise-another-45-as-the-renaissance-of-cpus-takes-hold-analyst-says-58f6d261?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T15:33:00+00:00",
+    "summary": "Arm is destined to play a starring role in the market for server CPUs, which could quadruple to $137 billion by the end of the decade, according to Bernstein.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Berkshire Hathaway has revamped its portfolio — Here's how the new stocks are trading",
+    "link": "https://www.cnbc.com/2026/05/18/berkshire-portfolio-revamp-delta-airlines-macys-unitedhealth.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-18T15:29:50+00:00",
+    "summary": "Berkshire Hathaway took a $2.6 billion stake in Delta Airlines and increased its shares in Alphabet by 224%.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover as oil price falls – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T15:25:37+00:00",
+    "summary": "<p>International Monetary Fund says ‘Staying the course on deficit reduction will be important’ for the UK, in annual assessment of the economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">IMF urges UK to ‘stay the course’ on borrowing amid Starmer uncertainty</a></p></li></ul><p><strong>The head of the International Monetary Fund has said that a sell-off in global bond markets was reflecting the impact of higher oil prices.</strong></p><p>IMF managing director <strong>Kristalina</strong> <strong>Georgieva</strong> was speaking as she arrived for a meeting of G7 finance ministers in Paris, Reuters reports.</p><p>“A combination of political turmoil and renewed gains for oil has been kryptonite for hopes of a new FTSE 100 rally.</p><p>Of course, the selling has not been confined to the UK, and continental indices are registering heavier losses as oil lurches higher once again. The market rally is rapidly coming to grips with the reality of the situation in the Middle East and in the global oil market, and it is not going to be pretty.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
     "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
     "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T09:53:00+00:00",
+    "published": "2026-05-18T15:10:00+00:00",
     "summary": "“He has not paid the last two months, and it is not court-ordered.”",
     "matched_keywords": [
       "AI"
@@ -12,17 +49,91 @@
     "sentiment_score": 0.4939
   },
   {
-    "title": "UK government borrowing costs slip back from multi-year highs as bond market rout calms – business live",
-    "link": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
+    "title": "Donald Trump’s approval rating sinks to lowest point of second term",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops",
     "source": "The Guardian Economics",
-    "published": "2026-05-18T09:52:30+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as rising oil price sours sentiment in the markets and drive up bond yields</p><p><strong>The head of the International Monetary Fund has said that a sell-off in global bond markets was reflecting the impact of higher oil prices.</strong></p><p>IMF managing director <strong>Kristalina</strong> <strong>Georgieva</strong> was speaking as she arrived for a meeting of G7 finance ministers in Paris, Reuters reports.</p><p>“A combination of political turmoil and renewed gains for oil has been kryptonite for hopes of a new FTSE 100 rally.</p><p>Of course, the selling has not been confined to the UK, and continental indices are registering heavier losses as oil lurches higher once again. The market rally is rapidly coming to grips with the reality of the situation in the Middle East and in the global oil market, and it is not going to be pretty.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Continue reading...</a>",
+    "published": "2026-05-18T14:44:27+00:00",
+    "summary": "<p>US president’s approval rating falls to 37% days after he said Americans’ financial situation is not motivating him to broker deal with Iran</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> approval rating has fallen to its lowest point of his second term, amid mounting frustration over the cost of living and the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Israel war on Iran</a>.</p><p>As November’s US midterm elections loom, most American voters believe Trump’s decision to go to war with Iran was the wrong choice, according to polling released on Monday.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9426
+  },
+  {
+    "title": "Elon Musk compares his company’s work to that of Jesus",
+    "link": "https://www.marketwatch.com/story/elon-musk-compares-his-companys-work-to-that-of-jesus-65d952e6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T14:34:00+00:00",
+    "summary": "In an interview on Monday, the billionaire said his Neuralink brain-implant company is progressing in its development of “Jesus-like technologies.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "These 10 tech stocks have been models of consistency for a decade — none are chip stocks",
+    "link": "https://www.marketwatch.com/story/these-10-tech-stocks-have-been-models-of-consistency-for-a-decade-none-are-chip-stocks-f581f75a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T14:21:00+00:00",
+    "summary": "Investors caught up in AI euphoria may need to be reminded that some industries go through slow periods.",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Trump administration backs nuclear fusion — as a company tied to Trump invests in it",
+    "link": "https://www.marketwatch.com/story/trump-administration-backs-nuclear-fusion-as-a-company-tied-to-trump-invests-in-it-7f855f39?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T14:00:00+00:00",
+    "summary": "Trump Media & Technology is set to merge with a fusion power company, as the broader fusion sector is seeing new regulations and receiving boosts from the White House.",
+    "matched_keywords": [
+      "Regulation"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
+    "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-18T13:00:01+00:00",
+    "summary": "JPMorgan’s annual summer reading list, which has become the go-to selection of beach books for the wealthy, has 14 titles this year.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Rising prices are Britons’ biggest money worry as inflation stays high, survey finds",
+    "link": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T12:37:06+00:00",
+    "summary": "<p>Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Rising prices have become the top financial concern for UK households, according to a monthly consumer confidence survey, before Wednesday’s official figures, which are likely to show inflation remaining stubbornly high.</p><p>Amid fears of higher interest rates owing to increased fuel prices after the closure of the strait of Hormuz amid the conflict in the Middle East, households have become “increasingly gloomy about their financial situation”, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "IMF urges UK to ‘stay the course’ on borrowing amid Starmer uncertainty",
+    "link": "https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T11:08:26+00:00",
+    "summary": "<p>Washington-based fund praises Rachel Reeves for aiming to cut budget deficit as it upgrades growth forecasts</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>The International Monetary Fund has urged Britain to “stay the course” to cut government borrowing amid growing bond market concerns over a Labour leadership challenge.</p><p>As Keir Starmer battles to cling on to power, the Washington-based fund said it was important to continue reducing the budget deficit “given market pressures and elevated implementation risks”.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7506
   },
   {
     "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
@@ -52,31 +163,6 @@
     "sentiment_score": -0.3182
   },
   {
-    "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T03:00:00+00:00",
-    "summary": "U.S. stock-index futures fell and crude prices rose on Sunday, after the market’s rally stalled last week as oil prices rose sharply amid the impasse in the war with Iran.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9468
-  },
-  {
-    "title": "Health officials declare Ebola outbreak a public health emergency",
-    "link": "https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T23:02:00+00:00",
-    "summary": "A rare strain of Ebola virus likely caused 80 deaths in Congo and Uganda, prompting the World Health Organization to declare a public health emergency.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
     "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
     "link": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
     "source": "The Guardian Economics",
@@ -99,18 +185,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9349
-  },
-  {
-    "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war",
-    "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T19:34:00+00:00",
-    "summary": "Walmart has said that customers start to cut spending when gas prices hit $4.50 to $5 a gallon.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
   },
   {
     "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
@@ -299,80 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9731
-  },
-  {
-    "title": "Wealth of Britain’s 157 billionaires now equal to 22% of country’s GDP",
-    "link": "https://www.theguardian.com/inequality/2026/may/15/wealth-britain-billionaires-gdp-rich-list-inequality",
-    "source": "The Guardian Economics",
-    "published": "2026-05-15T15:06:55+00:00",
-    "summary": "<p>This ‘ghost GDP’ shows how headline economic growth is increasingly disconnected from reality for most, says report</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates\">UK politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates\">Business live – latest updates</a></p></li></ul><p>The wealth of Britain’s 157 billionaires is now equivalent to more than a fifth of the country’s entire GDP, according to analysis by the Equality Trust – a fivefold increase since 1990.</p><p>The charity describes the trend, based on data in <a href=\"https://www.thetimes.com/sunday-times-rich-list\">this year’s Sunday Times rich list</a>, as Britain’s “ghost GDP”: headline economic growth increasingly disconnected from everyday life.</p> <a href=\"https://www.theguardian.com/inequality/2026/may/15/wealth-britain-billionaires-gdp-rich-list-inequality\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9705
-  },
-  {
-    "title": "From Team Reeves to Manchesterism: Labour’s four economic camps explained",
-    "link": "https://www.theguardian.com/politics/2026/may/15/rachel-reeves-manchesterism-labour-economics-wes-streeting-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-05-15T12:54:36+00:00",
-    "summary": "<p>Wes Streeting or Andy Burnham could launch a leadership bid – here are policies from which they could choose</p><p>Wes Streeting may not have launched a leadership challenge against Keir Starmer, but <a href=\"https://www.theguardian.com/politics/2026/may/14/wes-streeting-quits-cabinet-and-calls-on-starmer-to-resign\">he has called for a “battle of ideas”</a> about the government’s future direction.</p><p>When it comes to economic policy, there are (at least) four overlapping Labour camps, which have recently generated a flurry of policies from which the leadership contenders could choose. Here we run through the main ideas behind each camp.</p> <a href=\"https://www.theguardian.com/politics/2026/may/15/rachel-reeves-manchesterism-labour-economics-wes-streeting-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.009
-  },
-  {
-    "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump",
-    "link": "https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-05-15T11:00:38+00:00",
-    "summary": "<p>The president’s ultimate goal is to push the Fed – among other independent US institutions – to bend to his will</p><p><a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell,</a> who stepped down this week as chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, had his hits and misses. The Fed was late to react as prices started rising when the Covid pandemic abated, but they eventually acted forcefully and achieved the most rare of feats: a “soft landing”, curbing inflation without sparking a recession or damaging employment.</p><p>Strangely, given the chaotic era of pandemic and <a href=\"https://www.theguardian.com/business/tariffs\">tariffs</a> that coincided with Powell’s time as chair, monetary policy may not define his legacy. Powell’s most lasting accomplishment will most likely be his outspoken efforts to defend the independence of the Fed from an assault by the imperial presidency of Donald Trump.</p> <a href=\"https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9246
-  },
-  {
-    "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
-    "link": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T06:46:57+00:00",
-    "summary": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
-    "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-14T21:47:36+00:00",
-    "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
-    "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-14T18:45:00+00:00",
-    "summary": "In the letter, Dana White said that the cap is already starting to create problems for the gambling industry.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
