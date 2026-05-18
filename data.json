@@ -1,5 +1,57 @@
 [
   {
+    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T09:53:00+00:00",
+    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "UK government borrowing costs slip back from multi-year highs as bond market rout calms – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T09:52:30+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as rising oil price sours sentiment in the markets and drive up bond yields</p><p><strong>The head of the International Monetary Fund has said that a sell-off in global bond markets was reflecting the impact of higher oil prices.</strong></p><p>IMF managing director <strong>Kristalina</strong> <strong>Georgieva</strong> was speaking as she arrived for a meeting of G7 finance ministers in Paris, Reuters reports.</p><p>“A combination of political turmoil and renewed gains for oil has been kryptonite for hopes of a new FTSE 100 rally.</p><p>Of course, the selling has not been confined to the UK, and continental indices are registering heavier losses as oil lurches higher once again. The market rally is rapidly coming to grips with the reality of the situation in the Middle East and in the global oil market, and it is not going to be pretty.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
+    "link": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T08:55:24+00:00",
+    "summary": "<p>Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadership</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices rose and global bonds wobbled on Monday, as fresh tensions in the Middle East fed inflation fears and bets that central banks will have to increase interest rates.</p><p>Brent crude, the international benchmark for oil, rose on Monday, after an <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">attack on a nuclear power plant in the United Arab Emirates.</a></p> <a href=\"https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8885
+  },
+  {
+    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-18T04:58:00+00:00",
+    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
     "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate",
     "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -11,18 +63,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9468
-  },
-  {
-    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T02:11:08+00:00",
-    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   },
   {
     "title": "Health officials declare Ebola outbreak a public health emergency",
@@ -71,42 +111,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7184
-  },
-  {
-    "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
-    "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T19:10:00+00:00",
-    "summary": "Infrastructure giants such as GE Vernova and Bloom Energy are the new gatekeepers of the AI grid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "Your 3–6 months of emergency savings won’t cut it — why the job market now demands an 18-month cash cushion",
-    "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T19:08:00+00:00",
-    "summary": "Artificial intelligence will displace some jobs and replace others. Here’s how to make sure you’re on the right side of change.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T18:40:00+00:00",
-    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
   },
   {
     "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
