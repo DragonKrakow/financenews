@@ -1,5 +1,78 @@
 [
   {
+    "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T03:00:00+00:00",
+    "summary": "U.S. stock-index futures fell and crude prices rose on Sunday, after the market’s rally stalled last week as oil prices rose sharply amid the impasse in the war with Iran.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9468
+  },
+  {
+    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-18T02:11:08+00:00",
+    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "Health officials declare Ebola outbreak a public health emergency",
+    "link": "https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-17T23:02:00+00:00",
+    "summary": "A rare strain of Ebola virus likely caused 80 deaths in Congo and Uganda, prompting the World Health Organization to declare a public health emergency.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
+    "link": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
+    "source": "The Guardian Economics",
+    "published": "2026-05-17T23:01:52+00:00",
+    "summary": "<p>Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7%</p><p>The worsening fallout from the Iran war is forcing businesses to halt their UK investment and hiring plans, bosses have warned, as Britain enters a renewed period of political and economic instability.</p><p>More than two months into the US-Israeli war on Iran, leading surveys of UK employers showed companies were increasingly prioritising cost management over growth as rising costs and global uncertainty weigh on confidence.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9517
+  },
+  {
+    "title": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
+    "link": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
+    "source": "The Guardian Economics",
+    "published": "2026-05-17T21:30:49+00:00",
+    "summary": "<p>British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’</p><p>UK business leaders have warned that crime is becoming an increasingly “serious barrier” to growing Britain’s economy amid a rise in shoplifting, fraud and cyber-attacks against companies.</p><p>The British Chambers of Commerce (BCC), which represents tens of thousands of businesses across the country, called on the government to provide “a step change in the support businesses can count on” as it said two-fifths of companies had experienced some form of crime in the past year.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9349
+  },
+  {
+    "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war",
+    "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-17T19:34:00+00:00",
+    "summary": "Walmart has said that customers start to cut spending when gas prices hit $4.50 to $5 a gallon.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
+  },
+  {
     "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
     "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -36,18 +109,6 @@
     "sentiment_score": 0.4939
   },
   {
-    "title": "Health officials declare Ebola outbreak a public health emergency",
-    "link": "https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T16:52:00+00:00",
-    "summary": "A rare strain of Ebola virus likely caused 80 deaths in Congo and Uganda, prompting the World Health Organization to declare a public health emergency.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
     "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him",
     "source": "The Guardian Economics",
@@ -61,30 +122,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6459
-  },
-  {
-    "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
-    "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T15:15:00+00:00",
-    "summary": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war",
-    "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T15:00:00+00:00",
-    "summary": "Walmart has said that customers start to cut spending when gas prices hit $4.50 to $5 a gallon.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
   },
   {
     "title": "One of the market's hottest stock themes is buying everything AI can't replace",
@@ -109,18 +146,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0258
-  },
-  {
-    "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
-    "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-17T13:00:00+00:00",
-    "summary": "“When I use a credit card, tips are usually added immediately.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
   },
   {
     "title": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on | Heather Stewart",
@@ -345,30 +370,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Some short sellers are seeing opportunity in this tech mania. How they're spotting fake AI stocks",
-    "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-14T18:35:22+00:00",
-    "summary": "Hedge fund managers said the current environment — fueled by aggressive spending on AI — is creating a fertile backdrop for bearish wagers",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "The gilt market will hover over any Labour leadership contest | Nils Pratley",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest",
-    "source": "The Guardian Economics",
-    "published": "2026-05-14T17:54:01+00:00",
-    "summary": "<p>The Iran war is the bigger story – but the bond market is primed to deliver a kick if extreme positions arise from a formal race</p><p>It is a mistake to think every twitch in the price of UK government debt is caused by the latest instalment in the great Labour leadership meltdown. Waiting for Wes is not the only drama in town for your average bond vigilante. Resolution – or not – to the Iran conflict is still the bigger story.</p><p>Those vigilantes will not be ignoring events in Westminster, obviously. It’s just that there is not yet much to chew on in terms of what it means for fixed-income investors’ daily diet of expectations for inflation, interest rates, growth, borrowing and so on.</p> <a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7341
   }
 ]
