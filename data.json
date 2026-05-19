@@ -1,34 +1,36 @@
 [
   {
-    "title": "AI in focus as Standard Chartered Bank replaces ‘lower value human capital’, slashing back office workers by 15%",
-    "link": "https://www.marketwatch.com/story/ai-in-focus-as-standard-chartered-bank-replaces-lower-value-human-capital-slashing-back-office-workers-by-15-bd147174?mod=mw_rss_topstories",
+    "title": "Oil shocks have historically triggered major market selloffs. Deutsche Bank says the Iran war is missing 3 key ingredients.",
+    "link": "https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T09:26:00+00:00",
-    "summary": "The announcement of stiff job cuts at Standard Chartered reignites fears of sweeping changes in th employment market caused by automation and widespread adoption of AI to perform tasks previously the responsibility of humans.",
+    "published": "2026-05-19T15:06:00+00:00",
+    "summary": "The red flags warning of a bigger pullback for  stocks and other assets that are perceived to be riskier have not yet appeared, Deutsche Bank analysts said.",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
+    "sentiment_score": -0.8957
   },
   {
-    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+    "title": "Here are the stocks to buy — and avoid — to protect your portfolio against oil and yield shocks",
+    "link": "https://www.marketwatch.com/story/investors-are-unprotected-against-oil-and-yield-shocks-here-are-the-stocks-to-buy-and-avoid-ffed03c2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T08:13:00+00:00",
-    "summary": "“We plan to sell it to another family member for the appraised value.”",
+    "published": "2026-05-19T13:44:00+00:00",
+    "summary": "Evercore strategists say as risks build for stocks, less-protected investors need more of these “all-weather” outperforming stocks.",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
   },
   {
     "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
     "link": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
     "source": "The Guardian Economics",
     "published": "2026-05-19T07:44:06+00:00",
-    "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
+    "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in the three months to February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -46,18 +48,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9738
-  },
-  {
-    "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
-    "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T02:04:00+00:00",
-    "summary": "Tough talk from the Federal Reserve about rate hikes may be needed to ease the Treasury market’s rout.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   },
   {
     "title": "Berkshire Hathaway has revamped its portfolio — Here's how the new stocks are trading",
@@ -371,5 +361,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
+  },
+  {
+    "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
+    "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-15T16:27:26+00:00",
+    "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
   }
 ]
