@@ -1,36 +1,97 @@
 [
   {
-    "title": "Oil shocks have historically triggered major market selloffs. Deutsche Bank says the Iran war is missing 3 key ingredients.",
-    "link": "https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories",
+    "title": "Millennial-era retail was supposed to have principles. But lower prices have won out.",
+    "link": "https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T15:06:00+00:00",
-    "summary": "The red flags warning of a bigger pullback for  stocks and other assets that are perceived to be riskier have not yet appeared, Deutsche Bank analysts said.",
+    "published": "2026-05-19T19:41:00+00:00",
+    "summary": "Everlane is reportedly being sold to Shein. Depop was sold at a markdown. Allbirds is now an AI company. What’s going on in sustainable fashion?",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8957
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
   },
   {
-    "title": "Here are the stocks to buy — and avoid — to protect your portfolio against oil and yield shocks",
-    "link": "https://www.marketwatch.com/story/investors-are-unprotected-against-oil-and-yield-shocks-here-are-the-stocks-to-buy-and-avoid-ffed03c2?mod=mw_rss_topstories",
+    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T13:44:00+00:00",
-    "summary": "Evercore strategists say as risks build for stocks, less-protected investors need more of these “all-weather” outperforming stocks.",
+    "published": "2026-05-19T19:30:00+00:00",
+    "summary": "“We plan to sell it to another family member for the appraised value.”",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-19T19:02:00+00:00",
+    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Are businesses passing on higher energy costs to their customers? These Fed minutes have the answer.",
+    "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-19T19:02:00+00:00",
+    "summary": "The market is concerned about the Fed’s readiness to react to high inflation.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk",
+    "link": "https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-19T19:00:00+00:00",
+    "summary": "Tesla’s former head of artificial intelligence, Andrej Karpathy, is joining Anthropic — while his old boss, Elon Musk, ties SpaceX more tightly to the AI startup.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "Can Burnham turn ‘Manchesterism’ into a practical offer for government?",
+    "link": "https://www.theguardian.com/politics/2026/may/19/can-burnham-turn-manchesterism-into-a-practical-offer-for-government",
+    "source": "The Guardian Economics",
+    "published": "2026-05-19T18:29:30+00:00",
+    "summary": "<p>Roots of idea for ‘ending neoliberalism’ have been growing over many months – with many different influences</p><p>Manchesterism is “the end of neoliberalism”. That was the claim made by Andy Burnham in his campaign launch video this week – a film which made an audacious offer not just to his byelection constituents in Makerfield, but how he intended to change national politics and the economy.</p><p>But the 2026 doctrine of Manchesterism is very different to its 19th-century namesake, when it was a byword for free trade.</p> <a href=\"https://www.theguardian.com/politics/2026/may/19/can-burnham-turn-manchesterism-into-a-practical-offer-for-government\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7391
+  },
+  {
+    "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
+    "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-19T17:53:18+00:00",
+    "summary": "JPMorgan’s annual summer reading list, which has become the go-to selection of beach books for the wealthy, has 14 titles this year.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   },
   {
     "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
     "link": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
     "source": "The Guardian Economics",
     "published": "2026-05-19T07:44:06+00:00",
-    "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in the three months to February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
+    "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in the three months to February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -42,7 +103,7 @@
     "link": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
     "source": "The Guardian Economics",
     "published": "2026-05-19T07:07:42+00:00",
-    "summary": "<p>Rise in unemployment and weak pay growth underline how tough this year will be for UK households</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">UK unemployment unexpectedly rises to 5%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>News that the UK unemployment rate <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">jumped back to 5% in March</a> appears to be the latest evidence that the Iran war has snuffed out the economic upturn Rachel Reeves had hoped to see in 2026.</p><p>The Office for National Statistics reports that, after <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates#:~:text=UK%20unemployment%20shows%20surprise%20fall,five%20years%20%7C%20Economics%20%7C%20The%20Guardian\">an unexpected fall in the unemployment rate to 4.9% in last month’s data</a>, it ticked back up to 5% between January and March – the first set of figures affected by the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Continue reading...</a>",
+    "summary": "<p>Rise in unemployment and weak pay growth underline how tough this year will be for UK households</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">UK unemployment unexpectedly rises to 5%</a></p></li></ul><p>News that the UK unemployment rate <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">jumped back to 5% in March</a> appears to be the latest evidence that the Iran war has snuffed out the economic upturn Rachel Reeves had hoped to see in 2026.</p><p>The Office for National Statistics reports that, after <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates#:~:text=UK%20unemployment%20shows%20surprise%20fall,five%20years%20%7C%20Economics%20%7C%20The%20Guardian\">an unexpected fall in the unemployment rate to 4.9% in last month’s data</a>, it ticked back up to 5% between January and March – the first set of figures affected by the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Continue reading...</a>",
     "matched_keywords": [
       "Fed"
     ],
@@ -108,19 +169,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
-    "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T16:50:38+00:00",
-    "summary": "JPMorgan’s annual summer reading list, which has become the go-to selection of beach books for the wealthy, has 14 titles this year.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
   },
   {
     "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover after sell-off – as it happened",
@@ -324,54 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
-    "link": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T20:50:03+00:00",
-    "summary": "The Omaha-based company built a position worth more than $2.6 billion, making Delta Berkshire's 14th-largest holding at the end of March.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
-    "link": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T19:00:19+00:00",
-    "summary": "The outgoing Fed governor shares big ideas with the incoming chair.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
-    "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T17:02:06+00:00",
-    "summary": "The Roundhill Memory ETF (DRAM) just reached $10 billion in assets at the fastest pace ever for an exchange-traded fund according to TMX VettaFi.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
-    "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T16:27:26+00:00",
-    "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
   }
 ]
