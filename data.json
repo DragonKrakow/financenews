@@ -1,16 +1,63 @@
 [
   {
-    "title": "The oil market is reaching a ‘tipping point’ that could create problems for stocks, according to this Wall Street legend",
-    "link": "https://www.marketwatch.com/story/the-oil-market-is-reaching-a-tipping-point-that-could-create-problems-for-stocks-according-to-this-wall-street-legend-8e7f9d62?mod=mw_rss_topstories",
+    "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
+    "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T19:38:00+00:00",
-    "summary": "Evercore’s Roger Altman said in a CNBC interview on Monday that a sharp rise in crude could destabilize markets before it may trigger “the second big inflation shock of this decade after COVID,” especially if oil prices climb toward $150 a barrel or higher.",
+    "published": "2026-05-19T02:04:00+00:00",
+    "summary": "Tough talk from the Federal Reserve about rate hikes may be needed to ease the Treasury market’s rout.",
     "matched_keywords": [
-      "Oil",
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-19T01:01:00+00:00",
+    "summary": "“We plan to sell it to another family member for the appraised value.”",
+    "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Oil climbs as Trump warns the ‘clock is ticking’ on Iran, but there’s a bigger danger lurking on the horizon",
+    "link": "https://www.marketwatch.com/story/oil-climbs-as-trump-warns-the-clock-is-ticking-on-iran-but-theres-a-bigger-danger-lurking-on-the-horizon-9dfa8129?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T22:23:00+00:00",
+    "summary": "Oil futures climbed on Monday, getting a boost after President Donald Trump warned that the “clock is ticking” on Iran, but a loss of the buffers used to cushion supply disruptions could spark the next significant move higher for prices.",
+    "matched_keywords": [
+      "Oil"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
+    "sentiment_score": -0.7992
+  },
+  {
+    "title": "Palo Alto Networks hits a big milestone. Why cybersecurity stocks are so hot right now.",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-hits-a-big-milestone-why-cybersecurity-stocks-are-so-hot-right-now-09e1c9bb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T21:42:00+00:00",
+    "summary": "An analyst notes that investors have become more “discerning” as they look to separate AI losers from winners.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-and-most-of-its-stocks-are-heading-in-opposite-directions-at-a-record-pace-what-investors-should-know-2a6c55a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-18T21:25:00+00:00",
+    "summary": "Here are the S&amp;P 500’s  top gainers in market value this year and this quarter",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   },
   {
     "title": "Berkshire Hathaway has revamped its portfolio — Here's how the new stocks are trading",
@@ -23,43 +70,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5106
-  },
-  {
-    "title": "Kevin Warsh will be the first Fed chair sworn in at the White House in almost 40 years",
-    "link": "https://www.marketwatch.com/story/kevin-warsh-will-be-the-first-fed-chair-sworn-in-at-the-white-house-in-almost-40-years-55254337?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T19:16:00+00:00",
-    "summary": "President Donald Trump will host a swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh at the White House on Friday, a White House official said.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Elon Musk loses his case against OpenAI and Sam Altman after just two hours of jury deliberation",
-    "link": "https://www.marketwatch.com/story/elon-musk-has-lost-his-case-against-openai-and-sam-altman-b0998cff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T18:59:00+00:00",
-    "summary": "Musk intends to appeal the verdict, according to his lawyer.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
-    "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
-    "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-18T18:46:00+00:00",
-    "summary": "Tough talk from the Federal Reserve about rate hikes may be needed to ease the Treasury market’s rout.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   },
   {
     "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
@@ -153,7 +163,7 @@
     "link": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
     "source": "The Guardian Economics",
     "published": "2026-05-18T12:37:06+00:00",
-    "summary": "<p>Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Rising prices have become the top financial concern for UK households, according to a monthly consumer confidence survey, before Wednesday’s official figures, which are likely to show inflation remaining stubbornly high.</p><p>Amid fears of higher interest rates owing to increased fuel prices after the closure of the strait of Hormuz amid the conflict in the Middle East, households have become “increasingly gloomy about their financial situation”, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices\">Continue reading...</a>",
+    "summary": "<p>Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel prices</p><p>Rising prices have become the top financial concern for UK households, according to a monthly consumer confidence survey, before Wednesday’s official figures, which are likely to show inflation remaining stubbornly high.</p><p>Amid fears of higher interest rates owing to increased fuel prices after the closure of the strait of Hormuz amid the conflict in the Middle East, households have become “increasingly gloomy about their financial situation”, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -166,7 +176,7 @@
     "link": "https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham",
     "source": "The Guardian Economics",
     "published": "2026-05-18T11:08:26+00:00",
-    "summary": "<p>Washington-based fund praises Rachel Reeves for aiming to cut budget deficit as it upgrades growth forecasts</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>The International Monetary Fund has urged Britain to “stay the course” to cut government borrowing amid growing bond market concerns over a Labour leadership challenge.</p><p>As Keir Starmer battles to cling on to power, the Washington-based fund said it was important to continue reducing the budget deficit “given market pressures and elevated implementation risks”.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">Continue reading...</a>",
+    "summary": "<p>Washington-based fund praises Rachel Reeves for aiming to cut budget deficit as it upgrades growth forecasts</p><p>The International Monetary Fund has urged Britain to “stay the course” to cut government borrowing amid growing bond market concerns over a Labour leadership challenge.</p><p>As Keir Starmer battles to cling on to power, the Washington-based fund said it was important to continue reducing the budget deficit “given market pressures and elevated implementation risks”.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -361,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
-    "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-15T16:27:26+00:00",
-    "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
   }
 ]
