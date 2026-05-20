@@ -1,15 +1,150 @@
 [
   {
-    "title": "Jeff Bezos says Elon Musk’s timeline for data centers in space is ‘probably not right’",
-    "link": "https://www.marketwatch.com/story/jeff-bezos-says-elon-musks-timeline-for-data-centers-in-space-is-probably-not-right-56f32dbf?mod=mw_rss_topstories",
+    "title": "Micron’s stock gets a boost. Are Samsung’s problems helping?",
+    "link": "https://www.marketwatch.com/story/microns-stock-gets-a-boost-are-samsungs-problems-helping-e4de7e32?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T14:42:00+00:00",
-    "summary": "“Some of the timelines we hear are very short,” Bezos said of the technology core to SpaceX’s IPO, but they are a “little ambitious.”",
+    "published": "2026-05-20T20:19:00+00:00",
+    "summary": "A looming strike by Samsung workers could further tighten memory supply and boost prices, analysts said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "GameStop ups its stake in eBay after its buyout bid was rejected",
+    "link": "https://www.marketwatch.com/story/gamestop-appears-no-closer-to-taking-over-ebay-it-upped-its-stake-in-the-auction-site-anyway-e8b2d2df?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T20:15:00+00:00",
+    "summary": "EBay may have shot down GameStop’s $56 billion buyout offer this month, but the videogame retailer continues to show interest in the online auction platform.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.431
+  },
+  {
+    "title": "Fed interest-rate rate hike chances grow, minutes from Powell’s last meeting suggest",
+    "link": "https://www.marketwatch.com/story/fed-minutes-show-increased-chances-of-interest-rate-hike-e808453b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T20:01:00+00:00",
+    "summary": "Fed officials see a growing risk that inflation could stay higher for longer.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "Oil prices post biggest drop in 2 weeks, airline stocks surge on hopes the U.S.-Iran war will soon end",
+    "link": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T19:28:00+00:00",
+    "summary": "Oil futures marked their biggest one-day decline in two weeks Wednesday after President Donald Trump suggested that a deal with Iran was close, raising hopes for a resolution to the months-long stalemate in the Middle East.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Has Google lost its AI edge? How its ‘unexciting’ strategy could actually pay off.",
+    "link": "https://www.marketwatch.com/story/has-google-lost-its-ai-edge-how-its-unexciting-strategy-could-actually-pay-off-c897b81c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T19:20:00+00:00",
+    "summary": "Critics worry Google is losing ground to flashier rivals, but rapid Gemini adoption and AI-native integrations are driving monetization behind the scenes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "OpenAI could steal SpaceX IPO’s thunder, with Sam Altman filing as soon as Friday",
+    "link": "https://www.marketwatch.com/story/openai-could-steal-spacex-ipos-thunder-with-sam-altman-filing-as-soon-as-friday-6ac03c2e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T19:18:00+00:00",
+    "summary": "OpenAI CEO Sam Altman, fresh off a legal victory against Elon Musk, is reportedly gearing his company up for an initial public offering.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "‘Credit termites’ are lurking in the bond market and eating away at your portfolio",
+    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T19:12:00+00:00",
+    "summary": "Jamie Dimon was wrong about ‘cockroaches.’ Opaque AI loans and high leverage are hollowing out the economy — again.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+    "link": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T19:05:35+00:00",
+    "summary": "It comes after reports that the AI giant and ChatGPT owner is set to file confidentially for an IPO as soon as this week.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2716
+  },
+  {
+    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+    "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T19:04:09+00:00",
+    "summary": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+    "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T18:26:47+00:00",
+    "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Artificial intelligence was supposed to reduce prices. Instead AI is boosting inflation.",
+    "link": "https://www.marketwatch.com/story/artificial-intelligence-was-supposed-to-reduce-prices-instead-ai-is-boosting-inflation-d7dbec01?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T17:51:00+00:00",
+    "summary": "The upsurge in U.S. inflation, reaching a three-year high, has been fueled by rising oil prices and the residual effects of the Trump tariffs. But another thing is adding to the problem: the boom in artificial intelligence.",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5789
+  },
+  {
+    "title": "The Treasury’s supermarket food price cap wheeze was bananas | Nils Pratley",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/20/treasury-supermarket-food-price-cap",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T16:41:55+00:00",
+    "summary": "<p>Retailers such as M&amp;S need not worry – the UK is not in a state of emergency and competition is clearly working</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/20/call-for-food-price-caps-completely-preposterous-says-m-and-s-boss\">Call for food price caps ‘preposterous’, says M&amp;S boss</a></p></li></ul><p>“Completely preposterous,” <a href=\"https://www.theguardian.com/business/2026/may/20/call-for-food-price-caps-completely-preposterous-says-m-and-s-boss\">said Stuart Machin</a>, the chief executive of Marks &amp; Spencer, about the Treasury’s proposal for <a href=\"https://www.theguardian.com/business/2026/may/19/uk-supermarkets-urged-to-consider-voluntary-price-caps-on-essential-foods\">voluntary price caps on food staples</a>. He was outdone in the outrage stakes by City analyst Clive Black at Shore Capital, who thought the government “appears to be losing its mind in an orgy of neo-Soviet policy ideas”.</p><p>Both men can probably calm down. First, it’s not the first time a panicky administration, feeling the heat from cost-of-living pressures caused by rising energy costs, has flirted with the notion of limited and voluntary price caps in supermarkets. <a href=\"https://www.theguardian.com/business/2023/may/28/uk-voluntary-price-limits-basic-foods-rule-out-caps\">The last time was 2023 under the Tory premiership of Rishi Sunak</a>, who is few people’s idea of a neo-Soviet apparatchik. Second, as with Sunak’s dalliance, it’s not going to happen. Treasury ministers on Wednesday barely bothered to defend their proposal and ruled out a mandatory scheme.</p> <a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/20/treasury-supermarket-food-price-cap\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6487
   },
   {
     "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – as it happened",
@@ -22,30 +157,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8555
-  },
-  {
-    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T14:15:00+00:00",
-    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "More states are offering caregiver tax credits for families — but they only offset a fraction of expenses",
-    "link": "https://www.marketwatch.com/story/more-states-are-offering-caregiver-tax-credits-for-families-but-they-only-offset-a-fraction-of-expenses-d4a1bb0b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T14:00:00+00:00",
-    "summary": "Family caregivers often experience financial strain and career setbacks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1154
   },
   {
     "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
@@ -194,18 +305,6 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-    "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T17:18:54+00:00",
-    "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "Andy Burnham’s change in tack on fiscal rules and bond markets is understandable",
     "link": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis",
     "source": "The Guardian Economics",
@@ -267,108 +366,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
-  },
-  {
-    "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
-    "link": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T08:55:24+00:00",
-    "summary": "<p>Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadership</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices rose and global bonds wobbled on Monday, as fresh tensions in the Middle East fed inflation fears and bets that central banks will have to increase interest rates.</p><p>Brent crude, the international benchmark for oil, rose on Monday, after an <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">attack on a nuclear power plant in the United Arab Emirates.</a></p> <a href=\"https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8885
-  },
-  {
-    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T04:58:00+00:00",
-    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
-    "link": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T23:01:52+00:00",
-    "summary": "<p>Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7%</p><p>The worsening fallout from the Iran war is forcing businesses to halt their UK investment and hiring plans, bosses have warned, as Britain enters a renewed period of political and economic instability.</p><p>More than two months into the US-Israeli war on Iran, leading surveys of UK employers showed companies were increasingly prioritising cost management over growth as rising costs and global uncertainty weigh on confidence.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9517
-  },
-  {
-    "title": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
-    "link": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T21:30:49+00:00",
-    "summary": "<p>British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’</p><p>UK business leaders have warned that crime is becoming an increasingly “serious barrier” to growing Britain’s economy amid a rise in shoplifting, fraud and cyber-attacks against companies.</p><p>The British Chambers of Commerce (BCC), which represents tens of thousands of businesses across the country, called on the government to provide “a step change in the support businesses can count on” as it said two-fifths of companies had experienced some form of crime in the past year.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9349
-  },
-  {
-    "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T16:26:57+00:00",
-    "summary": "<p>Buoyed by his removal of Venezuela’s Nicolás Maduro, the US president is intensifying an economic stranglehold and military menace</p><p>While the world watched the pomp of Donald Trump’s trip to Beijing, the US was turning up the pressure thousands of miles away. Its <a href=\"https://www.theguardian.com/world/2026/may/14/cuba-us-energy-blockade-oil-fuel-petrol-runs-out\">oil blockade</a> has plunged Cuba into a humanitarian crisis, sparking nationwide blackouts that have prompted rare protests, closing schools and universities and leaving hospitals battling to treat patients. Surveillance&nbsp;flights&nbsp;are circling. US media reported this weekend that federal prosecutors <a href=\"https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump\">are preparing an indictment</a> for Raúl Castro, the 94-year-old former president and brother of Fidel. Mr&nbsp;Trump has casually observed, while bragging about the <a href=\"https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela\">kidnapping of Venezuela’s then leader</a> Nicolás&nbsp;Maduro in January, that “Cuba is next”.</p><p>A military assault on Havana would be vastly more fraught for the US – even without the war on Iran – and disastrous for Cubans. Washington hopes that <a href=\"https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans\">threats and privation</a> will be sufficient. UN experts <a href=\"https://www.ohchr.org/en/press-releases/2026/02/un-experts-condemn-us-executive-order-imposing-fuel-blockade-cuba\">warn</a> that the blockade is unlawful, puts human rights at risk and may amount to collective punishment. The government admitted on Wednesday that fuel oil <a href=\"https://www.theguardian.com/world/2026/may/14/cuba-us-energy-blockade-oil-fuel-petrol-runs-out\">had run out</a>. Tourism has collapsed. The <a href=\"https://www.ft.com/content/0b5493cd-90c4-4299-8671-c954fc7d9109?syn-25a6b1a6=1\">Canadian mining company Sherritt pulled out</a> of a joint venture and countries have <a href=\"https://www.theguardian.com/world/2026/apr/26/poorest-to-suffer-trump-drive-to-stop-cuba-sending-doctors-to-its-neighbours\">axed their contracts for Cuban doctors</a> – a vital source of income for the island, and trained medical staff for others. Havana may hope that it can stagger on. But Mr Trump is not patient.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "Mining",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6459
-  },
-  {
-    "title": "AI-related layoffs a boost for stocks? Not necessarily",
-    "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-17T13:36:59+00:00",
-    "summary": "The data underscores an uncomfortable reality.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T11:52:06+00:00",
-    "summary": "<p>The challenge of how to look after an ageing population has been ducked by politicians for too long</p><p>If a new Labour leader wants to underline their determination to wrestle with Britain’s political challenges, it is hard to think of a better place to start than with the creaking social care settlement.</p><p>A new collection of essays, to be published by the Fabian Society soon, urges the government – whoever leads it – to crack on with creating a “national care service” more closely aligned to the NHS and ensure it is properly funded.</p> <a href=\"https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9595
-  },
-  {
-    "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
-    "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T07:38:45+00:00",
-    "summary": "<p>‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behind</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Tech entrepreneurs have mocked the government’s capital gains tax changes by posting AI-generated photos of Anthony Albanese as their “new founder” and warning that increased taxes could push people away from working for new businesses or send startups overseas.</p><p>Startups and entrepreneurs may yet receive a carve-out in the federal government’s <a href=\"https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-tax-reform-capital-gains-cgt-changes-negative-gearing-housing-first-time-home-buyers-investors-explained\">planned changes to the CGT discount</a>, with the prime minister saying he wanted to support innovation and the treasurer, Jim Chalmers, revealing that consultation was continuing with the sector.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8948
   }
 ]
