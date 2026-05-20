@@ -1,15 +1,51 @@
 [
   {
-    "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – business live",
+    "title": "Jeff Bezos says Elon Musk’s timeline for data centers in space is ‘probably not right’",
+    "link": "https://www.marketwatch.com/story/jeff-bezos-says-elon-musks-timeline-for-data-centers-in-space-is-probably-not-right-56f32dbf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T14:42:00+00:00",
+    "summary": "“Some of the timelines we hear are very short,” Bezos said of the technology core to SpaceX’s IPO, but they are a “little ambitious.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-05-20T09:34:08+00:00",
+    "published": "2026-05-20T14:40:35+00:00",
     "summary": "<p>Food inflation slows to 3%, led by meat and chocolate; prices of computer game downloads drop sharply; economists say benign inflation data reduces chances of June rate hike</p><p>Stamp duty should be scrapped and replaced with a new property wealth tax to fix London’s housing crisis, a leading thinktank has proposed.</p><p>A report on the capital’s property market suggests an annual tax to replace the levy paid when buying a property and council tax would encourage downsizing and raise funds for social housing. It would also help renters to save a house deposit.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8555
+  },
+  {
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T14:15:00+00:00",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "More states are offering caregiver tax credits for families — but they only offset a fraction of expenses",
+    "link": "https://www.marketwatch.com/story/more-states-are-offering-caregiver-tax-credits-for-families-but-they-only-offset-a-fraction-of-expenses-d4a1bb0b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T14:00:00+00:00",
+    "summary": "Family caregivers often experience financial strain and career setbacks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1154
   },
   {
     "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
@@ -58,31 +94,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk",
-    "link": "https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T01:11:00+00:00",
-    "summary": "Tesla’s former head of artificial intelligence, Andrej Karpathy, is joining Anthropic — while his old boss, Elon Musk, ties SpaceX more tightly to the AI startup.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
-  },
-  {
-    "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
-    "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T23:56:00+00:00",
-    "summary": "The market is concerned about the Fed’s readiness to react to high inflation.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
   },
   {
     "title": "Fed to hike? When traders see a rate increase coming",
@@ -359,17 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8948
-  },
-  {
-    "title": "The ungovernable country? Why Britain keeps losing prime ministers",
-    "link": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
-    "source": "The Guardian Economics",
-    "published": "2026-05-17T05:00:31+00:00",
-    "summary": "<p>May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?</p><p></p><p>They were times in which prime ministers seemed to be on their way out as soon as they’d arrived. The big strategic decisions the country faced were ducked or postponed. The public finances repeatedly wobbled, yet efforts to rationalise the tax system faltered in the face of vested interests, including farmers. Reforms to social security were trumpeted before being diluted. The whole business of politics was animated by rancour and rivalry, rather than practical action. All the while, populists waited in the wings.</p><p>This is not a sneak peak into a future history book about today’s Britain, but a description of the French fourth republic, which staggered after a difficult birth in 1946 until 1958, when the exhausted regime ceded the authority to create a new order to Gen Charles de Gaulle, effectively putting itself out of its misery.</p> <a href=\"https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2523
   }
 ]
