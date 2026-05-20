@@ -1,15 +1,63 @@
 [
   {
+    "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T09:34:08+00:00",
+    "summary": "<p>Food inflation slows to 3%, led by meat and chocolate; prices of computer game downloads drop sharply; economists say benign inflation data reduces chances of June rate hike</p><p>Stamp duty should be scrapped and replaced with a new property wealth tax to fix London’s housing crisis, a leading thinktank has proposed.</p><p>A report on the capital’s property market suggests an annual tax to replace the levy paid when buying a property and council tax would encourage downsizing and raise funds for social housing. It would also help renters to save a house deposit.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8555
+  },
+  {
+    "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
+    "link": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T09:25:32+00:00",
+    "summary": "<p>‘China has already eaten much of German industry’s lunch and is preparing to start on dinner,’ thinktank says</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Germany must stop admiring China’s success in the EU or it will sleepwalk into the kind of deindustrialisation the US experienced 25 years ago, a leading Brussels thinktank has said.</p><p>With China’s surplus with Germany having doubled between 2024 and 2025 from $12bn (£9bn) to $25bn, creating a $94bn trade imbalance, the Centre for European Reform (CER) said Europe’s largest economy risked a repeat of what happened in the US in 2001 when a sudden surge in imports permanently hollowed out towns in the American midwest.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
     "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
     "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
     "source": "CNBC Finance",
-    "published": "2026-05-20T03:30:01+00:00",
+    "published": "2026-05-20T07:00:48+00:00",
     "summary": "Alibaba announced updates to its AI offerings, including a more powerful chip and a new large language model.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.734
+  },
+  {
+    "title": "UK inflation slows to 2.8% as energy price cap softens impact of rising fuel costs",
+    "link": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T06:01:29+00:00",
+    "summary": "<p>Lower than expected April annual rate a lift for Rachel Reeves as impact of Iran war yet to fully hit households</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation slowed to 2.8% in April, the lowest rate in more than a year, as a reduction in the household energy price cap helped soften the sharp rise in fuel costs since the start of the Iran war.</p><p>The Office for National Statistics (ONS) said the consumer prices index measure of inflation eased from March’s reading of 3.3%, suggesting the impact of the Iran war has not yet hit UK households as much as feared, despite prices at the pumps rising at the fastest rate in nearly four years.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8481
+  },
+  {
+    "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+    "link": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T05:22:20+00:00",
+    "summary": "China has agreed to buy 200 Boeing jets, its first major order in nearly a decade, U.S. President Donald Trump said last week.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk",
@@ -37,19 +85,6 @@
     "sentiment_score": 0.4767
   },
   {
-    "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
-    "link": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T22:31:00+00:00",
-    "summary": "Drivers are in a jam. But skipping and delaying maintenance may mean bigger repairs later.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
     "title": "Fed to hike? When traders see a rate increase coming",
     "link": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
     "source": "CNBC Finance",
@@ -60,18 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6486
-  },
-  {
-    "title": "Here’s why Astera Labs’ stock just staged a big gain",
-    "link": "https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T21:31:00+00:00",
-    "summary": "Investors seemed pleased by the connectivity company’s firm timeline for a new switch and its talk of revenue opportunities in optical networking.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.836
   },
   {
     "title": "Can Burnham turn ‘Manchesterism’ into a practical offer for government?",
@@ -348,30 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2523
-  },
-  {
-    "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
-    "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-16T13:41:29+00:00",
-    "summary": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-    "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-16T09:54:15+00:00",
-    "summary": "Bill Ackman's Pershing Square Capital Management has built a position in Microsoft, the billionaire hedge fund manager said Friday in a post on X.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   }
 ]
