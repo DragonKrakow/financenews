@@ -1,45 +1,34 @@
 [
   {
-    "title": "Millennial-era retail was supposed to have principles. But lower prices have won out.",
-    "link": "https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T19:41:00+00:00",
-    "summary": "Everlane is reportedly being sold to Shein. Depop was sold at a markdown. Allbirds is now an AI company. What’s going on in sustainable fashion?",
+    "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
+    "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T03:30:01+00:00",
+    "summary": "Alibaba announced updates to its AI offerings, including a more powerful chip and a new large language model.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5023
+    "sentiment_score": 0.734
   },
   {
-    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+    "title": "Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk",
+    "link": "https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T19:30:00+00:00",
-    "summary": "“We plan to sell it to another family member for the appraised value.”",
+    "published": "2026-05-20T01:11:00+00:00",
+    "summary": "Tesla’s former head of artificial intelligence, Andrej Karpathy, is joining Anthropic — while his old boss, Elon Musk, ties SpaceX more tightly to the AI startup.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-    "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T19:02:00+00:00",
-    "summary": "“He has not paid the last two months, and it is not court-ordered.”",
-    "matched_keywords": [
-      "AI"
+      "AI",
+      "Artificial Intelligence"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
+    "sentiment_score": 0.7717
   },
   {
-    "title": "Are businesses passing on higher energy costs to their customers? These Fed minutes have the answer.",
+    "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
     "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T19:02:00+00:00",
+    "published": "2026-05-19T23:56:00+00:00",
     "summary": "The market is concerned about the Fed’s readiness to react to high inflation.",
     "matched_keywords": [
       "Fed"
@@ -48,17 +37,41 @@
     "sentiment_score": 0.4767
   },
   {
-    "title": "Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk",
-    "link": "https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories",
+    "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
+    "link": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-19T19:00:00+00:00",
-    "summary": "Tesla’s former head of artificial intelligence, Andrej Karpathy, is joining Anthropic — while his old boss, Elon Musk, ties SpaceX more tightly to the AI startup.",
+    "published": "2026-05-19T22:31:00+00:00",
+    "summary": "Drivers are in a jam. But skipping and delaying maintenance may mean bigger repairs later.",
     "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Fed to hike? When traders see a rate increase coming",
+    "link": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-19T21:51:22+00:00",
+    "summary": "Traders on prediction market platforms see increasing odds that an interest rate hike from the central bank comes by July 2027.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Here’s why Astera Labs’ stock just staged a big gain",
+    "link": "https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-19T21:31:00+00:00",
+    "summary": "Investors seemed pleased by the connectivity company’s firm timeline for a new switch and its talk of revenue opportunities in optical networking.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.836
   },
   {
     "title": "Can Burnham turn ‘Manchesterism’ into a practical offer for government?",
@@ -360,17 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-    "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-16T08:26:02+00:00",
-    "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
