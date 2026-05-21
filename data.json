@@ -1,16 +1,127 @@
 [
   {
-    "title": "As Iran war drags on, this is how quickly global oil stocks are being depleted — and travel season is starting soon",
+    "title": "This hack can save you hundreds on airfare this summer",
+    "link": "https://www.marketwatch.com/story/this-hack-can-save-you-hundreds-on-airfare-this-summer-d083bd2f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T15:30:00+00:00",
+    "summary": "Plus: AI prompts to plan your next vacation — and why “trip stacking” is trending.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Bryant says there was ‘absolutely nothing’ in Andrew documents to suggest ministers knew of his friendship with Epstein – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-21T15:14:31+00:00",
+    "summary": "<p>Chris Bryant gives statement to parliament following the release of documents today</p><p>The <strong>Home Office </strong>has also published <a href=\"https://www.gov.uk/government/collections/immigration-statistics-quarterly-release\">asylum figures</a> this morning. These show that the number of asylum seekers being housed temporarily in hotels stood at 20,885 at the end of March 2026, down 35% year-on-year from 32,326. The Press Association says:</p><p>It is the lowest figure since data was first reported in 2022, Home Office figures show.</p><p>The total had climbed as high as 56,018 at the end of September 2023.</p><p>Brits are leaving on a massive scale and non-EU immigration remains far too high. Mass immigration undermines our society and low wage immigration is bad for the economy. British families feel it in lower wages, longer waiting lists for public services and housing shortages.</p><p>Labour must go further and reform indefinite leave to remain before their hard-left flank forces them to abandon it altogether.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8934
+  },
+  {
+    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T15:05:00+00:00",
+    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+    "matched_keywords": [
+      "Trade War",
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7684
+  },
+  {
+    "title": "U.S. economy is showing the strain from Iran war as nearly 3-month conflict drags on",
+    "link": "https://www.marketwatch.com/story/u-s-economy-is-showing-the-strain-from-iran-war-as-nearly-3-month-conflict-drags-on-4c7ca22d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T15:01:00+00:00",
+    "summary": "The U.S. economy is showing the strain of the nearly three-month old conflict with Iran, new S&amp;P surveys showed. Another flareup in inflation has raised business costs and pared customer demand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8779
+  },
+  {
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T15:00:00+00:00",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "I’m 66 and have $85,000 in my HSA. Should I spend it all by a certain age?",
+    "link": "https://www.marketwatch.com/story/im-66-and-have-85-000-in-my-hsa-should-i-spend-it-all-by-a-certain-age-66939bd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T14:36:00+00:00",
+    "summary": "Most people don’t save in an HSA, so there’s little consensus on when to start drawing down the funds.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6771
+  },
+  {
+    "title": "Oil prices jump as crude stockpiles are being quickly depleted — and travel season starts Memorial Day weekend",
     "link": "https://www.marketwatch.com/story/as-iran-war-drags-on-this-is-how-quickly-global-oil-stocks-are-being-depleted-and-travel-season-is-starting-soon-c6948319?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T09:39:00+00:00",
+    "published": "2026-05-21T14:06:00+00:00",
     "summary": "Physical supplies of oil through the Strait of Hormuz are 95% below regular levels.",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Britain’s politicians need to worry less about the bond markets – and more about the Bank of England | Daniela Gabor",
+    "link": "https://www.theguardian.com/commentisfree/2026/may/21/politicians-bond-vigilantes-markets-gilts-bank-of-england",
+    "source": "The Guardian Economics",
+    "published": "2026-05-21T12:45:44+00:00",
+    "summary": "<p>A new model of central banking would weaken the power of bond vigilantes – and help progressive politicians pay for transformative change</p><ul><li><p>Daniela Gabor is professor of economics and macrofinance at Soas, University of London</p></li></ul><p>A spectre is haunting British politics: the bond markets.</p><p>Defending Keir Starmer after the disastrous local election results earlier this month, the chancellor, Rachel Reeves, warned that a leadership contest would trigger the wrath of those investors who lend the state money by buying and selling UK government bonds (also known as gilts). The prospect of Andy Burnham winning that contest prompted shriller warnings: the left-leaning contender, after all, had dared to suggest governments should stop “being in hock” to the bond markets.</p><p>Daniela Gabor is professor of economics at Soas, University of London</p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/21/politicians-bond-vigilantes-markets-gilts-bank-of-england\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8316
+  },
+  {
+    "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+    "link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-21T12:16:28+00:00",
+    "summary": "SpaceX's blockbuster public offering is giving everyday traders access that has traditionally been reserved for Wall Street's biggest clients.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.743
+  },
+  {
+    "title": "UK service sector activity slumps in one of sharpest declines for a decade",
+    "link": "https://www.theguardian.com/business/2026/may/21/uk-service-sector-activity-slumps-in-one-of-sharpest-declines-for-a-decade",
+    "source": "The Guardian Economics",
+    "published": "2026-05-21T11:55:49+00:00",
+    "summary": "<p>Firms hit by ‘perfect storm’ of uncertainty about Labour leadership and impact of Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/21/nvidia-beats-wall-street-ai-chip-boom-asia-tech-stocks-business-live-news\">Business live – latest updates</a></p></li></ul><p>Companies in the UK’s dominant services sector have reported one of the sharpest declines in business activity in a decade, according to a closely watched index.</p><p>Businesses are grappling with a “perfect storm” of domestic political uncertainty around Keir Starmer’s leadership as prime minister and the growing impact of the Iran war, leading to soaring costs, supply shortages and job cuts, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/21/uk-service-sector-activity-slumps-in-one-of-sharpest-declines-for-a-decade\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8689
   },
   {
     "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
@@ -25,18 +136,6 @@
     "sentiment_score": -0.0258
   },
   {
-    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
-    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T01:55:00+00:00",
-    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2104
-  },
-  {
     "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
     "link": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
     "source": "The Guardian Economics",
@@ -49,23 +148,11 @@
     "sentiment_score": 0.1027
   },
   {
-    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T22:36:00+00:00",
-    "summary": "“We plan to sell it to another family member for the appraised value.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
     "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
     "link": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
     "source": "The Guardian Economics",
     "published": "2026-05-20T21:30:52+00:00",
-    "summary": "<p>Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increase</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/20/planned-fuel-duty-rise-to-be-scrapped-says-keir-starmer\">Planned fuel duty rise to be scrapped, says Keir Starmer</a></p></li></ul><p>Rachel Reeves is to promise free summer bus rides for children and cut tariffs on some food imports, as part of a package of measures aimed at easing the costs of the Iran conflict.</p><p>The chancellor will give a statement in the House of Commons on Thursday, outlining her latest plans for cushioning the blow to consumers from an expected rise in inflation later this year.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty\">Continue reading...</a>",
+    "summary": "<p>Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increase</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/20/planned-fuel-duty-rise-to-be-scrapped-says-keir-starmer\">Planned fuel duty rise to be scrapped, says Keir Starmer</a></p></li></ul><p>Rachel Reeves is to promise free summer bus rides for children in England and cut tariffs on some food imports, as part of a package of measures aimed at easing the costs of the Iran conflict.</p><p>The chancellor will give a statement in the House of Commons on Thursday, outlining her latest plans for cushioning the blow to consumers from an expected rise in inflation later this year.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -277,95 +364,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Andy Burnham’s change in tack on fiscal rules and bond markets is understandable",
-    "link": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T16:58:37+00:00",
-    "summary": "<p>Bookies’ favourite to replace Keir Starmer tones down stance on government borrowing to assuage City investors</p><p>Andy Burnham has always faced a narrow path to replace Keir Starmer as prime minister: a tricky byelection, a leadership contest that is yet to be declared, and a far from constructive bond market backdrop.</p><p>In making his pitch, assuaging City investors in particular has led the Greater Manchester mayor to dance on a pin.</p> <a href=\"https://www.theguardian.com/politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover after sell-off – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T15:43:42+00:00",
-    "summary": "<p>International Monetary Fund says ‘Staying the course on deficit reduction will be important’ for the UK, in annual assessment of the economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">IMF urges UK to ‘stay the course’ on borrowing amid Starmer uncertainty</a></p></li></ul><p><strong>The head of the International Monetary Fund has said that a sell-off in global bond markets was reflecting the impact of higher oil prices.</strong></p><p>IMF managing director <strong>Kristalina</strong> <strong>Georgieva</strong> was speaking as she arrived for a meeting of G7 finance ministers in Paris, Reuters reports.</p><p>“A combination of political turmoil and renewed gains for oil has been kryptonite for hopes of a new FTSE 100 rally.</p><p>Of course, the selling has not been confined to the UK, and continental indices are registering heavier losses as oil lurches higher once again. The market rally is rapidly coming to grips with the reality of the situation in the Middle East and in the global oil market, and it is not going to be pretty.”</p> <a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Donald Trump’s approval rating sinks to lowest point of second term",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T14:44:27+00:00",
-    "summary": "<p>US president’s approval rating falls to 37% days after he said Americans’ financial situation is not motivating him to broker deal with Iran</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> approval rating has fallen to its lowest point of his second term, amid mounting frustration over the cost of living and the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Israel war on Iran</a>.</p><p>As November’s <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">US midterm elections</a> loom, most American voters believe Trump’s decision to go to war with Iran was the wrong choice, according to polling released on Monday.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9426
-  },
-  {
-    "title": "Rising prices are Britons’ biggest money worry as inflation stays high, survey finds",
-    "link": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T12:37:06+00:00",
-    "summary": "<p>Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel prices</p><p>Rising prices have become the top financial concern for UK households, according to a monthly consumer confidence survey, before Wednesday’s official figures, which are likely to show inflation remaining stubbornly high.</p><p>Amid fears of higher interest rates owing to increased fuel prices after the closure of the strait of Hormuz amid the conflict in the Middle East, households have become “increasingly gloomy about their financial situation”, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "IMF urges UK to ‘stay the course’ on borrowing amid Starmer uncertainty",
-    "link": "https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T11:08:26+00:00",
-    "summary": "<p>Washington-based fund praises Rachel Reeves for aiming to cut budget deficit as it upgrades growth forecasts</p><p>The International Monetary Fund has urged Britain to “stay the course” to cut government borrowing amid growing bond market concerns over a Labour leadership challenge.</p><p>As Keir Starmer battles to cling on to power, the Washington-based fund said it was important to continue reducing the budget deficit “given market pressures and elevated implementation risks”.</p> <a href=\"https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
-  },
-  {
-    "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
-    "link": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-05-18T08:55:24+00:00",
-    "summary": "<p>Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadership</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices rose and global bonds wobbled on Monday, as fresh tensions in the Middle East fed inflation fears and bets that central banks will have to increase interest rates.</p><p>Brent crude, the international benchmark for oil, rose on Monday, after an <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">attack on a nuclear power plant in the United Arab Emirates.</a></p> <a href=\"https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8885
-  },
-  {
-    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T04:58:00+00:00",
-    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   }
 ]
