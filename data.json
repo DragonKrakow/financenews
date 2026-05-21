@@ -1,5 +1,30 @@
 [
   {
+    "title": "As Iran war drags on, this is how quickly global oil stocks are being depleted — and travel season is starting soon",
+    "link": "https://www.marketwatch.com/story/as-iran-war-drags-on-this-is-how-quickly-global-oil-stocks-are-being-depleted-and-travel-season-is-starting-soon-c6948319?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-21T09:39:00+00:00",
+    "summary": "Physical supplies of oil through the Strait of Hormuz are 95% below regular levels.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
+    "link": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
+    "source": "The Guardian Economics",
+    "published": "2026-05-21T06:00:04+00:00",
+    "summary": "<p>Ban social media and reform education to tackle scandal of young people not in work or study, says Peter Hyman</p><p>Schools have become a “pipeline” to worklessness for a large cohort of young people in the UK, according to an influential former Labour adviser who has called for urgent action to help a “lost generation”.</p><p>Peter Hyman, a former adviser to Tony Blair and Keir Starmer, told the Guardian the government should ban social media and enact radical education reform to tackle the “national scandal” of young people who are not in education, employment or training (Neet).</p> <a href=\"https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
     "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
     "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,30 +59,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0516
-  },
-  {
-    "title": "The ‘stunning’ end to Trump’s case against the IRS raises tax-law questions that will be analyzed for years",
-    "link": "https://www.marketwatch.com/story/the-stunning-end-to-trumps-case-against-the-irs-raises-tax-law-questions-that-will-be-analyzed-for-years-abe2bf79?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T22:24:00+00:00",
-    "summary": "$1.776 billion fund and audit ban raise many new questions for Trump and the IRS",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
-    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T21:56:00+00:00",
-    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
