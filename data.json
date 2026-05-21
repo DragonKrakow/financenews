@@ -1,88 +1,75 @@
 [
   {
-    "title": "Micron’s stock gets a boost. Are Samsung’s problems helping?",
-    "link": "https://www.marketwatch.com/story/microns-stock-gets-a-boost-are-samsungs-problems-helping-e4de7e32?mod=mw_rss_topstories",
+    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
+    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T20:19:00+00:00",
-    "summary": "A looming strike by Samsung workers could further tighten memory supply and boost prices, analysts said.",
+    "published": "2026-05-21T01:55:00+00:00",
+    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2104
   },
   {
-    "title": "GameStop ups its stake in eBay after its buyout bid was rejected",
-    "link": "https://www.marketwatch.com/story/gamestop-appears-no-closer-to-taking-over-ebay-it-upped-its-stake-in-the-auction-site-anyway-e8b2d2df?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T20:15:00+00:00",
-    "summary": "EBay may have shot down GameStop’s $56 billion buyout offer this month, but the videogame retailer continues to show interest in the online auction platform.",
+    "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
+    "link": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T23:01:54+00:00",
+    "summary": "<p>City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds </p><p>Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a report, as Andy Burnham stakes a claim that he could replicate the city’s revival nationwide.</p><p>As the <a href=\"https://www.theguardian.com/politics/andyburnham\">frontrunner to replace Keir Starmer</a>, the Greater Manchester mayor has placed the city’s economic performance at the heart of his campaign, describing “Manchesterism” as a political philosophy for a more interventionist approach to the economy.</p> <a href=\"https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.431
-  },
-  {
-    "title": "Fed interest-rate rate hike chances grow, minutes from Powell’s last meeting suggest",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-increased-chances-of-interest-rate-hike-e808453b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T20:01:00+00:00",
-    "summary": "Fed officials see a growing risk that inflation could stay higher for longer.",
-    "matched_keywords": [
-      "Fed"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
   },
   {
-    "title": "Oil prices post biggest drop in 2 weeks, airline stocks surge on hopes the U.S.-Iran war will soon end",
-    "link": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
+    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T19:28:00+00:00",
-    "summary": "Oil futures marked their biggest one-day decline in two weeks Wednesday after President Donald Trump suggested that a deal with Iran was close, raising hopes for a resolution to the months-long stalemate in the Middle East.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Has Google lost its AI edge? How its ‘unexciting’ strategy could actually pay off.",
-    "link": "https://www.marketwatch.com/story/has-google-lost-its-ai-edge-how-its-unexciting-strategy-could-actually-pay-off-c897b81c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T19:20:00+00:00",
-    "summary": "Critics worry Google is losing ground to flashier rivals, but rapid Gemini adoption and AI-native integrations are driving monetization behind the scenes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
-  },
-  {
-    "title": "OpenAI could steal SpaceX IPO’s thunder, with Sam Altman filing as soon as Friday",
-    "link": "https://www.marketwatch.com/story/openai-could-steal-spacex-ipos-thunder-with-sam-altman-filing-as-soon-as-friday-6ac03c2e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T19:18:00+00:00",
-    "summary": "OpenAI CEO Sam Altman, fresh off a legal victory against Elon Musk, is reportedly gearing his company up for an initial public offering.",
+    "published": "2026-05-20T22:36:00+00:00",
+    "summary": "“We plan to sell it to another family member for the appraised value.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_score": 0.0516
   },
   {
-    "title": "‘Credit termites’ are lurking in the bond market and eating away at your portfolio",
-    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
+    "title": "The ‘stunning’ end to Trump’s case against the IRS raises tax-law questions that will be analyzed for years",
+    "link": "https://www.marketwatch.com/story/the-stunning-end-to-trumps-case-against-the-irs-raises-tax-law-questions-that-will-be-analyzed-for-years-abe2bf79?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T19:12:00+00:00",
-    "summary": "Jamie Dimon was wrong about ‘cockroaches.’ Opaque AI loans and high leverage are hollowing out the economy — again.",
+    "published": "2026-05-20T22:24:00+00:00",
+    "summary": "$1.776 billion fund and audit ban raise many new questions for Trump and the IRS",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5574
+  },
+  {
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-20T21:56:00+00:00",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
+    "link": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T21:30:52+00:00",
+    "summary": "<p>Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increase</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/20/planned-fuel-duty-rise-to-be-scrapped-says-keir-starmer\">Planned fuel duty rise to be scrapped, says Keir Starmer</a></p></li></ul><p>Rachel Reeves is to promise free summer bus rides for children and cut tariffs on some food imports, as part of a package of measures aimed at easing the costs of the Iran conflict.</p><p>The chancellor will give a statement in the House of Commons on Thursday, outlining her latest plans for cushioning the blow to consumers from an expected rise in inflation later this year.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
   },
   {
     "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
@@ -119,20 +106,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Artificial intelligence was supposed to reduce prices. Instead AI is boosting inflation.",
-    "link": "https://www.marketwatch.com/story/artificial-intelligence-was-supposed-to-reduce-prices-instead-ai-is-boosting-inflation-d7dbec01?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-20T17:51:00+00:00",
-    "summary": "The upsurge in U.S. inflation, reaching a three-year high, has been fueled by rising oil prices and the residual effects of the Trump tariffs. But another thing is adding to the problem: the boom in artificial intelligence.",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5789
   },
   {
     "title": "The Treasury’s supermarket food price cap wheeze was bananas | Nils Pratley",
@@ -366,5 +339,32 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
+  },
+  {
+    "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
+    "link": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
+    "source": "The Guardian Economics",
+    "published": "2026-05-18T08:55:24+00:00",
+    "summary": "<p>Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadership</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices rose and global bonds wobbled on Monday, as fresh tensions in the Middle East fed inflation fears and bets that central banks will have to increase interest rates.</p><p>Brent crude, the international benchmark for oil, rose on Monday, after an <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">attack on a nuclear power plant in the United Arab Emirates.</a></p> <a href=\"https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8885
+  },
+  {
+    "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+    "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-18T04:58:00+00:00",
+    "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   }
 ]
