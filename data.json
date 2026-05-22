@@ -1,9 +1,45 @@
 [
   {
+    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T09:15:00+00:00",
+    "summary": "“Others say she should start at full retirement age.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Real estate mogul Mauricio Umansky says ‘Reaganomics’ is the answer to housing affordability problem",
+    "link": "https://www.marketwatch.com/story/real-estate-mogul-mauricio-umansky-says-reaganomics-is-the-answer-to-housing-affordability-problem-233fc12d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T09:01:00+00:00",
+    "summary": "Umansky isn’t sold on California’s proposed billionaire tax—warning that the initiative is shortsighted, and could end up doing more harm than good.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5154
+  },
+  {
+    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
+    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
+    "source": "The Guardian Economics",
+    "published": "2026-05-22T08:55:17+00:00",
+    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/22/uk-borrowing-higher-retail-sales-drivers-fuel-business-live-news\">Business live – latest updates</a></p></li></ul><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, amid concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "China calls for APEC cooperation as commerce minister skips opening over ‘urgent official business’",
     "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
     "source": "CNBC Finance",
-    "published": "2026-05-22T02:46:09+00:00",
+    "published": "2026-05-22T07:14:13+00:00",
     "summary": "China's international trade representative Li Chenggang said he was chairing Friday's meeting as Commerce Minister Wang Wentao had urgent matters to attend to.",
     "matched_keywords": [
       "AI"
@@ -51,30 +87,6 @@
     "sentiment_score": -0.7684
   },
   {
-    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T22:00:00+00:00",
-    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "People are putting less gas in their tanks as high prices crimp budgets, Walmart says",
-    "link": "https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T21:24:00+00:00",
-    "summary": "“That’s an indication of stress,” Walmart’s CFO said, as Wall Street looks for signs of the Iran war’s impact on consumers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
     "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
     "source": "CNBC Finance",
@@ -116,7 +128,7 @@
     "link": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
     "source": "The Guardian Economics",
     "published": "2026-05-21T16:02:24+00:00",
-    "summary": "<p>Prime minister tells reporters reporters he would campaign personally in the contest</p><p>The <strong>Home Office </strong>has also published <a href=\"https://www.gov.uk/government/collections/immigration-statistics-quarterly-release\">asylum figures</a> this morning. These show that the number of asylum seekers being housed temporarily in hotels stood at 20,885 at the end of March 2026, down 35% year-on-year from 32,326. The Press Association says:</p><p>It is the lowest figure since data was first reported in 2022, Home Office figures show.</p><p>The total had climbed as high as 56,018 at the end of September 2023.</p><p>Brits are leaving on a massive scale and non-EU immigration remains far too high. Mass immigration undermines our society and low wage immigration is bad for the economy. British families feel it in lower wages, longer waiting lists for public services and housing shortages.</p><p>Labour must go further and reform indefinite leave to remain before their hard-left flank forces them to abandon it altogether.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates\">Continue reading...</a>",
+    "summary": "<p>Prime minister tells reporters he would campaign personally in the contest</p><p>The <strong>Home Office </strong>has also published <a href=\"https://www.gov.uk/government/collections/immigration-statistics-quarterly-release\">asylum figures</a> this morning. These show that the number of asylum seekers being housed temporarily in hotels stood at 20,885 at the end of March 2026, down 35% year-on-year from 32,326. The Press Association says:</p><p>It is the lowest figure since data was first reported in 2022, Home Office figures show.</p><p>The total had climbed as high as 56,018 at the end of September 2023.</p><p>Brits are leaving on a massive scale and non-EU immigration remains far too high. Mass immigration undermines our society and low wage immigration is bad for the economy. British families feel it in lower wages, longer waiting lists for public services and housing shortages.</p><p>Labour must go further and reform indefinite leave to remain before their hard-left flank forces them to abandon it altogether.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
@@ -354,17 +366,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9738
-  },
-  {
-    "title": "Berkshire Hathaway has revamped its portfolio — Here's how the new stocks are trading",
-    "link": "https://www.cnbc.com/2026/05/18/berkshire-portfolio-revamp-delta-airlines-macys-unitedhealth.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-18T19:18:13+00:00",
-    "summary": "Berkshire Hathaway took a $2.6 billion stake in Delta Airlines and increased its shares in Alphabet by 224%.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
   }
 ]
