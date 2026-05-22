@@ -1,23 +1,22 @@
 [
   {
-    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
-    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+    "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+    "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T14:40:00+00:00",
-    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+    "published": "2026-05-22T19:40:00+00:00",
+    "summary": "There’s a new warning from the commodity market about the risks of a delayed reopening of the Strait of Hormuz.",
     "matched_keywords": [
-      "Trade War",
-      "Chips",
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7684
+    "sentiment_score": -0.6597
   },
   {
     "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
     "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T14:15:00+00:00",
+    "published": "2026-05-22T19:15:00+00:00",
     "summary": "“Others say she should start at full retirement age.”",
     "matched_keywords": [
       "AI"
@@ -26,40 +25,41 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "BJ’s Wholesale’s earnings show that cheap gas matters for people",
-    "link": "https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T13:51:00+00:00",
-    "summary": "Consumers are increasingly feeling the pressure of stubbornly high inflation, particularly as the continuation of the Iran war has kept oil and gas prices at historically high levels.",
+    "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+    "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-22T18:23:49+00:00",
+    "summary": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene.",
     "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T17:58:00+00:00",
+    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
+    "matched_keywords": [
+      "Fed",
       "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7845
+    "sentiment_score": -0.7269
   },
   {
-    "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback",
-    "link": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a?mod=mw_rss_topstories",
+    "title": "This bond strategy can protect your portfolio even if interest rates go up",
+    "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T13:30:00+00:00",
-    "summary": "Materials, tech and energy sectors offer an attractive hedging opportunity",
+    "published": "2026-05-22T17:11:00+00:00",
+    "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
     "matched_keywords": [
-      "Gold"
+      "Interest Rates"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8957
-  },
-  {
-    "title": "Nvidia spent $18.6 billion on venture investments in 3 months. Where does the cash trail go?",
-    "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T12:59:00+00:00",
-    "summary": "A rapidly growing asset class on Nvidia’s balance sheet reveals how deeply tethered its future is to the financial health of its partners",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
+    "sentiment_score": 0.6808
   },
   {
     "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
@@ -90,7 +90,7 @@
     "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
     "source": "The Guardian Economics",
     "published": "2026-05-22T08:55:17+00:00",
-    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/22/uk-borrowing-higher-retail-sales-drivers-fuel-business-live-news\">Business live – latest updates</a></p></li></ul><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
+    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
