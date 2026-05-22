@@ -1,9 +1,23 @@
 [
   {
+    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T14:40:00+00:00",
+    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+    "matched_keywords": [
+      "Trade War",
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7684
+  },
+  {
     "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
     "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T09:15:00+00:00",
+    "published": "2026-05-22T14:15:00+00:00",
     "summary": "“Others say she should start at full retirement age.”",
     "matched_keywords": [
       "AI"
@@ -12,40 +26,76 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "Real estate mogul Mauricio Umansky says ‘Reaganomics’ is the answer to housing affordability problem",
-    "link": "https://www.marketwatch.com/story/real-estate-mogul-mauricio-umansky-says-reaganomics-is-the-answer-to-housing-affordability-problem-233fc12d?mod=mw_rss_topstories",
+    "title": "BJ’s Wholesale’s earnings show that cheap gas matters for people",
+    "link": "https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T09:01:00+00:00",
-    "summary": "Umansky isn’t sold on California’s proposed billionaire tax—warning that the initiative is shortsighted, and could end up doing more harm than good.",
+    "published": "2026-05-22T13:51:00+00:00",
+    "summary": "Consumers are increasingly feeling the pressure of stubbornly high inflation, particularly as the continuation of the Iran war has kept oil and gas prices at historically high levels.",
     "matched_keywords": [
-      "AI"
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5154
+    "sentiment_score": -0.7845
   },
   {
-    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
-    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
-    "source": "The Guardian Economics",
-    "published": "2026-05-22T08:55:17+00:00",
-    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/22/uk-borrowing-higher-retail-sales-drivers-fuel-business-live-news\">Business live – latest updates</a></p></li></ul><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, amid concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
+    "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback",
+    "link": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T13:30:00+00:00",
+    "summary": "Materials, tech and energy sectors offer an attractive hedging opportunity",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8957
+  },
+  {
+    "title": "Nvidia spent $18.6 billion on venture investments in 3 months. Where does the cash trail go?",
+    "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T12:59:00+00:00",
+    "summary": "A rapidly growing asset class on Nvidia’s balance sheet reveals how deeply tethered its future is to the financial health of its partners",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+    "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-22T11:45:23+00:00",
+    "summary": "Integrating American AI in Asia is high on the agenda for the U.S., according to a senior official for APEC and economic policy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "China calls for APEC cooperation as commerce minister skips opening over ‘urgent official business’",
     "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
     "source": "CNBC Finance",
-    "published": "2026-05-22T07:14:13+00:00",
+    "published": "2026-05-22T10:14:21+00:00",
     "summary": "China's international trade representative Li Chenggang said he was chairing Friday's meeting as Commerce Minister Wang Wentao had urgent matters to attend to.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
+  },
+  {
+    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
+    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
+    "source": "The Guardian Economics",
+    "published": "2026-05-22T08:55:17+00:00",
+    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/22/uk-borrowing-higher-retail-sales-drivers-fuel-business-live-news\">Business live – latest updates</a></p></li></ul><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
     "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
@@ -59,32 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
-    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T22:33:00+00:00",
-    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2104
-  },
-  {
-    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
-    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-21T22:32:00+00:00",
-    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
-    "matched_keywords": [
-      "Trade War",
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7684
   },
   {
     "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
@@ -342,29 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6124
-  },
-  {
-    "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
-    "link": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-05-19T07:44:06+00:00",
-    "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in the three months to February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6705
-  },
-  {
-    "title": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
-    "link": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-05-19T07:07:42+00:00",
-    "summary": "<p>Rise in unemployment and weak pay growth underline how tough this year will be for UK households</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">UK unemployment unexpectedly rises to 5%</a></p></li></ul><p>News that the UK unemployment rate <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">jumped back to 5% in March</a> appears to be the latest evidence that the Iran war has snuffed out the economic upturn Rachel Reeves had hoped to see in 2026.</p><p>The Office for National Statistics reports that, after <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates#:~:text=UK%20unemployment%20shows%20surprise%20fall,five%20years%20%7C%20Economics%20%7C%20The%20Guardian\">an unexpected fall in the unemployment rate to 4.9% in last month’s data</a>, it ticked back up to 5% between January and March – the first set of figures affected by the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9738
   }
 ]
