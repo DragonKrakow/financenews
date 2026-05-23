@@ -1,9 +1,21 @@
 [
   {
+    "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
+    "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T23:55:00+00:00",
+    "summary": "A rapidly growing asset class on Nvidia’s balance sheet reveals how deeply tethered its future is to the financial health of its partners",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
     "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
     "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T19:40:00+00:00",
+    "published": "2026-05-22T23:15:00+00:00",
     "summary": "There’s a new warning from the commodity market about the risks of a delayed reopening of the Strait of Hormuz.",
     "matched_keywords": [
       "Oil",
@@ -13,16 +25,66 @@
     "sentiment_score": -0.6597
   },
   {
-    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+    "title": "Worried about private credit? Stay away from this even riskier investment right now.",
+    "link": "https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T19:15:00+00:00",
-    "summary": "“Others say she should start at full retirement age.”",
+    "published": "2026-05-22T20:56:00+00:00",
+    "summary": "Private equity funds own the same underperforming companies spooking the credit market — and their investors are in the crosshairs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers",
+    "link": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T20:38:00+00:00",
+    "summary": "The sale of the large-format movie chain could bring interest from tech firms, media companies and even sovereign wealth funds, analysts say",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
+    "sentiment_score": 0.8733
+  },
+  {
+    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T20:33:00+00:00",
+    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
+    "matched_keywords": [
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7269
+  },
+  {
+    "title": "Ford’s stock climbs to highest close in three years. Here’s what’s behind its run.",
+    "link": "https://www.marketwatch.com/story/fords-stock-climbs-to-highest-close-in-three-years-heres-whats-behind-its-run-9fa2e378?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T20:28:00+00:00",
+    "summary": "Hopes for AI-related tie-ups and good news for its ailing European business are some of the elements boosting Ford’s stock recently.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+    "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-22T20:01:00+00:00",
+    "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
   },
   {
     "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
@@ -35,31 +97,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
-    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T17:58:00+00:00",
-    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
-    "matched_keywords": [
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
-  },
-  {
-    "title": "This bond strategy can protect your portfolio even if interest rates go up",
-    "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T17:11:00+00:00",
-    "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
   },
   {
     "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
@@ -328,43 +365,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "Fed to hike? When traders see a rate increase coming",
-    "link": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-19T21:51:22+00:00",
-    "summary": "Traders on prediction market platforms see increasing odds that an interest rate hike from the central bank comes by July 2027.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "Can Burnham turn ‘Manchesterism’ into a practical offer for government?",
-    "link": "https://www.theguardian.com/politics/2026/may/19/can-burnham-turn-manchesterism-into-a-practical-offer-for-government",
-    "source": "The Guardian Economics",
-    "published": "2026-05-19T18:29:30+00:00",
-    "summary": "<p>Roots of idea for ‘ending neoliberalism’ have been growing over many months – with many different influences</p><p>Manchesterism is “the end of neoliberalism”. That was the claim made by Andy Burnham in his campaign launch video this week – a film which made an audacious offer not just to his byelection constituents in Makerfield, but how he intended to change national politics and the economy.</p><p>But the 2026 doctrine of Manchesterism is very different to its 19th-century namesake, when it was a byword for free trade.</p> <a href=\"https://www.theguardian.com/politics/2026/may/19/can-burnham-turn-manchesterism-into-a-practical-offer-for-government\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7391
-  },
-  {
-    "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
-    "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-19T17:53:18+00:00",
-    "summary": "JPMorgan’s annual summer reading list, which has become the go-to selection of beach books for the wealthy, has 14 titles this year.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
   }
 ]
