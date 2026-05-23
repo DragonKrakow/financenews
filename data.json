@@ -1,5 +1,93 @@
 [
   {
+    "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",
+    "link": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T13:00:00+00:00",
+    "summary": "Many providers of cybersecurity hardware, software and services are expected to put up tremendous sales numbers as the AI build-out continues.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Stocks tend to sink during the summer before midterm elections. Will history repeat itself?",
+    "link": "https://www.marketwatch.com/story/stocks-tend-to-sink-during-the-summer-before-midterm-elections-will-history-repeat-itself-74e5dcc7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T13:00:00+00:00",
+    "summary": "During midterm years, summer tends to coincide with a weak stock market.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Kevin Warsh’s Fed isn’t cutting interest rates any time soon. But a hike isn’t yet on the table, either.",
+    "link": "https://www.marketwatch.com/story/kevin-warshs-fed-isnt-cutting-interest-rates-any-time-soon-but-a-hike-isnt-yet-on-the-table-either-aee28c06?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T13:00:00+00:00",
+    "summary": "The Federal Reserve isn’t going to reduce borrowing costs anytime soon because of resurgent inflation, but a rate hike is  also off the table for now as the regime of new Chair Kevin Warsh gets underway.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1901
+  },
+  {
+    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh’s swearing-in means for your portfolio",
+    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T12:59:00+00:00",
+    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
+    "matched_keywords": [
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7269
+  },
+  {
+    "title": "Hardcore gamers nurtured Nvidia and the AI boom. Now they feel betrayed by Big Tech.",
+    "link": "https://www.marketwatch.com/story/hardcore-gamers-nurtured-nvidia-and-the-ai-boom-now-they-feel-betrayed-by-big-tech-7b236ab4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T12:30:00+00:00",
+    "summary": "“An ongoing culture war”: AI is driving up the cost of key gaming components as Big Tech leaves the gaming industry, once an inseparable ally, in the dust.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+    "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-23T11:19:52+00:00",
+    "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Even if the Iran war ended today, US fuel prices aren’t likely to normalize this year",
+    "link": "https://www.theguardian.com/business/2026/may/23/iran-war-us-gas-prices-oil-fuel",
+    "source": "The Guardian Economics",
+    "published": "2026-05-23T11:00:25+00:00",
+    "summary": "<p>Prewar US gas prices averaged about $3 a gallon nationally – kiss that number goodbye for 2026</p><p>Sorry, US drivers, but don’t expect pump prices to return to prewar levels any time soon, even if the US and Iran agree to a lasting peace deal tomorrow.</p><p>As the war with Iran enters its third month, drivers have become <a href=\"https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices\">infuriated </a>by rising gas prices – <a href=\"https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war\">and inflation</a> – and Donald Trump is facing a historic backlash in <a href=\"https://www.usatoday.com/story/news/politics/2026/05/17/americans-economy-trump-poll/90133566007/\">the polls. </a>The president <a href=\"https://www.usatoday.com/story/news/politics/2026/05/05/trump-gas-prices-substantial-drop-iran-war/89943271007/\">promised recently</a> that relief will be swift once the war ends. “I see it going down very substantially when this is over, I think very rapidly too, at levels that you’ve never seen,” he said.</p> <a href=\"https://www.theguardian.com/business/2026/may/23/iran-war-us-gas-prices-oil-fuel\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3071
+  },
+  {
     "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
     "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,56 +123,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
-  },
-  {
-    "title": "IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers",
-    "link": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T20:38:00+00:00",
-    "summary": "The sale of the large-format movie chain could bring interest from tech firms, media companies and even sovereign wealth funds, analysts say",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8733
-  },
-  {
-    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
-    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T20:33:00+00:00",
-    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
-    "matched_keywords": [
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
-  },
-  {
-    "title": "Ford’s stock climbs to highest close in three years. Here’s what’s behind its run.",
-    "link": "https://www.marketwatch.com/story/fords-stock-climbs-to-highest-close-in-three-years-heres-whats-behind-its-run-9fa2e378?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T20:28:00+00:00",
-    "summary": "Hopes for AI-related tie-ups and good news for its ailing European business are some of the elements boosting Ford’s stock recently.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
-  },
-  {
-    "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
-    "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T20:01:00+00:00",
-    "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   },
   {
     "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
@@ -329,41 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4939
-  },
-  {
-    "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
-    "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-20T07:00:48+00:00",
-    "summary": "Alibaba announced updates to its AI offerings, including a more powerful chip and a new large language model.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.734
-  },
-  {
-    "title": "UK inflation slows to 2.8% as energy price cap softens impact of rising fuel costs",
-    "link": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T06:01:29+00:00",
-    "summary": "<p>Lower than expected April annual rate a lift for Rachel Reeves as impact of Iran war yet to fully hit households</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation slowed to 2.8% in April, the lowest rate in more than a year, as a reduction in the household energy price cap helped soften the sharp rise in fuel costs since the start of the Iran war.</p><p>The Office for National Statistics (ONS) said the consumer prices index measure of inflation eased from March’s reading of 3.3%, suggesting the impact of the Iran war has not yet hit UK households as much as feared, despite prices at the pumps rising at the fastest rate in nearly four years.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8481
-  },
-  {
-    "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
-    "link": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-20T05:22:20+00:00",
-    "summary": "China has agreed to buy 200 Boeing jets, its first major order in nearly a decade, U.S. President Donald Trump said last week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   }
 ]
