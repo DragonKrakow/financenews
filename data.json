@@ -1,66 +1,78 @@
 [
   {
-    "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",
-    "link": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36?mod=mw_rss_topstories",
+    "title": "This bond strategy can protect your portfolio even if interest rates go up",
+    "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T13:00:00+00:00",
-    "summary": "Many providers of cybersecurity hardware, software and services are expected to put up tremendous sales numbers as the AI build-out continues.",
+    "published": "2026-05-23T18:31:00+00:00",
+    "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T18:17:00+00:00",
+    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+    "matched_keywords": [
+      "Trade War",
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7684
+  },
+  {
+    "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+    "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T18:13:00+00:00",
+    "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
+    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T17:58:00+00:00",
+    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2104
+  },
+  {
+    "title": "The surprising cost of caring for aging parents: Divorce",
+    "link": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-23T17:44:00+00:00",
+    "summary": "Mental-health and financial pressures can strain even strong marriages.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
+    "sentiment_score": 0.7269
   },
   {
-    "title": "Stocks tend to sink during the summer before midterm elections. Will history repeat itself?",
-    "link": "https://www.marketwatch.com/story/stocks-tend-to-sink-during-the-summer-before-midterm-elections-will-history-repeat-itself-74e5dcc7?mod=mw_rss_topstories",
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T13:00:00+00:00",
-    "summary": "During midterm years, summer tends to coincide with a weak stock market.",
+    "published": "2026-05-23T16:30:00+00:00",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
     "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "Kevin Warsh’s Fed isn’t cutting interest rates any time soon. But a hike isn’t yet on the table, either.",
-    "link": "https://www.marketwatch.com/story/kevin-warshs-fed-isnt-cutting-interest-rates-any-time-soon-but-a-hike-isnt-yet-on-the-table-either-aee28c06?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T13:00:00+00:00",
-    "summary": "The Federal Reserve isn’t going to reduce borrowing costs anytime soon because of resurgent inflation, but a rate hike is  also off the table for now as the regime of new Chair Kevin Warsh gets underway.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1901
-  },
-  {
-    "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh’s swearing-in means for your portfolio",
-    "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T12:59:00+00:00",
-    "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
-    "matched_keywords": [
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
-  },
-  {
-    "title": "Hardcore gamers nurtured Nvidia and the AI boom. Now they feel betrayed by Big Tech.",
-    "link": "https://www.marketwatch.com/story/hardcore-gamers-nurtured-nvidia-and-the-ai-boom-now-they-feel-betrayed-by-big-tech-7b236ab4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T12:30:00+00:00",
-    "summary": "“An ongoing culture war”: AI is driving up the cost of key gaming components as Big Tech leaves the gaming industry, once an inseparable ally, in the dust.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.1027
   },
   {
     "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
@@ -86,43 +98,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3071
-  },
-  {
-    "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
-    "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T23:55:00+00:00",
-    "summary": "A rapidly growing asset class on Nvidia’s balance sheet reveals how deeply tethered its future is to the financial health of its partners",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
-    "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T23:15:00+00:00",
-    "summary": "There’s a new warning from the commodity market about the risks of a delayed reopening of the Strait of Hormuz.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Worried about private credit? Stay away from this even riskier investment right now.",
-    "link": "https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-22T20:56:00+00:00",
-    "summary": "Private equity funds own the same underperforming companies spooking the credit market — and their investors are in the crosshairs.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
   },
   {
     "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
@@ -367,5 +342,29 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4939
+  },
+  {
+    "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
+    "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-20T07:00:48+00:00",
+    "summary": "Alibaba announced updates to its AI offerings, including a more powerful chip and a new large language model.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.734
+  },
+  {
+    "title": "UK inflation slows to 2.8% as energy price cap softens impact of rising fuel costs",
+    "link": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs",
+    "source": "The Guardian Economics",
+    "published": "2026-05-20T06:01:29+00:00",
+    "summary": "<p>Lower than expected April annual rate a lift for Rachel Reeves as impact of Iran war yet to fully hit households</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation slowed to 2.8% in April, the lowest rate in more than a year, as a reduction in the household energy price cap helped soften the sharp rise in fuel costs since the start of the Iran war.</p><p>The Office for National Statistics (ONS) said the consumer prices index measure of inflation eased from March’s reading of 3.3%, suggesting the impact of the Iran war has not yet hit UK households as much as feared, despite prices at the pumps rising at the fastest rate in nearly four years.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8481
   }
 ]
