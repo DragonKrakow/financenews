@@ -3,13 +3,37 @@
     "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
     "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-24T12:16:00+00:00",
+    "published": "2026-05-24T18:16:00+00:00",
     "summary": "“Others say she should start at full retirement age.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
+  },
+  {
+    "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-24T17:24:00+00:00",
+    "summary": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4696
+  },
+  {
+    "title": "Trump says there’s no rush as deal to end Iran war, reopen Strait of Hormuz appears close",
+    "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-24T16:55:00+00:00",
+    "summary": "The U.S. appears close to reaching an agreement that would end the war with Iran and reopen the strategic Strait of Hormuz, according to reports Sunday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
   },
   {
     "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
@@ -62,30 +86,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
-  },
-  {
-    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
-    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T17:58:00+00:00",
-    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2104
-  },
-  {
-    "title": "The surprising cost of caring for aging parents: Divorce",
-    "link": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T17:44:00+00:00",
-    "summary": "Mental-health and financial pressures can strain even strong marriages.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   },
   {
     "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
