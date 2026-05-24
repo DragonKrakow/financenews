@@ -1,5 +1,30 @@
 [
   {
+    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-24T12:16:00+00:00",
+    "summary": "“Others say she should start at full retirement age.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
+    "source": "The Guardian Economics",
+    "published": "2026-05-24T11:31:38+00:00",
+    "summary": "<p>Global prices are approaching a tipping point that could trigger inflation, shortages and, over time, recession</p><p>If a US-Iran deal is about to be reached, three months on from the launch of Donald Trump’s Operation Epic Fury, it will not be a day too soon for oil markets, which are approaching a dangerous tipping point.</p><p>The cost of a barrel of crude on the spot market – for immediate purchase, effectively – has bounced about $100 since Iran predictably responded to the onslaught from the US and Israel by closing the strait of Hormuz.</p> <a href=\"https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9042
+  },
+  {
     "title": "This bond strategy can protect your portfolio even if interest rates go up",
     "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -61,18 +86,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7269
-  },
-  {
-    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T16:30:00+00:00",
-    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
@@ -354,17 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.734
-  },
-  {
-    "title": "UK inflation slows to 2.8% as energy price cap softens impact of rising fuel costs",
-    "link": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T06:01:29+00:00",
-    "summary": "<p>Lower than expected April annual rate a lift for Rachel Reeves as impact of Iran war yet to fully hit households</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation slowed to 2.8% in April, the lowest rate in more than a year, as a reduction in the household energy price cap helped soften the sharp rise in fuel costs since the start of the Iran war.</p><p>The Office for National Statistics (ONS) said the consumer prices index measure of inflation eased from March’s reading of 3.3%, suggesting the impact of the Iran war has not yet hit UK households as much as feared, despite prices at the pumps rising at the fastest rate in nearly four years.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8481
   }
 ]
