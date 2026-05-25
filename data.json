@@ -1,5 +1,42 @@
 [
   {
+    "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
+    "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T19:40:00+00:00",
+    "summary": "The U.S. appears close to reaching an agreement that would end the war with Iran and reopen the strategic Strait of Hormuz, according to reports Sunday, sending oil prices sharply lower.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T17:45:00+00:00",
+    "summary": "“The sister claims she does not have to explain herself to anyone.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Is the stock market open today? Does the post office deliver mail on Memorial Day?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T15:49:00+00:00",
+    "summary": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4696
+  },
+  {
     "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
     "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -24,30 +61,6 @@
     "sentiment_score": 0.6808
   },
   {
-    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-25T11:31:00+00:00",
-    "summary": "“The sister claims she does not have to explain herself to anyone.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Is the stock market open today for Memorial Day? Does the post office deliver mail?",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-25T11:11:00+00:00",
-    "summary": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4696
-  },
-  {
     "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
     "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -70,19 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-    "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-25T03:05:00+00:00",
-    "summary": "The U.S. appears close to reaching an agreement that would end the war with Iran and reopen the strategic Strait of Hormuz, according to reports Sunday, sending oil prices sharply lower.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
   },
   {
     "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
