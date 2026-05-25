@@ -1,5 +1,17 @@
 [
   {
+    "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+    "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-25T06:48:16+00:00",
+    "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
     "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
     "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -356,17 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4939
-  },
-  {
-    "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
-    "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-20T07:00:48+00:00",
-    "summary": "Alibaba announced updates to its AI offerings, including a more powerful chip and a new large language model.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.734
   }
 ]
