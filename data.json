@@ -1,5 +1,65 @@
 [
   {
+    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T14:16:00+00:00",
+    "summary": "“We plan to sell it to another family member for the appraised value.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years",
+    "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T14:00:00+00:00",
+    "summary": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&amp;P 500 earnings growth. But more recently, the other 493 names in the index have started to pull their weight.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T11:31:00+00:00",
+    "summary": "“The sister claims she does not have to explain herself to anyone.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Is the stock market open today for Memorial Day? Does the post office deliver mail?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T11:11:00+00:00",
+    "summary": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4696
+  },
+  {
+    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-25T10:40:00+00:00",
+    "summary": "“Others say she should start at full retirement age.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
     "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
     "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
     "source": "CNBC Finance",
@@ -25,30 +85,6 @@
     "sentiment_score": -0.802
   },
   {
-    "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-24T23:09:00+00:00",
-    "summary": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4696
-  },
-  {
-    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-24T18:16:00+00:00",
-    "summary": "“Others say she should start at full retirement age.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
     "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
     "link": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
     "source": "The Guardian Economics",
@@ -60,45 +96,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9042
-  },
-  {
-    "title": "This bond strategy can protect your portfolio even if interest rates go up",
-    "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T18:31:00+00:00",
-    "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
-    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T18:17:00+00:00",
-    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
-    "matched_keywords": [
-      "Trade War",
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7684
-  },
-  {
-    "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
-    "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-23T18:13:00+00:00",
-    "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   },
   {
     "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
