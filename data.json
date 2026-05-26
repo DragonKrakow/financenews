@@ -1,5 +1,56 @@
 [
   {
+    "title": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
+    "link": "https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
+    "source": "The Guardian Economics",
+    "published": "2026-05-26T09:58:03+00:00",
+    "summary": "<p>Peer’s comments come as Milburn report is likely to find government has failed to tackle youth unemployment</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates\">Business live – latest updates</a></p></li></ul><p>The boss of Next has sounded the alarm about a “dramatic fall” in the number of entry-level jobs in the UK that is driving up youth unemployment, saying the retailer now receives twice as many applicants for each role than two years ago.</p><p>Lord Wolfson said the clothing and homeware chain, where he has been chief executive since 2001, typically received 10 applications for every job in its shops in 2024 but that number has now risen to 19.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "China’s hidden reserves may be the reason why oil prices haven’t exploded even higher",
+    "link": "https://www.marketwatch.com/story/chinas-hidden-reserves-may-be-the-reason-why-oil-prices-havent-exploded-even-higher-0e5f8fef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-26T09:42:00+00:00",
+    "summary": "There’s a high chance the Chinese government is injecting petroleum from a strategic supply into the market, Rory Johnston wrote in a recent Commodity Context newsletter.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Oil price back over $100 as markets weigh up hopes of US-Iran peace deal – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-26T09:37:58+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks#maincontent\"><strong>Middle East crisis live: US attacks Iran missile sites as Tehran negotiators hold talks in Qatar</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries\"><strong>Rachel Reeves tells ministers to ‘buy British’ in four key industries</strong></a></p></li></ul><p><strong>New doubts about the prospects for a US-Iran peace deal mean UK gas prices haven’t fallen as much today as you might have hoped.</strong></p><p>The month-ahead UK gas price is down 2.8% today at 115.15p per therm, its lowest in almost two weeks.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "UK consumers likely to face higher prices ‘for many months to come’",
+    "link": "https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come",
+    "source": "The Guardian Economics",
+    "published": "2026-05-26T04:00:46+00:00",
+    "summary": "<p>Data shows even if Iran war ends, shop price inflation on rise, while only 16% of firms left unscathed by conflict</p><p>Higher prices could persist over the summer even if <a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">ceasefire talks between the US and Iran bear fruit</a>, consumers have been warned, with economic shock waves likely to be felt “for many months to come”.</p><p>Disruption to global shipping, coupled with soaring prices for energy and raw materials, have driven up costs for UK companies, with the impact already filtering through to prices paid at the tills, according to fresh inflation figures.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
     "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
     "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -47,30 +98,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4696
-  },
-  {
-    "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-    "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-25T14:16:00+00:00",
-    "summary": "“We plan to sell it to another family member for the appraised value.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-25T10:40:00+00:00",
-    "summary": "“Others say she should start at full retirement age.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
   },
   {
     "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
@@ -341,29 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6487
-  },
-  {
-    "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T14:40:35+00:00",
-    "summary": "<p>Food inflation slows to 3%, led by meat and chocolate; prices of computer game downloads drop sharply; economists say benign inflation data reduces chances of June rate hike</p><p>Stamp duty should be scrapped and replaced with a new property wealth tax to fix London’s housing crisis, a leading thinktank has proposed.</p><p>A report on the capital’s property market suggests an annual tax to replace the levy paid when buying a property and council tax would encourage downsizing and raise funds for social housing. It would also help renters to save a house deposit.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
-  },
-  {
-    "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
-    "link": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T09:25:32+00:00",
-    "summary": "<p>‘China has already eaten much of German industry’s lunch and is preparing to start on dinner,’ thinktank says</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Germany must stop admiring China’s success in the EU or it will sleepwalk into the kind of deindustrialisation the US experienced 25 years ago, a leading Brussels thinktank has said.</p><p>With China’s surplus with Germany having doubled between 2024 and 2025 from $12bn (£9bn) to $25bn, creating a $94bn trade imbalance, the Centre for European Reform (CER) said Europe’s largest economy risked a repeat of what happened in the US in 2001 when a sudden surge in imports permanently hollowed out towns in the American midwest.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
   }
 ]
