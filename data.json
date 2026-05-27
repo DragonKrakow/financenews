@@ -1,33 +1,9 @@
 [
   {
-    "title": "Why America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
-    "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T15:32:00+00:00",
-    "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8834
-  },
-  {
-    "title": "‘We have always bonded over hating billionaires’: I got a well-paid job. Now my friend says I’m ultrawealthy. How do I respond?",
-    "link": "https://www.marketwatch.com/story/we-have-always-bonded-over-hating-billionaires-i-got-a-well-paid-job-now-my-friend-says-im-ultrawealthy-how-do-i-respond-087aa4dd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T15:28:00+00:00",
-    "summary": "“I don’t want to make it awkward.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
     "title": "Sam Altman’s toxic ‘culture of silence’ is an overlooked risk for OpenAI’s investors",
     "link": "https://www.marketwatch.com/story/openais-biggest-problem-isnt-ai-safety-its-sam-altman-068154aa?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T15:27:00+00:00",
+    "published": "2026-05-27T19:34:00+00:00",
     "summary": "‘Conflict-averse’ CEO’s management style encourages groupthink — and it’s a massive corporate liability.",
     "matched_keywords": [
       "AI"
@@ -36,53 +12,76 @@
     "sentiment_score": -0.0258
   },
   {
-    "title": "This stock-market strategy is a smart way to play Micron and the memory-chip rally",
-    "link": "https://www.marketwatch.com/story/this-stock-market-strategy-is-a-smart-way-to-play-micron-and-the-memory-chip-rally-0f51a44f?mod=mw_rss_topstories",
+    "title": "More Americans are raiding their emergency savings just to fill up their gas tanks",
+    "link": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T15:19:00+00:00",
-    "summary": "Adding a value component and trimming back on the hottest growth stocks has served this growth ETF well over the long term and during the AI build-out.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9217
-  },
-  {
-    "title": "Is Microsoft ditching OpenAI for Anthropic?",
-    "link": "https://www.marketwatch.com/story/is-microsoft-ditching-openai-for-anthropic-0cd57021?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T15:02:00+00:00",
-    "summary": "A recent Anthropic partnership could provide a $43 billion revenue opportunity for Microsoft Azure by 2030, according to HSBC",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "In America, Big Tech’s AI data centers come first — and your community will be last to know",
-    "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T14:57:00+00:00",
-    "summary": "An unexpected power crisis facing 49,000 California households could be just one of many as tech giants monopolize local electricity.",
+    "published": "2026-05-27T19:31:00+00:00",
+    "summary": "Most people think of emergencies as job loss or a hospital bill. For many today, it’s soaring energy costs.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
+    "sentiment_score": -0.4215
   },
   {
-    "title": "The AI capital-spending boom looks historic. Eleven other booms suggest a bust is inevitable.",
-    "link": "https://www.marketwatch.com/story/how-ai-compares-to-11-other-capital-spending-explosions-when-they-bust-and-boom-again-2dec8bf4?mod=mw_rss_topstories",
+    "title": "Investors are rushing to buy TIPS ETFs to beat inflation. They could end up losing.",
+    "link": "https://www.marketwatch.com/story/investors-are-rushing-to-buy-tips-etfs-to-beat-inflation-they-could-end-up-losing-7618d6e0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T14:41:00+00:00",
-    "summary": "Strategists at Raymond James, led by Tavis McCourt, said the artificial intelligence capital-spending boom is on par with the biggest over the last 150 years.",
+    "published": "2026-05-27T19:29:00+00:00",
+    "summary": "Inflation-protected funds don’t always protect against inflation. As consumer-price inflation hits a three-year high due to the Iran war, the premise in their names is being tested.",
     "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
+    "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T19:05:00+00:00",
+    "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8834
+  },
+  {
+    "title": "Big Tech gets the AI profits. You get the higher utility bills.",
+    "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T18:28:00+00:00",
+    "summary": "The AI data-center boom is quietly cannibalizing America’s power grid.",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Investors betting the Iran war is ending are buying up travel stocks",
+    "link": "https://www.marketwatch.com/story/investors-betting-the-iran-war-is-ending-are-buying-up-travel-stocks-a7921f97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T17:31:00+00:00",
+    "summary": "Shares of travel names Delta, United and MGM were among the S&amp;P 500’s biggest gainers on Wednesday. But one strategist called the market’s optimism misplaced.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+    "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T17:19:04+00:00",
+    "summary": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
   },
   {
     "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
