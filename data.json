@@ -1,5 +1,91 @@
 [
   {
+    "title": "A rival joins Micron in the $1 trillion club as one bank argues AI is actually underhyped",
+    "link": "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T09:46:00+00:00",
+    "summary": "The frenzy in memory-chip stocks continued on Wednesday as SK Hynix took less than 24 hours to join American peer Micron Technology in the $1 trillion valuation club.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
+    "link": "https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T09:41:14+00:00",
+    "summary": "Mainland China-based chip giants such as Cambricon saw their shares tumble on Wednesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "How AI compares to 11 other capital-spending explosions: When they bust – and boom again",
+    "link": "https://www.marketwatch.com/story/how-ai-compares-to-11-other-capital-spending-explosions-when-they-bust-and-boom-again-2dec8bf4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T09:19:00+00:00",
+    "summary": "Strategists at Raymond James, led by Tavis McCourt, said the artificial intelligence capital-spending boom is on par with the biggest over the last 150 years.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T09:00:00+00:00",
+    "summary": "“The sister claims she does not have to explain herself to anyone.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Kathleen Kennedy Townsend quickly finds a buyer for charming $1.6 million Cape Cod home",
+    "link": "https://www.marketwatch.com/story/kathleen-kennedy-townsend-quickly-finds-a-buyer-for-charming-1-6-million-cape-cod-home-d9bbd04d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T09:00:00+00:00",
+    "summary": "The Kennedy heiress has already secured an offer for the quaint home near the Kennedy family’s famed Hyannis Port compound.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Goldman Sachs hikes S&P 500 target and rejects bubble-era comparisons",
+    "link": "https://www.marketwatch.com/story/goldman-sachs-hikes-s-p-500-target-and-rejects-bubble-era-comparisons-37736edb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T08:43:00+00:00",
+    "summary": "Speculative fervor is high but not at elevated levels pointing to a big market pullback",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "European companies double down on China manufacturing despite EU de-risking push",
+    "link": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T04:49:15+00:00",
+    "summary": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0547
+  },
+  {
     "title": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
     "link": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html",
     "source": "CNBC Finance",
@@ -22,56 +108,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8225
-  },
-  {
-    "title": "European companies double down on China manufacturing despite EU de-risking push",
-    "link": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-27T01:28:37+00:00",
-    "summary": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
-    "matched_keywords": [
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0547
-  },
-  {
-    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T00:24:00+00:00",
-    "summary": "“The sister claims she does not have to explain herself to anyone.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Gen Z demands bigger bargains — driving gains for discount retailers like Walmart and Ross",
-    "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-26T21:35:00+00:00",
-    "summary": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation’s biggest discount retailers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
-  },
-  {
-    "title": "The bond market has been rocked by a violent selloff. Here’s how to play it.",
-    "link": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-26T21:04:00+00:00",
-    "summary": "The bond market is tied up in knots about the Iran war and inflation, as well as what the Federal Reserve under new chair Kevin Warsh might do about it.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
   },
   {
     "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
@@ -336,41 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8316
-  },
-  {
-    "title": "UK service sector activity slumps in one of sharpest declines for a decade",
-    "link": "https://www.theguardian.com/business/2026/may/21/uk-service-sector-activity-slumps-in-one-of-sharpest-declines-for-a-decade",
-    "source": "The Guardian Economics",
-    "published": "2026-05-21T11:55:49+00:00",
-    "summary": "<p>Firms hit by ‘perfect storm’ of uncertainty about Labour leadership and impact of Iran war</p><p>Companies in the UK’s dominant services sector have reported one of the sharpest declines in business activity in a decade, according to a closely watched index.</p><p>Businesses are grappling with a “perfect storm” of domestic political uncertainty around Keir Starmer’s leadership as prime minister and the growing impact of the Iran war, leading to soaring costs, supply shortages and job cuts, the report said.</p> <a href=\"https://www.theguardian.com/business/2026/may/21/uk-service-sector-activity-slumps-in-one-of-sharpest-declines-for-a-decade\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8689
-  },
-  {
-    "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
-    "link": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
-    "source": "The Guardian Economics",
-    "published": "2026-05-21T06:00:04+00:00",
-    "summary": "<p>Ban social media and reform education to tackle scandal of young people not in work or study, says Peter Hyman</p><p>Schools have become a “pipeline” to worklessness for a large cohort of young people in the UK, according to an influential former Labour adviser who has called for urgent action to help a “lost generation”.</p><p>Peter Hyman, a former adviser to Tony Blair and Keir Starmer, told the Guardian the government should ban social media and enact radical education reform to tackle the “national scandal” of young people who are not in education, employment or training (Neet).</p> <a href=\"https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
-  },
-  {
-    "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
-    "link": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T23:01:54+00:00",
-    "summary": "<p>City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds </p><p>Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a report, as Andy Burnham stakes a claim that he could replicate the city’s revival nationwide.</p><p>As the <a href=\"https://www.theguardian.com/politics/andyburnham\">frontrunner to replace Keir Starmer</a>, the Greater Manchester mayor has placed the city’s economic performance at the heart of his campaign, describing “Manchesterism” as a political philosophy for a more interventionist approach to the economy.</p> <a href=\"https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
   }
 ]
