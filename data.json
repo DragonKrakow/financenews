@@ -1,15 +1,126 @@
 [
   {
-    "title": "A rival joins Micron in the $1 trillion club as one bank argues AI is actually underhyped",
-    "link": "https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories",
+    "title": "Why America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
+    "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T09:46:00+00:00",
-    "summary": "The frenzy in memory-chip stocks continued on Wednesday as SK Hynix took less than 24 hours to join American peer Micron Technology in the $1 trillion valuation club.",
+    "published": "2026-05-27T15:32:00+00:00",
+    "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
+    "sentiment_score": -0.8834
+  },
+  {
+    "title": "‘We have always bonded over hating billionaires’: I got a well-paid job. Now my friend says I’m ultrawealthy. How do I respond?",
+    "link": "https://www.marketwatch.com/story/we-have-always-bonded-over-hating-billionaires-i-got-a-well-paid-job-now-my-friend-says-im-ultrawealthy-how-do-i-respond-087aa4dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T15:28:00+00:00",
+    "summary": "“I don’t want to make it awkward.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Sam Altman’s toxic ‘culture of silence’ is an overlooked risk for OpenAI’s investors",
+    "link": "https://www.marketwatch.com/story/openais-biggest-problem-isnt-ai-safety-its-sam-altman-068154aa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T15:27:00+00:00",
+    "summary": "‘Conflict-averse’ CEO’s management style encourages groupthink — and it’s a massive corporate liability.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "This stock-market strategy is a smart way to play Micron and the memory-chip rally",
+    "link": "https://www.marketwatch.com/story/this-stock-market-strategy-is-a-smart-way-to-play-micron-and-the-memory-chip-rally-0f51a44f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T15:19:00+00:00",
+    "summary": "Adding a value component and trimming back on the hottest growth stocks has served this growth ETF well over the long term and during the AI build-out.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9217
+  },
+  {
+    "title": "Is Microsoft ditching OpenAI for Anthropic?",
+    "link": "https://www.marketwatch.com/story/is-microsoft-ditching-openai-for-anthropic-0cd57021?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T15:02:00+00:00",
+    "summary": "A recent Anthropic partnership could provide a $43 billion revenue opportunity for Microsoft Azure by 2030, according to HSBC",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "In America, Big Tech’s AI data centers come first — and your community will be last to know",
+    "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T14:57:00+00:00",
+    "summary": "An unexpected power crisis facing 49,000 California households could be just one of many as tech giants monopolize local electricity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "The AI capital-spending boom looks historic. Eleven other booms suggest a bust is inevitable.",
+    "link": "https://www.marketwatch.com/story/how-ai-compares-to-11-other-capital-spending-explosions-when-they-bust-and-boom-again-2dec8bf4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T14:41:00+00:00",
+    "summary": "Strategists at Raymond James, led by Tavis McCourt, said the artificial intelligence capital-spending boom is on par with the biggest over the last 150 years.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+    "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T14:05:08+00:00",
+    "summary": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Tony Blair is strong on diagnosis, deluded on prescription: Britain’s ills can’t be fixed by him | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
+    "source": "The Guardian Economics",
+    "published": "2026-05-27T13:26:40+00:00",
+    "summary": "<p>The former PM’s essay rightly calls for a coherent economic plan, but then sets too much store by AI – and a worldview stuck in the past</p><p><a href=\"https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump\">Tony Blair is right</a>. Labour has made some big and avoidable mistakes since it came to power nearly two years ago. Keir Starmer had a strategy for winning the election but lacked a coherent plan for what his government would do next. Fair cop.</p><p>Blair is also correct when he says that unless Britain tackles some long-term structural issues, it is in danger of being relegated from the “premier league of nations”. Achieving higher levels of sustainable growth is one challenge. Welfare reform is another. And as the former prime minister notes, reversing Brexit is not a solution to those problems.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1918
+  },
+  {
+    "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too",
+    "link": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T13:11:43+00:00",
+    "summary": "The new products allow customers to create AI assistants capable of carrying out investing strategies or spending instructions with minimal human involvement.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
   },
   {
     "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
@@ -22,55 +133,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "How AI compares to 11 other capital-spending explosions: When they bust – and boom again",
-    "link": "https://www.marketwatch.com/story/how-ai-compares-to-11-other-capital-spending-explosions-when-they-bust-and-boom-again-2dec8bf4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T09:19:00+00:00",
-    "summary": "Strategists at Raymond James, led by Tavis McCourt, said the artificial intelligence capital-spending boom is on par with the biggest over the last 150 years.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T09:00:00+00:00",
-    "summary": "“The sister claims she does not have to explain herself to anyone.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Kathleen Kennedy Townsend quickly finds a buyer for charming $1.6 million Cape Cod home",
-    "link": "https://www.marketwatch.com/story/kathleen-kennedy-townsend-quickly-finds-a-buyer-for-charming-1-6-million-cape-cod-home-d9bbd04d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T09:00:00+00:00",
-    "summary": "The Kennedy heiress has already secured an offer for the quaint home near the Kennedy family’s famed Hyannis Port compound.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
-  },
-  {
-    "title": "Goldman Sachs hikes S&P 500 target and rejects bubble-era comparisons",
-    "link": "https://www.marketwatch.com/story/goldman-sachs-hikes-s-p-500-target-and-rejects-bubble-era-comparisons-37736edb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T08:43:00+00:00",
-    "summary": "Speculative fervor is high but not at elevated levels pointing to a big market pullback",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
   },
   {
     "title": "European companies double down on China manufacturing despite EU de-risking push",
@@ -96,31 +158,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9217
-  },
-  {
-    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T01:44:00+00:00",
-    "summary": "“I calculated her break-even point to be around age 78.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
-    "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-    "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-26T19:43:54+00:00",
-    "summary": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
   },
   {
     "title": "Pope Leo is concerned about AI replacing human work. Traders share his concern long term",
@@ -334,43 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4767
-  },
-  {
-    "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
-    "link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-21T19:40:31+00:00",
-    "summary": "SpaceX's blockbuster public offering is giving everyday traders access that has traditionally been reserved for Wall Street's biggest clients.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
-  },
-  {
-    "title": "Starmer says he will campaign for Burnham in Makerfield byelection – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-21T16:02:24+00:00",
-    "summary": "<p>Prime minister tells reporters he would campaign personally in the contest</p><p>The <strong>Home Office </strong>has also published <a href=\"https://www.gov.uk/government/collections/immigration-statistics-quarterly-release\">asylum figures</a> this morning. These show that the number of asylum seekers being housed temporarily in hotels stood at 20,885 at the end of March 2026, down 35% year-on-year from 32,326. The Press Association says:</p><p>It is the lowest figure since data was first reported in 2022, Home Office figures show.</p><p>The total had climbed as high as 56,018 at the end of September 2023.</p><p>Brits are leaving on a massive scale and non-EU immigration remains far too high. Mass immigration undermines our society and low wage immigration is bad for the economy. British families feel it in lower wages, longer waiting lists for public services and housing shortages.</p><p>Labour must go further and reform indefinite leave to remain before their hard-left flank forces them to abandon it altogether.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9274
-  },
-  {
-    "title": "Britain’s politicians need to worry less about the bond markets – and more about the Bank of England | Daniela Gabor",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/21/politicians-bond-vigilantes-markets-gilts-bank-of-england",
-    "source": "The Guardian Economics",
-    "published": "2026-05-21T12:45:44+00:00",
-    "summary": "<p>A new model of central banking would weaken the power of bond vigilantes – and help progressive politicians pay for transformative change</p><ul><li><p>Daniela Gabor is professor of economics and macrofinance at Soas, University of London</p></li></ul><p>A spectre is haunting British politics: the bond markets.</p><p>Defending Keir Starmer after the disastrous local election results earlier this month, the chancellor, Rachel Reeves, warned that a leadership contest would trigger the wrath of those investors who lend the state money by buying and selling UK government bonds (also known as gilts). The prospect of Andy Burnham winning that contest prompted shriller warnings: the left-leaning contender, after all, had dared to suggest governments should stop “being in hock” to the bond markets.</p><p>Daniela Gabor is professor of economics at Soas, University of London</p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/21/politicians-bond-vigilantes-markets-gilts-bank-of-england\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
   }
 ]
