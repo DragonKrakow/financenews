@@ -1,5 +1,79 @@
 [
   {
+    "title": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
+    "link": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T03:20:15+00:00",
+    "summary": "China’s industrial profits grew at their fastest pace in over two years in April, buoyed by stronger exports, higher producer prices and gains in upstream industries.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9217
+  },
+  {
+    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
+    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T01:44:00+00:00",
+    "summary": "“I calculated her break-even point to be around age 78.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "European companies double down on China manufacturing despite EU de-risking push",
+    "link": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-27T01:28:37+00:00",
+    "summary": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0547
+  },
+  {
+    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-27T00:24:00+00:00",
+    "summary": "“The sister claims she does not have to explain herself to anyone.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Gen Z demands bigger bargains — driving gains for discount retailers like Walmart and Ross",
+    "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-26T21:35:00+00:00",
+    "summary": "As seemingly everything gets more expensive, younger consumers are increasingly driving growth for the nation’s biggest discount retailers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "The bond market has been rocked by a violent selloff. Here’s how to play it.",
+    "link": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-26T21:04:00+00:00",
+    "summary": "The bond market is tied up in knots about the Iran war and inflation, as well as what the Federal Reserve under new chair Kevin Warsh might do about it.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
     "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
     "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
     "source": "CNBC Finance",
@@ -26,30 +100,6 @@
     "sentiment_score": 0.0772
   },
   {
-    "title": "Putting your baby to work as a model could net them $5.7 million by age 60. Here’s the legit way to do it.",
-    "link": "https://www.marketwatch.com/story/putting-your-baby-to-work-as-a-model-could-net-them-5-7-million-by-age-60-heres-the-legit-way-to-do-it-9f34562f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-26T17:53:00+00:00",
-    "summary": "One content creator says this 18-year savings plan will make her baby extremely wealthy. CPAs think it’s a great idea for certain families.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8399
-  },
-  {
-    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-26T17:35:00+00:00",
-    "summary": "“I calculated her break-even point to be around age 78.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
     "title": "The Guardian view on Britain’s economy: to profit politically a recovery must be felt in people’s pockets | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
     "source": "The Guardian Economics",
@@ -61,18 +111,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9598
-  },
-  {
-    "title": "Starlink signs a new airline customer as it races to be the top in-flight internet provider",
-    "link": "https://www.marketwatch.com/story/starlink-signs-a-new-airline-customer-as-it-races-to-be-the-top-in-flight-internet-provider-4e08e2cf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-26T17:03:00+00:00",
-    "summary": "American Airlines plans to install SpaceX’s Starlink satellite internet service on more than 500 planes, solidifying the Elon Musk company’s lead among U.S. air carriers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   },
   {
     "title": "BP chair removed over ‘unacceptable’ governance oversight and conduct issues; UK petrol prices hit new Iran war high – as it happened",
@@ -334,41 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
-  },
-  {
-    "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
-    "link": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
-    "source": "The Guardian Economics",
-    "published": "2026-05-20T21:30:52+00:00",
-    "summary": "<p>Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increase</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/20/planned-fuel-duty-rise-to-be-scrapped-says-keir-starmer\">Planned fuel duty rise to be scrapped, says Keir Starmer</a></p></li></ul><p>Rachel Reeves is to promise free summer bus rides for children in England and cut tariffs on some food imports, as part of a package of measures aimed at easing the costs of the Iran conflict.</p><p>The chancellor will give a statement in the House of Commons on Thursday, outlining her latest plans for cushioning the blow to consumers from an expected rise in inflation later this year.</p> <a href=\"https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-    "link": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-20T19:05:35+00:00",
-    "summary": "It comes after reports that the AI giant and ChatGPT owner is set to file confidentially for an IPO as soon as this week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2716
-  },
-  {
-    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-    "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-20T19:04:09+00:00",
-    "summary": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
   }
 ]
