@@ -1,5 +1,67 @@
 [
   {
+    "title": "Modelling shows 90% of young Australians will be better off under Labor’s tax reforms",
+    "link": "https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling",
+    "source": "The Guardian Economics",
+    "published": "2026-05-28T10:03:48+00:00",
+    "summary": "<p>The $1,000 tax deduction, $250 ‘working Australians tax offset’, and CGT and negative gearing changes will most benefit young people, Treasury secretary says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ninety per cent of young Australians will be better off under the Albanese government’s tax proposals, the Treasury claims, as Labor moves to pass its reforms into law.</p><p>The government introduced the tax changes to parliament on Thursday before a heated question time in which the opposition leader, Angus Taylor, called Anthony Albanese an “arrogant prick”, while separately the Nationals demanded the government call an early election.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7545
+  },
+  {
+    "title": "Oil prices rise after fresh round of strikes between U.S. and Iran, pushing peace deal into doubt",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T09:39:00+00:00",
+    "summary": "West Texas Intermediate and Brent crude’s front-month contracts both climbed after the U.S. launched a new set of strikes on an Iranian military site.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Number of young people in UK not in education, employment or training hits one million, figures reveal, as fears of a ‘lost generation’ rise – business live",
+    "link": "https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-05-28T09:36:46+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as number of UK ‘Neets’ hits 12-year high</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/may/27/neets-could-hit-125m-by-early-2030s-milburn-review-young-people-employment-uk\">Number of Neets in UK could hit 1.25m by early 2030s, Milburn review will say</a></p></li></ul><p><strong>Elsewhere this morning, Labour has adopted regulations intended to prevent local councils from going bust after they make risky investments that jeopardise their finances.</strong></p><p>Ministers will be handed powers to intervene that have been dormant since 2003, the ministry of housing, communities and local government (MHCLG) said.</p><p>“In Woking, Thurrock, and other councils we’ve seen poor investment decisions leaving taxpayers footing a big bill.</p><p>“We can’t afford to wait until a council is on the brink of collapse to act. That’s why we want to bring in new powers so we can identify the risks and act before its too late.”</p><p>“Many of Alan Milburn’s findings reflect the evidence received in our own inquiry on Youth Employment, Education and Training. We await Mr Milburn’s conclusions and recommendations, but when giving evidence to the Select Committee, he referred to the causes of the current youth employment crisis being as broad as they are deep. It’s clear that whatever his recommendations, it will require systemic change, needing a whole government approach to fix this.</p><p>“We agree that this is not the so-called ‘snowflake’ generation that too many have referred to. But the urgency must be recognised. We cannot see the lives of so many young people be blighted in this way.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on",
+    "link": "https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T08:51:00+00:00",
+    "summary": "The so-called debasement trade has fallen out of favor as both a discussion point and an investment concept.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
+    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T04:01:00+00:00",
+    "summary": "Fidelity’s first-quarter data shows 401(k) balances dipping — but it’s not all bad news.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6027
+  },
+  {
     "title": "Cancer treatment already costs hundreds of thousands of dollars — and it’s about to get even worse",
     "link": "https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -58,42 +120,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8003
-  },
-  {
-    "title": "Salesforce shares dip on soft revenue outlook as AI disruption concerns linger",
-    "link": "https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T00:23:00+00:00",
-    "summary": "While the company’s Agentforce offering is picking up steam, Salesforce didn’t deliver the top-line growth investors wanted to see",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T00:00:00+00:00",
-    "summary": "“I calculated her break-even point to be around age 78.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
-    "title": "Momentus’s stock nearly triples in 2 days as the space company raises more cash from investors",
-    "link": "https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-27T22:49:00+00:00",
-    "summary": "Momentus investors continue to cheer as the space firm secures more cash through a private placement of stock.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
   },
   {
     "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
@@ -344,30 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
-    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
-    "source": "The Guardian Economics",
-    "published": "2026-05-22T08:55:17+00:00",
-    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
-    "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-21T23:57:30+00:00",
-    "summary": "Mining company Perpetua Resources has secured a $2.9 billion loan from the U.S. Export-Import Bank as the U.S. looks to secure access to critical minerals.",
-    "matched_keywords": [
-      "Gold",
-      "Mining"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
   }
 ]
