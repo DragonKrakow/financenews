@@ -1,27 +1,102 @@
 [
   {
-    "title": "SpaceX’s major AI compute deal with Anthropic could end a lot sooner than expected",
-    "link": "https://www.marketwatch.com/story/spacexs-major-ai-compute-deal-with-anthropic-could-end-a-lot-sooner-than-expected-30f46b83?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T15:57:00+00:00",
-    "summary": "SpaceX CEO Elon Musk said his firm requested a “short term” deal with Anthropic, despite touting plans that it could last for years.",
+    "title": "CFTC sues Rhode Island over actions against prediction markets",
+    "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-28T19:57:39+00:00",
+    "summary": "It marks the seventh state the commission has sued in a dispute over who has the right to regulate event contract platforms.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1326
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
   },
   {
-    "title": "Here’s how to find out if you’re one of millions of Americans who can claim this IRS refund",
-    "link": "https://www.marketwatch.com/story/heres-how-to-find-out-if-youre-one-of-millions-of-americans-who-can-claim-this-irs-refund-88c6a162?mod=mw_rss_topstories",
+    "title": "Oil prices show mixed reaction as White House backs report on progress toward Iran peace deal",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T15:43:00+00:00",
-    "summary": "Time’s running out to file for a pandemic-era refund that could get you thousands of dollars back",
+    "published": "2026-05-28T19:39:00+00:00",
+    "summary": "Global oil prices finished on a mixed note while U.S. crude prices edged higher Thursday, reacting to news of progress toward a deal that would extend the U.S.-Iran cease-fire.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "Anthropic nears $1 trillion valuation, leapfrogging OpenAI",
+    "link": "https://www.marketwatch.com/story/anthropic-nears-1-trillion-valuation-leapfrogging-openai-ac2dc81f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T19:15:00+00:00",
+    "summary": "A $65 billion Series H funding round follows a sharp three-month revenue surge for the Claude creator, pushing Anthropic to a fresh $965 billion valuation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
+    "link": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
+    "source": "The Guardian Economics",
+    "published": "2026-05-28T18:45:21+00:00",
+    "summary": "<p>Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ </p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report\">‘A record of failure’: what’s in first part of Milburn report?</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/may/28/we-would-like-to-hear-from-young-people-in-the-uk-about-their-job-hunting-experience\">Tell us: we would like to hear from young people in the UK about their job hunting experience</a></p></li></ul><p>Labour is poised for a fresh attempt at changing the welfare system after a major government-backed report said youth unemployment was costing Britain more than £125bn a year.</p><p>As official figures revealed the number of young people not working or studying had surpassed a million for the first time in more than a decade, Alan Milburn said the government had a responsibility to the next generation to take action.</p> <a href=\"https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
+    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T18:35:00+00:00",
+    "summary": "Fidelity’s first-quarter data shows 401(k) balances dipping — but it’s not all bad news.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6027
+  },
+  {
+    "title": "Can jewelry, kids’ clothes and ‘KPop Demon Hunters’ resurrect Kohl’s from the dead?",
+    "link": "https://www.marketwatch.com/story/can-jewelry-kids-clothes-and-kpop-demon-hunters-resurrect-kohls-from-the-dead-d4c1c31e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-28T17:40:00+00:00",
+    "summary": "The department-store chain’s stock is soaring after sales beat expectations — but it’s still trading at a fraction of its record high.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "‘Lost generation’: why can’t young people get jobs? – The Latest",
+    "link": "https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest",
+    "source": "The Guardian Economics",
+    "published": "2026-05-28T16:12:59+00:00",
+    "summary": "<p>A landmark report has warned that the UK risks a ‘lost generation’ of young people, as new figures show that more than 1 million 16- to 24-year-olds in the UK were not in education, employment or training.</p><p>The former Labour cabinet minister Alan Milburn said youth disengagement was a mounting economic risk to the country, and urged a fundamental reset of policy covering schools, the health service and the welfare state.</p><p>Lucy Hough speaks to the Guardian’s senior economics correspondent, Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "US inflation rose at fastest pace in three years in April as Iran war hikes up prices",
+    "link": "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises",
+    "source": "The Guardian Economics",
+    "published": "2026-05-28T16:06:35+00:00",
+    "summary": "<p>Americans are growing frustrated with Trump’s handling of the economy as cost of living soars ahead of midterms</p><p>US inflation increased at its fastest pace in three years in April, driven by higher energy prices amid the war with Iran, and cementing economists’ views that the Federal Reserve could hold interest rates unchanged well into next year.</p><p>Surging price pressures are eroding household income and could restrain consumer spending and economic growth this quarter. Income at the disposal of households after adjusting for inflation dropped for a third straight month in April, other data showed on Thursday. Given the soaring cost of living, Americans are growing frustrated with Donald Trump’s handling of the economy. A Reuters/Ipsos survey last week showed the president’s approval rating fell to nearly its lowest level since he returned to the White House, hit by a drop in support among Republicans. Trump won the 2024 presidential election in large part because of his promise to lower inflation.</p> <a href=\"https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Election",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
   },
   {
     "title": "US PCE inflation rate hits three-year high as Iran war pushes up prices – as it happened",
@@ -35,79 +110,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5423
-  },
-  {
-    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T14:53:00+00:00",
-    "summary": "“The sister claims she does not have to explain herself to anyone.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Dollar Tree’s sales top forecasts as fewer people are shopping but they’re spending more",
-    "link": "https://www.marketwatch.com/story/dollar-trees-sales-top-forecasts-as-fewer-people-are-shopping-but-theyre-spending-more-8be5f139?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T14:33:00+00:00",
-    "summary": "The stock is surging toward its best day in four years after the discount retailer’s full-year profit outlook was raised.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9011
-  },
-  {
-    "title": "Houston Rockets owner is placing an $18 billion bet on Las Vegas by buying Caesars",
-    "link": "https://www.marketwatch.com/story/houston-rockets-owner-is-making-an-18-billion-bet-on-las-vegas-by-buying-caesars-f9c9bbef?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T14:32:00+00:00",
-    "summary": "The holding company of Tilman Fertitta, who owns the NBA’s Houston Rockets and Golden Nugget casinos, is buying Caesars Entertainment in a deal valued at nearly $18 billion.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "More Americans are raiding their emergency savings just to fill up their gas tanks",
-    "link": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T14:17:00+00:00",
-    "summary": "Most people think of emergencies as job loss or a hospital bill. For many today, it’s soaring energy costs.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Here’s the real story behind the record drop in America’s oil reserves",
-    "link": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T13:51:00+00:00",
-    "summary": "Stocks in the nation’s Strategic Petroleum Reserve are near their lowest in more than 40 years — but it may not matter",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.353
-  },
-  {
-    "title": "UK risks £125bn hit a year from youth unemployment, landmark report says",
-    "link": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T10:16:00+00:00",
-    "summary": "<p>Alan Milburn warns of ‘lost generation’ after number of young people not in work or education rises to more than 1m</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report\">‘A record of failure’: what’s in first part of Milburn report?</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/may/28/we-would-like-to-hear-from-young-people-in-the-uk-about-their-job-hunting-experience\">Tell us: we would like to hear from young people in the UK about their job hunting experience</a></p></li></ul><p>Britain risks a financial hit worth £125bn a year from a worsening crisis in youth worklessness after a rise in the number of young people not in employment or education to more than 1 million.</p><p>In a landmark government-backed report, Alan Milburn warned that Britain’s economy and the public finances were losing billions of pounds a year amid the growing risk of <a href=\"https://www.theguardian.com/money/2026/may/27/neets-could-hit-125m-by-early-2030s-milburn-review-young-people-employment-uk\">a “lost generation”</a> of young people.</p> <a href=\"https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9201
   },
   {
     "title": "Modelling shows 90% of young Australians will be better off under Labor’s tax reforms",
