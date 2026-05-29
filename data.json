@@ -1,5 +1,29 @@
 [
   {
+    "title": "Dell stock soars toward another record high as the AI boom drives a big earnings beat",
+    "link": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T00:47:00+00:00",
+    "summary": "The company’s AI-server revenue was up 757% in the first quarter, while profit beat expectations by the widest margin in at least five years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Okta shares rise on earnings beat and AI-agent opportunity",
+    "link": "https://www.marketwatch.com/story/okta-shares-rise-on-earnings-beat-and-ai-agent-opportunity-60a48690?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T00:46:00+00:00",
+    "summary": "Okta’s first-qarter earnings cleared Wall Street’s expectations, and the company believes a massive market for AI-agent identity management is brewing on the horizon.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
     "title": "CFTC sues Rhode Island over actions against prediction markets",
     "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
     "source": "CNBC Finance",
@@ -12,30 +36,6 @@
     "sentiment_score": -0.4019
   },
   {
-    "title": "Oil prices show mixed reaction as White House backs report on progress toward Iran peace deal",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T19:39:00+00:00",
-    "summary": "Global oil prices finished on a mixed note while U.S. crude prices edged higher Thursday, reacting to news of progress toward a deal that would extend the U.S.-Iran cease-fire.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
-    "title": "Anthropic nears $1 trillion valuation, leapfrogging OpenAI",
-    "link": "https://www.marketwatch.com/story/anthropic-nears-1-trillion-valuation-leapfrogging-openai-ac2dc81f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T19:15:00+00:00",
-    "summary": "A $65 billion Series H funding round follows a sharp three-month revenue surge for the Claude creator, pushing Anthropic to a fresh $965 billion valuation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
     "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
     "link": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
     "source": "The Guardian Economics",
@@ -46,30 +46,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
-    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T18:35:00+00:00",
-    "summary": "Fidelity’s first-quarter data shows 401(k) balances dipping — but it’s not all bad news.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6027
-  },
-  {
-    "title": "Can jewelry, kids’ clothes and ‘KPop Demon Hunters’ resurrect Kohl’s from the dead?",
-    "link": "https://www.marketwatch.com/story/can-jewelry-kids-clothes-and-kpop-demon-hunters-resurrect-kohls-from-the-dead-d4c1c31e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-28T17:40:00+00:00",
-    "summary": "The department-store chain’s stock is soaring after sales beat expectations — but it’s still trading at a fraction of its record high.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
   },
   {
     "title": "‘Lost generation’: why can’t young people get jobs? – The Latest",
@@ -373,5 +349,29 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "China calls for APEC cooperation as commerce minister skips opening over ‘urgent official business’",
+    "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-22T10:14:21+00:00",
+    "summary": "China's international trade representative Li Chenggang said he was chairing Friday's meeting as Commerce Minister Wang Wentao had urgent matters to attend to.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
+    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
+    "source": "The Guardian Economics",
+    "published": "2026-05-22T08:55:17+00:00",
+    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   }
 ]
