@@ -1,21 +1,21 @@
 [
   {
-    "title": "Gen Alpha is learning vastly different lessons about money, depending on whether their parents are millennials or Gen X",
-    "link": "https://www.marketwatch.com/story/gen-x-vs-millennial-parents-whose-kids-are-better-with-money-1874c59f?mod=mw_rss_topstories",
+    "title": "Oil prices tumble nearly 20% in May — the biggest monthly drop since 2020. Here’s what’s next.",
+    "link": "https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T14:50:00+00:00",
-    "summary": "Gen Alpha kids raised by Gen X parents carry average savings balances that are 30% higher than their peers raised by millennials.",
+    "published": "2026-05-29T19:52:00+00:00",
+    "summary": "Global oil prices tumbled over 20% in May on hopes for the U.S.-Iran peace deal.",
     "matched_keywords": [
-      "AI"
+      "Oil"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
   },
   {
     "title": "Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check",
     "link": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T14:32:00+00:00",
+    "published": "2026-05-29T19:26:00+00:00",
     "summary": "The red-hot space sector was feeling some heat on Friday, cooling from some of the spectacular gains seen in May.",
     "matched_keywords": [
       "AI"
@@ -24,36 +24,58 @@
     "sentiment_score": 0.4404
   },
   {
-    "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
-    "link": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
-    "source": "The Guardian Economics",
-    "published": "2026-05-29T14:25:58+00:00",
-    "summary": "<p>Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor says</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/29/asian-stocks-oil-price-us-iran-peace-deal-business-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England is in no rush to raise interest rates while the outcome of the Iran war remains uncertain and the UK’s growth rate stays weak, its governor, Andrew Bailey, has said.</p><p>In a signal that borrowing costs will remain at 3.75% at least during the summer, Bailey said it was tolerable for inflation to stay above the Bank’s 2% target during the current crisis. However, that would change if a more permanent increase in prices began to take effect, he said.</p> <a href=\"https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty\">Continue reading...</a>",
+    "title": "Changes at CBS put pressure on California AG to challenge Paramount-Warner Bros. deal",
+    "link": "https://www.marketwatch.com/story/changes-at-cbs-put-pressure-on-california-ag-to-challenge-paramount-warner-bros-deal-8b3dcec3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T19:23:00+00:00",
+    "summary": "With the DOJ expected to approve the $110 billion Hollywood megamerger, political concerns over turmoil at Paramount’s CBS may push Democratic AGs to act, experts say.",
     "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9122
+    "sentiment_score": -0.5267
   },
   {
-    "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
-    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
+    "title": "What’s next for investors after the AI rally supercharged stocks in May?",
+    "link": "https://www.marketwatch.com/story/whats-next-for-investors-after-the-ai-rally-supercharged-stocks-in-may-38b0d3aa?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T14:16:00+00:00",
-    "summary": "Fidelity’s first-quarter data shows 401(k) balances dipping — but it’s not all bad news.",
+    "published": "2026-05-29T18:23:00+00:00",
+    "summary": "Also: A way to invest in SpaceX before its IPO and advice from the Moneyist.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Dell’s stunning 30% stock rally is giving a big boost to shares of other server makers",
+    "link": "https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T18:17:00+00:00",
+    "summary": "Dell’s blowout earnings report is highlighting how the AI buildout is also driving demand for old-school computing.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6027
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
+    "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T17:30:00+00:00",
+    "summary": "“We did not seek or consider other offers. We engaged several professionals throughout the process.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
     "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
     "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
     "source": "CNBC Finance",
-    "published": "2026-05-29T14:06:12+00:00",
+    "published": "2026-05-29T16:39:46+00:00",
     "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
     "matched_keywords": [
       "Interest Rates",
@@ -64,28 +86,17 @@
     "sentiment_score": 0.4939
   },
   {
-    "title": "Gap and American Eagle stock are both getting crushed, and neither retailer is blaming the economy",
-    "link": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T14:03:00+00:00",
-    "summary": "For two retailers that both saw their stock slide by a double-digit percentage after earnings, what may be most surprising is that executives at both Gap and American Eagle Outfitters say nothing is wrong with the economy.",
+    "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
+    "link": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
+    "source": "The Guardian Economics",
+    "published": "2026-05-29T14:25:57+00:00",
+    "summary": "<p>Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor says</p><p>The Bank of England is in no rush to raise interest rates while the outcome of the Iran war remains uncertain and the UK’s growth rate stays weak, its governor, Andrew Bailey, has said.</p><p>In a signal that borrowing costs will remain at 3.75% at least during the summer, Bailey said it was tolerable for inflation to stay above the Bank’s 2% target during the current crisis. However, that would change if a more permanent increase in prices began to take effect, he said.</p> <a href=\"https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty\">Continue reading...</a>",
     "matched_keywords": [
+      "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5824
-  },
-  {
-    "title": "Your portfolio can’t afford the real bill for the Iran war",
-    "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T13:56:00+00:00",
-    "summary": "The Pentagon claims the conflict has cost $29 billion — but the true cost is much higher and it’s fueling inflation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9122
   },
   {
     "title": "CFTC sues Rhode Island over actions against prediction markets",
@@ -364,17 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9042
-  },
-  {
-    "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-    "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-23T11:19:52+00:00",
-    "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
