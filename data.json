@@ -1,5 +1,41 @@
 [
   {
+    "title": "Gap and American Eagle stock are both getting crushed, and neither retailer is blaming the economy",
+    "link": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T08:58:00+00:00",
+    "summary": "For two retailers that both saw their stock slide by a double-digit percentage after earnings, what may be most surprising is that executives at both Gap and American Eagle Outfitters say nothing is wrong with the economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5824
+  },
+  {
+    "title": "The double 10K scenario: Wall Street veteran says the S&P 500 and gold can each reach that mark by the end of the decade",
+    "link": "https://www.marketwatch.com/story/the-double-10k-scenario-wall-street-veteran-says-the-s-p-500-and-gold-can-each-reach-that-mark-by-the-end-of-the-decade-402103ea?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T08:28:00+00:00",
+    "summary": "As the S&amp;P 500 soars even higher by the end of the decade, gold will be going along for the ride, says Yardeni Research.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+    "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T01:18:00+00:00",
+    "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
     "title": "Dell stock soars toward another record high as the AI boom drives a big earnings beat",
     "link": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -337,41 +373,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-    "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-22T11:45:23+00:00",
-    "summary": "Integrating American AI in Asia is high on the agenda for the U.S., according to a senior official for APEC and economic policy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "China calls for APEC cooperation as commerce minister skips opening over ‘urgent official business’",
-    "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-22T10:14:21+00:00",
-    "summary": "China's international trade representative Li Chenggang said he was chairing Friday's meeting as Commerce Minister Wang Wentao had urgent matters to attend to.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
-    "link": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
-    "source": "The Guardian Economics",
-    "published": "2026-05-22T08:55:17+00:00",
-    "summary": "<p>The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bn</p><p>The UK borrowed more than expected in April as high inflation drove up the cost of pensions and benefits, with concern over the Iran war and political uncertainty adding to debt costs.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/april2026\">Office for National Statistics (ONS)</a> said public sector net borrowing – the difference between government spending and income – was £24.3bn in April 2026, £4.9bn higher than in April 2025.</p> <a href=\"https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   }
 ]
