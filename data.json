@@ -1,5 +1,101 @@
 [
   {
+    "title": "A mystery man tried to buy Playboy’s high-end lingerie business. It turned out to all be a scam.",
+    "link": "https://www.marketwatch.com/story/a-mystery-man-tried-to-buy-playboys-high-end-lingerie-business-it-turned-out-to-all-be-a-scam-4d8c0ae9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T22:09:00+00:00",
+    "summary": "Prosecutors say Kevin Juin used money he raised to buy the company Honey Birdette to purchase luxury watches, jewelry, private-club memberships and OnlyFans subscriptions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Gap and American Eagle shares both get crushed — and neither retailer is blaming the economy",
+    "link": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T21:49:00+00:00",
+    "summary": "Despite earnings that underwhelmed investors, executives at both Gap and American Eagle Outfitters said nothing is wrong with the economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5547
+  },
+  {
+    "title": "Oil slides, stocks climb as Trump puts off determination on Iran proposal",
+    "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T21:35:00+00:00",
+    "summary": "A White House meeting Friday ended without a decision by the U.S. president.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "ServiceNow’s stock soars to a historic month as AI fears fade across software",
+    "link": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T21:24:00+00:00",
+    "summary": "ServiceNow shares gained over 40% this month, leading an industrywide relief rally among enterprise software companies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Dell’s stunning 33% stock rally gave a big boost to shares of other server makers",
+    "link": "https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T21:00:00+00:00",
+    "summary": "Dell’s blowout earnings report is highlighting how the AI buildout is also driving demand for old-school computing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "Here’s the real story behind the record drop in America’s oil reserves",
+    "link": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T20:55:00+00:00",
+    "summary": "Stocks in the nation’s Strategic Petroleum Reserve are near their lowest in more than 40 years — but it may not matter",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.353
+  },
+  {
+    "title": "These S&P 500 stocks soared the most during the AI-driven May rally",
+    "link": "https://www.marketwatch.com/story/these-s-p-500-stocks-have-soared-the-most-during-the-ai-driven-may-rally-570ad48f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T20:43:00+00:00",
+    "summary": "Even stocks in the beleaguered software industry have been on fire.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check",
+    "link": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-29T20:28:00+00:00",
+    "summary": "The red-hot space sector was feeling some heat on Friday, cooling from some of the spectacular gains seen in May.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
     "title": "Oil prices tumble nearly 20% in May — the biggest monthly drop since 2020. Here’s what’s next.",
     "link": "https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,66 +106,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
-  },
-  {
-    "title": "Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check",
-    "link": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T19:26:00+00:00",
-    "summary": "The red-hot space sector was feeling some heat on Friday, cooling from some of the spectacular gains seen in May.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "Changes at CBS put pressure on California AG to challenge Paramount-Warner Bros. deal",
-    "link": "https://www.marketwatch.com/story/changes-at-cbs-put-pressure-on-california-ag-to-challenge-paramount-warner-bros-deal-8b3dcec3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T19:23:00+00:00",
-    "summary": "With the DOJ expected to approve the $110 billion Hollywood megamerger, political concerns over turmoil at Paramount’s CBS may push Democratic AGs to act, experts say.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "What’s next for investors after the AI rally supercharged stocks in May?",
-    "link": "https://www.marketwatch.com/story/whats-next-for-investors-after-the-ai-rally-supercharged-stocks-in-may-38b0d3aa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T18:23:00+00:00",
-    "summary": "Also: A way to invest in SpaceX before its IPO and advice from the Moneyist.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Dell’s stunning 30% stock rally is giving a big boost to shares of other server makers",
-    "link": "https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T18:17:00+00:00",
-    "summary": "Dell’s blowout earnings report is highlighting how the AI buildout is also driving demand for old-school computing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8126
-  },
-  {
-    "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
-    "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T17:30:00+00:00",
-    "summary": "“We did not seek or consider other offers. We engaged several professionals throughout the process.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
   },
   {
     "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
@@ -337,43 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5267
-  },
-  {
-    "title": "UK consumers likely to face higher prices ‘for many months to come’",
-    "link": "https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come",
-    "source": "The Guardian Economics",
-    "published": "2026-05-26T04:00:46+00:00",
-    "summary": "<p>Data shows even if Iran war ends, shop price inflation on rise, while only 16% of firms left unscathed by conflict</p><p>Higher prices could persist over the summer even if <a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">ceasefire talks between the US and Iran bear fruit</a>, consumers have been warned, with economic shock waves likely to be felt “for many months to come”.</p><p>Disruption to global shipping, coupled with soaring prices for energy and raw materials, have driven up costs for UK companies, with the impact already filtering through to prices paid at the tills, according to fresh inflation figures.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
-  },
-  {
-    "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-    "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-25T06:48:16+00:00",
-    "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
-    "source": "The Guardian Economics",
-    "published": "2026-05-24T11:31:38+00:00",
-    "summary": "<p>Global prices are approaching a tipping point that could trigger inflation, shortages and, over time, recession</p><p>If a US-Iran deal is about to be reached, three months on from the launch of Donald Trump’s Operation Epic Fury, it will not be a day too soon for oil markets, which are approaching a dangerous tipping point.</p><p>The cost of a barrel of crude on the spot market – for immediate purchase, effectively – has bounced about $100 since Iran predictably responded to the onslaught from the US and Israel by closing the strait of Hormuz.</p> <a href=\"https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9042
   }
 ]
