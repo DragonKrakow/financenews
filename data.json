@@ -1,5 +1,79 @@
 [
   {
+    "title": "The U.S.-China rivalry is killing global supply chains. Your portfolio needs a ‘home court advantage.’",
+    "link": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-30T13:35:00+00:00",
+    "summary": "Globalization is giving way to geopolitical power cartels and a structural shift toward domestic, state-subsidized industries.",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+    "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-30T13:21:00+00:00",
+    "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
+    "link": "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
+    "source": "The Guardian Economics",
+    "published": "2026-05-30T13:00:20+00:00",
+    "summary": "<p>Healthcare should be free but lack of essential supplies has led to patients being told to buy their own medicines</p><p>In late 2023, Boitumelo Mosege fell sick. Her neck swelled up, her whole body itched and she fainted frequently. She was diagnosed with hyperthyroidism and had to give up her work as a farmer on the outskirts of Molepolole, a town about 30 miles north-west of Botswana’s capital, Gaborone.</p><p>In Botswana, public healthcare is supposed to be universal and free. However, Mosege said she had only sporadically received medication since becoming ill. The 53-year-old relies on her four children’s occasional piecework (where a worker is paid a fixed rate per task or unit produced), and her mother’s 1,400 pula (£77) monthly pension, to afford 2,000 pula-worth of medication every month. In early May, she said it was three months since she had last bought medicine.</p> <a href=\"https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "Wall Street’s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record",
+    "link": "https://www.marketwatch.com/story/wall-streets-red-hot-momentum-trade-is-still-winning-as-strategy-delivers-best-2-month-gain-on-record-e3984391?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-30T13:00:00+00:00",
+    "summary": "The S&amp;P 500 Momentum Index is ripping higher as semiconductor stocks power the stock market upward.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9001
+  },
+  {
+    "title": "What would cause the Fed to hike rates this year? The answer might surprise you.",
+    "link": "https://www.marketwatch.com/story/what-would-cause-the-fed-to-hike-rates-this-year-the-answer-might-surprise-you-8c500ada?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-30T12:00:00+00:00",
+    "summary": "Later this month, the Kevin Warsh-led central bank will start preparing a possible pivot to tighter policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Inflation won Trump the presidency, but could cost him the midterms",
+    "link": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
+    "source": "The Guardian Economics",
+    "published": "2026-05-30T11:00:18+00:00",
+    "summary": "<p>Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s elections</p><p>For such an uncannily successful politician, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> exhibits a perplexing political myopia. His most recent own-goal was endorsing Ken Paxton, a state attorney general, against four-term senator John Cornyn in the Republican primary for Senate in Texas. Trump’s endorsement helped push the <a href=\"https://www.nytimes.com/2026/05/18/us/politics/ken-paxton-texas-senate-race.html\">ethically compromised Maga firebrand</a> over the top, to run against popular Democrat James Talarico in November, complicating the Republicans’ chances to keep the seat.</p><p>But what truly screams “I want us to lose the midterms” is what Trump is doing about inflation, which is becoming his most vulnerable issue. According to a <a href=\"https://www.nytimes.com/interactive/2026/05/21/polls/times-siena-national-poll-toplines.html\">New York Times/Siena poll</a> of registered voters earlier in May, Trump’s approval on handling the cost of living is underwater by 42 percentage points, poorer than his rating on handling the economy (minus 31 points) and the unpopular war in Iran (minus 34 points).</p> <a href=\"https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2592
+  },
+  {
     "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
     "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,90 +96,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5719
-  },
-  {
-    "title": "Gap and American Eagle shares both get crushed — and neither retailer is blaming the economy",
-    "link": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T21:49:00+00:00",
-    "summary": "Despite earnings that underwhelmed investors, executives at both Gap and American Eagle Outfitters said nothing is wrong with the economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5547
-  },
-  {
-    "title": "Oil slides, stocks climb as Trump puts off determination on Iran proposal",
-    "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T21:35:00+00:00",
-    "summary": "A White House meeting Friday ended without a decision by the U.S. president.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "ServiceNow’s stock soars to a historic month as AI fears fade across software",
-    "link": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T21:24:00+00:00",
-    "summary": "ServiceNow shares gained over 40% this month, leading an industrywide relief rally among enterprise software companies.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "Dell’s stunning 33% stock rally gave a big boost to shares of other server makers",
-    "link": "https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T21:00:00+00:00",
-    "summary": "Dell’s blowout earnings report is highlighting how the AI buildout is also driving demand for old-school computing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
-    "title": "Here’s the real story behind the record drop in America’s oil reserves",
-    "link": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T20:55:00+00:00",
-    "summary": "Stocks in the nation’s Strategic Petroleum Reserve are near their lowest in more than 40 years — but it may not matter",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.353
-  },
-  {
-    "title": "These S&P 500 stocks soared the most during the AI-driven May rally",
-    "link": "https://www.marketwatch.com/story/these-s-p-500-stocks-have-soared-the-most-during-the-ai-driven-may-rally-570ad48f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T20:43:00+00:00",
-    "summary": "Even stocks in the beleaguered software industry have been on fire.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check",
-    "link": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T20:28:00+00:00",
-    "summary": "The red-hot space sector was feeling some heat on Friday, cooling from some of the spectacular gains seen in May.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
   },
   {
     "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
@@ -373,5 +363,18 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5267
+  },
+  {
+    "title": "UK consumers likely to face higher prices ‘for many months to come’",
+    "link": "https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come",
+    "source": "The Guardian Economics",
+    "published": "2026-05-26T04:00:46+00:00",
+    "summary": "<p>Data shows even if Iran war ends, shop price inflation on rise, while only 16% of firms left unscathed by conflict</p><p>Higher prices could persist over the summer even if <a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">ceasefire talks between the US and Iran bear fruit</a>, consumers have been warned, with economic shock waves likely to be felt “for many months to come”.</p><p>Disruption to global shipping, coupled with soaring prices for energy and raw materials, have driven up costs for UK companies, with the impact already filtering through to prices paid at the tills, according to fresh inflation figures.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
   }
 ]
