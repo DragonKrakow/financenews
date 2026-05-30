@@ -1,5 +1,17 @@
 [
   {
+    "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
+    "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-30T08:19:00+00:00",
+    "summary": "“We did not seek or consider other offers. We engaged several professionals throughout the process.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
     "title": "A mystery man tried to buy Playboy’s high-end lingerie business. It turned out to all be a scam.",
     "link": "https://www.marketwatch.com/story/a-mystery-man-tried-to-buy-playboys-high-end-lingerie-business-it-turned-out-to-all-be-a-scam-4d8c0ae9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -94,18 +106,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4404
-  },
-  {
-    "title": "Oil prices tumble nearly 20% in May — the biggest monthly drop since 2020. Here’s what’s next.",
-    "link": "https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-29T19:52:00+00:00",
-    "summary": "Global oil prices tumbled over 20% in May on hopes for the U.S.-Iran peace deal.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   },
   {
     "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
