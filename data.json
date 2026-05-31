@@ -1,5 +1,41 @@
 [
   {
+    "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+    "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-31T12:00:00+00:00",
+    "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
+    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-31T11:50:00+00:00",
+    "summary": "“I calculated her break-even point to be around age 78.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "Disaster of Brexit is a warning against simple solutions to hard problems | Richard Partington",
+    "link": "https://www.theguardian.com/politics/2026/may/31/disaster-brexit-warning-simple-solutions-hard-problems",
+    "source": "The Guardian Economics",
+    "published": "2026-05-31T10:41:34+00:00",
+    "summary": "<p>Alan Milburn says youth unemployment has no quick fixes – an idea with an important lesson for those thinking about how to rejoin the EU</p><p>Mainstream politicians are rarely direct. It is part of the reason why their populist counterparts thrive: they say it like it is. No nonsense. Let’s get things done. But last week Alan Milburn had a frank rebuttal: “Everybody goes for the bloody easy solution, don’t they? You can’t just go for the easy solution, OK? There are no easy solutions, guys. None. They’re all hard.”</p><p>Speaking at the launch of his review into <a href=\"https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets\">Britain’s youth worklessness crisis</a>, the former Labour cabinet minister was arguing that one tax U-turn could not fix a problem decades in the making.</p> <a href=\"https://www.theguardian.com/politics/2026/may/31/disaster-brexit-warning-simple-solutions-hard-problems\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1002
+  },
+  {
     "title": "As Big Tech’s power demand surges, data centers bring utilities a huge new profit center",
     "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -24,18 +60,6 @@
     "sentiment_score": -0.8834
   },
   {
-    "title": "Your portfolio can’t afford the real bill for the Iran war",
-    "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T18:18:00+00:00",
-    "summary": "The Pentagon claims the conflict has cost $29 billion — but the true cost is much higher and it’s fueling inflation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
     "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
     "link": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
     "source": "CNBC Finance",
@@ -46,18 +70,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T15:18:00+00:00",
-    "summary": "“I calculated her break-even point to be around age 78.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
   },
   {
     "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
@@ -363,17 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6369
-  },
-  {
-    "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-    "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-25T06:48:16+00:00",
-    "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
   }
 ]
