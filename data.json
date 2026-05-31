@@ -60,30 +60,6 @@
     "sentiment_score": 0.8225
   },
   {
-    "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
-    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T15:00:00+00:00",
-    "summary": "Fidelity’s first-quarter data shows 401(k) balances dipping — but it’s not all bad news.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6027
-  },
-  {
-    "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
-    "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T14:58:00+00:00",
-    "summary": "Time in the stock market is more important than index selection — and the Dow’s 130-year history proves it.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5083
-  },
-  {
     "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
     "link": "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
     "source": "The Guardian Economics",
@@ -374,5 +350,30 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5267
+  },
+  {
+    "title": "UK consumers likely to face higher prices ‘for many months to come’",
+    "link": "https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come",
+    "source": "The Guardian Economics",
+    "published": "2026-05-26T04:00:46+00:00",
+    "summary": "<p>Data shows even if Iran war ends, shop price inflation on rise, while only 16% of firms left unscathed by conflict</p><p>Higher prices could persist over the summer even if <a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">ceasefire talks between the US and Iran bear fruit</a>, consumers have been warned, with economic shock waves likely to be felt “for many months to come”.</p><p>Disruption to global shipping, coupled with soaring prices for energy and raw materials, have driven up costs for UK companies, with the impact already filtering through to prices paid at the tills, according to fresh inflation figures.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+    "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-25T06:48:16+00:00",
+    "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
   }
 ]
