@@ -1,5 +1,17 @@
 [
   {
+    "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
+    "link": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-31T14:00:00+00:00",
+    "summary": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
     "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
     "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,18 +58,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5719
-  },
-  {
-    "title": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
-    "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T18:36:00+00:00",
-    "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8834
   },
   {
     "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
