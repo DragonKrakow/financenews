@@ -1,64 +1,103 @@
 [
   {
-    "title": "Oil rises, U.S. stock futures inch higher as Wall Street looks to extend its winning streak",
-    "link": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T02:49:00+00:00",
-    "summary": "U.S. stock-index futures rose slightly on Sunday, as Wall Street looks to stretch the market’s record-setting rally into June.",
+    "title": "Oil and gas prices rise as US and Iran trade strikes; UK house prices fall – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-01T11:32:20+00:00",
+    "summary": "<p>British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reports</p><p><strong>Eurozone factories were hit by the biggest jump in input costs in four years last month.</strong></p><p>The Iran war drove up the cost of raw materials and intermediate goods, according to the latest poll of purchasing managers at European manufacturers.</p><p>Although euro area manufacturers reported an expansion for a fourth successive month in May, the sector is showing signs of struggling under the weight of rising prices and supply disruptions emanating from the war in the Middle East.</p><p>“A key development in May was yet another surge in energy and raw material prices, causing the largest monthly jump in firms’ costs for four years. The incidence of supply chain delays has meanwhile risen to the highest since the pandemic supply squeeze of 2022, adding further upward pressure to prices.</p><p>“Global turmoil is taking a toll on the property market. House prices fell between April and May and are up just 1.7% in a year. It’s a valuable reminder that property investments aren’t always safe as houses.</p><p>“The Nationwide House Price Index only provides a partial picture of the market, but it’s particularly timely, because it looks at prices at the point of mortgage approvals – months ahead of the completion data we get from the Office for National Statistics.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil"
+      "Oil",
+      "AI",
+      "Supply Chain"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6705
   },
   {
-    "title": "Jerome Powell warns that politicizing Fed will erode its credibility",
-    "link": "https://www.marketwatch.com/story/jerome-powell-warns-that-politicizing-fed-will-erode-its-credibility-34fa4f14?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T02:41:00+00:00",
-    "summary": "Former Fed Chair Jerome Powell on Sunday called the Federal Reserve’s independence “a priceless asset” that must be protected, in one of his first major speeches since stepping down from his post earlier this month.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
-    "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T23:35:00+00:00",
-    "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+    "title": "Nvidia, Meta and Schlumberger rank among top companies adopting AI, new study says",
+    "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T11:23:24+00:00",
+    "summary": "The AI-Driven Enterprise Institute released new research that breaks down how well S&amp;P 500 companies are adopting AI compared to their peers.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
   },
   {
-    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
-    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
+    "title": "Oil prices rise after fresh wave of attacks between U.S. and Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T23:14:00+00:00",
-    "summary": "“The sister claims she does not have to explain herself to anyone.”",
+    "published": "2026-06-01T11:23:00+00:00",
+    "summary": "West Texas Intermediate and Brent crude’s front month contracts both climbed a as hopes for a peace deal became clouded again.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
+  },
+  {
+    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T11:00:01+00:00",
+    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
+    "sentiment_score": -0.7717
   },
   {
-    "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
-    "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
+    "title": "Arm’s stock may be the biggest beneficiary of Nvidia’s new AI effort",
+    "link": "https://www.marketwatch.com/story/arms-stock-may-be-the-biggest-beneficiary-of-nvidias-new-ai-effort-108ca244?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T20:08:00+00:00",
-    "summary": "Time in the stock market is more important than index selection — and the Dow’s 130-year history proves it.",
+    "published": "2026-06-01T10:58:00+00:00",
+    "summary": "Nvidia’s new RTX Spark PC chip uses Arm technology.",
     "matched_keywords": [
-      "Election"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5083
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Intel and AMD shares fall more than Nvidia rises on new PC superchip",
+    "link": "https://www.marketwatch.com/story/intel-and-amd-shares-fall-more-than-nvidia-rises-on-new-pc-superchip-08b2411f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-01T09:53:00+00:00",
+    "summary": "Nvidia and Microsoft have announced the launch of PCs powered by the RTX Spark chip, which is built for artificial intelligence agents.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "‘I am 71 and comfortable’: Should I sell $10,000 in stock to visit my grandkids in Thailand — or dip into my $50,000 savings?",
+    "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-01T09:33:00+00:00",
+    "summary": "“The trip is worth the expense, especially while I am still healthy enough to travel.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+    "link": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T05:45:45+00:00",
+    "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.",
+    "matched_keywords": [
+      "AI",
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Disaster of Brexit is a warning against simple solutions to hard problems | Richard Partington",
@@ -337,43 +376,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9598
-  },
-  {
-    "title": "BP chair removed over ‘unacceptable’ governance oversight and conduct issues; UK petrol prices hit new Iran war high – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-26T14:26:46+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/26/bp-chair-albert-manifold-ian-tyler\">Full story: <strong>BP removes chair Albert Manifold over ‘serious’ governance and conduct concerns</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks#maincontent\"><strong>Middle East crisis live: US attacks Iran missile sites as Tehran negotiators hold talks in Qatar</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries\"><strong>Rachel Reeves tells ministers to ‘buy British’ in four key industries</strong></a></p></li></ul><p><strong>The economic consequences of the spike in oil and gas prices since the Iran war started will be brought home to British households tomorrow.</strong></p><p>Energy regulator Ofgem is due to set the latest price cap at 7am on Wednesday, dictating the maximum a supplier can charge for the July-September quarter.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9413
-  },
-  {
-    "title": "Oil price rises back above $100 a barrel as energy market may be past ‘point of no return’",
-    "link": "https://www.theguardian.com/business/2026/may/26/oil-price-energy-market-us-iran-peace-talks",
-    "source": "The Guardian Economics",
-    "published": "2026-05-26T12:29:56+00:00",
-    "summary": "<p>Crude rises after US strikes on Iran dampen hopes of peace deal, with experts saying talks appear stuck in ‘endless loop’</p><p>Oil rose back above $100 a barrel on Tuesday, after <a href=\"https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive\">fresh US strikes on Iran</a> dashed hopes of a Middle East breakthrough, with experts saying that whatever the outcome of peace talks, the global energy market may now be past the “point of no return”.</p><p>News of the US attacks on missile launch sites and mine-laying vessels pushed the price of Brent crude past the key threshold on Tuesday, as a peace deal remained elusive.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/oil-price-energy-market-us-iran-peace-talks\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
-    "link": "https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-05-26T09:58:03+00:00",
-    "summary": "<p>Peer’s comments come as Milburn report is likely to find government has failed to tackle youth unemployment</p><p>The boss of Next has sounded the alarm about a “dramatic fall” in the number of entry-level jobs in the UK that is driving up youth unemployment, saying the retailer now receives twice as many applicants for each role than two years ago.</p><p>Lord Wolfson said the clothing and homeware chain, where he has been chief executive since 2001, typically received 10 applications for every job in its shops in 2024 but that number has now risen to 19.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
   }
 ]
