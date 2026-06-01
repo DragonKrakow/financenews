@@ -1,21 +1,34 @@
 [
   {
-    "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
-    "link": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
+    "title": "Oil rises, U.S. stock futures inch higher as Wall Street looks to extend its winning streak",
+    "link": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T14:00:00+00:00",
-    "summary": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular.”",
+    "published": "2026-06-01T02:49:00+00:00",
+    "summary": "U.S. stock-index futures rose slightly on Sunday, as Wall Street looks to stretch the market’s record-setting rally into June.",
     "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Jerome Powell warns that politicizing Fed will erode its credibility",
+    "link": "https://www.marketwatch.com/story/jerome-powell-warns-that-politicizing-fed-will-erode-its-credibility-34fa4f14?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-01T02:41:00+00:00",
+    "summary": "Former Fed Chair Jerome Powell on Sunday called the Federal Reserve’s independence “a priceless asset” that must be protected, in one of his first major speeches since stepping down from his post earlier this month.",
+    "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
   },
   {
     "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
     "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T12:00:00+00:00",
+    "published": "2026-05-31T23:35:00+00:00",
     "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
     "matched_keywords": [
       "AI"
@@ -24,16 +37,28 @@
     "sentiment_score": 0.0516
   },
   {
-    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+    "title": "‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?",
+    "link": "https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-05-31T11:50:00+00:00",
-    "summary": "“I calculated her break-even point to be around age 78.”",
+    "published": "2026-05-31T23:14:00+00:00",
+    "summary": "“The sister claims she does not have to explain herself to anyone.”",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
+    "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-05-31T20:08:00+00:00",
+    "summary": "Time in the stock market is more important than index selection — and the Dow’s 130-year history proves it.",
+    "matched_keywords": [
+      "Election"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
+    "sentiment_score": 0.5083
   },
   {
     "title": "Disaster of Brexit is a warning against simple solutions to hard problems | Richard Partington",
@@ -46,18 +71,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1002
-  },
-  {
-    "title": "As Big Tech’s power demand surges, data centers bring utilities a huge new profit center",
-    "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-05-30T18:56:00+00:00",
-    "summary": "The market hasn’t fully priced the next logical step for the AI buildout: Big Tech acquiring regulated utilities outright.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
   },
   {
     "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
@@ -362,18 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5267
-  },
-  {
-    "title": "UK consumers likely to face higher prices ‘for many months to come’",
-    "link": "https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come",
-    "source": "The Guardian Economics",
-    "published": "2026-05-26T04:00:46+00:00",
-    "summary": "<p>Data shows even if Iran war ends, shop price inflation on rise, while only 16% of firms left unscathed by conflict</p><p>Higher prices could persist over the summer even if <a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">ceasefire talks between the US and Iran bear fruit</a>, consumers have been warned, with economic shock waves likely to be felt “for many months to come”.</p><p>Disruption to global shipping, coupled with soaring prices for energy and raw materials, have driven up costs for UK companies, with the impact already filtering through to prices paid at the tills, according to fresh inflation figures.</p> <a href=\"https://www.theguardian.com/business/2026/may/26/uk-consumers-likely-to-face-higher-prices-for-many-months-to-come\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
   }
 ]
