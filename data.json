@@ -1,40 +1,126 @@
 [
   {
-    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
-    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "title": "Dollar General says customers are buying less food because driving is too expensive",
+    "link": "https://www.marketwatch.com/story/dollar-general-says-customers-are-buying-less-food-because-driving-is-too-expensive-d2f52dc6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T16:06:00+00:00",
-    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "published": "2026-06-02T20:40:00+00:00",
+    "summary": "“This pressure has been more pronounced on customers in rural communities as they work to minimize trip distance,” the discount retailer’s CEO said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Beyond the ‘brazen theft’ of news: The entire $12 trillion creative economy may now be at risk from AI",
+    "link": "https://www.marketwatch.com/story/beyond-the-brazen-theft-of-news-the-entire-12-trillion-creative-economy-may-now-be-at-risk-from-ai-7c993830?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T19:44:00+00:00",
+    "summary": "AI firms heavily use news and other creative content to provide answers — but New York Times Publisher A.G. Sulzberger says their resistance to pay for it amounts to a repackaging of “stolen goods.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
+    "sentiment_score": 0.1901
   },
   {
-    "title": "Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock",
-    "link": "https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories",
+    "title": "My late husband had a higher Social Security benefit. We both claimed at 62. Can I get more on his record?",
+    "link": "https://www.marketwatch.com/story/my-late-husband-had-a-higher-social-security-benefit-we-both-claimed-at-62-can-i-get-more-on-his-record-3a68aaca?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T15:56:00+00:00",
-    "summary": "The company’s “aggressive” cadence and performance improvements for its switching chips will also keep it ahead of competitors, an analyst said.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Trump taps Pulte for a top intelligence job. This makes an IPO for Fannie and Freddie look even more unlikely.",
-    "link": "https://www.marketwatch.com/story/trump-taps-pulte-for-a-top-intelligence-job-this-makes-an-ipo-for-fannie-and-freddie-look-even-more-unlikely-c54dc83b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T15:46:00+00:00",
-    "summary": "Shares in Fannie Mae and Freddie Mac tumbled Tuesday as traders reacted to President Donald Trump’s announcement that Bill Pulte, the chair of the two government-backed mortgage giants, would serve as acting director for national intelligence.",
+    "published": "2026-06-02T19:38:00+00:00",
+    "summary": "Early benefit claiming can affect your ultimate payment amount, though not always for survivors.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8583
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "Victoria’s Secret’s stock is on track for its best day ever. It came down to better bras.",
+    "link": "https://www.marketwatch.com/story/victorias-secrets-stock-is-on-track-for-its-best-day-ever-it-came-down-to-better-bras-fb82f017?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T19:34:00+00:00",
+    "summary": "Lingerie retailer’s shares were up 47% on Tuesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8519
+  },
+  {
+    "title": "Trump signs a scaled-back executive order on AI. Critics say it’s almost meaningless.",
+    "link": "https://www.marketwatch.com/story/trump-signs-an-executive-order-on-ai-after-its-scaled-back-critics-says-its-almost-meaningless-ec1c25b9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T19:17:00+00:00",
+    "summary": "President Donald Trump on Tuesday signed an executive order on artificial intelligence that aims to set up a framework for AI companies to voluntarily inform the federal government about new models 30 days before their release.",
+    "matched_keywords": [
+      "Fed",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1796
+  },
+  {
+    "title": "Why Lumentum, Coherent and other optical stocks are rocketing toward big gains",
+    "link": "https://www.marketwatch.com/story/why-lumentum-coherent-and-other-optical-stocks-are-rocketing-toward-big-gains-d5a2e9c7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T19:11:00+00:00",
+    "summary": "Nvidia’s Jensen Huang spoke highly of Marvell, and his comments are sparking broad enthusiasm for providers of optical components.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "The S&P 500 is climbing for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning",
+    "link": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T19:11:00+00:00",
+    "summary": "The S&amp;P 500’s latest string of records has come with a catch: Fewer stocks are participating in the rally.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+    "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-02T19:06:48+00:00",
+    "summary": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-02T17:33:32+00:00",
+    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7717
+  },
+  {
+    "title": "What Blair gets wrong about the economy – it is fired by people, not business | Letters",
+    "link": "https://www.theguardian.com/business/2026/jun/02/what-blair-gets-wrong-about-the-economy-it-is-fired-by-people-not-business",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T16:38:36+00:00",
+    "summary": "<p>Readers respond to Jonathan Freedland’s article about Tony Blair’s vision for the future</p><p>Jonathan Freedland says Tony Blair “would say you can only address [poverty and inequality] once the economy is firing. Maybe” (<a href=\"https://www.theguardian.com/commentisfree/2026/may/29/tony-blair-says-he-is-all-about-the-future-but-his-vision-is-woefully-stuck-in-the-past\">Tony Blair says he is all about the future – but his vision is woefully stuck in the past, 29 May</a>). In fact poverty and inequality are the reasons the economy is misfiring. In the big economic crashes of history, gross inequality has been present.</p><p>After 47 years, you would think that the obsession with supply-side economics might have been rumbled, but no: acres of newsprint are expended on the idea that incentivised businessmen alone can reboot the economy. There can be no animal spirits if there is no market to buy the goods. And things like people having to spend as much as 40% of their weekly salary on rent explains why there is no market, at least not without people having to get into dangerous and silly amounts of debt.</p> <a href=\"https://www.theguardian.com/business/2026/jun/02/what-blair-gets-wrong-about-the-economy-it-is-fired-by-people-not-business\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9856
   },
   {
     "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
@@ -49,43 +135,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9049
-  },
-  {
-    "title": "NYC bar uses prediction markets to hedge against a new financial risk: A Knicks victory",
-    "link": "https://www.marketwatch.com/story/nyc-bar-uses-prediction-markets-to-hedge-against-a-new-financial-risk-a-knicks-victory-54bc7297?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T14:46:00+00:00",
-    "summary": "Wall Street investors use financial derivatives to hedge against shifts in interest rates and exchange rates. Farmers use them to lock in the price of their crops. Now, one New York City bar is using Kalshi, a CFTC-regulated prediction-markets platform, to hedge against another kind of risk.",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1263
-  },
-  {
-    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T14:00:00+00:00",
-    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Wall Street’s AI stock-picking secrets aren’t coming to your portfolio",
-    "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T13:55:00+00:00",
-    "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "Will the AI economy create a permanent underclass?",
@@ -149,18 +198,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
-  },
-  {
-    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
-    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-01T15:37:30+00:00",
-    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
   },
   {
     "title": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
@@ -341,42 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5423
-  },
-  {
-    "title": "Modelling shows 90% of young Australians will be better off under Labor’s tax reforms",
-    "link": "https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T10:03:48+00:00",
-    "summary": "<p>The $1,000 tax deduction, $250 ‘working Australians tax offset’, and CGT and negative gearing changes will benefit most young people, Treasury secretary says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ninety per cent of young Australians will be better off under the Albanese government’s tax proposals, the Treasury claims, as Labor moves to pass its reforms into law.</p><p>The government introduced the tax changes to parliament on Thursday before a heated question time in which the opposition leader, Angus Taylor, called Anthony Albanese an “arrogant prick”, while separately the Nationals demanded the government call an early election.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7524
-  },
-  {
-    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "link": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-28T00:52:00+00:00",
-    "summary": "The complaint from the Southern District of New York comes just over a month after another insider trading case on Polymarket.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
-    "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-27T22:18:07+00:00",
-    "summary": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
