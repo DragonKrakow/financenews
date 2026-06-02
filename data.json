@@ -1,5 +1,92 @@
 [
   {
+    "title": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T10:09:29+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo\">Anthropic confidentially files for initial public offering on US stock market</a></p></li></ul><p><strong>In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European Central Bank.</strong></p><p>The <strong>ECB</strong> says that gold made up 27% of total official foreign reserves at the end of 2025, ahead of US Treasuries (22% of reserves) and the euro (15%).</p><p>Forces of fragmentation are becoming more pronounced. Geopolitical tensions continue to drive strong central bank demand for gold.</p><p>In nominal terms, the gold price surged by around 60% and 30% in 2025 and 2024 respectively, which mechanically increases the share of gold in total official foreign reserves.</p><p>Correcting for such valuation effects by using the gold price at the end of 2023, the share of the euro (16%) remains at par with the share of gold (16%), while the share of US Treasuries continues to be markedly higher (26%).</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9107
+  },
+  {
+    "title": "Gold is an awkward asset for central banks to hold. It’s now moved ahead of U.S. debt anyway.",
+    "link": "https://www.marketwatch.com/story/gold-is-an-awkward-asset-for-central-banks-to-hold-its-now-moved-ahead-of-u-s-debt-anyway-b06733d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T09:56:00+00:00",
+    "summary": "The debt of the world’s biggest economy is no longer the primary reserve asset for central banks worldwide.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "Nvidia’s Huang said Marvell could join the trillion-dollar club — and the stock immediately surges",
+    "link": "https://www.marketwatch.com/story/nvidias-huang-said-marvell-could-join-the-trillion-dollar-club-and-the-stock-immediately-surges-39c31f03?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T09:53:00+00:00",
+    "summary": "Nvidia CEO Jensen Huang called the semiconductor company “so essential” to the development of artificial intelligence.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns",
+    "link": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T08:35:00+00:00",
+    "summary": "Deutsche Bank analyst downgraded SoftBank to hold.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
+    "link": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T07:55:00+00:00",
+    "summary": "Berkshire Hathaway is buying Alphabet’s stock at a discount as part of a newly announced equity offering.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
+    "link": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T05:00:39+00:00",
+    "summary": "<p>New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunity</p><p>In a dimly lit television studio, one of Hungary’s richest men is on the verge of tears. It is early May, weeks after the general election that ended Viktor Orbán’s 16-year grip on power, and the advertising mogul Balásy Gyula has an announcement to make.</p><p>Gyula <a href=\"https://www.youtube.com/watch?v=cslzmXaC51M\">tells the interviewer</a> that he has just surrendered his businesses to the state, along with a chunk of his private savings. He has even brought along a notarised deed – a legal document setting out the change of ownership.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9313
+  },
+  {
+    "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T05:00:38+00:00",
+    "summary": "<p>Austerity has benefitted bond traders but impoverished British society and led to the rise of populism. Is it right that we carry on adhering to their interests?</p><p>Should politics always be dominated by economics? Should questions about how governments and voters pay for things – whether by earnings, taxes or borrowing – be settled before we consider the wider consequences?</p><p>In an anxious capitalist democracy such as Britain, with a modern history of patchy economic success and intermittent but recurring crises over public debt, the answer may seem obvious: governments and voters always need to behave in ways that fit with the market forces that shape our economy.</p><p>Andy Beckett is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7041
+  },
+  {
     "title": "Job seekers are using ‘AI role-play’ to negotiate salary. Here’s how to do it.",
     "link": "https://www.marketwatch.com/story/job-seekers-are-using-ai-role-play-to-negotiate-salary-heres-how-to-do-it-149123b7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,67 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.743
-  },
-  {
-    "title": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
-    "link": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T00:19:00+00:00",
-    "summary": "Berkshire Hathaway is buying Alphabet’s stock at a discount as part of a newly announced equity offering.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "As Micron’s stock blows past $1,000, Wall Street sees more gains in store",
-    "link": "https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T23:14:00+00:00",
-    "summary": "Micron stands to benefit from a favorable pricing environment, low competition — and now a new Nvidia chip, analysts say.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7713
-  },
-  {
-    "title": "I am 71. Would it be foolish to sell $10,000 in shares to visit my grandchildren in Thailand?",
-    "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T22:10:00+00:00",
-    "summary": "“I am comfortable living on my Social Security and pension income.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "OpenAI’s next legal battle is against states that claim its models are dangerous",
-    "link": "https://www.marketwatch.com/story/openais-next-legal-battle-is-against-states-who-claim-its-models-are-dangerous-04b093d7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T21:39:00+00:00",
-    "summary": "Florida Attorney General James Uthmeier sued OpenAI for putting children at risk, and said other states will likely also launch legal actions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "Many big oil tankers remain stuck in the Strait of Hormuz — and may not return once they escape",
-    "link": "https://www.marketwatch.com/story/many-big-oil-tankers-remain-stuck-in-strait-of-hormuz-and-may-not-return-once-they-escape-5b344e49?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-01T21:27:00+00:00",
-    "summary": "There’s doubt massive tankers, once the backbone of global crude flows, will be returning in quite the same numbers to the Middle East.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
   },
   {
     "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
@@ -349,30 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5719
-  },
-  {
-    "title": "Tony Blair is strong on diagnosis, deluded on prescription: Britain’s ills can’t be fixed by him | Larry Elliott",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
-    "source": "The Guardian Economics",
-    "published": "2026-05-27T13:26:40+00:00",
-    "summary": "<p>The former PM’s essay rightly calls for a coherent economic plan, but then sets too much store by AI – and a worldview stuck in the past</p><p><a href=\"https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump\">Tony Blair is right</a>. Labour has made some big and avoidable mistakes since it came to power nearly two years ago. Keir Starmer had a strategy for winning the election but lacked a coherent plan for what his government would do next. Fair cop.</p><p>Blair is also correct when he says that unless Britain tackles some long-term structural issues, it is in danger of being relegated from the “premier league of nations”. Achieving higher levels of sustainable growth is one challenge. Welfare reform is another. And as the former prime minister notes, reversing Brexit is not a solution to those problems.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1918
-  },
-  {
-    "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too",
-    "link": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-27T13:11:43+00:00",
-    "summary": "The new products allow customers to create AI assistants capable of carrying out investing strategies or spending instructions with minimal human involvement.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
   }
 ]
