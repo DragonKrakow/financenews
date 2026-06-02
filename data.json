@@ -1,9 +1,46 @@
 [
   {
-    "title": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T16:06:00+00:00",
+    "summary": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock",
+    "link": "https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T15:56:00+00:00",
+    "summary": "The company’s “aggressive” cadence and performance improvements for its switching chips will also keep it ahead of competitors, an analyst said.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Trump taps Pulte for a top intelligence job. This makes an IPO for Fannie and Freddie look even more unlikely.",
+    "link": "https://www.marketwatch.com/story/trump-taps-pulte-for-a-top-intelligence-job-this-makes-an-ipo-for-fannie-and-freddie-look-even-more-unlikely-c54dc83b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T15:46:00+00:00",
+    "summary": "Shares in Fannie Mae and Freddie Mac tumbled Tuesday as traders reacted to President Donald Trump’s announcement that Bill Pulte, the chair of the two government-backed mortgage giants, would serve as acting director for national intelligence.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8583
+  },
+  {
+    "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-02T10:09:29+00:00",
+    "published": "2026-06-02T15:41:21+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo\">Anthropic confidentially files for initial public offering on US stock market</a></p></li></ul><p><strong>In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European Central Bank.</strong></p><p>The <strong>ECB</strong> says that gold made up 27% of total official foreign reserves at the end of 2025, ahead of US Treasuries (22% of reserves) and the euro (15%).</p><p>Forces of fragmentation are becoming more pronounced. Geopolitical tensions continue to drive strong central bank demand for gold.</p><p>In nominal terms, the gold price surged by around 60% and 30% in 2025 and 2024 respectively, which mechanically increases the share of gold in total official foreign reserves.</p><p>Correcting for such valuation effects by using the gold price at the end of 2023, the share of the euro (16%) remains at par with the share of gold (16%), while the share of US Treasuries continues to be markedly higher (26%).</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
@@ -11,63 +48,66 @@
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9107
+    "sentiment_score": 0.9049
   },
   {
-    "title": "Gold is an awkward asset for central banks to hold. It’s now moved ahead of U.S. debt anyway.",
-    "link": "https://www.marketwatch.com/story/gold-is-an-awkward-asset-for-central-banks-to-hold-its-now-moved-ahead-of-u-s-debt-anyway-b06733d3?mod=mw_rss_topstories",
+    "title": "NYC bar uses prediction markets to hedge against a new financial risk: A Knicks victory",
+    "link": "https://www.marketwatch.com/story/nyc-bar-uses-prediction-markets-to-hedge-against-a-new-financial-risk-a-knicks-victory-54bc7297?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T09:56:00+00:00",
-    "summary": "The debt of the world’s biggest economy is no longer the primary reserve asset for central banks worldwide.",
+    "published": "2026-06-02T14:46:00+00:00",
+    "summary": "Wall Street investors use financial derivatives to hedge against shifts in interest rates and exchange rates. Farmers use them to lock in the price of their crops. Now, one New York City bar is using Kalshi, a CFTC-regulated prediction-markets platform, to hedge against another kind of risk.",
     "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Nvidia’s Huang said Marvell could join the trillion-dollar club — and the stock immediately surges",
-    "link": "https://www.marketwatch.com/story/nvidias-huang-said-marvell-could-join-the-trillion-dollar-club-and-the-stock-immediately-surges-39c31f03?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T09:53:00+00:00",
-    "summary": "Nvidia CEO Jensen Huang called the semiconductor company “so essential” to the development of artificial intelligence.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns",
-    "link": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T08:35:00+00:00",
-    "summary": "Deutsche Bank analyst downgraded SoftBank to hold.",
-    "matched_keywords": [
+      "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1263
   },
   {
-    "title": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
-    "link": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories",
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T07:55:00+00:00",
-    "summary": "Berkshire Hathaway is buying Alphabet’s stock at a discount as part of a newly announced equity offering.",
+    "published": "2026-06-02T14:00:00+00:00",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Wall Street’s AI stock-picking secrets aren’t coming to your portfolio",
+    "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T13:55:00+00:00",
+    "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Will the AI economy create a permanent underclass?",
+    "link": "https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T12:27:52+00:00",
+    "summary": "<p>From India and Africa to Europe, countries not yet in the AI supply chain risk mass job losses, losing the tax revenue needed to deal with the tech’s fallout</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Business live – AI to drive up UK youth unemployment</a></p></li></ul><p>The San Francisco Bay Area is in the midst of an AI frenzy that makes the California gold rush of the mid-19th century look like a scavenger hunt. Top programmers and developers are being offered compensation packages worth <a href=\"https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/\">hundreds of millions of dollars</a> to switch firms, while young engineers lucky enough to have joined leading AI startups early are contemplating retirement before age 35.</p><p>Driving up the Bayshore Freeway from San Francisco International airport into the city, you pass hyper-specific billboards advertising obscure AI applications seemingly aimed at absurdly niche audiences. How can that possibly be profitable? The answer is that in a city crawling with startups, getting the right software product in front of a founder whose company could soon be worth billions of dollars is far more lucrative than using billboard space to sell burgers or laundry detergent.</p> <a href=\"https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Gold",
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6966
   },
   {
     "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
     "link": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
     "source": "The Guardian Economics",
     "published": "2026-06-02T05:00:39+00:00",
-    "summary": "<p>New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunity</p><p>In a dimly lit television studio, one of Hungary’s richest men is on the verge of tears. It is early May, weeks after the general election that ended Viktor Orbán’s 16-year grip on power, and the advertising mogul Balásy Gyula has an announcement to make.</p><p>Gyula <a href=\"https://www.youtube.com/watch?v=cslzmXaC51M\">tells the interviewer</a> that he has just surrendered his businesses to the state, along with a chunk of his private savings. He has even brought along a notarised deed – a legal document setting out the change of ownership.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar\">Continue reading...</a>",
+    "summary": "<p>New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunity</p><p>In a dimly lit television studio, one of Hungary’s richest men is on the verge of tears. It is early May, weeks after the general election that ended Viktor Orbán’s 16-year grip on power, and the advertising mogul Gyula Balásy has an announcement to make.</p><p>Balásy <a href=\"https://www.youtube.com/watch?v=cslzmXaC51M\">tells the interviewer</a> that he has just surrendered his businesses to the state, along with a chunk of his private savings. He has even brought along a notarised deed – a legal document setting out the change of ownership.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar\">Continue reading...</a>",
     "matched_keywords": [
       "Election"
     ],
@@ -85,30 +125,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7041
-  },
-  {
-    "title": "Job seekers are using ‘AI role-play’ to negotiate salary. Here’s how to do it.",
-    "link": "https://www.marketwatch.com/story/job-seekers-are-using-ai-role-play-to-negotiate-salary-heres-how-to-do-it-149123b7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T00:38:00+00:00",
-    "summary": "These AI prompts can help make you a master salary negotiator at your next job interview.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
-    "link": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T00:21:00+00:00",
-    "summary": "The artificial-intelligence buildout is driving intense demand for networking and servers, and Hewlett Packard Enterprise is reaping the rewards.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
   },
   {
     "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
@@ -362,18 +378,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-    "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-27T14:05:08+00:00",
-    "summary": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
   }
 ]
