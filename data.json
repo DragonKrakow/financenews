@@ -1,45 +1,107 @@
 [
   {
-    "title": "Dollar General says customers are buying less food because driving is too expensive",
-    "link": "https://www.marketwatch.com/story/dollar-general-says-customers-are-buying-less-food-because-driving-is-too-expensive-d2f52dc6?mod=mw_rss_topstories",
+    "title": "Taking care of your family shouldn’t wreck your retirement",
+    "link": "https://www.marketwatch.com/story/taking-care-of-your-family-shouldnt-wreck-your-retirement-f50714f8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T20:40:00+00:00",
-    "summary": "“This pressure has been more pronounced on customers in rural communities as they work to minimize trip distance,” the discount retailer’s CEO said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Beyond the ‘brazen theft’ of news: The entire $12 trillion creative economy may now be at risk from AI",
-    "link": "https://www.marketwatch.com/story/beyond-the-brazen-theft-of-news-the-entire-12-trillion-creative-economy-may-now-be-at-risk-from-ai-7c993830?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:44:00+00:00",
-    "summary": "AI firms heavily use news and other creative content to provide answers — but New York Times Publisher A.G. Sulzberger says their resistance to pay for it amounts to a repackaging of “stolen goods.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1901
-  },
-  {
-    "title": "My late husband had a higher Social Security benefit. We both claimed at 62. Can I get more on his record?",
-    "link": "https://www.marketwatch.com/story/my-late-husband-had-a-higher-social-security-benefit-we-both-claimed-at-62-can-i-get-more-on-his-record-3a68aaca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:38:00+00:00",
-    "summary": "Early benefit claiming can affect your ultimate payment amount, though not always for survivors.",
+    "published": "2026-06-03T03:03:00+00:00",
+    "summary": "Unpaid family work is costing caregivers $1,000 a month. Here is how Congress wants to help them catch up.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8126
+    "sentiment_score": 0.4588
   },
   {
-    "title": "Victoria’s Secret’s stock is on track for its best day ever. It came down to better bras.",
+    "title": "Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author",
+    "link": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-03T02:33:30+00:00",
+    "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in conservative policy blueprint \"Project 2025.\"",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The S&P 500 climbs for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning",
+    "link": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T00:31:00+00:00",
+    "summary": "The S&amp;P 500’s latest string of records has come with a catch: Fewer stocks are participating in the rally.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "Palo Alto Networks’ earnings show AI brings new urgency to cybersecurity, but stock still dips",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T00:24:00+00:00",
+    "summary": "The “latest advancements at the AI frontier have increased the level of urgency around cybersecurity,” Palo Alto Networks’ CEO said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3919
+  },
+  {
+    "title": "GameStop wants to buy back $2 billion of its own stock after an eBay-fueled selloff",
+    "link": "https://www.marketwatch.com/story/gamestop-wants-to-buy-back-2-billion-of-its-own-stock-after-an-ebay-fueled-selloff-621d14fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T00:19:00+00:00",
+    "summary": "The videogame retailer also said that collectibles helped drive a 14% sales gain in the first quarter.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "The 6% solution is gone: How overcrowded AI-powered trading has erased investors’ advantage",
+    "link": "https://www.marketwatch.com/story/the-6-solution-is-gone-how-overcrowded-ai-powered-trading-has-erased-investors-advantage-635882bd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T23:44:00+00:00",
+    "summary": "So many AI-driven stock picks, so little profit.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.734
+  },
+  {
+    "title": "Most robo-advisers will never get the keys to Wall Street’s AI-conjured stock picks",
+    "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T23:21:00+00:00",
+    "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock",
+    "link": "https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-02T22:39:00+00:00",
+    "summary": "The company’s “aggressive” cadence and performance improvements for its switching chips will also keep it ahead of competitors, an analyst said.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Victoria’s Secret’s stock just had its best day ever. It came down to better bras.",
     "link": "https://www.marketwatch.com/story/victorias-secrets-stock-is-on-track-for-its-best-day-ever-it-came-down-to-better-bras-fb82f017?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:34:00+00:00",
+    "published": "2026-06-02T22:27:00+00:00",
     "summary": "Lingerie retailer’s shares were up 47% on Tuesday.",
     "matched_keywords": [
       "AI"
@@ -48,42 +110,16 @@
     "sentiment_score": 0.8519
   },
   {
-    "title": "Trump signs a scaled-back executive order on AI. Critics say it’s almost meaningless.",
-    "link": "https://www.marketwatch.com/story/trump-signs-an-executive-order-on-ai-after-its-scaled-back-critics-says-its-almost-meaningless-ec1c25b9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:17:00+00:00",
-    "summary": "President Donald Trump on Tuesday signed an executive order on artificial intelligence that aims to set up a framework for AI companies to voluntarily inform the federal government about new models 30 days before their release.",
-    "matched_keywords": [
-      "Fed",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1796
-  },
-  {
-    "title": "Why Lumentum, Coherent and other optical stocks are rocketing toward big gains",
+    "title": "Why Lumentum, Coherent and other optical stocks rocketed to big gains Tuesday",
     "link": "https://www.marketwatch.com/story/why-lumentum-coherent-and-other-optical-stocks-are-rocketing-toward-big-gains-d5a2e9c7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:11:00+00:00",
+    "published": "2026-06-02T22:24:00+00:00",
     "summary": "Nvidia’s Jensen Huang spoke highly of Marvell, and his comments are sparking broad enthusiasm for providers of optical components.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6486
-  },
-  {
-    "title": "The S&P 500 is climbing for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning",
-    "link": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-02T19:11:00+00:00",
-    "summary": "The S&amp;P 500’s latest string of records has come with a catch: Fewer stocks are participating in the rally.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
   },
   {
     "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
@@ -338,45 +374,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "‘Lost generation’: why can’t young people get jobs? – The Latest",
-    "link": "https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T16:12:59+00:00",
-    "summary": "<p>A landmark report has warned that the UK risks a ‘lost generation’ of young people, as new figures show that more than 1 million 16- to 24-year-olds in the UK were not in education, employment or training.</p><p>The former Labour cabinet minister Alan Milburn said youth disengagement was a mounting economic risk to the country, and urged a fundamental reset of policy covering schools, the health service and the welfare state.</p><p>Lucy Hough speaks to the Guardian’s senior economics correspondent, Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
-  },
-  {
-    "title": "US inflation rose at fastest pace in three years in April as Iran war hikes up prices",
-    "link": "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T16:06:35+00:00",
-    "summary": "<p>Americans are growing frustrated with Trump’s handling of the economy as cost of living soars ahead of midterms</p><p>US inflation increased at its fastest pace in three years in April, driven by higher energy prices amid the war with Iran, and cementing economists’ views that the Federal Reserve could hold interest rates unchanged well into next year.</p><p>Surging price pressures are eroding household income and could restrain consumer spending and economic growth this quarter. Income at the disposal of households after adjusting for inflation dropped for a third straight month in April, other data showed on Thursday. Given the soaring cost of living, Americans are growing frustrated with Donald Trump’s handling of the economy. A Reuters/Ipsos survey last week showed the president’s approval rating fell to nearly its lowest level since he returned to the White House, hit by a drop in support among Republicans. Trump won the 2024 presidential election in large part because of his promise to lower inflation.</p> <a href=\"https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "US PCE inflation rate hits three-year high as Iran war pushes up prices – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T15:02:11+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as number of UK ‘Neets’ hits 12-year high</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets\"><strong>UK risks £125bn hit a year from youth unemployment, landmark report says</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/may/28/we-would-like-to-hear-from-young-people-in-the-uk-about-their-job-hunting-experience\"><strong>We would like to hear from young people in the UK about their job hunting experience</strong></a></p></li></ul><p><strong>Elsewhere this morning, Labour has adopted regulations intended to prevent local councils from going bust after they make risky investments that jeopardise their finances.</strong></p><p>Ministers will be handed powers to intervene that have been dormant since 2003, the ministry of housing, communities and local government (MHCLG) said.</p><p>“In Woking, Thurrock, and other councils we’ve seen poor investment decisions leaving taxpayers footing a big bill.</p><p>“We can’t afford to wait until a council is on the brink of collapse to act. That’s why we want to bring in new powers so we can identify the risks and act before its too late.”</p><p>“Many of Alan Milburn’s findings reflect the evidence received in our own inquiry on Youth Employment, Education and Training. We await Mr Milburn’s conclusions and recommendations, but when giving evidence to the Select Committee, he referred to the causes of the current youth employment crisis being as broad as they are deep. It’s clear that whatever his recommendations, it will require systemic change, needing a whole government approach to fix this.</p><p>“We agree that this is not the so-called ‘snowflake’ generation that too many have referred to. But the urgency must be recognised. We cannot see the lives of so many young people be blighted in this way.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   }
 ]
