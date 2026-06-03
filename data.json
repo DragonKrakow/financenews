@@ -1,27 +1,88 @@
 [
   {
-    "title": "DraftKings and FanDuel are likely to lose money on the NBA Finals – whether the Knicks or Spurs win",
-    "link": "https://www.marketwatch.com/story/draftkings-and-fanduel-are-likely-to-lose-money-on-the-nba-finals-whether-the-knicks-or-spurs-win-fa1468d0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T16:35:00+00:00",
-    "summary": "San Antonio “is the biggest remaining liability on the futures book,” say sports-betting experts — but the Knicks “are a loser for the book as well.”",
+    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-03T20:48:40+00:00",
+    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6652
+    "sentiment_score": -0.7717
+  },
+  {
+    "title": "Broadcom’s stock falls despite accelerating AI-chip growth",
+    "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T20:43:00+00:00",
+    "summary": "Latest revenue figures lack meaningful upside after the stock’s sharp recent rally.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2924
+  },
+  {
+    "title": "3 reasons why Palo Alto Networks’ stock fell despite upbeat earnings",
+    "link": "https://www.marketwatch.com/story/three-reasons-palo-alto-networks-stock-is-falling-in-the-face-of-upbeat-earnings-7ded9f15?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T20:38:00+00:00",
+    "summary": "Analysts attribute the stock drop to profit-taking, the timing of AI contributions and changes to reporting conventions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
   },
   {
     "title": "Another redemption wave is spooking the $2 trillion private-credit market",
     "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T16:32:00+00:00",
+    "published": "2026-06-03T20:19:00+00:00",
     "summary": "Private-credit woes are back in focus after a pair of l funds limited redemptions in the second quarter",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
+  },
+  {
+    "title": "‘Squeezing more life out of every dollar’: How inflation is forcing a new reality on American families and amplifying the economy’s ‘K shape’",
+    "link": "https://www.marketwatch.com/story/squeezing-more-life-out-of-every-dollar-how-inflation-is-forcing-a-new-reality-on-american-families-and-amplifying-the-economys-k-shape-c3ba42de?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T19:53:00+00:00",
+    "summary": "Higher consumer prices are reining in spending among lower- and middle-income consumers, Fed’s beige book reports.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Oil settles at highest price in over a week. ‘Oil tanks are getting emptier each week Hormuz stays closed.’",
+    "link": "https://www.marketwatch.com/story/oil-prices-rally-for-a-third-straight-day-as-peace-deal-hopes-teeter-6a0b1635?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T19:48:00+00:00",
+    "summary": "Oil futures settled Wednesday at their highest levels in more than a week, after the EIA reported a sixth straight weekly drop in U.S. commercial crude supplies and another big draw from  the nation’s emergency oil reserve.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
+    "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T18:48:00+00:00",
+    "summary": "The pattern day-trading rule is going away on June 4, but retail investors should understand the risks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2617
   },
   {
     "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
@@ -34,18 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5106
-  },
-  {
-    "title": "You’re over 40 and laid off. Is it age discrimination? What you can do.",
-    "link": "https://www.marketwatch.com/story/youre-over-40-and-laid-off-is-it-age-discrimination-what-you-can-do-03d02ea2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T15:18:00+00:00",
-    "summary": "Age discrimination is notoriously hard to prove. Here is what to watch out for.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "Fed Chair Warsh makes first hires at central bank, including 'Project 2025' author",
@@ -84,18 +133,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
-  },
-  {
-    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
-    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-02T17:33:32+00:00",
-    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
   },
   {
     "title": "What Blair gets wrong about the economy – it is fired by people, not business | Letters",
@@ -337,46 +374,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6124
-  },
-  {
-    "title": "US inflation rose at fastest pace in three years in April as Iran war hikes up prices",
-    "link": "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T16:06:35+00:00",
-    "summary": "<p>Americans are growing frustrated with Trump’s handling of the economy as cost of living soars ahead of midterms</p><p>US inflation increased at its fastest pace in three years in April, driven by higher energy prices amid the war with Iran, and cementing economists’ views that the Federal Reserve could hold interest rates unchanged well into next year.</p><p>Surging price pressures are eroding household income and could restrain consumer spending and economic growth this quarter. Income at the disposal of households after adjusting for inflation dropped for a third straight month in April, other data showed on Thursday. Given the soaring cost of living, Americans are growing frustrated with Donald Trump’s handling of the economy. A Reuters/Ipsos survey last week showed the president’s approval rating fell to nearly its lowest level since he returned to the White House, hit by a drop in support among Republicans. Trump won the 2024 presidential election in large part because of his promise to lower inflation.</p> <a href=\"https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "US PCE inflation rate hits three-year high as Iran war pushes up prices – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T15:02:11+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as number of UK ‘Neets’ hits 12-year high</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets\"><strong>UK risks £125bn hit a year from youth unemployment, landmark report says</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/may/28/we-would-like-to-hear-from-young-people-in-the-uk-about-their-job-hunting-experience\"><strong>We would like to hear from young people in the UK about their job hunting experience</strong></a></p></li></ul><p><strong>Elsewhere this morning, Labour has adopted regulations intended to prevent local councils from going bust after they make risky investments that jeopardise their finances.</strong></p><p>Ministers will be handed powers to intervene that have been dormant since 2003, the ministry of housing, communities and local government (MHCLG) said.</p><p>“In Woking, Thurrock, and other councils we’ve seen poor investment decisions leaving taxpayers footing a big bill.</p><p>“We can’t afford to wait until a council is on the brink of collapse to act. That’s why we want to bring in new powers so we can identify the risks and act before its too late.”</p><p>“Many of Alan Milburn’s findings reflect the evidence received in our own inquiry on Youth Employment, Education and Training. We await Mr Milburn’s conclusions and recommendations, but when giving evidence to the Select Committee, he referred to the causes of the current youth employment crisis being as broad as they are deep. It’s clear that whatever his recommendations, it will require systemic change, needing a whole government approach to fix this.</p><p>“We agree that this is not the so-called ‘snowflake’ generation that too many have referred to. But the urgency must be recognised. We cannot see the lives of so many young people be blighted in this way.</p> <a href=\"https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Modelling shows 90% of young Australians will be better off under Labor’s tax reforms",
-    "link": "https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling",
-    "source": "The Guardian Economics",
-    "published": "2026-05-28T10:03:48+00:00",
-    "summary": "<p>The $1,000 tax deduction, $250 ‘working Australians tax offset’, and CGT and negative gearing changes will benefit most young people, Treasury secretary says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ninety per cent of young Australians will be better off under the Albanese government’s tax proposals, the Treasury claims, as Labor moves to pass its reforms into law.</p><p>The government introduced the tax changes to parliament on Thursday before a heated question time in which the opposition leader, Angus Taylor, called Anthony Albanese an “arrogant prick”, while separately the Nationals demanded the government call an early election.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7524
   }
 ]
