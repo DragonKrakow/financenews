@@ -1,5 +1,77 @@
 [
   {
+    "title": "California’s proposed ‘billionaire tax’ is moronic. We should do this instead.",
+    "link": "https://www.marketwatch.com/story/californias-proposed-billionaire-tax-is-moronic-we-should-do-this-instead-de61bca8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T19:54:00+00:00",
+    "summary": "Almost everything about this tax is bad, and it obscures something much better that we do need.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "‘No one seems to wear their bling’: Is it safe to show off your expensive jewelry?",
+    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T19:31:00+00:00",
+    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Think you are facing age discrimination? Don’t get bitter, do this.",
+    "link": "https://www.marketwatch.com/story/youre-over-40-and-laid-off-is-it-age-discrimination-what-you-can-do-03d02ea2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T18:56:00+00:00",
+    "summary": "You’re over 40 and laid off. Is it age discrimination?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4871
+  },
+  {
+    "title": "Elon Musk’s SpaceX paid to secure its ticker symbol ahead of blockbuster IPO",
+    "link": "https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T18:34:00+00:00",
+    "summary": "When SpaceX shares make their public debut next week, they will be trading under the ticker “SPCX.” Until recently, that ticker belonged to Tuttle Capital Management’s SPAC and New Issue ETF.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "Wasted AI budgets at Nvidia, Uber, Microsoft and others sink ‘tokenmaxxing’ and trigger hiring",
+    "link": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T18:30:00+00:00",
+    "summary": "The U.S. job market actually is getting a boost from AI: Who knew human workers are cheaper?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?",
+    "link": "https://www.marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T18:30:00+00:00",
+    "summary": "“My son, daughter-in-law and granddaughter live there and take care of utilities, yardwork and maintenance.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
     "title": "Chip stocks drop as AI rally shows ‘signs of fatigue’, as SpaceX’s huge IPO looms – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
     "source": "The Guardian Economics",
@@ -12,76 +84,28 @@
     "sentiment_score": -0.8271
   },
   {
-    "title": "Amazon, Microsoft and Google are quietly morphing their businesses — and Wall Street is missing the big picture",
-    "link": "https://www.marketwatch.com/story/amazon-microsoft-and-google-are-quietly-morphing-their-businesses-and-wall-street-is-missing-the-big-picture-c229ab27?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T15:03:00+00:00",
-    "summary": "Tech giants are shifting from solely providing computing power to distributing AI models, unlocking a lucrative new revenue stream.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "Think gas prices are high now? This quiet shift at U.S. refineries could trigger an even more painful summer.",
-    "link": "https://www.marketwatch.com/story/think-gas-prices-are-high-now-this-quiet-shift-at-u-s-refineries-could-trigger-an-even-more-painful-summer-9f788044?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T14:25:00+00:00",
-    "summary": "Planes over cars: $5-a-gallon gas could be here by July or August because of what is going on at refineries, one expert said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4927
-  },
-  {
-    "title": "Ciena’s stock is tumbling and taking other optical-networking shares down with it",
-    "link": "https://www.marketwatch.com/story/cienas-stock-is-tumbling-and-taking-other-optical-networking-shares-down-with-it-36da0bf7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T14:11:00+00:00",
-    "summary": "Investors were expecting a “more material beat and raise” than what Ciena delivered with its latest earnings report, one analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?",
-    "link": "https://www.marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T14:06:00+00:00",
-    "summary": "“My son, daughter-in-law and granddaughter live there and take care of utilities, yardwork and maintenance.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
     "title": "Why is ‘doomspending’ on the rise? | Sean Monahan",
     "link": "https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis",
     "source": "The Guardian Economics",
     "published": "2026-06-04T11:00:04+00:00",
-    "summary": "<p>If everyone is spending like there won’t be a tomorrow, there probably won’t be a tomorrow</p><p>Doom is the prefix du jour. Doomscrolling, doomposting, doomsplaining, doomspreading. Doom joins other recent suffixes -maxxing, -pilled, and -slop – giving discussions about contemporary life an overtly negative cast. Doomspending, in particular, is a new term for spending frivolously with no concern for future financial consequences. It has become synonymous with the declining fortunes of young westerners.</p><p>A survey by Credit Karma, a consumer fintech company, published in the fall of 2024, introduced the concept and the general parameters around it. Chronically online youth had begun coping with anxiety about the economy and world events with retail therapy. They claim 27% of Americans doomspend to deal with stress. The numbers rise to 37% of gen Z and 39% of millennials.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis\">Continue reading...</a>",
+    "summary": "<p>If everyone is spending like there won’t be a tomorrow, there probably won’t be a tomorrow</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/04/consumer-customer-complaints-frustration\">People in the US: tell us about your difficult consumer experiences</a></p></li></ul><p>Doom is the prefix du jour. Doomscrolling, doomposting, doomsplaining, doomspreading. Doom joins other recent suffixes -maxxing, -pilled, and -slop – giving discussions about contemporary life an overtly negative cast. Doomspending, in particular, is a new term for spending frivolously with no concern for future financial consequences. It has become synonymous with the declining fortunes of young westerners.</p><p>A survey by Credit Karma, a consumer fintech company, published in the fall of 2024, introduced the concept and the general parameters around it. Chronically online youth had begun coping with anxiety about the economy and world events with retail therapy. They claim 27% of Americans doomspend to deal with stress. The numbers rise to 37% of gen Z and 39% of millennials.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
+    "sentiment_score": -0.7964
   },
   {
     "title": "Trump has made our K-shaped economy even worse | Steven Greenhouse",
     "link": "https://www.theguardian.com/commentisfree/2026/jun/04/trump-k-shaped-economy",
     "source": "The Guardian Economics",
     "published": "2026-06-04T09:00:50+00:00",
-    "summary": "<p>While wealthy Americans hail a booming stock market, the rest of us worry about rising inflation and people struggling to make ends meet</p><p>In case you’re not familiar with the concept of <a href=\"https://www.npr.org/2025/12/31/nx-s1-5660842/what-is-a-k-shaped-economy\">the K-shaped economy</a>, it’s an important idea that captures a lot about Trump’s America. Wealthy Americans are represented by the line of the K that angles sharply upward to the right, while the line of the K that dips downward represents non-rich Americans and the difficulties they face.</p><p>The economy’s K-shape has been growing worse in recent months, in large part because of Donald Trump’s policies. The wealthy people’s line is climbing further upward, while the line for the non-wealthy – the vast majority of Americans – has fallen further.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/trump-k-shaped-economy\">Continue reading...</a>",
+    "summary": "<p>While wealthy Americans hail a booming stock market, the rest of us worry about rising inflation and people struggling to make ends meet</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/04/consumer-customer-complaints-frustration\">People in the US: tell us about your difficult consumer experiences</a></p></li></ul><p>In case you’re not familiar with the concept of <a href=\"https://www.npr.org/2025/12/31/nx-s1-5660842/what-is-a-k-shaped-economy\">the K-shaped economy</a>, it’s an important idea that captures a lot about Trump’s America. Wealthy Americans are represented by the line of the K that angles sharply upward to the right, while the line of the K that dips downward represents non-rich Americans and the difficulties they face.</p><p>The economy’s K-shape has been growing worse in recent months, in large part because of Donald Trump’s policies. The wealthy people’s line is climbing further upward, while the line for the non-wealthy – the vast majority of Americans – has fallen further.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/trump-k-shaped-economy\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
+    "sentiment_score": -0.8316
   },
   {
     "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
@@ -345,32 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7003
-  },
-  {
-    "title": "Inflation won Trump the presidency, but could cost him the midterms",
-    "link": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
-    "source": "The Guardian Economics",
-    "published": "2026-05-30T11:00:18+00:00",
-    "summary": "<p>Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s elections</p><p>For such an uncannily successful politician, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> exhibits a perplexing political myopia. His most recent own-goal was endorsing Ken Paxton, a state attorney general, against four-term senator John Cornyn in the Republican primary for Senate in Texas. Trump’s endorsement helped push the <a href=\"https://www.nytimes.com/2026/05/18/us/politics/ken-paxton-texas-senate-race.html\">ethically compromised Maga firebrand</a> over the top, to run against popular Democrat James Talarico in November, complicating the Republicans’ chances to keep the seat.</p><p>But what truly screams “I want us to lose the midterms” is what Trump is doing about inflation, which is becoming his most vulnerable issue. According to a <a href=\"https://www.nytimes.com/interactive/2026/05/21/polls/times-siena-national-poll-toplines.html\">New York Times/Siena poll</a> of registered voters earlier in May, Trump’s approval on handling the cost of living is underwater by 42 percentage points, poorer than his rating on handling the economy (minus 31 points) and the unpopular war in Iran (minus 34 points).</p> <a href=\"https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2592
-  },
-  {
-    "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-    "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
-    "source": "CNBC Finance",
-    "published": "2026-05-29T16:39:46+00:00",
-    "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
   }
 ]
