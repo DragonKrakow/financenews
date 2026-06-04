@@ -1,5 +1,77 @@
 [
   {
+    "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
+    "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T02:22:00+00:00",
+    "summary": "The pattern day-trading rule is going away on June 4, but retail investors should understand the risks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2617
+  },
+  {
+    "title": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
+    "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T00:57:00+00:00",
+    "summary": "Quantinuum is pursuing a traditional IPO, whereas many other quantum players have gone the SPAC route.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Broadcom’s stock falls despite accelerating AI-chip growth",
+    "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T00:13:00+00:00",
+    "summary": "Latest revenue figures lack meaningful upside after the stock’s sharp recent rally.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2924
+  },
+  {
+    "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
+    "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T22:14:00+00:00",
+    "summary": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "I am 71. Would it be foolish to sell $10,000 in stock to visit my grandchildren in Thailand?",
+    "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T22:09:00+00:00",
+    "summary": "“I am comfortable living on my Social Security and pension income.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "‘No one seems to wear their bling’: Is it safe to show off your expensive jewelry?",
+    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-03T21:30:00+00:00",
+    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
     "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
     "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
     "source": "CNBC Finance",
@@ -10,79 +82,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7717
-  },
-  {
-    "title": "Broadcom’s stock falls despite accelerating AI-chip growth",
-    "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T20:43:00+00:00",
-    "summary": "Latest revenue figures lack meaningful upside after the stock’s sharp recent rally.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2924
-  },
-  {
-    "title": "3 reasons why Palo Alto Networks’ stock fell despite upbeat earnings",
-    "link": "https://www.marketwatch.com/story/three-reasons-palo-alto-networks-stock-is-falling-in-the-face-of-upbeat-earnings-7ded9f15?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T20:38:00+00:00",
-    "summary": "Analysts attribute the stock drop to profit-taking, the timing of AI contributions and changes to reporting conventions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Another redemption wave is spooking the $2 trillion private-credit market",
-    "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T20:19:00+00:00",
-    "summary": "Private-credit woes are back in focus after a pair of l funds limited redemptions in the second quarter",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "‘Squeezing more life out of every dollar’: How inflation is forcing a new reality on American families and amplifying the economy’s ‘K shape’",
-    "link": "https://www.marketwatch.com/story/squeezing-more-life-out-of-every-dollar-how-inflation-is-forcing-a-new-reality-on-american-families-and-amplifying-the-economys-k-shape-c3ba42de?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T19:53:00+00:00",
-    "summary": "Higher consumer prices are reining in spending among lower- and middle-income consumers, Fed’s beige book reports.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Oil settles at highest price in over a week. ‘Oil tanks are getting emptier each week Hormuz stays closed.’",
-    "link": "https://www.marketwatch.com/story/oil-prices-rally-for-a-third-straight-day-as-peace-deal-hopes-teeter-6a0b1635?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T19:48:00+00:00",
-    "summary": "Oil futures settled Wednesday at their highest levels in more than a week, after the EIA reported a sixth straight weekly drop in U.S. commercial crude supplies and another big draw from  the nation’s emergency oil reserve.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
-  },
-  {
-    "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
-    "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T18:48:00+00:00",
-    "summary": "The pattern day-trading rule is going away on June 4, but retail investors should understand the risks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2617
   },
   {
     "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
