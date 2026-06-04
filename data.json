@@ -1,27 +1,75 @@
 [
   {
-    "title": "SpaceX ‘significantly overvalued’ as huge IPO looms; UK construction output slumps – business live",
+    "title": "Chip stocks drop as AI rally shows ‘signs of fatigue’, as SpaceX’s huge IPO looms – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-04T09:41:12+00:00",
+    "published": "2026-06-04T15:08:49+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>A fire has broken out at <strong>Tata</strong> <strong>Steel’s</strong> plant in south Wales, with the manufacturer saying it is too early to say whether the incident will affect its operations.</p><p>Emergency services attended the Port Talbot site at 8pm last night to deal with a fire at one of its processing lines, the company said in a statement. All staff were accounted for and evacuated to safety, it said.</p><p>“UK construction companies reported a steep downturn in business activity during May, with the speed of contraction accelerating to its fastest for six years. House building remained especially subdued, and there were fresh challenges in the construction sector from a considerable softening of commercial activity since April.</p><p>“Anecdotal evidence suggested that economic uncertainty and rising inflation in the wake of the Middle East conflict had triggered the steepest drop in new work since the beginning of the pandemic. Elevated borrowing costs were also reported to have impacted market conditions.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.765
+    "sentiment_score": -0.8271
   },
   {
-    "title": "My older sister and I co-own a home where my son lives. What happens if she dies?",
+    "title": "Amazon, Microsoft and Google are quietly morphing their businesses — and Wall Street is missing the big picture",
+    "link": "https://www.marketwatch.com/story/amazon-microsoft-and-google-are-quietly-morphing-their-businesses-and-wall-street-is-missing-the-big-picture-c229ab27?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T15:03:00+00:00",
+    "summary": "Tech giants are shifting from solely providing computing power to distributing AI models, unlocking a lucrative new revenue stream.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Think gas prices are high now? This quiet shift at U.S. refineries could trigger an even more painful summer.",
+    "link": "https://www.marketwatch.com/story/think-gas-prices-are-high-now-this-quiet-shift-at-u-s-refineries-could-trigger-an-even-more-painful-summer-9f788044?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T14:25:00+00:00",
+    "summary": "Planes over cars: $5-a-gallon gas could be here by July or August because of what is going on at refineries, one expert said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4927
+  },
+  {
+    "title": "Ciena’s stock is tumbling and taking other optical-networking shares down with it",
+    "link": "https://www.marketwatch.com/story/cienas-stock-is-tumbling-and-taking-other-optical-networking-shares-down-with-it-36da0bf7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-04T14:11:00+00:00",
+    "summary": "Investors were expecting a “more material beat and raise” than what Ciena delivered with its latest earnings report, one analyst says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?",
     "link": "https://www.marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T09:15:00+00:00",
+    "published": "2026-06-04T14:06:00+00:00",
     "summary": "“My son, daughter-in-law and granddaughter live there and take care of utilities, yardwork and maintenance.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Why is ‘doomspending’ on the rise? | Sean Monahan",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis",
+    "source": "The Guardian Economics",
+    "published": "2026-06-04T11:00:04+00:00",
+    "summary": "<p>If everyone is spending like there won’t be a tomorrow, there probably won’t be a tomorrow</p><p>Doom is the prefix du jour. Doomscrolling, doomposting, doomsplaining, doomspreading. Doom joins other recent suffixes -maxxing, -pilled, and -slop – giving discussions about contemporary life an overtly negative cast. Doomspending, in particular, is a new term for spending frivolously with no concern for future financial consequences. It has become synonymous with the declining fortunes of young westerners.</p><p>A survey by Credit Karma, a consumer fintech company, published in the fall of 2024, introduced the concept and the general parameters around it. Chronically online youth had begun coping with anxiety about the economy and world events with retail therapy. They claim 27% of Americans doomspend to deal with stress. The numbers rise to 37% of gen Z and 39% of millennials.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
   },
   {
     "title": "Trump has made our K-shaped economy even worse | Steven Greenhouse",
@@ -48,23 +96,11 @@
     "sentiment_score": -0.7003
   },
   {
-    "title": "Another redemption wave is spooking the $2 trillion private-credit market",
-    "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T08:14:00+00:00",
-    "summary": "Private-credit woes are back in focus after a pair of l funds limited redemptions in the second quarter",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
     "title": "‘Happiness is not just about GDP’: ambitious plan or utopia?",
     "link": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
     "source": "The Guardian Economics",
     "published": "2026-06-04T06:28:10+00:00",
-    "summary": "<p>Some will question its credibility – but the alternative future to the one imagined in the World Justice Report is far more bleak</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\">‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival</a></p></li></ul><p>In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future.</p><p>Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia\">Continue reading...</a>",
+    "summary": "<p>Some will question its credibility – but the alternative future to the one imagined in the Global Justice Report is far more bleak</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\">‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival</a></p></li></ul><p>In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The <a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\">Global Justice Report</a>, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future.</p><p>Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -82,54 +118,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9823
-  },
-  {
-    "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
-    "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T02:22:00+00:00",
-    "summary": "The pattern day-trading rule is going away on June 4, but retail investors should understand the risks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2617
-  },
-  {
-    "title": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
-    "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T00:57:00+00:00",
-    "summary": "Quantinuum is pursuing a traditional IPO, whereas many other quantum players have gone the SPAC route.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Broadcom’s stock falls despite accelerating AI-chip growth",
-    "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-04T00:13:00+00:00",
-    "summary": "Latest revenue figures lack meaningful upside after the stock’s sharp recent rally.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2924
-  },
-  {
-    "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-    "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-03T22:14:00+00:00",
-    "summary": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
@@ -370,5 +358,19 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2592
+  },
+  {
+    "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
+    "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
+    "source": "CNBC Finance",
+    "published": "2026-05-29T16:39:46+00:00",
+    "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   }
 ]
