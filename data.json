@@ -1,16 +1,63 @@
 [
   {
-    "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
-    "link": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+    "title": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy.",
+    "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T13:40:00+00:00",
-    "summary": "Rate hikes now will choke off the critical investments needed to lower prices.",
+    "published": "2026-06-06T18:53:00+00:00",
+    "summary": "There is a new wave of weight-loss therapies in development that aim to be better than the existing GLP-1s.",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed"
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
+    "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T18:50:00+00:00",
+    "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0765
+  },
+  {
+    "title": "This investing strategy digs deeper to find hidden stocks riding the AI wave",
+    "link": "https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T16:21:00+00:00",
+    "summary": "There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Busted AI budgets at Uber, Microsoft and Nvidia spur hiring — because human workers are cheaper",
+    "link": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T15:55:00+00:00",
+    "summary": "Uber blew its entire 2026 AI budget by April. Here’s why replacing workers with bots backfired.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Silicon Valley was built on public money — now it’s fighting California’s billionaire tax",
+    "link": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T15:43:00+00:00",
+    "summary": "“Cyberselfish” author says tech elite believe that taxes are for “little people.”",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5346
+    "sentiment_score": -0.3612
   },
   {
     "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
@@ -25,42 +72,6 @@
     "sentiment_score": -0.9393
   },
   {
-    "title": "America’s crude inventories are getting perilously low. But that’s not the full story.",
-    "link": "https://www.marketwatch.com/story/americas-crude-inventories-are-getting-perilously-low-but-thats-not-the-full-story-c3104976?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T12:00:00+00:00",
-    "summary": "U.S. commercial oil inventories may be too low for comfort as the war with Iran enters its fourth month far from a clear resolution — and a lot is riding on how much longer the conflict drags on.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.85
-  },
-  {
-    "title": "Apple’s WWDC will be a make-or-break moment for the company’s fledgling AI strategy",
-    "link": "https://www.marketwatch.com/story/apples-wwdc-will-be-a-make-or-break-moment-for-the-companys-fledgling-ai-strategy-42086cc1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T11:30:00+00:00",
-    "summary": "At Monday’s keynote, Apple will get a second chance to show users it can make Siri smarter and more contextually aware.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T11:14:00+00:00",
-    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
     "title": "On China, Trump picked the right battle but the wrong strategy",
     "link": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
     "source": "The Guardian Economics",
@@ -72,31 +83,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8735
-  },
-  {
-    "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T11:00:00+00:00",
-    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
-    "link": "https://www.marketwatch.com/story/the-key-to-the-upcoming-fed-meeting-how-warsh-reacts-to-all-the-hints-of-a-rate-hike-3cbdce15?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T11:00:00+00:00",
-    "summary": "The new Fed chair might make swift changes to how the central bank communicates.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   },
   {
     "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
@@ -373,5 +359,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9313
+  },
+  {
+    "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
+    "source": "The Guardian Economics",
+    "published": "2026-06-02T05:00:38+00:00",
+    "summary": "<p>Austerity has benefitted bond traders but impoverished British society and led to the rise of populism. Is it right that we carry on adhering to their interests?</p><p>Should politics always be dominated by economics? Should questions about how governments and voters pay for things – whether by earnings, taxes or borrowing – be settled before we consider the wider consequences?</p><p>In an anxious capitalist democracy such as Britain, with a modern history of patchy economic success and intermittent but recurring crises over public debt, the answer may seem obvious: governments and voters always need to behave in ways that fit with the market forces that shape our economy.</p><p>Andy Beckett is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7041
   }
 ]
