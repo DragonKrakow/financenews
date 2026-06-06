@@ -1,15 +1,51 @@
 [
   {
-    "title": "How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too",
-    "link": "https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories",
+    "title": "Bitcoin is suffering from an ‘attention’ deficit, as momentum traders have moved on",
+    "link": "https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T19:30:00+00:00",
-    "summary": "It’s trickier to find good deals with airline miles, but it’s still possible to get “insane value.”",
+    "published": "2026-06-05T21:58:00+00:00",
+    "summary": "“The AI trade is sucking the blood out of crypto,” one analyst notes.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-05T21:30:00+00:00",
+    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.",
+    "link": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-05T21:15:00+00:00",
+    "summary": "Stock investors may not love it — but bond investors already heavily engaged in funding the AI buildout are pleased.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7364
+  },
+  {
+    "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
+    "link": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
+    "source": "The Guardian Economics",
+    "published": "2026-06-05T20:10:11+00:00",
+    "summary": "<p>Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war</p><p>US employers added 172,000 jobs in May while the country’s unemployment rate held steady at 4.3%, a sign of a resilient labor market despite rising inflation and economic uncertainty brought on by continued conflict in the Middle East.</p><p>Despite the positive update on the labor market, US stocks fell sharply by Friday afternoon after a big sell-off of AI chip stocks. The tech-heavy Nasdaq index closed 4% down, the largest single-day drop in over a year. The S&amp;P 500 and and Dow were also down 2.6% and 1.3%, respectively.</p> <a href=\"https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8555
   },
   {
     "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
@@ -25,68 +61,6 @@
     "sentiment_score": -0.0772
   },
   {
-    "title": "Nearly half of workers 55 and older don’t plan on using AI in their jobs. How to make it work for you.",
-    "link": "https://www.marketwatch.com/story/nearly-half-of-workers-55-and-older-dont-plan-on-using-ai-in-their-jobs-how-to-make-it-work-for-you-07638c61?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T18:41:00+00:00",
-    "summary": "Workers can learn more about applying AI to their jobs even on social-media platforms, such as YouTube and TikTok, one career coach said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The Fed may already be too late in hiking interest rates — which is bad news for these borrowers",
-    "link": "https://www.marketwatch.com/story/the-fed-may-already-be-too-late-in-hiking-interest-rates-which-is-bad-news-for-these-borrowers-a482641c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T18:14:00+00:00",
-    "summary": "Friday’s strong jobs report could soon feel like a double-edged sword for borrowers struggling to keep up with inflation and their bills.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "AI may be killing some high-tech jobs, but it’s also creating others. See who’s winning and losing.",
-    "link": "https://www.marketwatch.com/story/ai-may-be-killing-some-high-tech-jobs-but-its-also-creating-others-see-whos-winning-and-losing-9dc839e6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T18:03:00+00:00",
-    "summary": "Artificial intelligence might terminate lots of jobs one day, especially in high tech, but there’s little evidence AI is already causing widespread layoffs.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7543
-  },
-  {
-    "title": "Elon Musk needs the cultish support of everyday investors to pull off the massive SpaceX IPO",
-    "link": "https://www.marketwatch.com/story/elon-musk-needs-the-cultish-support-of-everyday-investors-to-pull-off-the-massive-spacex-ipo-08e7ea49?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T17:44:00+00:00",
-    "summary": "“They’re going to have to own it”: Elon Musk wants retail investors to buy some $23 billion of SpaceX shares next week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "A ‘rudderless’ Lululemon needs to ditch logos and get back to basics, analysts say",
-    "link": "https://www.marketwatch.com/story/a-rudderless-lululemon-needs-to-ditch-logos-and-get-back-to-basics-analysts-say-0e120022?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-05T17:18:00+00:00",
-    "summary": "“Make the color palette normal again,” one analyst said, as Lululemon’s stock sinks toward its lowest close since May 2018.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
     "title": "US job creation smashes forecasts in May, fuelling rate hike bets; ‘no jet fuel shortage in Europe’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
     "source": "The Guardian Economics",
@@ -100,18 +74,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
-  },
-  {
-    "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
-    "link": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T12:38:08+00:00",
-    "summary": "<p>Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war</p><p>US employers added 172,000 jobs in May while the country’s unemployment rate held steady at 4.3%, a sign of a resilient labor market despite rising inflation and economic uncertainty brought on by continued conflict in the Middle East.</p><p>Economists initially predicted there would be about 80,000 new jobs and a steady unemployment rate of 4.3%. Job figures for March and April were also revised up 29,000 and 64,000, respectively, a 93,000 boost compared with initial figures.</p> <a href=\"https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8658
   },
   {
     "title": "Where investors may find the next 'big wave' for AI trade",
@@ -372,5 +334,44 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2023
+  },
+  {
+    "title": "Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy",
+    "link": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T17:46:28+00:00",
+    "summary": "Berkshire's purchase of homebuilder Taylor Morrison gives the conglomerate a larger foothold in housing and appears to have been struck at a bargain valuation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
+    "link": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award",
+    "source": "The Guardian Economics",
+    "published": "2026-06-01T15:03:41+00:00",
+    "summary": "<p>Powell says central bank has been facing ‘stress test’ under Trump, as supreme court weighs decision on Fed governor that president tried to fire</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p><a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a>, the former chair of the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>, has warned that a single act of political interference in monetary policy could permanently destroy public trust in the central bank.</p><p>As Donald <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump’s administration</a> continues to test the Fed’s longstanding independence, Powell said in a speech on Sunday night that the institution was in the midst of a “stress test”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "Oil price rises to $97 a barrel as ‘Iran stops exchanging messages with US’ – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-01T14:53:16+00:00",
+    "summary": "<p>British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reports</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war\">UK house prices fall for first time this year amid rising rates</a></p></li></ul><p><strong>Eurozone factories were hit by the biggest jump in input costs in four years last month.</strong></p><p>The Iran war drove up the cost of raw materials and intermediate goods, according to the latest poll of purchasing managers at European manufacturers.</p><p>Although euro area manufacturers reported an expansion for a fourth successive month in May, the sector is showing signs of struggling under the weight of rising prices and supply disruptions emanating from the war in the Middle East.</p><p>“A key development in May was yet another surge in energy and raw material prices, causing the largest monthly jump in firms’ costs for four years. The incidence of supply chain delays has meanwhile risen to the highest since the pandemic supply squeeze of 2022, adding further upward pressure to prices.</p><p>“Global turmoil is taking a toll on the property market. House prices fell between April and May and are up just 1.7% in a year. It’s a valuable reminder that property investments aren’t always safe as houses.</p><p>“The Nationwide House Price Index only provides a partial picture of the market, but it’s particularly timely, because it looks at prices at the point of mortgage approvals – months ahead of the completion data we get from the Office for National Statistics.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6187
   }
 ]
