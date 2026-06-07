@@ -1,15 +1,39 @@
 [
   {
-    "title": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy.",
-    "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+    "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T18:53:00+00:00",
-    "summary": "There is a new wave of weight-loss therapies in development that aim to be better than the existing GLP-1s.",
+    "published": "2026-06-06T23:15:00+00:00",
+    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T22:49:00+00:00",
+    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
+    "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-06T21:10:00+00:00",
+    "summary": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
@@ -22,42 +46,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0765
-  },
-  {
-    "title": "This investing strategy digs deeper to find hidden stocks riding the AI wave",
-    "link": "https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T16:21:00+00:00",
-    "summary": "There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Busted AI budgets at Uber, Microsoft and Nvidia spur hiring — because human workers are cheaper",
-    "link": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T15:55:00+00:00",
-    "summary": "Uber blew its entire 2026 AI budget by April. Here’s why replacing workers with bots backfired.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Silicon Valley was built on public money — now it’s fighting California’s billionaire tax",
-    "link": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-06T15:43:00+00:00",
-    "summary": "“Cyberselfish” author says tech elite believe that taxes are for “little people.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
   },
   {
     "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
@@ -371,5 +359,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7041
+  },
+  {
+    "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
+    "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T17:58:25+00:00",
+    "summary": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
