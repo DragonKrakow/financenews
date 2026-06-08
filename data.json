@@ -1,5 +1,53 @@
 [
   {
+    "title": "Is your tech portfolio on the wrong side of the AI boom? Why a $1,000 videogame console will squeeze hardware stocks.",
+    "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T20:16:00+00:00",
+    "summary": "The AI buildout is printing money for memory-chip suppliers. But it’s slamming device-makers and their customers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2617
+  },
+  {
+    "title": "Trump’s Washington is suddenly moving toward taking stakes in AI companies. Will it actually happen?",
+    "link": "https://www.marketwatch.com/story/trumps-washington-is-suddenly-moving-toward-taking-stakes-in-ai-companies-will-it-actually-happen-8487fa57?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T20:08:00+00:00",
+    "summary": "President Donald Trump has joined other influential figures in talking about setting up U.S. taxpayers with ownership stakes in artificial-intelligence companies, but analysts aren’t sounding convinced that it’s likely in the near future.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
+  },
+  {
+    "title": "The great gold myth: Why the precious metal isn’t the war hedge we’re told it is",
+    "link": "https://www.marketwatch.com/story/gold-has-tumbled-during-the-iran-war-exposing-a-massive-myth-about-geopolitical-risk-15bd2c94?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T17:42:00+00:00",
+    "summary": "Gold has tumbled since the Iran war started — and it proves everything you know about geopolitical risk is wrong.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "Think a tax extension buys you more time to pay? The IRS has some bad news for you.",
+    "link": "https://www.marketwatch.com/story/filed-an-extension-for-your-income-taxes-the-irs-is-still-charging-you-fdea68a0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T17:36:00+00:00",
+    "summary": "An extension delays paperwork, but not your payment. Settle your bill now to stop daily IRS penalties.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6577
+  },
+  {
     "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
     "source": "The Guardian Economics",
@@ -11,18 +59,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7003
-  },
-  {
-    "title": "How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too",
-    "link": "https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T15:22:00+00:00",
-    "summary": "It’s trickier to find good deals with airline miles, but it’s still possible to get “insane value.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
   },
   {
     "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
@@ -37,30 +73,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8176
-  },
-  {
-    "title": "Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’",
-    "link": "https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T13:32:00+00:00",
-    "summary": "Long-term supply agreements are altering memory companies’ long-term earnings potential for the better, an analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "This Big Tech investor’s warning for traders: Watch out for the SpaceX IPO",
-    "link": "https://www.marketwatch.com/story/this-big-tech-investors-warning-for-traders-watch-out-for-the-spacex-ipo-cd651485?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T13:16:00+00:00",
-    "summary": "Brad Gerstner, CEO of tech investor Altimeter Capital, said retail investors are facing some potentially tricky times ahead with big tech IPOs.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
   },
   {
     "title": "UK companies opting to hire temporary workers over permanent staff, recruitment firms say",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9049
-  },
-  {
-    "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
-    "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-01T17:58:25+00:00",
-    "summary": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   }
 ]
