@@ -1,70 +1,47 @@
 [
   {
-    "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T03:03:00+00:00",
-    "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interrupted Wall Street’s two-month rally, and after new developments threatened the fragile cease-fire in the Iran war.",
+    "title": "Stock markets fall and oil jumps as Middle East conflict intensifies and AI boom falters – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-08T10:40:17+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">UK companies opting to hire temporary workers over permanent staff, recruitment firms say</a></p></li><li><p><a href=\"https://www.theguardian.com/science/2026/jun/06/spacex-ipo-buy-shares-elon-musk-stock-market-launch-risks\"><strong>SpaceX IPO: how can I buy shares, and what are the risks?</strong></a></p></li></ul><p><strong>Shares in European companies at the heart of the AI boom are falling sharply at the start of trading.</strong></p><p>Chip firms such as <strong>Besi</strong> – <strong>BE</strong> <strong>Semiconductor</strong> <strong>Industries</strong> – (-4.5%) and <strong>ASML</strong> (-3.2%) which makes chipmaking machines are among the big fallers on the pan-European <strong>Stoxx 600</strong> index, which is down almost 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil"
+      "Oil",
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9274
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
-    "title": "Nvidia strikes a new memory-chip deal — but SK Hynix and Samsung shares are under heavy pressure",
-    "link": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
+    "title": "My husband won’t sell his home so we can combine our finances and live in comfort. Who is being unreasonable here?",
+    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T02:03:00+00:00",
-    "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
+    "published": "2026-06-08T10:00:00+00:00",
+    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
   },
   {
-    "title": "The Wegovy pill is still dominating the GLP-1 pill market",
-    "link": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
+    "title": "What nine different indicators say about market exuberance, according to Goldman Sachs",
+    "link": "https://www.marketwatch.com/story/what-nine-different-indicators-say-about-market-exuberance-according-to-goldman-sachs-bec968f2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T23:35:00+00:00",
-    "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
+    "published": "2026-06-08T09:16:00+00:00",
+    "summary": "Goldman Sachs’ research illustrates that while the stock market is closer to a dangerous bubble than it was a few months ago, an overall assessment of risk indicators is not that alarming.",
     "matched_keywords": [
-      "AI"
+      "Gold"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.59
   },
   {
-    "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
-    "link": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
+    "title": "Alanis Morissette quickly sells her Bay Area estate in lucrative $9.6 million sale",
+    "link": "https://www.marketwatch.com/story/alanis-morissette-quickly-sells-her-bay-area-estate-in-lucrative-9-6-million-sale-ded51134?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T19:14:00+00:00",
-    "summary": "Only seven companies cited oil prices as a reason for cutting or not updating their profit outlooks for the year.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7359
-  },
-  {
-    "title": "These are the market’s new hot stocks as investors flee from tech",
-    "link": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T16:00:00+00:00",
-    "summary": "Investors are suddenly dumping technology stocks and rotating into other areas — including health insurers, banks and retailers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
-    "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T14:18:00+00:00",
-    "summary": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
+    "published": "2026-06-08T08:58:00+00:00",
+    "summary": "Acclaimed singer Alanis Morissette has proven that she can conquer not only the music charts, but also the real estate market.",
     "matched_keywords": [
       "AI"
     ],
@@ -72,16 +49,42 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-    "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+    "title": "Global stock markets fall as concerns persist over tech firms at heart of AI boom",
+    "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
+    "source": "The Guardian Economics",
+    "published": "2026-06-08T08:32:17+00:00",
+    "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices jump after Iran and Israel exchange strikes</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Global stock markets have fallen amid concern about the prospects for tech stocks while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Stock markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses",
+    "link": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T14:00:00+00:00",
-    "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+    "published": "2026-06-08T07:37:00+00:00",
+    "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "UK companies opting to hire temporary workers over permanent staff, recruitment firms say",
+    "link": "https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say",
+    "source": "The Guardian Economics",
+    "published": "2026-06-08T05:00:17+00:00",
+    "summary": "<p>Report blames Middle East conflict and rising business costs for fragile jobs market and steep fall in recruitment</p><p>UK companies are increasingly hiring temporary workers instead of permanent staff because of low confidence in the economy and higher cost pressures, according to a report.</p><p>Recruiters reported a strong increase in offers of temporary roles in May, according to new research from <a href=\"https://www.theguardian.com/business/kpmg\">KPMG</a> and the Recruitment and Employment Confederation (REC).</p> <a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
   },
   {
     "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
