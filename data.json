@@ -1,5 +1,41 @@
 [
   {
+    "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T03:03:00+00:00",
+    "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interrupted Wall Street’s two-month rally, and after new developments threatened the fragile cease-fire in the Iran war.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9274
+  },
+  {
+    "title": "Nvidia strikes a new memory-chip deal — but SK Hynix and Samsung shares are under heavy pressure",
+    "link": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T02:03:00+00:00",
+    "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "The Wegovy pill is still dominating the GLP-1 pill market",
+    "link": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-07T23:35:00+00:00",
+    "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
     "link": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,18 +82,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "‘He’s taking advantage of me’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-07T12:47:00+00:00",
-    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
   },
   {
     "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
@@ -344,32 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9049
-  },
-  {
-    "title": "Will the AI economy create a permanent underclass?",
-    "link": "https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass",
-    "source": "The Guardian Economics",
-    "published": "2026-06-02T12:27:52+00:00",
-    "summary": "<p>From India and Africa to Europe, countries not yet in the AI supply chain risk mass job losses, losing the tax revenue needed to deal with the tech’s fallout</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Business live – AI to drive up UK youth unemployment</a></p></li></ul><p>The San Francisco Bay Area is in the midst of an AI frenzy that makes the California gold rush of the mid-19th century look like a scavenger hunt. Top programmers and developers are being offered compensation packages worth <a href=\"https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/\">hundreds of millions of dollars</a> to switch firms, while young engineers lucky enough to have joined leading AI startups early are contemplating retirement before age 35.</p><p>Driving up the Bayshore Freeway from San Francisco International airport into the city, you pass hyper-specific billboards advertising obscure AI applications seemingly aimed at absurdly niche audiences. How can that possibly be profitable? The answer is that in a city crawling with startups, getting the right software product in front of a founder whose company could soon be worth billions of dollars is far more lucrative than using billboard space to sell burgers or laundry detergent.</p> <a href=\"https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6966
-  },
-  {
-    "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
-    "link": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-    "source": "The Guardian Economics",
-    "published": "2026-06-02T05:00:39+00:00",
-    "summary": "<p>New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunity</p><p>In a dimly lit television studio, one of Hungary’s richest men is on the verge of tears. It is early May, weeks after the general election that ended Viktor Orbán’s 16-year grip on power, and the advertising mogul Gyula Balásy has an announcement to make.</p><p>Balásy <a href=\"https://www.youtube.com/watch?v=cslzmXaC51M\">tells the interviewer</a> that he has just surrendered his businesses to the state, along with a chunk of his private savings. He has even brought along a notarised deed – a legal document setting out the change of ownership.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9313
   }
 ]
