@@ -1,51 +1,63 @@
 [
   {
-    "title": "Is your tech portfolio on the wrong side of the AI boom? Why a $1,000 videogame console will squeeze hardware stocks.",
+    "title": "Your tech portfolio could be on the wrong side of the AI boom",
     "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T20:16:00+00:00",
-    "summary": "The AI buildout is printing money for memory-chip suppliers. But it’s slamming device-makers and their customers.",
+    "published": "2026-06-09T01:52:00+00:00",
+    "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2617
+    "sentiment_score": -0.4767
   },
   {
-    "title": "Trump’s Washington is suddenly moving toward taking stakes in AI companies. Will it actually happen?",
-    "link": "https://www.marketwatch.com/story/trumps-washington-is-suddenly-moving-toward-taking-stakes-in-ai-companies-will-it-actually-happen-8487fa57?mod=mw_rss_topstories",
+    "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
+    "link": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T20:08:00+00:00",
-    "summary": "President Donald Trump has joined other influential figures in talking about setting up U.S. taxpayers with ownership stakes in artificial-intelligence companies, but analysts aren’t sounding convinced that it’s likely in the near future.",
+    "published": "2026-06-08T22:59:00+00:00",
+    "summary": "Critics say that setting up orbital data centers is easier said than done. But Musk argues that it’s not a “super hard problem” to solve.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1169
+  },
+  {
+    "title": "OpenAI files confidentially for IPO — but there’s a catch",
+    "link": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T21:55:00+00:00",
+    "summary": "“It may be a while because there are things we want to do that are likely easier as a private company,” OpenAI says.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
+    "sentiment_score": 0.631
   },
   {
-    "title": "The great gold myth: Why the precious metal isn’t the war hedge we’re told it is",
-    "link": "https://www.marketwatch.com/story/gold-has-tumbled-during-the-iran-war-exposing-a-massive-myth-about-geopolitical-risk-15bd2c94?mod=mw_rss_topstories",
+    "title": "Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug",
+    "link": "https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T17:42:00+00:00",
-    "summary": "Gold has tumbled since the Iran war started — and it proves everything you know about geopolitical risk is wrong.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
-  },
-  {
-    "title": "Think a tax extension buys you more time to pay? The IRS has some bad news for you.",
-    "link": "https://www.marketwatch.com/story/filed-an-extension-for-your-income-taxes-the-irs-is-still-charging-you-fdea68a0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T17:36:00+00:00",
-    "summary": "An extension delays paperwork, but not your payment. Settle your bill now to stop daily IRS penalties.",
+    "published": "2026-06-08T21:01:00+00:00",
+    "summary": "Eli Lilly shares gained on Monday, after a late-stage trial of its next-generation weight-loss drug impressed analysts.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6577
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’",
+    "link": "https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-08T20:55:00+00:00",
+    "summary": "Long-term supply agreements are altering memory companies’ long-term earnings potential for the better, an analyst said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
   },
   {
     "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
@@ -65,7 +77,7 @@
     "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
     "source": "The Guardian Economics",
     "published": "2026-06-08T13:55:28+00:00",
-    "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Stock markets have fallen amid concern about the prospects for tech stocks, while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
+    "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes</p><p>Stock markets have fallen amid concern about the prospects for tech stocks, while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI",
@@ -357,19 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9856
-  },
-  {
-    "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-02T15:41:21+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo\">Anthropic confidentially files for initial public offering on US stock market</a></p></li></ul><p><strong>In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European Central Bank.</strong></p><p>The <strong>ECB</strong> says that gold made up 27% of total official foreign reserves at the end of 2025, ahead of US Treasuries (22% of reserves) and the euro (15%).</p><p>Forces of fragmentation are becoming more pronounced. Geopolitical tensions continue to drive strong central bank demand for gold.</p><p>In nominal terms, the gold price surged by around 60% and 30% in 2025 and 2024 respectively, which mechanically increases the share of gold in total official foreign reserves.</p><p>Correcting for such valuation effects by using the gold price at the end of 2023, the share of the euro (16%) remains at par with the share of gold (16%), while the share of US Treasuries continues to be markedly higher (26%).</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9049
   }
 ]
