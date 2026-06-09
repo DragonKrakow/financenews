@@ -1,5 +1,19 @@
 [
   {
+    "title": "Chip stocks bounce back as OpenAI files for Wall Street float – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-09T09:06:56+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as the AI trade bounces back</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market\"><strong>OpenAI confidentially files for initial public offering on US stock market</strong></a></p></li></ul><p><strong>The pound is strengthening against the US dollar today, as calm returns to the markets.</strong></p><p>Sterling is up a third of a cent at $1.3376.</p><p>“A light week in terms of macroeconomic news out of the UK meant the focus for sterling traders was mostly elsewhere. We did see an MPC member (Greene) stating that she would consider voting for a hike at the next Bank of England meeting later this month.</p><p>“A notable upward revision in the PMI business indices last week suggests that the initial confidence drop was overstated and that the UK economy is more resilient to the Middle East events than first feared. We look to this week’s April monthly GDP data, released Friday, to validate this modestly optimistic view.”</p><p>“Just when the supersized tech rally was looking a little tired, along comes the news of OpenAI’s decision to IPO.</p><p>Presumably the move has been spurred along by Anthropic’s recent move towards a public listing, but and now markets face the test of yet another superheavyweight firm listing to test demand for these highly-valued companies that promise to reshape not just the investing landscape, but the entirety of human society.”</p><p>The race is on to extract money out of the roar of enthusiasm for companies providing the backbone to the artificial intelligence revolution. There’s now a hat trick of mega listings on the cards, with OpenAI’s filing for an IPO coming hot on the heels of Anthropic and SpaceX. The research company behind the hugely successful ChatGPT had first-mover advantage, buoyed by an early deal with Microsoft, but Anthropic has gained ground and is tackling adeptly from behind, winning reams of enterprise contracts.</p><p>The price of staying at the top of the game is eye-watering for OpenAI – it’s estimated to be spending more than $100 billion a year on the infrastructure and processing power to support its services and power the next generation of AI models. To stay high and dry in its AI fortress, the company reckons that by spending at this level, it will create a moat too difficult to cross for the competition, enabling it to keep raking in revenues and eventually turn big profits.</p><p>OpenAI is currently valued at $850bn, the ‘baby’ of the group, since Anthropic is now valued ahead of OpenAI at $965bn. The company laid out the ‘third phase of OpenAI’ on Monday and said that it is undertaking research into artificial general intelligence, and looking at becoming a ‘product company’.</p><p>The latter is interesting for investors, since it would be a major potential source of future revenue. Although it is early days, if OpenAI launches its own product range, it could become a major competitor to Apple and Google, and their share prices are worth watching closely on Tuesday.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9947
+  },
+  {
     "title": "Your tech portfolio could be on the wrong side of the AI boom",
     "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,30 +48,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.631
-  },
-  {
-    "title": "Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug",
-    "link": "https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T21:01:00+00:00",
-    "summary": "Eli Lilly shares gained on Monday, after a late-stage trial of its next-generation weight-loss drug impressed analysts.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
-  },
-  {
-    "title": "Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’",
-    "link": "https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-08T20:55:00+00:00",
-    "summary": "Long-term supply agreements are altering memory companies’ long-term earnings potential for the better, an analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
   },
   {
     "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
@@ -369,5 +359,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9856
+  },
+  {
+    "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
+    "link": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-01T17:58:25+00:00",
+    "summary": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
