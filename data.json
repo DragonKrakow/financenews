@@ -1,5 +1,43 @@
 [
   {
+    "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+    "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-10T05:02:45+00:00",
+    "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.",
+    "link": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-10T02:42:00+00:00",
+    "summary": "Oracle’s fourth-quarter earnings call will deliver critical updates about the progress of its data-center build-out and the financial impact of its AI pivot.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
+    "link": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-10T01:31:00+00:00",
+    "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6908
+  },
+  {
     "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
     "link": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,30 +84,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0772
-  },
-  {
-    "title": "Adobe needs a new CEO to make bold AI moves, and its choice could be revealed on Thursday",
-    "link": "https://www.marketwatch.com/story/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday-31269df8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T20:21:00+00:00",
-    "summary": "Given all the doubts around Adobe, it’s perhaps surprising that the company will likely go with an internal candidate to replace outgoing CEO Shantanu Narayen.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Your tech portfolio could be on the wrong side of the AI boom",
-    "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T20:16:00+00:00",
-    "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
@@ -358,17 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.966
-  },
-  {
-    "title": "A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how",
-    "source": "The Guardian Economics",
-    "published": "2026-06-04T06:00:27+00:00",
-    "summary": "<p>Our plan is radical – but by transforming how we live on a finite planet, nearly everyone gains</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\"><strong>‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival</strong></a></p></li></ul><p>Imagine a future in which everyone enjoys high levels of wellbeing; where 90% of the world’s population doubles their income but works half the hours we work today. A world in which the bottom half of humanity sees its share of global wealth rise from <a href=\"https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds\">just 2% today</a> to 30%; a world where we consume enough, but nobody over-consumes. And imagine achieving this on a planet that can comfortably sustain human life without its climate breaking down.</p><p>Against the bleak techno-authoritarian futures now being sold to us, a radical new vision for global progress in the 21st century feels urgently needed. The most credible vision is one in which the habitability of the planet is a precondition for human development and equality.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9823
   }
 ]
