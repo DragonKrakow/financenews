@@ -1,5 +1,42 @@
 [
   {
+    "title": "US inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+    "link": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
+    "source": "The Guardian Economics",
+    "published": "2026-06-10T13:03:08+00:00",
+    "summary": "<p>Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy prices</p><p>US <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> jumped to an annual rate of 4.2% in May, the third consecutive monthly increase since the start of the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Iran war</a> and a three-year high, as Americans continue to face steep oil prices.</p><p>Prices have increased sharply over the past several months, rising at an annual rate of 3.3% in March before going up to 3.8% in April. In February, before the conflict began, inflation was at 2.4%.</p> <a href=\"https://www.theguardian.com/business/2026/jun/10/inflation-report-rate\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "How exploding investor euphoria and leveraged ETFs turned one stock-market bull cautious",
+    "link": "https://www.marketwatch.com/story/why-exploding-retail-euphoria-and-leveraged-etfs-have-scared-one-stock-market-bull-into-turning-cautious-bdd2d4f2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-10T12:49:00+00:00",
+    "summary": "A Barclays strategist explains why it’s time to turn cautious on U.S. stocks, and what it will take for him to turn bullish again.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "We economists have done the maths: ‘growth’ is a doomed strategy – there is a better way | Olivier De Schutter and others",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+    "source": "The Guardian Economics",
+    "published": "2026-06-10T08:00:14+00:00",
+    "summary": "<p>Our roadmap has been shaped by experts across the world, from UN agencies to grassroots movements. We call on political leaders at all levels to use it</p><p>We live in an age of manufactured scarcity. In a world richer than ever before, <a href=\"https://social.desa.un.org/world-summit-2025/blog/the-sustainable-development-goals-have-improved-millions-of-lives-over-the\">roughly one 10th of the world’s population still lives in extreme destitution</a>. Millions of people cannot afford enough food, proper housing or basic healthcare, while a tiny minority accumulates unprecedented wealth and power. At the same time, droughts, megafires, floods and heatwaves remind us that our economies are pushing the planet beyond its limits.</p><p>These are not separate crises. They are symptoms of an economic model that has reached the end of the road. Poverty and inequality are not accidents; they are predictable outcomes of policy choices: how we design tax systems, regulate labour markets, value care, structure public services and decide whose needs and whose voices matter. Crucially, if governments can manufacture poverty, they can also dismantle it.</p><p><strong>Olivier De Schutter</strong> is the chair of New Economies for Eradicating Poverty; <strong>Joseph Stiglitz</strong> is a Nobel laureate in economics; <strong>Jayati Ghosh</strong> is professor of economics at University of Massachusetts Amherst; <strong>Thomas Piketty</strong> is professor of economics at the Paris School of Economics; <strong>Kate Raworth</strong> is an economist at Oxford University’s Environmental Change Institute; <strong>Jason Hickel</strong> is the author of The Divide: A Brief Guide to Global Inequality and its Solutions</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3532
+  },
+  {
     "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
     "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
     "source": "CNBC Finance",
@@ -11,79 +48,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
-  },
-  {
-    "title": "Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.",
-    "link": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T02:42:00+00:00",
-    "summary": "Oracle’s fourth-quarter earnings call will deliver critical updates about the progress of its data-center build-out and the financial impact of its AI pivot.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
-    "link": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T01:31:00+00:00",
-    "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6908
-  },
-  {
-    "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
-    "link": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T00:12:00+00:00",
-    "summary": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds",
-    "link": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T23:17:00+00:00",
-    "summary": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
-    "link": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T22:00:00+00:00",
-    "summary": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Angst over SpaceX IPO adds to dive in tech stocks",
-    "link": "https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T21:14:00+00:00",
-    "summary": "Technology stocks tumbled on Tuesday, extending a swoon that began in early June, as investors anxiously await the historic SpaceX IPO later this week and retreat from hot parts of the AI playbook.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   },
   {
     "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
@@ -372,5 +336,42 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.966
+  },
+  {
+    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-03T20:48:40+00:00",
+    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7717
+  },
+  {
+    "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
+    "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-03T15:32:54+00:00",
+    "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Fed Chair Warsh makes first hires at central bank, including 'Project 2025' author",
+    "link": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-03T14:38:04+00:00",
+    "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in the conservative policy blueprint \"Project 2025.\"",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
