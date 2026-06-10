@@ -1,15 +1,75 @@
 [
   {
-    "title": "As SpaceX IPO anticipation heats up, what 2026’s biggest IPOs say about investor demand",
-    "link": "https://www.marketwatch.com/story/as-spacex-ipo-anticipation-heats-up-what-2026s-biggest-ipos-say-about-investor-demand-f38ad821?mod=mw_rss_topstories",
+    "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
+    "link": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-09T19:28:00+00:00",
-    "summary": "Investors are paying close attention to huge IPOs expected this year, with questions about how they may perform amid enthusiasm for AI.",
+    "published": "2026-06-10T00:12:00+00:00",
+    "summary": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
+  },
+  {
+    "title": "This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds",
+    "link": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-09T23:17:00+00:00",
+    "summary": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
+    "link": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-09T22:00:00+00:00",
+    "summary": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Angst over SpaceX IPO adds to dive in tech stocks",
+    "link": "https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-09T21:14:00+00:00",
+    "summary": "Technology stocks tumbled on Tuesday, extending a swoon that began in early June, as investors anxiously await the historic SpaceX IPO later this week and retreat from hot parts of the AI playbook.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Adobe needs a new CEO to make bold AI moves, and its choice could be revealed on Thursday",
+    "link": "https://www.marketwatch.com/story/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday-31269df8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-09T20:21:00+00:00",
+    "summary": "Given all the doubts around Adobe, it’s perhaps surprising that the company will likely go with an internal candidate to replace outgoing CEO Shantanu Narayen.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "Your tech portfolio could be on the wrong side of the AI boom",
+    "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-09T20:16:00+00:00",
+    "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
     "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
@@ -310,67 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9823
-  },
-  {
-    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
-    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-03T20:48:40+00:00",
-    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
-    "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-03T15:32:54+00:00",
-    "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "Fed Chair Warsh makes first hires at central bank, including 'Project 2025' author",
-    "link": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-03T14:38:04+00:00",
-    "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in the conservative policy blueprint \"Project 2025.\"",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
-    "link": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
-    "source": "The Guardian Economics",
-    "published": "2026-06-03T10:41:03+00:00",
-    "summary": "<p>Proposal for 10-12.5% levies, to also include EU, Taiwan and Australia, would allow US president to skirt court-imposed limits</p><p>Donald Trump has threatened tariffs of between 10% and 12.5% on 60 trading partners including the UK, the EU and Australia over alleged forced labour failures, in the latest attempt to revive his signature trade policy.</p><p>The EU immediately hit back, saying it expected the US to respect the tariff deal it entered into last July and arguing that stealth tariffs breached the spirit of that agreement.</p> <a href=\"https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
-  },
-  {
-    "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
-    "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-02T19:06:48+00:00",
-    "summary": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
   }
 ]
