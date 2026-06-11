@@ -1,29 +1,142 @@
 [
   {
-    "title": "China’s Jingye Steel asks UK for compensation over British Steel takeover – business live",
+    "title": "Wholesale inflation surges again and keeps the pressure on businesses and the U.S. economy",
+    "link": "https://www.marketwatch.com/story/wholesale-inflation-surges-again-and-keeps-the-pressure-on-businesses-and-the-u-s-economy-9a40a991?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T13:27:00+00:00",
+    "summary": "Wholesale prices in May posted the biggest back-to-back increase since 2022 and kept the pressure on businesses as they try to navigate another wave of U.S. inflation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-11T07:46:14+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>China’s Jingye Steel is seeking compensation from the UK government over the takeover, and future nationalisation, of British Steel.</strong></p><p><strong>Jingye</strong> <strong>Steel</strong> wants Britain to compensate it for the loss incurred through its investment in British Steel, which the UK government took operational control of in April 2025.</p><p>“Jingye has recently initiated consultation procedures under the bilateral investment treaty with the UK government.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
+    "published": "2026-06-11T13:22:00+00:00",
+    "summary": "<p>European Central Bank has lifted interest rates and warned that the war in the Middle East is generating inflation pressures</p><p><strong>The financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.</strong></p><p>European stock markets are mostly higher this morning, while the oil price is now slipping back.</p><p>“As has often been the case during the Iran conflict, the UK’s flagship index has found support from its collection of energy companies and more traditionally defensive names. Miners and other China-linked stocks were lifted by data suggesting the country is investing heavily in AI and consuming raw materials at a healthy rate.</p><p>“Selling in AI-related stocks, of which London has very few, put shares on Wall Street under pressure yesterday and that’s extended to Asia today.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1134
+  },
+  {
+    "title": "Samsung, one of the world’s hottest stocks, is hit by insider-trading probe",
+    "link": "https://www.marketwatch.com/story/samsung-one-of-the-worlds-hottest-stocks-is-hit-by-insider-trading-probe-026a6227?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T13:10:00+00:00",
+    "summary": "Samsung shares have rallied 150% so far this year with Korea’s army of retail investors speculating on further gains as the supply=demand imbalance in memory chips shows no sign of abating.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Planning to ‘flip’ SpaceX IPO shares? Be prepared to pay the price.",
+    "link": "https://www.marketwatch.com/story/want-to-flip-spacexs-stock-on-the-day-of-the-ipo-be-prepared-to-pay-the-price-4ce68735?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T12:51:00+00:00",
+    "summary": "A large portion of IPO shares will be allocated to retail investors, but they face penalties if they sell too soon.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3506
+  },
+  {
+    "title": "Big Tech is preventing new stock-market highs as investors change the way they play AI, says this top strategist",
+    "link": "https://www.marketwatch.com/story/big-tech-is-preventing-new-stock-market-highs-due-to-the-changing-way-investors-play-the-ai-trade-says-this-top-strategist-891c2577?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T12:39:00+00:00",
+    "summary": "Nomura’s Charlie McElligott says investors are finally waking up to the problems with a market that is too concentrated on AI leadership.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "RIP Euro summer: Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
+    "link": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T12:30:00+00:00",
+    "summary": "Surging airfares have made it harder for price-conscious travelers to justify summer vacations in Europe — and many are opting to travel within the U.S. instead.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
+    "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-06-11T12:18:30+00:00",
+    "summary": "<p>European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran.</p><p>The ECB raised its main deposit rate from 2% to 2.25% and financial markets are pricing in two more rises by next spring.</p> <a href=\"https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "‘It’s causing friction’: I’m taking a trip with 14 friends. What is the fairest way to split the food bill?",
+    "link": "https://www.marketwatch.com/story/its-causing-friction-im-taking-a-trip-with-14-friends-what-is-the-fairest-way-to-split-the-food-bill-0041e14f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T12:00:00+00:00",
+    "summary": "“I’m worried it’s going to make people irritable and ruin the trip.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
+  },
+  {
+    "title": "As artificial-intelligence capital expenditures rise, so do the risks for AI stocks, Goldman Sachs tells investors",
+    "link": "https://www.marketwatch.com/story/as-artificial-intelligence-capital-expenditures-rise-so-do-the-risks-for-ai-stocks-goldman-sachs-tells-investors-bc985b57?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T11:56:00+00:00",
+    "summary": "Forecasts of $920 billion in AI-related capex in 2027 are likely too conservative.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3321
+  },
+  {
+    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
+    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T11:00:00+00:00",
+    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_score": -0.3919
   },
   {
-    "title": "Markets are pricing in a rate hike by the European Central Bank — which one top economist sees as a ‘mistake in the making’",
-    "link": "https://www.marketwatch.com/story/markets-are-pricing-in-a-rate-hike-by-the-european-central-bank-and-that-could-be-a-mistake-in-the-making-b99771ca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T06:36:00+00:00",
-    "summary": "The decision to raise interest rates would mark the central bank’s first in almost three years.",
+    "title": "Young people in Britain are suffering a joblessness epidemic – and, so far, Labour is just making it worse | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-06-11T10:53:56+00:00",
+    "summary": "<p>Youth unemployment is harming the mental health of a generation. A sluggish economy will only make things harder</p><p>Unemployment is bad for anyone, but really hard on the young. That’s because prolonged periods of worklessness in your late teens or early 20s scar you for life. As <a href=\"https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2216/files/2026/06/Blanchflower-Bryson-and-Bell-2026-Deteriorating-Mental-Well%E2%80%90Being-of-the-Young-in-the-UK.pdf\">academic studies </a>have shown, it can cause depression and affect earning potential for years to come. There is a clear link between poor mental health and being unemployed.</p><p>That’s why <a href=\"https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report\">Alan Milburn’s probe into youth unemployment</a> won’t be one of the government-commissioned reports that is quickly filed away and allowed to gather dust. It makes uncomfortable reading for ministers. The number of people aged 16 to 24 not in education, employment or training (Neets) is rising, and the costs of inactivity are increasing. Britain has a jobs problem, and it’s getting worse.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9744
   },
   {
     "title": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century",
@@ -36,43 +149,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T00:15:00+00:00",
-    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
-  },
-  {
-    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T23:48:00+00:00",
-    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Oracle’s stock slides after earnings, as the steep price of AI spooks investors",
-    "link": "https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T23:17:00+00:00",
-    "summary": "Oracle blew past earnings expectations and grew its contract pipeline to $638 billion, but Wall Street is concerned about its rising AI costs.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
@@ -301,78 +377,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
-  },
-  {
-    "title": "Where investors may find the next 'big wave' for AI trade",
-    "link": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-05T12:17:43+00:00",
-    "summary": "Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
-    "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-05T07:50:47+00:00",
-    "summary": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7334
-  },
-  {
-    "title": "Horrific, unregulated, and very profitable. The companies making cash from England’s children in care | George Monbiot",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T07:00:29+00:00",
-    "summary": "<p>Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vultures</p><p>Bring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you can stuff it in a sack. All you need do is join the market in what may now be England’s most lucrative commodity. A commodity with arms and legs, hearts and brains, thoughts and feelings. Children.</p><p>Two years ago I <a href=\"https://www.theguardian.com/commentisfree/article/2024/may/18/child-care-cost-year-wealth-funds-councils-britain-residential\">stumbled into this issue</a> after discovering that children in care who were being helped by a local charity I’m involved with were suddenly being whisked away, terminating the amazing progress they had been making, breaking their relationships, their sense of home, stability and security. When I began exploring why this was happening, I could scarcely believe what I was seeing: a highly lucrative trade in highly vulnerable young people. Children in “care” were being exchanged between private equity companies for £100,000 apiece. That figure is now wrong. Today they are worth far more.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9382
-  },
-  {
-    "title": "UK shoppers return to high street as warm weather brings respite from shadow of war",
-    "link": "https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T05:00:26+00:00",
-    "summary": "<p>British Retail Consortium figures show footfall rose in May, with consumer confidence improving after spending squeeze</p><p>Greater numbers of consumers went shopping last month as spring sunshine brought welcome relief to retailers, which have faced a squeeze on spending since the US-Israel war on Iran.</p><p>Figures from the British Retail Consortium (BRC) and a separate survey by the accountancy firm BDO showed a bounce-back in footfall during May, reversing a sharp decline in April.</p> <a href=\"https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "Chip stocks drop as AI rally shows ‘signs of fatigue’, as SpaceX’s huge IPO looms – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-04T15:08:49+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>A fire has broken out at <strong>Tata</strong> <strong>Steel’s</strong> plant in south Wales, with the manufacturer saying it is too early to say whether the incident will affect its operations.</p><p>Emergency services attended the Port Talbot site at 8pm last night to deal with a fire at one of its processing lines, the company said in a statement. All staff were accounted for and evacuated to safety, it said.</p><p>“UK construction companies reported a steep downturn in business activity during May, with the speed of contraction accelerating to its fastest for six years. House building remained especially subdued, and there were fresh challenges in the construction sector from a considerable softening of commercial activity since April.</p><p>“Anecdotal evidence suggested that economic uncertainty and rising inflation in the wake of the Middle East conflict had triggered the steepest drop in new work since the beginning of the pandemic. Elevated borrowing costs were also reported to have impacted market conditions.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8271
-  },
-  {
-    "title": "Why is ‘doomspending’ on the rise? | Sean Monahan",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis",
-    "source": "The Guardian Economics",
-    "published": "2026-06-04T11:00:04+00:00",
-    "summary": "<p>If everyone is spending like there won’t be a tomorrow, there probably won’t be a tomorrow</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/04/consumer-customer-complaints-frustration\">People in the US: tell us about your difficult consumer experiences</a></p></li></ul><p>Doom is the prefix du jour. Doomscrolling, doomposting, doomsplaining, doomspreading. Doom joins other recent suffixes -maxxing, -pilled, and -slop – giving discussions about contemporary life an overtly negative cast. Doomspending, in particular, is a new term for spending frivolously with no concern for future financial consequences. It has become synonymous with the declining fortunes of young westerners.</p><p>A survey by Credit Karma, a consumer fintech company, published in the fall of 2024, introduced the concept and the general parameters around it. Chronically online youth had begun coping with anxiety about the economy and world events with retail therapy. They claim 27% of Americans doomspend to deal with stress. The numbers rise to 37% of gen Z and 39% of millennials.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/doomspending-economy-financial-crisis\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7964
   }
 ]
