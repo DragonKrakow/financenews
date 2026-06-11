@@ -1,22 +1,59 @@
 [
   {
-    "title": "Wholesale inflation surges again and keeps the pressure on businesses and the U.S. economy",
-    "link": "https://www.marketwatch.com/story/wholesale-inflation-surges-again-and-keeps-the-pressure-on-businesses-and-the-u-s-economy-9a40a991?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T13:27:00+00:00",
-    "summary": "Wholesale prices in May posted the biggest back-to-back increase since 2022 and kept the pressure on businesses as they try to navigate another wave of U.S. inflation.",
+    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-11T19:05:08+00:00",
+    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
     "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Oil prices drop as Trump backs away from his threat of strikes on Iran",
+    "link": "https://www.marketwatch.com/story/trump-says-u-s-will-take-irans-oil-export-hub-kharg-island-heres-what-his-threat-really-means-25e95663?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T18:34:00+00:00",
+    "summary": "Oil prices dropped Thursday after President Donald Trump said he was canceling planned fresh strikes on Iran, pulling back from his threat earlier in the day.",
+    "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.8957
   },
   {
-    "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – business live",
+    "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-11T18:24:40+00:00",
+    "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "Intel’s stock could push even higher thanks to this subtle dynamic, BofA says",
+    "link": "https://www.marketwatch.com/story/intels-stock-could-push-even-higher-thanks-to-this-subtle-dynamic-bofa-says-0615c707?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T17:34:00+00:00",
+    "summary": "Despite major stock gains this year, Intel is significantly “underowned” in funds, BofA notes — and as ownership expands, the stock could zoom higher.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5659
+  },
+  {
+    "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-11T13:22:00+00:00",
-    "summary": "<p>European Central Bank has lifted interest rates and warned that the war in the Middle East is generating inflation pressures</p><p><strong>The financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.</strong></p><p>European stock markets are mostly higher this morning, while the oil price is now slipping back.</p><p>“As has often been the case during the Iran conflict, the UK’s flagship index has found support from its collection of energy companies and more traditionally defensive names. Miners and other China-linked stocks were lifted by data suggesting the country is investing heavily in AI and consuming raw materials at a healthy rate.</p><p>“Selling in AI-related stocks, of which London has very few, put shares on Wall Street under pressure yesterday and that’s extended to Asia today.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
+    "published": "2026-06-11T15:19:17+00:00",
+    "summary": "<p>European Central Bank has lifted interest rates and warned that the war in the Middle East is generating inflation pressures</p><p><strong>The financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.</strong></p><p>European stock markets are mostly higher this morning, while the oil price is now slipping back.</p><p>As has often been the case during the Iran conflict, the UK’s flagship index has found support from its collection of energy companies and more traditionally defensive names. Miners and other China-linked stocks were lifted by data suggesting the country is investing heavily in AI and consuming raw materials at a healthy rate.</p><p>Selling in AI-related stocks, of which London has very few, put shares on Wall Street under pressure yesterday and that’s extended to Asia today.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
@@ -26,60 +63,11 @@
     "sentiment_score": 0.1134
   },
   {
-    "title": "Samsung, one of the world’s hottest stocks, is hit by insider-trading probe",
-    "link": "https://www.marketwatch.com/story/samsung-one-of-the-worlds-hottest-stocks-is-hit-by-insider-trading-probe-026a6227?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T13:10:00+00:00",
-    "summary": "Samsung shares have rallied 150% so far this year with Korea’s army of retail investors speculating on further gains as the supply=demand imbalance in memory chips shows no sign of abating.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Planning to ‘flip’ SpaceX IPO shares? Be prepared to pay the price.",
-    "link": "https://www.marketwatch.com/story/want-to-flip-spacexs-stock-on-the-day-of-the-ipo-be-prepared-to-pay-the-price-4ce68735?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T12:51:00+00:00",
-    "summary": "A large portion of IPO shares will be allocated to retail investors, but they face penalties if they sell too soon.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3506
-  },
-  {
-    "title": "Big Tech is preventing new stock-market highs as investors change the way they play AI, says this top strategist",
-    "link": "https://www.marketwatch.com/story/big-tech-is-preventing-new-stock-market-highs-due-to-the-changing-way-investors-play-the-ai-trade-says-this-top-strategist-891c2577?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T12:39:00+00:00",
-    "summary": "Nomura’s Charlie McElligott says investors are finally waking up to the problems with a market that is too concentrated on AI leadership.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "RIP Euro summer: Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
-    "link": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T12:30:00+00:00",
-    "summary": "Surging airfares have made it harder for price-conscious travelers to justify summer vacations in Europe — and many are opting to travel within the U.S. instead.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
     "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
     "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
     "source": "The Guardian Economics",
     "published": "2026-06-11T12:18:30+00:00",
-    "summary": "<p>European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran.</p><p>The ECB raised its main deposit rate from 2% to 2.25% and financial markets are pricing in two more rises by next spring.</p> <a href=\"https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation\">Continue reading...</a>",
+    "summary": "<p>European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran.</p><p>The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring.</p> <a href=\"https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
@@ -87,44 +75,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
-  },
-  {
-    "title": "‘It’s causing friction’: I’m taking a trip with 14 friends. What is the fairest way to split the food bill?",
-    "link": "https://www.marketwatch.com/story/its-causing-friction-im-taking-a-trip-with-14-friends-what-is-the-fairest-way-to-split-the-food-bill-0041e14f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T12:00:00+00:00",
-    "summary": "“I’m worried it’s going to make people irritable and ruin the trip.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7184
-  },
-  {
-    "title": "As artificial-intelligence capital expenditures rise, so do the risks for AI stocks, Goldman Sachs tells investors",
-    "link": "https://www.marketwatch.com/story/as-artificial-intelligence-capital-expenditures-rise-so-do-the-risks-for-ai-stocks-goldman-sachs-tells-investors-bc985b57?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T11:56:00+00:00",
-    "summary": "Forecasts of $920 billion in AI-related capex in 2027 are likely too conservative.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3321
-  },
-  {
-    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T11:00:00+00:00",
-    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
   },
   {
     "title": "Young people in Britain are suffering a joblessness epidemic – and, so far, Labour is just making it worse | Larry Elliott",
@@ -251,7 +201,7 @@
     "sentiment_score": 0.6697
   },
   {
-    "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Normon Solomon",
+    "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Norman Solomon",
     "link": "https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist",
     "source": "The Guardian Economics",
     "published": "2026-06-09T10:00:49+00:00",
@@ -377,5 +327,54 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
+  },
+  {
+    "title": "Where investors may find the next 'big wave' for AI trade",
+    "link": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-05T12:17:43+00:00",
+    "summary": "Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
+    "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-05T07:50:47+00:00",
+    "summary": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7334
+  },
+  {
+    "title": "Horrific, unregulated, and very profitable. The companies making cash from England’s children in care | George Monbiot",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
+    "source": "The Guardian Economics",
+    "published": "2026-06-05T07:00:29+00:00",
+    "summary": "<p>Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vultures</p><p>Bring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you can stuff it in a sack. All you need do is join the market in what may now be England’s most lucrative commodity. A commodity with arms and legs, hearts and brains, thoughts and feelings. Children.</p><p>Two years ago I <a href=\"https://www.theguardian.com/commentisfree/article/2024/may/18/child-care-cost-year-wealth-funds-councils-britain-residential\">stumbled into this issue</a> after discovering that children in care who were being helped by a local charity I’m involved with were suddenly being whisked away, terminating the amazing progress they had been making, breaking their relationships, their sense of home, stability and security. When I began exploring why this was happening, I could scarcely believe what I was seeing: a highly lucrative trade in highly vulnerable young people. Children in “care” were being exchanged between private equity companies for £100,000 apiece. That figure is now wrong. Today they are worth far more.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9382
+  },
+  {
+    "title": "UK shoppers return to high street as warm weather brings respite from shadow of war",
+    "link": "https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-06-05T05:00:26+00:00",
+    "summary": "<p>British Retail Consortium figures show footfall rose in May, with consumer confidence improving after spending squeeze</p><p>Greater numbers of consumers went shopping last month as spring sunshine brought welcome relief to retailers, which have faced a squeeze on spending since the US-Israel war on Iran.</p><p>Figures from the British Retail Consortium (BRC) and a separate survey by the accountancy firm BDO showed a bounce-back in footfall during May, reversing a sharp decline in April.</p> <a href=\"https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
   }
 ]
