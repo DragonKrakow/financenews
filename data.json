@@ -1,5 +1,42 @@
 [
   {
+    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
+    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T00:15:00+00:00",
+    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-10T23:48:00+00:00",
+    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Oracle’s stock slides after earnings, as the steep price of AI spooks investors",
+    "link": "https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-10T23:17:00+00:00",
+    "summary": "Oracle blew past earnings expectations and grew its contract pipeline to $638 billion, but Wall Street is concerned about its rising AI costs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
     "link": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html",
     "source": "CNBC Finance",
@@ -22,18 +59,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.875
-  },
-  {
-    "title": "Amazon lines up another $17.5 billion for AI as its debt pile grows further",
-    "link": "https://www.marketwatch.com/story/amazon-lines-up-another-17-5-billion-for-ai-as-its-debt-pile-grows-further-5f16be9c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-10T16:52:00+00:00",
-    "summary": "The tech giant has now raised over $80 billion in external financing this year alone, with no signs of slowing down.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
   },
   {
     "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
@@ -347,29 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.966
-  },
-  {
-    "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
-    "link": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-03T20:48:40+00:00",
-    "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
-    "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-03T15:32:54+00:00",
-    "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
   }
 ]
