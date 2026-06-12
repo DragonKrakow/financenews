@@ -1,5 +1,43 @@
 [
   {
+    "title": "SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-12T07:43:47+00:00",
+    "summary": "<p>Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offering</p><p><strong>A poll by Opinium has found that one in four (25%) Gen Z and Millennial investors in the UK say they have applied for shares in SpaceX or will buy shares on the day of the IPO.</strong></p><p>One in seven (15%) of all UK investors say they have applied for shares or will buy them on the day of the IPO, which is on track to become the largest in market history. Male investors (18%) are also more likely than female investors (10%) to say that have or will buy SpaceX shares.</p><p>It is a reminder that space is increasingly becoming Earth’s critical economic infrastructure – and that the US is setting the pace in the commercial and geopolitical space race.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "UK economy shrank by 0.1% in April as Iran war held back growth",
+    "link": "https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth",
+    "source": "The Guardian Economics",
+    "published": "2026-06-12T06:31:37+00:00",
+    "summary": "<p>GDP hit by higher energy prices caused by Middle East conflict, after 3% rise in March</p><p>The UK economy contracted by 0.1% in April as the Iran war began to take its toll on growth, official figures show.</p><p>As energy prices have risen as a result of the conflict, after Iran closed off the strait of Hormuz – a <a href=\"https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price\">vital shipping route for global trade</a> – the UK’s strong expansion in the first quarter slid into reverse.</p> <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
+    "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-12T01:56:00+00:00",
+    "summary": "The Nasdaq 100 could imminently include SpaceX, but first it’s getting a shakeup that will usher in another space-technology company and four flashy AI plays.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
     "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
     "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
     "source": "CNBC Finance",
@@ -334,46 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8555
-  },
-  {
-    "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
-    "link": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-05T19:09:09+00:00",
-    "summary": "Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
-    "title": "US job creation smashes forecasts in May, fuelling rate hike bets; ‘no jet fuel shortage in Europe’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T15:43:16+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/05/uk-house-prices-fall-for-third-successive-month-amid-iran-war-uncertainty\"><strong>UK house prices fall for third successive month amid Iran war uncertainty</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war\">UK shoppers return to high street as warm weather brings respite from shadow of war</a></p></li></ul><p><br /></p><p><strong>After rising in recent months, global food commodity prices stabilised in May.</strong></p><p>The UN’s Food and Agriculture Organisation has reported that its Food Price Index was stable last month, showing that the cost of a basket of food commodities dipped by 0.2% in May.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Commodities",
-      "Oil",
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
-    "title": "Where investors may find the next 'big wave' for AI trade",
-    "link": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-05T12:17:43+00:00",
-    "summary": "Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   }
 ]
