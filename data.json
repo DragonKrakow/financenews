@@ -1,34 +1,33 @@
 [
   {
-    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+    "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
     "source": "CNBC Finance",
-    "published": "2026-06-11T19:05:08+00:00",
-    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
+    "published": "2026-06-11T23:35:43+00:00",
+    "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
     "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Oil prices drop as Trump backs away from his threat of strikes on Iran",
-    "link": "https://www.marketwatch.com/story/trump-says-u-s-will-take-irans-oil-export-hub-kharg-island-heres-what-his-threat-really-means-25e95663?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T18:34:00+00:00",
-    "summary": "Oil prices dropped Thursday after President Donald Trump said he was canceling planned fresh strikes on Iran, pulling back from his threat earlier in the day.",
-    "matched_keywords": [
-      "Oil",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8957
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T23:26:00+00:00",
+    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
     "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
     "source": "CNBC Finance",
-    "published": "2026-06-11T18:24:40+00:00",
+    "published": "2026-06-11T22:53:14+00:00",
     "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
     "matched_keywords": [
       "AI"
@@ -37,16 +36,52 @@
     "sentiment_score": 0.8176
   },
   {
-    "title": "Intel’s stock could push even higher thanks to this subtle dynamic, BofA says",
-    "link": "https://www.marketwatch.com/story/intels-stock-could-push-even-higher-thanks-to-this-subtle-dynamic-bofa-says-0615c707?mod=mw_rss_topstories",
+    "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-11T22:21:47+00:00",
+    "summary": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "We asked AI to predict the 2026 World Cup winner. It picked a team that’s never won.",
+    "link": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-11T17:34:00+00:00",
-    "summary": "Despite major stock gains this year, Intel is significantly “underowned” in funds, BofA notes — and as ownership expands, the stock could zoom higher.",
+    "published": "2026-06-11T21:37:00+00:00",
+    "summary": "Some 2026 World Cup predictions from AI models are going against tradition to pick the underdogs. Here’s why.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5659
+    "sentiment_score": 0.2028
+  },
+  {
+    "title": "Foster children are getting their own version of ‘Trump accounts,’ but major questions remain",
+    "link": "https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-11T21:08:00+00:00",
+    "summary": "States will be responsible for the sign-up process, but it’s unclear what happens after that.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1154
+  },
+  {
+    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-11T19:06:17+00:00",
+    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
   },
   {
     "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – as it happened",
@@ -340,41 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
-    "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-05T07:50:47+00:00",
-    "summary": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7334
-  },
-  {
-    "title": "Horrific, unregulated, and very profitable. The companies making cash from England’s children in care | George Monbiot",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T07:00:29+00:00",
-    "summary": "<p>Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vultures</p><p>Bring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you can stuff it in a sack. All you need do is join the market in what may now be England’s most lucrative commodity. A commodity with arms and legs, hearts and brains, thoughts and feelings. Children.</p><p>Two years ago I <a href=\"https://www.theguardian.com/commentisfree/article/2024/may/18/child-care-cost-year-wealth-funds-councils-britain-residential\">stumbled into this issue</a> after discovering that children in care who were being helped by a local charity I’m involved with were suddenly being whisked away, terminating the amazing progress they had been making, breaking their relationships, their sense of home, stability and security. When I began exploring why this was happening, I could scarcely believe what I was seeing: a highly lucrative trade in highly vulnerable young people. Children in “care” were being exchanged between private equity companies for £100,000 apiece. That figure is now wrong. Today they are worth far more.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9382
-  },
-  {
-    "title": "UK shoppers return to high street as warm weather brings respite from shadow of war",
-    "link": "https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-06-05T05:00:26+00:00",
-    "summary": "<p>British Retail Consortium figures show footfall rose in May, with consumer confidence improving after spending squeeze</p><p>Greater numbers of consumers went shopping last month as spring sunshine brought welcome relief to retailers, which have faced a squeeze on spending since the US-Israel war on Iran.</p><p>Figures from the British Retail Consortium (BRC) and a separate survey by the accountancy firm BDO showed a bounce-back in footfall during May, reversing a sharp decline in April.</p> <a href=\"https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
   }
 ]
