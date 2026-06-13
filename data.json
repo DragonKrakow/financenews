@@ -1,5 +1,54 @@
 [
   {
+    "title": "The rich keep spending money on ‘unapologetic luxury’ — and it’s raising prices on everyday goods for everyone",
+    "link": "https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T12:30:00+00:00",
+    "summary": "The wealthy are unfazed by inflation, and that could complicate the Fed’s ability to fight it.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
+    "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T12:00:00+00:00",
+    "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
+    "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T11:30:00+00:00",
+    "summary": "“I feel like he may be taking advantage of us.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T10:30:00+00:00",
+    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
     "title": "There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.",
     "link": "https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,42 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7541
-  },
-  {
-    "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-    "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-12T20:30:00+00:00",
-    "summary": "“I feel like he may be taking advantage of us.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Is it too late to buy SpaceX’s stock? Here’s how Tesla’s did after one day — and five years.",
-    "link": "https://www.marketwatch.com/story/is-it-too-late-to-buy-spacexs-stock-heres-how-teslas-did-after-one-day-and-five-years-9c7564d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-12T20:06:00+00:00",
-    "summary": "Also in Weekend Reads: A bitcoin-pricing model that looks way ahead, the bear market for gold and retirement-planning advice.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-12T19:56:00+00:00",
-    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
   },
   {
     "title": "US consumer sentiment improves in June due to easing gas prices",
@@ -357,18 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8316
-  },
-  {
-    "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-08T15:43:40+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">UK companies opting to hire temporary workers over permanent staff, recruitment firms say</a></p></li><li><p><a href=\"https://www.theguardian.com/science/2026/jun/06/spacex-ipo-buy-shares-elon-musk-stock-market-launch-risks\"><strong>SpaceX IPO: how can I buy shares, and what are the risks?</strong></a></p></li></ul><p><strong>Shares in European companies at the heart of the AI boom are falling sharply at the start of trading.</strong></p><p>Chip firms such as <strong>Besi</strong> – <strong>BE</strong> <strong>Semiconductor</strong> <strong>Industries</strong> – (-4.5%) and <strong>ASML</strong> (-3.2%) which makes chipmaking machines are among the big fallers on the pan-European <strong>Stoxx 600</strong> index, which is down almost 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
   }
 ]
