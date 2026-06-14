@@ -1,15 +1,52 @@
 [
   {
-    "title": "U.S. restrictions on new Anthropic models could trigger a global AI arms race",
-    "link": "https://www.marketwatch.com/story/u-s-restrictions-on-new-anthropic-models-could-trigger-a-global-ai-arms-race-7752afb4?mod=mw_rss_topstories",
+    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
+    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T18:11:00+00:00",
-    "summary": "Anthropic has blocked access to its Fable 5 and Mythos 5 models after the government flagged them as a security threat when used by foreign nationals.",
+    "published": "2026-06-14T00:30:00+00:00",
+    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
+    "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-14T00:00:00+00:00",
+    "summary": "“I feel like he may be taking advantage of us.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T23:22:00+00:00",
+    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
+    "link": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-13T19:00:00+00:00",
+    "summary": "Grandparent-headed households are more likely to live in poverty.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.5106
   },
   {
     "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
@@ -23,67 +60,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9503
-  },
-  {
-    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T14:00:00+00:00",
-    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The rich keep spending money on ‘unapologetic luxury’ — and it’s raising prices on everyday goods for everyone",
-    "link": "https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T12:30:00+00:00",
-    "summary": "The wealthy are unfazed by inflation, and that could complicate the Fed’s ability to fight it.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-    "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T12:00:00+00:00",
-    "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-    "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T11:30:00+00:00",
-    "summary": "“I feel like he may be taking advantage of us.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T10:30:00+00:00",
-    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
   },
   {
     "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
@@ -371,5 +347,32 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8316
+  },
+  {
+    "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-08T15:43:40+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">UK companies opting to hire temporary workers over permanent staff, recruitment firms say</a></p></li><li><p><a href=\"https://www.theguardian.com/science/2026/jun/06/spacex-ipo-buy-shares-elon-musk-stock-market-launch-risks\"><strong>SpaceX IPO: how can I buy shares, and what are the risks?</strong></a></p></li></ul><p><strong>Shares in European companies at the heart of the AI boom are falling sharply at the start of trading.</strong></p><p>Chip firms such as <strong>Besi</strong> – <strong>BE</strong> <strong>Semiconductor</strong> <strong>Industries</strong> – (-4.5%) and <strong>ASML</strong> (-3.2%) which makes chipmaking machines are among the big fallers on the pan-European <strong>Stoxx 600</strong> index, which is down almost 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
+    "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
+    "source": "The Guardian Economics",
+    "published": "2026-06-08T13:55:28+00:00",
+    "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes</p><p>Stock markets have fallen amid concern about the prospects for tech stocks, while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
   }
 ]
