@@ -1,5 +1,31 @@
 [
   {
+    "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
+    "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-14T17:34:00+00:00",
+    "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "SpaceX shows investors still want moonshots. The Fed may test that theory this week.",
+    "link": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-14T13:00:00+00:00",
+    "summary": "Higher interest rates could make the AI growth story that’s been powering the bull market harder to justify.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
     "title": "My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
     "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -59,18 +85,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6908
-  },
-  {
-    "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
-    "link": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-13T19:00:00+00:00",
-    "summary": "Grandparent-headed households are more likely to live in poverty.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
   },
   {
     "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
@@ -359,17 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6697
-  },
-  {
-    "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Norman Solomon",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist",
-    "source": "The Guardian Economics",
-    "published": "2026-06-09T10:00:49+00:00",
-    "summary": "<p>The magazine writes: ‘Resisting Gen-Z socialism is therefore an urgent task.’ That urgency must outweigh any urgency of feeding hungry people</p><p>A spectre is haunting Europe and America – the spectre of gen Z socialism.</p><p>That’s the urgent warning from the Economist in a new cover-story editorial, <a href=\"https://www.economist.com/leaders/2026/06/04/how-to-fight-back-against-gen-z-socialism\">How to fight back against Gen-Z socialism</a>. Alarmed by a youthful threat to the established order, the magazine is calling for heightened vigilance from defenders of private enterprise.</p><p>Norman Solomon is the director of RootsAction and executive director of the Institute for Public Accuracy</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
   }
 ]
