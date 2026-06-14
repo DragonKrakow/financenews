@@ -1,5 +1,17 @@
 [
   {
+    "title": "My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
+    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-14T12:25:00+00:00",
+    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "How Brexit has made Britain poorer – in charts",
     "link": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
     "source": "The Guardian Economics",
@@ -359,18 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8316
-  },
-  {
-    "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-08T15:43:40+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">UK companies opting to hire temporary workers over permanent staff, recruitment firms say</a></p></li><li><p><a href=\"https://www.theguardian.com/science/2026/jun/06/spacex-ipo-buy-shares-elon-musk-stock-market-launch-risks\"><strong>SpaceX IPO: how can I buy shares, and what are the risks?</strong></a></p></li></ul><p><strong>Shares in European companies at the heart of the AI boom are falling sharply at the start of trading.</strong></p><p>Chip firms such as <strong>Besi</strong> – <strong>BE</strong> <strong>Semiconductor</strong> <strong>Industries</strong> – (-4.5%) and <strong>ASML</strong> (-3.2%) which makes chipmaking machines are among the big fallers on the pan-European <strong>Stoxx 600</strong> index, which is down almost 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
   }
 ]
