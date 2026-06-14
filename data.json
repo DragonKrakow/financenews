@@ -1,5 +1,17 @@
 [
   {
+    "title": "How Brexit has made Britain poorer – in charts",
+    "link": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+    "source": "The Guardian Economics",
+    "published": "2026-06-14T05:00:34+00:00",
+    "summary": "<p>Forecasters were wrong about an immediate recession but right that we would be worse off outside the EU</p><p>As the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic performance is clear: voting to leave has resulted in severe costs for households and businesses.</p><p>The immediate recession predicted in the Treasury forecasts ordered by George Osborne – dubbed “<a href=\"https://www.theguardian.com/global/video/2016/jun/27/project-fear-over-says-boris-johnson-video\">project fear</a>” by the Leave campaign – did not happen. The impact from the Covid pandemic, wars in Ukraine and Iran, and Donald Trump’s trade battles also cloud the picture.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9604
+  },
+  {
     "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
     "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -360,19 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7003
-  },
-  {
-    "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
-    "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
-    "source": "The Guardian Economics",
-    "published": "2026-06-08T13:55:28+00:00",
-    "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes</p><p>Stock markets have fallen amid concern about the prospects for tech stocks, while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
   }
 ]
