@@ -1,9 +1,112 @@
 [
   {
-    "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – business live",
+    "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+    "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-16T19:12:13+00:00",
+    "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+    "link": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-16T18:42:28+00:00",
+    "summary": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
+    "link": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T18:16:00+00:00",
+    "summary": "The Trump administration and Iran have agreed on a framework for a peace deal. As everyone waits for the text of the framework to get released, here is a rundown of what the key points are for markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8519
+  },
+  {
+    "title": "US small business owners: how are you operating in the current economic climate?",
+    "link": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T17:17:07+00:00",
+    "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8625
+  },
+  {
+    "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren’t passing through Hormuz.",
+    "link": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T16:50:00+00:00",
+    "summary": "Shipping data show that only a fraction of normal tanker volumes are moving through the Strait of Hormuz.",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "Want to improve your credit score? Here’s how to ask for a credit-limit increase.",
+    "link": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T15:56:00+00:00",
+    "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9062
+  },
+  {
+    "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+    "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-16T15:44:01+00:00",
+    "summary": "Traders think it's more likely than not that access is restored by July 1.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
+    "link": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T15:41:00+00:00",
+    "summary": "The average retail gasoline price was just above the psychologically significant $4-per-gallon mark on Monday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-16T13:48:46+00:00",
+    "published": "2026-06-16T14:15:13+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
@@ -12,31 +115,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7722
-  },
-  {
-    "title": "The AI ‘bottleneck trade’ has run its course, says this hedge-fund manager and early SpaceX investor",
-    "link": "https://www.marketwatch.com/story/the-ai-bottleneck-trade-has-run-its-course-says-this-hedge-fund-manager-and-early-spacex-investor-90407fea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T13:44:00+00:00",
-    "summary": "One hot AI trade that is starting to wind down is the “bottleneck trade,” says Altreides Management managing partner Gavin Baker",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "This is as good as it gets for gas prices, new Goldman Sachs oil analysis suggests",
-    "link": "https://www.marketwatch.com/story/the-peace-deal-is-in-the-price-goldman-sachs-lowers-its-oil-price-target-to-market-levels-632cc2b1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T13:39:00+00:00",
-    "summary": "Risks to oil price assumptions in the event of a finalized peace deal are two-sided but the Goldman Sachs report notes that the global economy adjusted very flexibly to the largest oil production shock in history",
-    "matched_keywords": [
-      "Oil",
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3898
   },
   {
     "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
@@ -49,42 +127,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1779
-  },
-  {
-    "title": "Chip index’s climb is giving fund managers a fear of heights, Bank of America finds",
-    "link": "https://www.marketwatch.com/story/chip-indexs-climb-is-giving-fund-managers-a-fear-of-heights-bank-of-america-finds-026b7df5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T12:28:00+00:00",
-    "summary": "Despite some warning signals from inflation and the direction of travel for Kevin Warsh, fund managers seem reluctant to reduce exposure but Michsael Hartnett expects some chips to be taken off the table over the quieter summer months ahead.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0982
-  },
-  {
-    "title": "SpaceX set to overtake Amazon as the fifth-largest company in the world. Now it’s closing in on Microsoft.",
-    "link": "https://www.marketwatch.com/story/overnight-price-spike-sees-spacex-overtake-amazon-as-americas-fifth-largest-company-259944cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T12:24:00+00:00",
-    "summary": "The Elon Musk-led company announced that it plans to follow through on an option that allows it to purchase AI startup Cursor.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Micron and Sandisk shares are phenomenally ‘overbought.’ Are memory stocks flying too close to the sun?",
-    "link": "https://www.marketwatch.com/story/micron-and-sandisk-shares-are-phenomenally-overbought-are-memory-stocks-flying-too-close-to-the-sun-b34766e8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T12:06:00+00:00",
-    "summary": "Booming AI demand has sent Micron and Sandisk shares far into overbought territory, but historic hardware backlogs are sustaining a rally.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
   },
   {
     "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
@@ -337,45 +379,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1779
-  },
-  {
-    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-11T19:06:17+00:00",
-    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-11T15:19:17+00:00",
-    "summary": "<p>European Central Bank has lifted interest rates and warned that the war in the Middle East is generating inflation pressures</p><p><strong>The financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.</strong></p><p>European stock markets are mostly higher this morning, while the oil price is now slipping back.</p><p>As has often been the case during the Iran conflict, the UK’s flagship index has found support from its collection of energy companies and more traditionally defensive names. Miners and other China-linked stocks were lifted by data suggesting the country is investing heavily in AI and consuming raw materials at a healthy rate.</p><p>Selling in AI-related stocks, of which London has very few, put shares on Wall Street under pressure yesterday and that’s extended to Asia today.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1134
-  },
-  {
-    "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
-    "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-06-11T12:18:30+00:00",
-    "summary": "<p>European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran.</p><p>The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring.</p> <a href=\"https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
   }
 ]
