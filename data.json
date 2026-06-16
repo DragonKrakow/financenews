@@ -1,5 +1,32 @@
 [
   {
+    "title": "RBA interest rates: Bullock says ‘if we need to increase again, we will’ after Reserve Bank holds interest rates",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T07:35:40+00:00",
+    "summary": "<p>Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank has warned it is ready to raise interest rates further despite leaving its official interest rate on hold at 4.35%.</p><p>The widely expected decision on Tuesday will bring little relief to mortgage holders, already strained by the RBA’s three consecutive rate hikes earlier in 2026.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9345
+  },
+  {
+    "title": "Japan hikes interest rates to highest since 1995 to fight inflation from Iran war; Thames Water rescue in doubt – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T07:24:54+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>There are signs that things are starting to return to normal in the Gulf.</strong></p><p>Offshore marine support firm <strong>Gulf</strong> <strong>Marine</strong> <strong>Services</strong> has told the City that all its support vessels which had been temporarily evacuated due to the Iran war have now successfully returned to hire on the same contracts.</p><p>“We are very pleased to confirm that the fourth and final evacuated vessel has now returned to hire. This is a significant milestone, and we are encouraged by the positive momentum we are seeing both operationally and on the geopolitical front.</p><p>The swift and safe return of all four vessels is a testament to the professionalism of our crews and the strength of our client relationships, which have remained robust throughout this period.”</p><p>“Compared with our previous meeting in April, the U.S. and Iran have signed a memorandum. That is a welcome move. Having said that, there is uncertainty on the pace of improvement in distribution (of oil).”</p><p>Compared with the previous meeting, the risk of a sharp deterioration in the economy has diminished. On the other hand, price rises are broadening, and there is a risk that underlying inflation may deviate from our target.”</p><p>“With underlying inflation approaching 2%, it’s important to ensure we achieve our target stably.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9806
+  },
+  {
     "title": "How to work in retirement without seeing your Social Security checks slashed",
     "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -346,29 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
-  },
-  {
-    "title": "Young people in Britain are suffering a joblessness epidemic – and, so far, Labour is just making it worse | Larry Elliott",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-06-11T10:53:56+00:00",
-    "summary": "<p>Youth unemployment is harming the mental health of a generation. A sluggish economy will only make things harder</p><p>Unemployment is bad for anyone, but really hard on the young. That’s because prolonged periods of worklessness in your late teens or early 20s scar you for life. As <a href=\"https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2216/files/2026/06/Blanchflower-Bryson-and-Bell-2026-Deteriorating-Mental-Well%E2%80%90Being-of-the-Young-in-the-UK.pdf\">academic studies </a>have shown, it can cause depression and affect earning potential for years to come. There is a clear link between poor mental health and being unemployed.</p><p>That’s why <a href=\"https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report\">Alan Milburn’s probe into youth unemployment</a> won’t be one of the government-commissioned reports that is quickly filed away and allowed to gather dust. It makes uncomfortable reading for ministers. The number of people aged 16 to 24 not in education, employment or training (Neets) is rising, and the costs of inactivity are increasing. Britain has a jobs problem, and it’s getting worse.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9744
-  },
-  {
-    "title": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century",
-    "link": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-11T05:39:55+00:00",
-    "summary": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
   }
 ]
