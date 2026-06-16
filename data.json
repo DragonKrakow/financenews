@@ -1,6 +1,108 @@
 [
   {
-    "title": "RBA interest rates: Bullock says ‘if we need to increase again, we will’ after Reserve Bank holds interest rates",
+    "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T13:48:46+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7722
+  },
+  {
+    "title": "The AI ‘bottleneck trade’ has run its course, says this hedge-fund manager and early SpaceX investor",
+    "link": "https://www.marketwatch.com/story/the-ai-bottleneck-trade-has-run-its-course-says-this-hedge-fund-manager-and-early-spacex-investor-90407fea?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T13:44:00+00:00",
+    "summary": "One hot AI trade that is starting to wind down is the “bottleneck trade,” says Altreides Management managing partner Gavin Baker",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "This is as good as it gets for gas prices, new Goldman Sachs oil analysis suggests",
+    "link": "https://www.marketwatch.com/story/the-peace-deal-is-in-the-price-goldman-sachs-lowers-its-oil-price-target-to-market-levels-632cc2b1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T13:39:00+00:00",
+    "summary": "Risks to oil price assumptions in the event of a finalized peace deal are two-sided but the Goldman Sachs report notes that the global economy adjusted very flexibly to the largest oil production shock in history",
+    "matched_keywords": [
+      "Oil",
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3898
+  },
+  {
+    "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
+    "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-16T12:51:29+00:00",
+    "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Chip index’s climb is giving fund managers a fear of heights, Bank of America finds",
+    "link": "https://www.marketwatch.com/story/chip-indexs-climb-is-giving-fund-managers-a-fear-of-heights-bank-of-america-finds-026b7df5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T12:28:00+00:00",
+    "summary": "Despite some warning signals from inflation and the direction of travel for Kevin Warsh, fund managers seem reluctant to reduce exposure but Michsael Hartnett expects some chips to be taken off the table over the quieter summer months ahead.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0982
+  },
+  {
+    "title": "SpaceX set to overtake Amazon as the fifth-largest company in the world. Now it’s closing in on Microsoft.",
+    "link": "https://www.marketwatch.com/story/overnight-price-spike-sees-spacex-overtake-amazon-as-americas-fifth-largest-company-259944cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T12:24:00+00:00",
+    "summary": "The Elon Musk-led company announced that it plans to follow through on an option that allows it to purchase AI startup Cursor.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Micron and Sandisk shares are phenomenally ‘overbought.’ Are memory stocks flying too close to the sun?",
+    "link": "https://www.marketwatch.com/story/micron-and-sandisk-shares-are-phenomenally-overbought-are-memory-stocks-flying-too-close-to-the-sun-b34766e8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T12:06:00+00:00",
+    "summary": "Booming AI demand has sent Micron and Sandisk shares far into overbought territory, but historic hardware backlogs are sustaining a rally.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
+    "link": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T10:41:08+00:00",
+    "summary": "<p>Country acts amid Iran war inflation pressures, but US Fed and Bank of England expected to hold rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of Japan (BoJ) has raised interest rates to a 31-year high as it tries to dampen inflationary pressures created by the Iran war.</p><p>Policymakers in Tokyo raised the BoJ’s short-term policy rate by a quarter of one percentage point, <a href=\"https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616c.pdf\">to 1% from 0.75%</a>, and warned that companies were passing on rising oil costs to each other at a “relatively fast pace”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35%",
     "link": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
     "source": "The Guardian Economics",
     "published": "2026-06-16T07:35:40+00:00",
@@ -10,57 +112,7 @@
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9345
-  },
-  {
-    "title": "Japan hikes interest rates to highest since 1995 to fight inflation from Iran war; Thames Water rescue in doubt – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-16T07:24:54+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>There are signs that things are starting to return to normal in the Gulf.</strong></p><p>Offshore marine support firm <strong>Gulf</strong> <strong>Marine</strong> <strong>Services</strong> has told the City that all its support vessels which had been temporarily evacuated due to the Iran war have now successfully returned to hire on the same contracts.</p><p>“We are very pleased to confirm that the fourth and final evacuated vessel has now returned to hire. This is a significant milestone, and we are encouraged by the positive momentum we are seeing both operationally and on the geopolitical front.</p><p>The swift and safe return of all four vessels is a testament to the professionalism of our crews and the strength of our client relationships, which have remained robust throughout this period.”</p><p>“Compared with our previous meeting in April, the U.S. and Iran have signed a memorandum. That is a welcome move. Having said that, there is uncertainty on the pace of improvement in distribution (of oil).”</p><p>Compared with the previous meeting, the risk of a sharp deterioration in the economy has diminished. On the other hand, price rises are broadening, and there is a risk that underlying inflation may deviate from our target.”</p><p>“With underlying inflation approaching 2%, it’s important to ensure we achieve our target stably.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9806
-  },
-  {
-    "title": "How to work in retirement without seeing your Social Security checks slashed",
-    "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T00:11:00+00:00",
-    "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
-    "link": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-15T23:07:00+00:00",
-    "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8248
-  },
-  {
-    "title": "Roku’s sale to Fox for $22 billion raises a big question",
-    "link": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-15T23:03:00+00:00",
-    "summary": "Roku’s stock is rallying to a four-year high after agreeing to be bought by Fox in a deal valued at $22 billion.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
+    "sentiment_score": 0.871
   },
   {
     "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
@@ -75,42 +127,6 @@
     "sentiment_score": 0.5187
   },
   {
-    "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
-    "link": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-15T22:31:00+00:00",
-    "summary": "The average retail gasoline price was just above the psychologically significant $4-per-gallon mark on Monday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?",
-    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-15T22:15:00+00:00",
-    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Why Western Digital’s stock was the S&P 500’s biggest gainer on Monday",
-    "link": "https://www.marketwatch.com/story/why-western-digitals-stock-was-the-s-p-500s-biggest-gainer-on-monday-2aebd3e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-15T21:57:00+00:00",
-    "summary": "Storage stocks are hot as investor appreciation builds for the companies’ pricing potential.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
     "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
     "link": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
     "source": "The Guardian Economics",
@@ -121,18 +137,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8591
-  },
-  {
-    "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
-    "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-15T19:17:48+00:00",
-    "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   },
   {
     "title": "Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace deal – as it happened",
