@@ -1,9 +1,71 @@
 [
   {
+    "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+    "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T18:55:38+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Fed holds rates steady, pares down statement to remove cutting bias",
+    "link": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T18:55:12+00:00",
+    "summary": "The Federal Reserve on Wednesday released its interest rate decision.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
+    "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T18:48:53+00:00",
+    "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "I’m 20, and I’ll be watching Kevin Warsh and the Fed today. Here’s why you should, too.",
+    "link": "https://www.marketwatch.com/story/im-20-and-ill-be-watching-kevin-warsh-and-the-fed-this-week-heres-why-you-should-too-73c3e34d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T18:26:00+00:00",
+    "summary": "What the Fed’s interest-rate decision really means for your borrowing, savings and financial future",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+    "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T18:06:00+00:00",
+    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
     "title": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
     "link": "https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html",
     "source": "CNBC Finance",
-    "published": "2026-06-17T13:11:40+00:00",
+    "published": "2026-06-17T16:54:08+00:00",
     "summary": "Traders on prediction market platform Kalshi largely forecast a unanimous decision among FOMC members at Wednesday's meeting, after April's divided vote.",
     "matched_keywords": [
       "Fed"
@@ -12,10 +74,49 @@
     "sentiment_score": 0.4754
   },
   {
+    "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
+    "link": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T16:29:00+00:00",
+    "summary": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5233
+  },
+  {
+    "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+    "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T15:23:38+00:00",
+    "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
+    "link": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T15:08:00+00:00",
+    "summary": "A look at stock-market performance under Fed chairs going back to the 1930s.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
     "link": "https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html",
     "source": "CNBC Finance",
-    "published": "2026-06-17T13:04:44+00:00",
+    "published": "2026-06-17T14:29:11+00:00",
     "summary": "Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.",
     "matched_keywords": [
       "AI"
@@ -24,59 +125,10 @@
     "sentiment_score": 0.4767
   },
   {
-    "title": "A woman bought coasters at my garage sale for $2 — and emailed me that she’s reselling them for $29. Was I ripped off?",
-    "link": "https://www.marketwatch.com/story/a-woman-bought-coasters-at-my-garage-sale-for-2-and-is-now-reselling-them-for-29-have-i-been-bamboozled-76532d73?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T13:00:00+00:00",
-    "summary": "“They were a birthday gift from a friend about six years ago.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "High gas prices soak up more retail-sales dollars — and restaurants are paying the bill",
-    "link": "https://www.marketwatch.com/story/high-gas-prices-soak-up-more-retail-sales-dollars-and-restaurants-are-paying-the-bill-4255057c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T12:51:00+00:00",
-    "summary": "Americans are spending more on gas and eating out less, a sign of stress on the economy tied to the conflict with Iran that’s forced consumers to shift more dollars to needs instead of wants.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7964
-  },
-  {
-    "title": "An oil bull’s ‘insane’ bet: Why this veteran trader is buying energy stocks as crude prices tumble",
-    "link": "https://www.marketwatch.com/story/an-oil-bulls-insane-bet-why-this-veteran-trader-is-buying-energy-stocks-as-prices-tumble-17fc33f8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T12:37:00+00:00",
-    "summary": "Former institutional trader Kevin Muir pushes against the market tide with a call to buy oil now.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "Goodbye, Allbirds. Hello ‘Smartbird’: Once-trendy sneaker maker’s bizarre transformation into an AI company becomes official.",
-    "link": "https://www.marketwatch.com/story/goodbye-allbirds-hello-smartbird-bizarre-transformation-into-an-ai-company-is-now-official-7e522e8d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T12:10:00+00:00",
-    "summary": "Smartbird finalized the divestiture of its sneaker assets as the company eyes greener pastures in the AI-computing business.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – business live",
+    "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-17T11:57:52+00:00",
+    "published": "2026-06-17T14:19:59+00:00",
     "summary": "<p>Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheese</p><p>UK house price inflation has picked up while rents are rising at a slower pace, according to official figures.</p><p>Average monthy private rents rose at an annual rate of 3.3% to £1,383 in My, down from 3.5% in April, <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/june2026\">according to the Office for National Statistics</a>.</p><p>It’s a key reason why headline CPI unexpectedly stayed at 2.8%, despite upward pressure from air fares and a quirk related to road tax. Food prices fell in May relative to April, a trend we’ve also seen in the eurozone and Eastern Europe. If anything, the latest producer price data suggests food inflation will continue to fall sharply over the next couple of months. That will gradually change, but it’s a reminder that the energy price spike is unlikely to reach its peak impact on food inflation until the first quarter of next year.</p><p>In general, it’s too early to see much impact from the Middle East crisis beyond fuel prices. Services inflation is bouncing around, partly due to the timing of Easter this year, but the Bank of England’s preferred gauge of “core services” – which excludes volatile and indexed categories – has been more stable just below 4%. The BoE’s own “Decision Maker Panel” of CFOs points to services inflation staying around current levels through the summer.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
@@ -88,28 +140,16 @@
     "sentiment_score": -0.043
   },
   {
-    "title": "The paradox at the heart of credit markets: the biggest borrowers are the strongest credits",
-    "link": "https://www.marketwatch.com/story/the-paradox-at-the-heart-of-credit-markets-the-biggest-borrowers-are-the-strongest-credits-f6391106?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T11:44:00+00:00",
-    "summary": "Credit-default swaps and credit spreads show no signs of stress despite more than $300 billion of issuance since the start of 2026. Investors know the AI story and are keen to absorb the supply.",
+    "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+    "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T13:27:05+00:00",
+    "summary": "Traders think it's more likely than not that access is restored by July 1.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8979
-  },
-  {
-    "title": "Bezos says the only thing holding back data centers in space is cost, not science",
-    "link": "https://www.marketwatch.com/story/bezos-says-the-only-thing-holding-back-orbital-data-centers-is-cost-not-science-as-he-says-ai-will-create-jobs-fc49d5d5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T11:14:00+00:00",
-    "summary": "Jeff Bezos is a believer in the idea that data centers can be operational in space — and suggested that microchips could be built there too.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": 0.5719
   },
   {
     "title": "Surprisingly benign UK inflation data signals a softer Iran war hit than feared",
@@ -181,20 +221,6 @@
     "sentiment_score": -0.3919
   },
   {
-    "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
-    "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-16T19:12:13+00:00",
-    "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
     "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
     "link": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
     "source": "CNBC Finance",
@@ -220,18 +246,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8625
-  },
-  {
-    "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
-    "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-16T15:44:01+00:00",
-    "summary": "Traders think it's more likely than not that access is restored by July 1.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
   },
   {
     "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
@@ -374,17 +388,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1655
-  },
-  {
-    "title": "How Brexit has made Britain poorer – in charts",
-    "link": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
-    "source": "The Guardian Economics",
-    "published": "2026-06-14T05:00:34+00:00",
-    "summary": "<p>Forecasters were wrong about an immediate recession but right that we would be worse off outside the EU</p><p>As the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic performance is clear: voting to leave has resulted in severe costs for households and businesses.</p><p>The immediate recession predicted in the Treasury forecasts ordered by George Osborne – dubbed “<a href=\"https://www.theguardian.com/global/video/2016/jun/27/project-fear-over-says-boris-johnson-video\">project fear</a>” by the Leave campaign – did not happen. The impact from the Covid pandemic, wars in Ukraine and Iran, and Donald Trump’s trade battles also cloud the picture.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9604
   }
 ]
