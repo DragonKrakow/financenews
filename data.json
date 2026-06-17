@@ -1,10 +1,83 @@
 [
   {
+    "title": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
+    "link": "https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T13:11:40+00:00",
+    "summary": "Traders on prediction market platform Kalshi largely forecast a unanimous decision among FOMC members at Wednesday's meeting, after April's divided vote.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4754
+  },
+  {
+    "title": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
+    "link": "https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T13:04:44+00:00",
+    "summary": "Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "A woman bought coasters at my garage sale for $2 — and emailed me that she’s reselling them for $29. Was I ripped off?",
+    "link": "https://www.marketwatch.com/story/a-woman-bought-coasters-at-my-garage-sale-for-2-and-is-now-reselling-them-for-29-have-i-been-bamboozled-76532d73?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T13:00:00+00:00",
+    "summary": "“They were a birthday gift from a friend about six years ago.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "High gas prices soak up more retail-sales dollars — and restaurants are paying the bill",
+    "link": "https://www.marketwatch.com/story/high-gas-prices-soak-up-more-retail-sales-dollars-and-restaurants-are-paying-the-bill-4255057c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T12:51:00+00:00",
+    "summary": "Americans are spending more on gas and eating out less, a sign of stress on the economy tied to the conflict with Iran that’s forced consumers to shift more dollars to needs instead of wants.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7964
+  },
+  {
+    "title": "An oil bull’s ‘insane’ bet: Why this veteran trader is buying energy stocks as crude prices tumble",
+    "link": "https://www.marketwatch.com/story/an-oil-bulls-insane-bet-why-this-veteran-trader-is-buying-energy-stocks-as-prices-tumble-17fc33f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T12:37:00+00:00",
+    "summary": "Former institutional trader Kevin Muir pushes against the market tide with a call to buy oil now.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "Goodbye, Allbirds. Hello ‘Smartbird’: Once-trendy sneaker maker’s bizarre transformation into an AI company becomes official.",
+    "link": "https://www.marketwatch.com/story/goodbye-allbirds-hello-smartbird-bizarre-transformation-into-an-ai-company-is-now-official-7e522e8d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T12:10:00+00:00",
+    "summary": "Smartbird finalized the divestiture of its sneaker assets as the company eyes greener pastures in the AI-computing business.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
     "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-17T07:38:01+00:00",
-    "summary": "<p>Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheese</p><p>Economists reckon UK inflation will peak below 4% in the coming months.</p><p><strong>James Smith</strong>, developed markets economist at ING, expects a return to interest rate cuts next year.</p><p>It’s a key reason why headline CPI unexpectedly stayed at 2.8%, despite upward pressure from air fares and a quirk related to road tax. Food prices fell in May relative to April, a trend we’ve also seen in the eurozone and Eastern Europe. If anything, the latest producer price data suggests food inflation will continue to fall sharply over the next couple of months. That will gradually change, but it’s a reminder that the energy price spike is unlikely to reach its peak impact on food inflation until the first quarter of next year.</p><p>In general, it’s too early to see much impact from the Middle East crisis beyond fuel prices. Services inflation is bouncing around, partly due to the timing of Easter this year, but the Bank of England’s preferred gauge of “core services” – which excludes volatile and indexed categories – has been more stable just below 4%. The BoE’s own “Decision Maker Panel” of CFOs points to services inflation staying around current levels through the summer.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Continue reading...</a>",
+    "published": "2026-06-17T11:57:52+00:00",
+    "summary": "<p>Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheese</p><p>UK house price inflation has picked up while rents are rising at a slower pace, according to official figures.</p><p>Average monthy private rents rose at an annual rate of 3.3% to £1,383 in My, down from 3.5% in April, <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/june2026\">according to the Office for National Statistics</a>.</p><p>It’s a key reason why headline CPI unexpectedly stayed at 2.8%, despite upward pressure from air fares and a quirk related to road tax. Food prices fell in May relative to April, a trend we’ve also seen in the eurozone and Eastern Europe. If anything, the latest producer price data suggests food inflation will continue to fall sharply over the next couple of months. That will gradually change, but it’s a reminder that the energy price spike is unlikely to reach its peak impact on food inflation until the first quarter of next year.</p><p>In general, it’s too early to see much impact from the Middle East crisis beyond fuel prices. Services inflation is bouncing around, partly due to the timing of Easter this year, but the Bank of England’s preferred gauge of “core services” – which excludes volatile and indexed categories – has been more stable just below 4%. The BoE’s own “Decision Maker Panel” of CFOs points to services inflation staying around current levels through the summer.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "Oil",
@@ -12,16 +85,71 @@
       "Transport"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0602
+    "sentiment_score": -0.043
+  },
+  {
+    "title": "The paradox at the heart of credit markets: the biggest borrowers are the strongest credits",
+    "link": "https://www.marketwatch.com/story/the-paradox-at-the-heart-of-credit-markets-the-biggest-borrowers-are-the-strongest-credits-f6391106?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T11:44:00+00:00",
+    "summary": "Credit-default swaps and credit spreads show no signs of stress despite more than $300 billion of issuance since the start of 2026. Investors know the AI story and are keen to absorb the supply.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8979
+  },
+  {
+    "title": "Bezos says the only thing holding back data centers in space is cost, not science",
+    "link": "https://www.marketwatch.com/story/bezos-says-the-only-thing-holding-back-orbital-data-centers-is-cost-not-science-as-he-says-ai-will-create-jobs-fc49d5d5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T11:14:00+00:00",
+    "summary": "Jeff Bezos is a believer in the idea that data centers can be operational in space — and suggested that microchips could be built there too.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Surprisingly benign UK inflation data signals a softer Iran war hit than feared",
+    "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected",
+    "source": "The Guardian Economics",
+    "published": "2026-06-17T09:27:33+00:00",
+    "summary": "<p>Impact of war on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">UK inflation stays at 2.8% as slowing food prices offset transport costs</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Business live – latest updates</a></p></li></ul><p>As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in.</p><p>At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9442
+  },
+  {
+    "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
+    "link": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T08:04:21+00:00",
+    "summary": "China included artificial intelligence in its global governance whitepaper published Wednesday, and said Beijing was speeding up cooperation efforts.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
   },
   {
     "title": "UK inflation stays at 2.8% as slowing food prices offset rising transport costs",
     "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
     "source": "The Guardian Economics",
     "published": "2026-06-17T06:00:48+00:00",
-    "summary": "<p>Surprise ONS figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><p>UK inflation unexpectedly remained at 2.8% last month as higher transport and fuel costs were offset by slower food price rises.</p><p>May’s annual price rise reading recorded by the Office for National Statistics (ONS) came despite economists’ forecasts of a rise to 3% as the Middle East restricted global energy flows.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
+    "summary": "<p>May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Analysis: benign data signals a softer hit than feared</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation unexpectedly remained at 2.8% in May, as rising energy costs caused by the Iran conflict were offset by slower increases in food prices.</p><p>The unchanged reading on the consumer price index measure of inflation (CPI) confounded economists’ expectations of a 3% increase as the conflict restricted global energy flows – and raised hopes that the impact of the war on prices <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">might be more muted than feared</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
+      "Fed",
+      "Oil",
       "AI",
       "Transport"
     ],
@@ -39,43 +167,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9544
-  },
-  {
-    "title": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
-    "link": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T02:23:00+00:00",
-    "summary": "The Trump administration and Iran have agreed on a framework for a peace deal. As everyone waits for the text of the framework to get released, here is a rundown of what the key points are for markets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8519
-  },
-  {
-    "title": "Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded",
-    "link": "https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T00:46:00+00:00",
-    "summary": "The interim peace agreement between the U.S. and Iran seems to be doing little to answer some of the thornier questions about the Strait of Hormuz, including how much longer it will take for products other than crude to start moving through again.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T21:45:00+00:00",
-    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
   },
   {
     "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
@@ -295,91 +386,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9604
-  },
-  {
-    "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
-    "link": "https://www.theguardian.com/politics/2026/jun/13/labour-introduce-wealth-tax-case-never-been-stronger",
-    "source": "The Guardian Economics",
-    "published": "2026-06-13T15:00:16+00:00",
-    "summary": "<p>A 2% levy on fortunes above £100m – with no exemptions – could begin to reverse decades of rising inequality</p><p>Andy Burnham and Wes Streeting have sought to blunt the Green leader Zack Polanski’s popularity with a hint that a government run by either of them, should they win a Labour leadership race, would favour a tax of some kind on the wealthy.</p><p>With <a href=\"https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates\">SpaceX’s stock market launch</a> on Friday sending Elon Musk’s fortune to the stars, it is clear to most people that the world’s super-rich are running away with the lion’s share of the spoils and there is not much left for anyone else.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/13/labour-introduce-wealth-tax-case-never-been-stronger\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9503
-  },
-  {
-    "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-12T21:19:34+00:00",
-    "summary": "<p>One economist says Musk’s world-first level of extreme wealth highlights massive economic disparities and could have profound effects on society</p><p><br /></p><p>SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.</p><p><strong>Richard Hunter, </strong>head of markets at <strong>interactive</strong> <strong>investor, </strong>explains:</p><p>The Nasdaq index has tweaked its rules, which has allowed SpaceX to join the index on a fast-track basis. It remains to be seen whether the company will have a disproportionate effect on the index in terms of weighting, but in any event its inclusion guarantees some additional and significant buying pressure.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7541
-  },
-  {
-    "title": "US consumer sentiment improves in June due to easing gas prices",
-    "link": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-06-12T16:23:00+00:00",
-    "summary": "<p>Consumer sentiment still remains at historically low levels amid Iran war and rising inflation, new survey shows</p><p>Easing gas prices are making Americans feel better about their personal finances and the economy in June, but consumer sentiment remains at historically low levels amid ongoing conflict in the Middle East, according to new survey data from the University of Michigan.</p><p>The latest numbers come as SpaceX <a href=\"https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx\">marks its</a> historic stock market debut, which has made Elon Musk the world’s first trillionaire. Yet many Americans still feel like they are struggling even as the stock market reaches record highs.</p> <a href=\"https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-    "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-06-12T16:04:21+00:00",
-    "summary": "<p>Brent crude falls as optimism rises that strait of Hormuz could reopen over the weekend</p><p>Global oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump claimed he was <a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">close to reaching a peace deal</a> with Tehran.</p><p>The price of Brent crude began to tumble from about $93 a barrel in overnight trade after the US president called off further military strikes against Iran scheduled for the evening.</p> <a href=\"https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7906
-  },
-  {
-    "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
-    "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-12T15:59:09+00:00",
-    "summary": "The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
-    "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-12T14:50:28+00:00",
-    "summary": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
-    "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-    "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-12T14:46:10+00:00",
-    "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
   }
 ]
