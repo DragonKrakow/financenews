@@ -1,5 +1,42 @@
 [
   {
+    "title": "Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded",
+    "link": "https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T00:46:00+00:00",
+    "summary": "The interim peace agreement between the U.S. and Iran seems to be doing little to answer some of the thornier questions about the Strait of Hormuz, including how much longer it will take for products other than crude to start moving through again.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-16T21:45:00+00:00",
+    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
+    "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-16T20:55:45+00:00",
+    "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
     "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
     "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
     "source": "CNBC Finance",
@@ -27,18 +64,6 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
-    "link": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T18:16:00+00:00",
-    "summary": "The Trump administration and Iran have agreed on a framework for a peace deal. As everyone waits for the text of the framework to get released, here is a rundown of what the key points are for markets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8519
-  },
-  {
     "title": "US small business owners: how are you operating in the current economic climate?",
     "link": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
     "source": "The Guardian Economics",
@@ -53,32 +78,6 @@
     "sentiment_score": 0.8625
   },
   {
-    "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren’t passing through Hormuz.",
-    "link": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T16:50:00+00:00",
-    "summary": "Shipping data show that only a fraction of normal tanker volumes are moving through the Strait of Hormuz.",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
-  },
-  {
-    "title": "Want to improve your credit score? Here’s how to ask for a credit-limit increase.",
-    "link": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T15:56:00+00:00",
-    "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9062
-  },
-  {
     "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
     "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
     "source": "CNBC Finance",
@@ -89,18 +88,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5719
-  },
-  {
-    "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
-    "link": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-16T15:41:00+00:00",
-    "summary": "The average retail gasoline price was just above the psychologically significant $4-per-gallon mark on Monday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
@@ -379,5 +366,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1779
+  },
+  {
+    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-11T19:06:17+00:00",
+    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
   }
 ]
