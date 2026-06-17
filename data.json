@@ -1,5 +1,58 @@
 [
   {
+    "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-17T07:38:01+00:00",
+    "summary": "<p>Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheese</p><p>Economists reckon UK inflation will peak below 4% in the coming months.</p><p><strong>James Smith</strong>, developed markets economist at ING, expects a return to interest rate cuts next year.</p><p>It’s a key reason why headline CPI unexpectedly stayed at 2.8%, despite upward pressure from air fares and a quirk related to road tax. Food prices fell in May relative to April, a trend we’ve also seen in the eurozone and Eastern Europe. If anything, the latest producer price data suggests food inflation will continue to fall sharply over the next couple of months. That will gradually change, but it’s a reminder that the energy price spike is unlikely to reach its peak impact on food inflation until the first quarter of next year.</p><p>In general, it’s too early to see much impact from the Middle East crisis beyond fuel prices. Services inflation is bouncing around, partly due to the timing of Easter this year, but the Bank of England’s preferred gauge of “core services” – which excludes volatile and indexed categories – has been more stable just below 4%. The BoE’s own “Decision Maker Panel” of CFOs points to services inflation staying around current levels through the summer.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0602
+  },
+  {
+    "title": "UK inflation stays at 2.8% as slowing food prices offset rising transport costs",
+    "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-06-17T06:00:48+00:00",
+    "summary": "<p>Surprise ONS figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><p>UK inflation unexpectedly remained at 2.8% last month as higher transport and fuel costs were offset by slower food price rises.</p><p>May’s annual price rise reading recorded by the Office for National Statistics (ONS) came despite economists’ forecasts of a rise to 3% as the Middle East restricted global energy flows.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Is it bad that Elon Musk has a trillion dollars? Yes, and here’s why | Ingrid Robeyns",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why",
+    "source": "The Guardian Economics",
+    "published": "2026-06-17T04:00:21+00:00",
+    "summary": "<p>Just as the ‘poverty line’ determines what’s required for basic living, we need a ‘wealth line’ to show when extreme wealth becomes harmful</p><p></p><p>It was bound to happen eventually: Elon Musk has become the planet’s <a href=\"https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx\">first trillionaire</a>. Until recently, economists who spoke about “trillions” were describing the GDP of the largest economies or the accumulated value of bequests on their way to the heirs of today’s billionaires. The term is not often used in daily conversation, let alone to describe the wealth of an individual.</p><p>But now we have entered a new phase of the oligarchic era. Previously, when we described the wealth of the world’s richest billionaires, it was understood as a few hundred billions. Three years ago, the value of Musk’s total assets was estimated to be about $250bn. The pace at which it has increased is mind-boggling – and so is what it represents.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9544
+  },
+  {
+    "title": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
+    "link": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T02:23:00+00:00",
+    "summary": "The Trump administration and Iran have agreed on a framework for a peace deal. As everyone waits for the text of the framework to get released, here is a rundown of what the key points are for markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8519
+  },
+  {
     "title": "Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded",
     "link": "https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -328,55 +381,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8176
-  },
-  {
-    "title": "Reeves grudgingly resorts to departmental salami slicing to fund UK defence budget",
-    "link": "https://www.theguardian.com/politics/2026/jun/12/rachel-reeves-departmental-salami-slicing-uk-defence-budget-keir-starmer",
-    "source": "The Guardian Economics",
-    "published": "2026-06-12T13:00:37+00:00",
-    "summary": "<p>Starmer shows no will to pursue the main options for rising commitments: spending cuts, tax rises or borrowing</p><p>When Keir Starmer wanted to promise Donald Trump that the UK would increase defence spending, he decided to fund it by slashing the UK’s aid budget – <a href=\"https://www.theguardian.com/politics/2025/feb/28/anneliese-dodds-resigns-keir-starmer-cut-aid-budget\">losing a cabinet minister</a>, Anneliese Dodds, in the process.</p><p>This time around, with John Healey’s Ministry of Defence (MoD) demanding an additional £18.5bn over four years to fund the <a href=\"https://www.theguardian.com/politics/2026/jun/09/rows-over-defence-investment-plan-have-badly-harmed-cabinet-relations\">defence investment plan</a>, there was no such lever to hand.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/12/rachel-reeves-departmental-salami-slicing-uk-defence-budget-keir-starmer\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-    "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-12T11:34:46+00:00",
-    "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "UK economy shrank by 0.1% in April as Iran war held back growth",
-    "link": "https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-06-12T06:31:37+00:00",
-    "summary": "<p>GDP hit by higher energy prices caused by Middle East conflict, after 0.3% rise in March</p><p>The UK economy contracted by 0.1% in April as the Iran war began to take its toll on growth, official figures show.</p><p>As energy prices have risen as a result of the conflict, after Iran closed off the strait of Hormuz – a <a href=\"https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price\">vital shipping route for global trade</a> – the UK’s strong expansion in the first quarter slid into reverse.</p> <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
-    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-11T19:06:17+00:00",
-    "summary": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
