@@ -1,82 +1,94 @@
 [
   {
-    "title": "Bank of England expected to leave interest rates on hold today; UK unemployment falls – business live",
+    "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-18T07:34:51+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-06-18T12:48:21+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
+    "sentiment_score": 0.8481
   },
   {
-    "title": "UK unemployment rate falls to 4.9% and wages grow more than expected",
-    "link": "https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-06-18T06:33:26+00:00",
-    "summary": "<p>Drop will put pressure on Bank of England to raise interest rates despite peace deal in Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Unemployment fell and wages increased in April, official figures showed, putting pressure on the Bank of England to raise interest rates despite a peace deal in the Middle East.</p><p>The latest figures from the Office for National Statistics (ONS) showed unemployment slipped to 4.9% in the three months to April from 5% in the three months to March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
-  },
-  {
-    "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
-    "link": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
+    "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
+    "link": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T00:13:00+00:00",
-    "summary": "Is Rumble’s AI expansion just Allbirds 2.0 — or a move modeled after Elon Musk?",
+    "published": "2026-06-18T12:16:00+00:00",
+    "summary": "Demand for memory chips will continue to outpace supply in the near term despite efforts to add manufacturing capacity, an analyst says.",
     "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
-    "link": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T23:19:00+00:00",
-    "summary": "Tech giants are gobbling up memory chips for AI servers, leaving Apple with soaring component costs that Tim Cook says will inevitably be passed on to consumers.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
-    "link": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T22:48:00+00:00",
-    "summary": "The illusion of investing knowledge is powerful: Why you’re probably paying a financial adviser for pure chance.",
-    "matched_keywords": [
-      "AI"
+      "Chips"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.875
+    "sentiment_score": 0.34
   },
   {
-    "title": "Kevin Warsh launches his push to change how the Fed operates",
-    "link": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
+    "title": "Two key things that need to happen before Strait of Hormuz traffic can return to prewar levels",
+    "link": "https://www.marketwatch.com/story/two-key-things-that-need-to-happen-before-strait-of-hormuz-traffic-can-return-to-prewar-levels-996bb7ec?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T22:44:00+00:00",
-    "summary": "The new Federal Reserve chair rolls out five task forces that will focus on the central bank’s communications, inflation frameworks and more",
+    "published": "2026-06-18T12:00:00+00:00",
+    "summary": "The U.S. and Iran agreed to a framework for a peace deal that extends their cease-fire for another 60 days. Now, a series of practical steps are needed for traffic to pick back up through the shipping chokepoint.",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "Is the stock market open on Juneteenth? Will the post office deliver mail tomorrow?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T11:22:00+00:00",
+    "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3527
+  },
+  {
+    "title": "Bank of England keeps interest rates at 3.75% as Iran conflict weighs on economy",
+    "link": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+    "source": "The Guardian Economics",
+    "published": "2026-06-18T11:00:53+00:00",
+    "summary": "<p>Two MPC members vote for a quarter-point rise but Bank argues rapid reaction risks creating volatility</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has left interest rates on hold, arguing that reacting too quickly to inflation threats risks creating “undesirable volatility”, as the Iran war drags on the UK economy.</p><p>Seven of the nine-person monetary policy committee voted to keep rates at 3.75% as the MPC weighed the threat of higher inflation against the prospect of an economic slowdown.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9489
+  },
+  {
+    "title": "Warsh wants to listen to markets more. Morgan Stanley says markets may regret it.",
+    "link": "https://www.marketwatch.com/story/warsh-wants-to-listen-to-markets-more-morgan-stanley-says-markets-may-regret-it-ab356f90?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T10:08:00+00:00",
+    "summary": "Federal Reserve Chair Kevin Warsh says he wants to listen to the signal from markets more. Strategists at Morgan Stanley say markets may regret being in charge.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "UK vacancies fall to lowest for five years as wages grow faster than expected",
+    "link": "https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-06-18T07:55:06+00:00",
+    "summary": "<p>Employers wary of hiring permanent staff but unemployment eased to 4.9% in the three months to April</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The number of UK job vacancies fell to its lowest level for five years as businesses cut back on recruitment, official figures show, despite signs the labour market has been more resilient to the Iran war than feared.</p><p>The latest figures from the Office for National Statistics showed unemployment eased to 4.9% in the three months to April, from 5% in the three months to March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9418
   },
   {
     "title": "Fed holds rates steady, pares down statement to remove cutting bias",
@@ -377,17 +389,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
-    "link": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-15T15:27:00+00:00",
-    "summary": "\"I think we're gonna make hundreds of billions of dollars,\" Baron said Monday on CNBC's \"Squawk Box.\"",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
