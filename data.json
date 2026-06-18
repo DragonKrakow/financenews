@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bank of England expected to leave interest rates on hold today; UK unemployment falls – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-18T07:34:51+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "UK unemployment rate falls to 4.9% and wages grow more than expected",
+    "link": "https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-06-18T06:33:26+00:00",
+    "summary": "<p>Drop will put pressure on Bank of England to raise interest rates despite peace deal in Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Unemployment fell and wages increased in April, official figures showed, putting pressure on the Bank of England to raise interest rates despite a peace deal in the Middle East.</p><p>The latest figures from the Office for National Statistics (ONS) showed unemployment slipped to 4.9% in the three months to April from 5% in the three months to March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/uk-unemployment-rate-falls-wages-interest-rates-iran-war\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7783
+  },
+  {
     "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
     "link": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -49,18 +77,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
-    "link": "https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T21:54:00+00:00",
-    "summary": "The rally is once again broadening beyond tech",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3477
   },
   {
     "title": "Fed holds rates steady, pares down statement to remove cutting bias",
@@ -373,18 +389,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
-    "link": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-06-15T14:48:36+00:00",
-    "summary": "<p>Markets welcome US-Iran peace deal but prices may stay high as buyers race to refill depleted emergency crude stockpiles</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">Oil prices hit three-month low and markets rally</a></p></li></ul><p>After more than 100 days of the greatest recorded disruption to the world’s energy supplies, the global oil and gas markets have breathed a sigh of relief.</p><p>Hours after Donald Trump <a href=\"https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal\">confirmed</a> that a US-Iran peace deal would lead to the reopening of the strait of Hormuz for tankers carrying millions of barrels of oil and gas, the price of Brent crude <a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">tumbled to lows of $82 a barrel</a>. Wholesale gas prices fell about 6%.</p> <a href=\"https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
   }
 ]
