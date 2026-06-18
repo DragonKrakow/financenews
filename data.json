@@ -1,10 +1,48 @@
 [
   {
-    "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-17T18:55:38+00:00",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
+    "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
+    "link": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T00:13:00+00:00",
+    "summary": "Is Rumble’s AI expansion just Allbirds 2.0 — or a move modeled after Elon Musk?",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
+    "link": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T23:19:00+00:00",
+    "summary": "Tech giants are gobbling up memory chips for AI servers, leaving Apple with soaring component costs that Tim Cook says will inevitably be passed on to consumers.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
+    "link": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T22:48:00+00:00",
+    "summary": "The illusion of investing knowledge is powerful: Why you’re probably paying a financial adviser for pure chance.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.875
+  },
+  {
+    "title": "Kevin Warsh launches his push to change how the Fed operates",
+    "link": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T22:44:00+00:00",
+    "summary": "The new Federal Reserve chair rolls out five task forces that will focus on the central bank’s communications, inflation frameworks and more",
     "matched_keywords": [
       "Fed",
       "AI"
@@ -13,10 +51,22 @@
     "sentiment_score": 0.0
   },
   {
+    "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
+    "link": "https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-17T21:54:00+00:00",
+    "summary": "The rally is once again broadening beyond tech",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3477
+  },
+  {
     "title": "Fed holds rates steady, pares down statement to remove cutting bias",
     "link": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
     "source": "CNBC Finance",
-    "published": "2026-06-17T18:55:12+00:00",
+    "published": "2026-06-17T21:42:28+00:00",
     "summary": "The Federal Reserve on Wednesday released its interest rate decision.",
     "matched_keywords": [
       "Fed"
@@ -25,10 +75,23 @@
     "sentiment_score": 0.2732
   },
   {
+    "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
+    "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T20:26:56+00:00",
+    "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
     "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
     "source": "CNBC Finance",
-    "published": "2026-06-17T18:48:53+00:00",
+    "published": "2026-06-17T19:27:43+00:00",
     "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
     "matched_keywords": [
       "Fed",
@@ -38,28 +101,17 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "I’m 20, and I’ll be watching Kevin Warsh and the Fed today. Here’s why you should, too.",
-    "link": "https://www.marketwatch.com/story/im-20-and-ill-be-watching-kevin-warsh-and-the-fed-this-week-heres-why-you-should-too-73c3e34d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T18:26:00+00:00",
-    "summary": "What the Fed’s interest-rate decision really means for your borrowing, savings and financial future",
+    "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+    "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-17T19:25:18+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
     "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-    "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T18:06:00+00:00",
-    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-    "matched_keywords": [
+      "Fed",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
+    "sentiment_score": 0.0
   },
   {
     "title": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
@@ -74,18 +126,6 @@
     "sentiment_score": 0.4754
   },
   {
-    "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
-    "link": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T16:29:00+00:00",
-    "summary": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5233
-  },
-  {
     "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
     "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
     "source": "CNBC Finance",
@@ -98,19 +138,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7184
-  },
-  {
-    "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
-    "link": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-17T15:08:00+00:00",
-    "summary": "A look at stock-market performance under Fed chairs going back to the 1930s.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
@@ -156,10 +183,9 @@
     "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected",
     "source": "The Guardian Economics",
     "published": "2026-06-17T09:27:33+00:00",
-    "summary": "<p>Impact of war on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">UK inflation stays at 2.8% as slowing food prices offset transport costs</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Business live – latest updates</a></p></li></ul><p>As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in.</p><p>At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Continue reading...</a>",
+    "summary": "<p>Impact of war on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">UK inflation stays at 2.8% as slowing food prices offset transport costs</a></p></li></ul><p>As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in.</p><p>At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Fed",
       "Oil",
       "AI",
       "Transport"
@@ -185,11 +211,9 @@
     "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
     "source": "The Guardian Economics",
     "published": "2026-06-17T06:00:48+00:00",
-    "summary": "<p>May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Analysis: benign data signals a softer hit than feared</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation unexpectedly remained at 2.8% in May, as rising energy costs caused by the Iran conflict were offset by slower increases in food prices.</p><p>The unchanged reading on the consumer price index measure of inflation (CPI) confounded economists’ expectations of a 3% increase as the conflict restricted global energy flows – and raised hopes that the impact of the war on prices <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">might be more muted than feared</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
+    "summary": "<p>May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Analysis: benign data signals a softer hit than feared</a></p></li></ul><p>UK inflation unexpectedly remained at 2.8% in May, as rising energy costs caused by the Iran conflict were offset by slower increases in food prices.</p><p>The unchanged reading on the consumer price index measure of inflation (CPI) confounded economists’ expectations of a 3% increase as the conflict restricted global energy flows – and raised hopes that the impact of the war on prices <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">might be more muted than feared</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Fed",
-      "Oil",
       "AI",
       "Transport"
     ],
@@ -362,31 +386,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6124
-  },
-  {
-    "title": "US and UK central banks expected to keep interest rates on hold amid Iran peace deal",
-    "link": "https://www.theguardian.com/business/2026/jun/15/us-uk-interest-rates-federal-reserve-iran-war-kevin-warshinflation",
-    "source": "The Guardian Economics",
-    "published": "2026-06-15T12:43:29+00:00",
-    "summary": "<p>Federal Reserve to make first decision under Kevin Warsh as Middle East hopes ease inflation pressures</p><p>Central banks in the US and UK are expected to leave interest rates on hold this week as the peace deal in the Middle East is predicted to ease inflationary pressures.</p><p>The US Federal Reserve is expected to hold its benchmark interest rate at a range of 3.5% to 3.75% on Thursday, in what will be the first policy decision under the new Fed chair – and Donald Trump’s pick – Kevin Warsh.</p> <a href=\"https://www.theguardian.com/business/2026/jun/15/us-uk-interest-rates-federal-reserve-iran-war-kevin-warshinflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9705
-  },
-  {
-    "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
-    "link": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-06-15T04:00:02+00:00",
-    "summary": "<p>US president left last meeting early, but world leaders aim to end Ukraine war and push for resolution in Gaza and Iran</p><p>Emmanuel Macron, the host of the G7 summit in Évian-les-Bains, has framed an agenda to make it as palatable as possible to his guest of honour, but the French president has no idea if Donald Trump, a haphazard summit attender, will last the full three days – or disrupt the proceedings every hour he stays.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2025/jun/17/trump-iran-g7-europe-israel-deal\">quit the last G7 summit</a> in Kananaskis, Canada, early <a href=\"https://www.theguardian.com/us-news/2025/jun/16/trump-g7-summit-middle-east-israel-iran\">to work on the Iran conflict</a>, and this year, <em>plus </em><em>ça change</em>, Iran may also draw presidential attention. For good measure, he insulted this summit’s host before leaving Canada last year, describing Macron as “publicity seeking” and adding: “Purposefully or not, Emmanuel Macron always gets it wrong.”</p> <a href=\"https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1655
   }
 ]
