@@ -1,9 +1,74 @@
 [
   {
-    "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – business live",
+    "title": "These stocks are in trouble now that Kevin Warsh removed the market’s guardrails",
+    "link": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T18:18:00+00:00",
+    "summary": "The new Fed chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+    "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-18T18:04:41+00:00",
+    "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Is Tesla succeeding in AI? Watch this for a clue.",
+    "link": "https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T17:34:00+00:00",
+    "summary": "As Tesla has doubled down on artificial intelligence, investors are left trying to make sense of the company’s progress. According to analysts at Oppenheimer, tracking how Tesla spends its cash may provide some insight.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8442
+  },
+  {
+    "title": "Bank of England governor warns UK public to expect higher costs this year",
+    "link": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+    "source": "The Guardian Economics",
+    "published": "2026-06-18T17:23:28+00:00",
+    "summary": "<p>Andrew Bailey says ‘inflationary pressure in pipeline’ despite US and Iran signing initial peace deal as interest rates kept on hold</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The governor of the Bank of England has warned consumers to expect higher costs this year as a result of the conflict in the Middle East, despite falling oil prices as the US and Iran signing an initial peace deal.</p><p>Speaking after the Bank kept interest rates on hold at 3.75%, Andrew Bailey said there was “still some inflationary pressure in the pipeline” after the conflict pushed up energy prices.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7222
+  },
+  {
+    "title": "Inside the wild week for SpaceX and the traders who pushed up its stock price",
+    "link": "https://www.marketwatch.com/story/inside-the-wild-week-for-spacex-and-the-traders-who-pushed-up-its-stock-price-cebbb8e6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-18T17:12:00+00:00",
+    "summary": "Also in Weekend Reads: A contrarian energy investment play as oil prices fall, credit advice for Gen Z and advice from the Moneyist.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-18T12:48:21+00:00",
+    "published": "2026-06-18T15:12:54+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
@@ -12,71 +77,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8481
-  },
-  {
-    "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
-    "link": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T12:16:00+00:00",
-    "summary": "Demand for memory chips will continue to outpace supply in the near term despite efforts to add manufacturing capacity, an analyst says.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Two key things that need to happen before Strait of Hormuz traffic can return to prewar levels",
-    "link": "https://www.marketwatch.com/story/two-key-things-that-need-to-happen-before-strait-of-hormuz-traffic-can-return-to-prewar-levels-996bb7ec?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T12:00:00+00:00",
-    "summary": "The U.S. and Iran agreed to a framework for a peace deal that extends their cease-fire for another 60 days. Now, a series of practical steps are needed for traffic to pick back up through the shipping chokepoint.",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "Is the stock market open on Juneteenth? Will the post office deliver mail tomorrow?",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T11:22:00+00:00",
-    "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3527
-  },
-  {
-    "title": "Bank of England keeps interest rates at 3.75% as Iran conflict weighs on economy",
-    "link": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
-    "source": "The Guardian Economics",
-    "published": "2026-06-18T11:00:53+00:00",
-    "summary": "<p>Two MPC members vote for a quarter-point rise but Bank argues rapid reaction risks creating volatility</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has left interest rates on hold, arguing that reacting too quickly to inflation threats risks creating “undesirable volatility”, as the Iran war drags on the UK economy.</p><p>Seven of the nine-person monetary policy committee voted to keep rates at 3.75% as the MPC weighed the threat of higher inflation against the prospect of an economic slowdown.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9489
-  },
-  {
-    "title": "Warsh wants to listen to markets more. Morgan Stanley says markets may regret it.",
-    "link": "https://www.marketwatch.com/story/warsh-wants-to-listen-to-markets-more-morgan-stanley-says-markets-may-regret-it-ab356f90?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T10:08:00+00:00",
-    "summary": "Federal Reserve Chair Kevin Warsh says he wants to listen to the signal from markets more. Strategists at Morgan Stanley say markets may regret being in charge.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
   },
   {
     "title": "UK vacancies fall to lowest for five years as wages grow faster than expected",
