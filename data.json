@@ -1,5 +1,68 @@
 [
   {
+    "title": "UK borrowing surges over forecasts in May as government spending rises – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-19T07:50:43+00:00",
+    "summary": "<p>UK budget deficit is running higher than forecast, as borrowing costs rise after Burnham win and US-Iran talks are called off</p><p><strong>Shares in UK water companies are dropping in early trading, as Andy Burnham’s by-election win raises the prospect of nationalisation.</strong></p><p><strong>United Utilities</strong>, which provides water and wastewater services in the North West of England, are down 1.3%.</p><p>“When Andy says he wants the public to have control over ‘the essentials of life’, we should believe him. He is completely serious.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
+    "source": "The Guardian Economics",
+    "published": "2026-06-19T07:25:02+00:00",
+    "summary": "<p>International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contract</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>KPMG has admitted to another breach of ethics after its staff leaked Optus’ confidential information to colleagues bidding for an audit contract with Telstra.</p><p>The consulting firm’s executives also surveilled a whistleblower’s laptop and dismissed the individual as someone with “workplace grievances”, a parliamentary inquiry heard on Friday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7059
+  },
+  {
+    "title": "UK borrows more than expected as impact of Iran war takes toll",
+    "link": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
+    "source": "The Guardian Economics",
+    "published": "2026-06-19T06:34:06+00:00",
+    "summary": "<p>May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leader</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK borrowed a higher-than-expected £23.3bn in May amid the economic fallout of the Iran war, underlining the fiscal pressures facing Andy Burnham if he takes over as the Labour leader.</p><p>In figures released shortly after Burnham’s <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, the Office for National Statistics (ONS) said public sector net borrowing – the difference between government spending and income – for the month was the second highest for any May on record.</p> <a href=\"https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8689
+  },
+  {
+    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T04:01:00+00:00",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Is Tesla succeeding in AI? Watch this for a clue.",
+    "link": "https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T02:27:00+00:00",
+    "summary": "As Tesla has doubled down on artificial intelligence, investors are left trying to make sense of the company’s progress. According to analysts at Oppenheimer, tracking how Tesla spends its cash may provide some insight.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8442
+  },
+  {
     "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
     "link": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -59,31 +122,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
-  },
-  {
-    "title": "These stocks are in trouble after Fed Chair Kevin Warsh removed the market’s guardrails",
-    "link": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T21:35:00+00:00",
-    "summary": "The new chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
-    "link": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T21:14:00+00:00",
-    "summary": "Some of the AI boom’s biggest earners have become its biggest bargains.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   },
   {
     "title": "Markets are set for a much more hawkish Warsh Fed than expected",
@@ -347,45 +385,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1779
-  },
-  {
-    "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
-    "link": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
-    "source": "The Guardian Economics",
-    "published": "2026-06-16T10:41:08+00:00",
-    "summary": "<p>Country acts amid Iran war inflation pressures, but US Fed and Bank of England expected to hold rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of Japan (BoJ) has raised interest rates to a 31-year high as it tries to dampen inflationary pressures created by the Iran war.</p><p>Policymakers in Tokyo raised the BoJ’s short-term policy rate by a quarter of one percentage point, <a href=\"https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616c.pdf\">to 1% from 0.75%</a>, and warned that companies were passing on rising oil costs to each other at a “relatively fast pace”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35%",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-06-16T07:35:40+00:00",
-    "summary": "<p>Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank has warned it is ready to raise interest rates further despite leaving its official interest rate on hold at 4.35%.</p><p>The widely expected decision on Tuesday will bring little relief to mortgage holders, already strained by the RBA’s three consecutive rate hikes earlier in 2026.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.871
-  },
-  {
-    "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
-    "link": "https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-15T22:39:09+00:00",
-    "summary": "Michael Selig said that incumbents will always fear the future, but it's important to develop the new asset class domestically rather than only offshore.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5187
   }
 ]
