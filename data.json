@@ -1,16 +1,90 @@
 [
   {
-    "title": "UK borrowing surges over forecasts in May as government spending rises – business live",
+    "title": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-19T07:50:43+00:00",
-    "summary": "<p>UK budget deficit is running higher than forecast, as borrowing costs rise after Burnham win and US-Iran talks are called off</p><p><strong>Shares in UK water companies are dropping in early trading, as Andy Burnham’s by-election win raises the prospect of nationalisation.</strong></p><p><strong>United Utilities</strong>, which provides water and wastewater services in the North West of England, are down 1.3%.</p><p>“When Andy says he wants the public to have control over ‘the essentials of life’, we should believe him. He is completely serious.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-06-19T13:14:52+00:00",
+    "summary": "<p>UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called off</p><p><strong>Shares in UK water companies are dropping in early trading, as Andy Burnham’s byelection win raises the prospect of nationalisation.</strong></p><p><strong>United Utilities</strong>, which provides water and wastewater services in the North West of England, are down 1.3%.</p><p>When Andy says he wants the public to have control over ‘the essentials of life’, we should believe him. He is completely serious.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
+  },
+  {
+    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T13:11:00+00:00",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+    "link": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T12:10:00+00:00",
+    "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "The Fed’s new hawkish reality just forced Goldman Sachs to slash its gold forecast by $500",
+    "link": "https://www.marketwatch.com/story/the-feds-new-hawkish-reality-just-forced-goldman-sachs-to-slash-its-gold-forecast-by-500-c166d99f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T11:55:00+00:00",
+    "summary": "Strategists at the investment bank see gold rising to $4,900 an oune by the end of the year instead of $5,400.",
+    "matched_keywords": [
+      "Fed",
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
+    "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T11:50:00+00:00",
+    "summary": "Here’s what the central bank’s hawkish agenda means for your money.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Social media declared Cursor dead. Then SpaceX handed the AI startup a $60 billion lifeline.",
+    "link": "https://www.marketwatch.com/story/social-media-declared-cursor-dead-then-spacex-handed-the-ai-startup-a-60-billion-lifeline-50454e29?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T11:30:00+00:00",
+    "summary": "Written off after the rise of Anthropic’s Claude Code, Cursor now looks to reclaim its crown as a vibe-coding heavyweight with SpaceX’s backing",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "Why the Fed’s hawkish stance signals a step-change in U.S. dollar sentiment — and a new direction",
+    "link": "https://www.marketwatch.com/story/why-the-feds-hawkish-stance-signals-a-step-change-in-u-s-dollar-sentiment-and-a-new-direction-742f1fff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-19T11:17:00+00:00",
+    "summary": "Interest rate differentials, growth prospects, demand for capital from AI investment and bumper stock market issuance is generating demand for the  dollar and a bullish impulse",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
   },
   {
     "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
@@ -29,50 +103,13 @@
     "link": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
     "source": "The Guardian Economics",
     "published": "2026-06-19T06:34:06+00:00",
-    "summary": "<p>May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leader</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK borrowed a higher-than-expected £23.3bn in May amid the economic fallout of the Iran war, underlining the fiscal pressures facing Andy Burnham if he takes over as the Labour leader.</p><p>In figures released shortly after Burnham’s <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, the Office for National Statistics (ONS) said public sector net borrowing – the difference between government spending and income – for the month was the second highest for any May on record.</p> <a href=\"https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll\">Continue reading...</a>",
+    "summary": "<p>May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leader</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://viewer.gutools.co.uk/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates\">UK politics – live updates</a></p></li></ul><p>The UK borrowed a higher-than-expected £23.3bn in May amid the economic fallout from the Iran war, underlining the fiscal pressures facing Andy Burnham if he takes over as the Labour leader.</p><p>In figures released shortly after Burnham’s <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, the Office for National Statistics (ONS) said public sector net borrowing – the difference between government spending and income – for the month was the second highest for any May on record.</p> <a href=\"https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8689
-  },
-  {
-    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-19T04:01:00+00:00",
-    "summary": "“I’m afraid I’m in a bad place.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Is Tesla succeeding in AI? Watch this for a clue.",
-    "link": "https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-19T02:27:00+00:00",
-    "summary": "As Tesla has doubled down on artificial intelligence, investors are left trying to make sense of the company’s progress. According to analysts at Oppenheimer, tracking how Tesla spends its cash may provide some insight.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8442
-  },
-  {
-    "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
-    "link": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T23:22:00+00:00",
-    "summary": "Midjourney is making a foray into healthcare with its latest body-scanner product, aiming to make medical imaging more accessible.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
@@ -86,42 +123,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
-    "link": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T22:03:00+00:00",
-    "summary": "Billions of dollars have flowed into SpaceX ETFs as retail investors look past conventional valuations.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
-    "link": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T22:00:00+00:00",
-    "summary": "Intel “is steadily expanding its domestic capacity and converting political and strategic tailwinds into concrete foundry wins,” an analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
-    "link": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-18T21:56:00+00:00",
-    "summary": "Demand for memory chips will continue to outpace supply in the near term despite efforts to add manufacturing capacity, an analyst says.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
   },
   {
     "title": "Markets are set for a much more hawkish Warsh Fed than expected",
