@@ -1,5 +1,17 @@
 [
   {
+    "title": "Google shake-up highlights how human brains may be the scarcest AI resource of all",
+    "link": "https://www.marketwatch.com/story/google-shake-up-highlights-how-human-brains-may-be-the-scarcest-ai-resource-of-all-1ea41ac7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-20T12:00:00+00:00",
+    "summary": "Despite a growing pool of research talent, not many have the experience of building and scaling AI, experts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3142
+  },
+  {
     "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
     "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -37,11 +49,11 @@
     "sentiment_score": -0.2732
   },
   {
-    "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+    "title": "The Fed is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
     "link": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-06-19T16:59:00+00:00",
-    "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
+    "summary": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
     "matched_keywords": [
       "Fed"
     ],
@@ -60,19 +72,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3527
-  },
-  {
-    "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
-    "link": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-19T16:05:00+00:00",
-    "summary": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "The riskiest SpaceX stock trade of all had a big first week",
