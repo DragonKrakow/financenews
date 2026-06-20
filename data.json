@@ -100,18 +100,6 @@
     "sentiment_score": -0.3612
   },
   {
-    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-19T14:10:00+00:00",
-    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
     "title": "What could US-Iran peace deal mean for UK household costs?",
     "link": "https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
     "source": "The Guardian Economics",
@@ -384,5 +372,19 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "US small business owners: how are you operating in the current economic climate?",
+    "link": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
+    "source": "The Guardian Economics",
+    "published": "2026-06-16T17:17:07+00:00",
+    "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8625
   }
 ]
