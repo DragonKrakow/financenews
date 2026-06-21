@@ -1,5 +1,30 @@
 [
   {
+    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-21T15:01:00+00:00",
+    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+    "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-21T13:00:00+00:00",
+    "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6542
+  },
+  {
     "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
     "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
     "source": "The Guardian Economics",
@@ -84,18 +109,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9535
-  },
-  {
-    "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
-    "link": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-20T18:17:00+00:00",
-    "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   },
   {
     "title": "The riskiest SpaceX stock trade of all had a big first week",
@@ -370,17 +383,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9544
-  },
-  {
-    "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
-    "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-16T20:55:45+00:00",
-    "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
   }
 ]
