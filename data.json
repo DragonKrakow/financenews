@@ -1,5 +1,30 @@
 [
   {
+    "title": "Oil prices fall and stock markets rise as US-Iran peace talks progress – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T08:09:53+00:00",
+    "summary": "<p>Brent crude prices fall below $80 per barrel on after Iranian negotiators said progress had been made in peace talks with US</p><p><strong>Eurozone bond yields</strong> have also dropped slightly, thanks in part to momentary relief over US-Iran peace talk progress, amid hopes it could ease geopolitical tensions and war-related inflation that reduce the prospect of further rate hikes by the ECB.</p><p>The yield on <strong>Germany’s benchmark 10-year bond yield</strong> was down 2 basis points at 2.966% this morning. (This is after having climbed 6 basis points on Friday after peace talks were abruptly called off)</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9803
+  },
+  {
+    "title": "Clearance rates hit six-year low as more than half of Australian homes up for auction fail to sell",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/22/auction-clearance-rates-six-year-low-australian-homes",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T03:18:24+00:00",
+    "summary": "<p>Preliminary data show 47.7% of homes sold at auction in the week ending 21 June, the lowest rate has been since April 2020</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Clearance rates in Australia’s capital cities have fallen to a six-year low, with fewer than half of homes at auction finding buyers.</p><p>Preliminary <a href=\"https://www.cotality.com/au/our-data/auction-results\">data from Cotality</a> shows 47.4% of homes that went to auction sold in the week ending Sunday 21 June. That figure is a weighted average encompassing different rates in different capitals, but the numbers are striking across the board.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/22/auction-clearance-rates-six-year-low-australian-homes\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7399
+  },
+  {
     "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
     "link": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
     "source": "CNBC Finance",
@@ -357,32 +382,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9442
-  },
-  {
-    "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
-    "link": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-17T08:04:21+00:00",
-    "summary": "China included artificial intelligence in its global governance whitepaper published Wednesday, and said Beijing was speeding up cooperation efforts.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
-    "title": "UK inflation stays at 2.8% as slowing food prices offset rising transport costs",
-    "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-06-17T06:00:48+00:00",
-    "summary": "<p>May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Analysis: benign data signals a softer hit than feared</a></p></li></ul><p>UK inflation unexpectedly remained at 2.8% in May, as rising energy costs caused by the Iran conflict were offset by slower increases in food prices.</p><p>The unchanged reading on the consumer price index measure of inflation (CPI) confounded economists’ expectations of a 3% increase as the conflict restricted global energy flows – and raised hopes that the impact of the war on prices <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">might be more muted than feared</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
   }
 ]
