@@ -1,5 +1,43 @@
 [
   {
+    "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+    "link": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-21T22:58:25+00:00",
+    "summary": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+    "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-21T22:41:00+00:00",
+    "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6542
+  },
+  {
+    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-21T20:00:00+00:00",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
     "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
     "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,19 +48,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
-  },
-  {
-    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-    "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-21T13:00:00+00:00",
-    "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6542
   },
   {
     "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
@@ -48,18 +73,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1779
-  },
-  {
-    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-21T12:09:00+00:00",
-    "summary": "“I’m afraid I’m in a bad place.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   },
   {
     "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
@@ -371,17 +384,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
-  },
-  {
-    "title": "Is it bad that Elon Musk has a trillion dollars? Yes, and here’s why | Ingrid Robeyns",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why",
-    "source": "The Guardian Economics",
-    "published": "2026-06-17T04:00:21+00:00",
-    "summary": "<p>Just as the ‘poverty line’ determines what’s required for basic living, we need a ‘wealth line’ to show when extreme wealth becomes harmful</p><p></p><p>It was bound to happen eventually: Elon Musk has become the planet’s <a href=\"https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx\">first trillionaire</a>. Until recently, economists who spoke about “trillions” were describing the GDP of the largest economies or the accumulated value of bequests on their way to the heirs of today’s billionaires. The term is not often used in daily conversation, let alone to describe the wealth of an individual.</p><p>But now we have entered a new phase of the oligarchic era. Previously, when we described the wealth of the world’s richest billionaires, it was understood as a few hundred billions. Three years ago, the value of Musk’s total assets was estimated to be about $250bn. The pace at which it has increased is mind-boggling – and so is what it represents.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9544
   }
 ]
