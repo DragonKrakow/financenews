@@ -1,22 +1,107 @@
 [
   {
-    "title": "Alan Greenspan, most powerful Fed chairman of the modern era, dies at 100",
-    "link": "https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories",
+    "title": "A flood of oil is set to hit energy markets. Here’s how much crude may be unleashed.",
+    "link": "https://www.marketwatch.com/story/a-flood-of-oil-is-set-to-hit-energy-markets-heres-how-much-crude-may-be-unleashed-5b3484f0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T13:55:00+00:00",
-    "summary": "The legendary central banker led the Fed for nearly two decades.",
+    "published": "2026-06-22T18:33:00+00:00",
+    "summary": "Despite a fragile U.S.-Iran cease-fire and fears of an uneven recovery, millions of barrels of crude oil are already lined up over the short term.",
     "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8442
+  },
+  {
+    "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
+    "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T18:30:00+00:00",
+    "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
+    "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T17:12:00+00:00",
+    "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7964
+  },
+  {
+    "title": "Keir Starmer’s economic legacy – in charts",
+    "link": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T17:07:37+00:00",
+    "summary": "<p>PM said Labour had turned economy around – but his record on growth and unemployment appears mixed</p><p>Keir Starmer used his<a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\"> leaving speech</a> to lay out a long list of Labour’s achievements in office – but his economic legacy appears mixed, with sluggish UK growth and higher employment costs.</p><p>The prime minister said his government had turned around an ailing economy, after 14 years of austerity. He said plans by the previous Tory administration to cut investment had been reversed and economic growth was the highest in the G7.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0387
+  },
+  {
+    "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-22T16:45:37+00:00",
+    "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+    "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T16:24:00+00:00",
+    "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9524
+  },
+  {
+    "title": "‘I’ll probably be working until I die’: I’m 60, wait tables and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T16:15:00+00:00",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Alan Greenspan obituary",
+    "link": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T16:13:47+00:00",
+    "summary": "<p>American economist and long-serving head of the Federal Reserve widely praised  for the US boom whose reputation was re-evaluated in the wake of the 2008 crash</p><p>For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro.</p><p>As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: <a href=\"https://www.theguardian.com/news/2004/jun/07/guardianobituaries.past\">Ronald Reagan</a>, <a href=\"https://www.theguardian.com/global/2018/dec/01/george-hw-bush-obituary\">George HW Bush</a>, Bill Clinton – even though Greenspan was a lifelong Republican – and George W Bush.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
       "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4754
+    "sentiment_score": 0.8399
   },
   {
     "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
     "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
     "source": "CNBC Finance",
-    "published": "2026-06-22T13:50:14+00:00",
+    "published": "2026-06-22T14:39:38+00:00",
     "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.",
     "matched_keywords": [
       "Fed",
@@ -26,18 +111,18 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – business live",
+    "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
     "source": "The Guardian Economics",
-    "published": "2026-06-22T13:47:27+00:00",
-    "summary": "<p>Sterling and gilts avoid major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
+    "published": "2026-06-22T14:08:12+00:00",
+    "summary": "<p>Sterling and gilts avoided major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
+    "sentiment_score": 0.128
   },
   {
     "title": "The ungovernable country? Why Britain keeps losing prime ministers",
@@ -52,74 +137,12 @@
     "sentiment_score": 0.2523
   },
   {
-    "title": "SpaceX already needs to raise more cash, and its stock is dropping",
-    "link": "https://www.marketwatch.com/story/spacex-already-needs-to-raise-more-cash-and-its-stock-is-dropping-a1ec150e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T13:42:00+00:00",
-    "summary": "Elon Musk’s company is turning to the bond market less than two weeks after its blockbuster IPO.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-    "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T13:36:00+00:00",
-    "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
-    "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T13:33:00+00:00",
-    "summary": "Here’s what the central bank’s hawkish agenda means for your money.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-    "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T13:25:00+00:00",
-    "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6542
-  },
-  {
-    "title": "Trump ‘jawboning’ has masked a global oil-supply disaster, and the reality could mean $135 crude, says industry veteran",
-    "link": "https://www.marketwatch.com/story/trump-jawboning-has-masked-a-global-oil-supply-disaster-and-the-reality-could-mean-135-crude-says-industry-veteran-9b0bb52b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T12:26:00+00:00",
-    "summary": "Author and former trader Dan Dicker says President Donald Trump’s rhetoric can only take the market so far,",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
-  },
-  {
     "title": "US firm goes public with £4.7bn proposal to buy easyJet after earlier bids rejected",
     "link": "https://www.theguardian.com/business/2026/jun/22/castlelake-public-proposal-buy-easyjet",
     "source": "The Guardian Economics",
     "published": "2026-06-22T11:10:47+00:00",
-    "summary": "<p>Investment company Castlelake made bid public for shareholders to evaluate but carrier describes offer as ‘cheap’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Business live – latest updates</a></p></li></ul><p>The US investment firm trying to buy easyJet has gone public with its latest £4.7bn takeover proposal for the budget airline, its third and latest offer to be rejected.</p><p>Castlelake said on Monday that an all-cash offer of 625p a share, valuing easyJet at just over £4.7bn, had been rejected by the airline’s board on Sunday, after previous offers at 560p and 600p.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/castlelake-public-proposal-buy-easyjet\">Continue reading...</a>",
+    "summary": "<p>Investment company Castlelake made bid public for shareholders to evaluate but carrier describes offer as ‘cheap’</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/22/easyjet-bidder-takeover-castlelake-stelios\">Nils Pratley: EasyJet bidder is still offering less than a full ticket</a></p></li></ul><p>The US investment firm trying to buy easyJet has gone public with its latest £4.7bn takeover proposal for the budget airline, its third and latest offer to be rejected.</p><p>Castlelake said on Monday that an all-cash offer of 625p a share, valuing easyJet at just over £4.7bn, had been rejected by the airline’s board on Sunday, after previous offers at 560p and 600p.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/castlelake-public-proposal-buy-easyjet\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Neutral",
@@ -353,30 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8481
-  },
-  {
-    "title": "Fed holds rates steady, pares down statement to remove cutting bias",
-    "link": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-17T21:42:28+00:00",
-    "summary": "The Federal Reserve on Wednesday released its interest rate decision.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
-    "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-17T20:26:56+00:00",
-    "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
   }
 ]
