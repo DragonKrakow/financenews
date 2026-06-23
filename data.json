@@ -1,5 +1,93 @@
 [
   {
+    "title": "Stock investors expect the Fed to save them. But no ‘Warsh put’ is coming — and the ‘Greenspan put’ was a myth.",
+    "link": "https://www.marketwatch.com/story/stock-investors-expect-the-fed-to-save-them-but-no-warsh-put-is-coming-and-the-greenspan-put-was-a-myth-ed92e3d9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T12:58:00+00:00",
+    "summary": "Wall Street’s belief in a central bank safety net misreads the dot-com crash. Alan Greenspan was following rules — not saving portfolios.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1406
+  },
+  {
+    "title": "Investor assumptions about the AI trade are starting to stretch reality, Goldman Sachs says",
+    "link": "https://www.marketwatch.com/story/investor-assumptions-about-the-ai-trade-are-starting-to-stretch-reality-goldman-sachs-says-0f39d408?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T12:38:00+00:00",
+    "summary": "Investors may be racing ahead of what the AI trade can deliver, warns Goldman Sachs.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Everyday investors fueled the SpaceX trading frenzy. Now they face a bear market.",
+    "link": "https://www.marketwatch.com/story/everyday-investors-fueled-the-spacex-trading-frenzy-now-they-face-a-bear-market-c45e8a76?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T12:30:00+00:00",
+    "summary": "From six-figure retirement gambles to tactical day trades, retail investors have made big bets on SpaceX’s volatile stock.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T12:19:00+00:00",
+    "summary": "“He also wants me to downsize and move.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "The AI market has become a ‘rubber band’ — the question now is how far it can stretch, says Goldman strategist",
+    "link": "https://www.marketwatch.com/story/the-ai-market-has-become-a-rubber-band-the-question-now-is-how-far-it-can-stretch-says-goldman-strategist-70ed46b7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T09:50:00+00:00",
+    "summary": "Rich Privorotsky, strategist at Goldman Sachs, said that while so-called hyperscalers continue to increase their capital expenditure forecasts, artificial intelligence software is becoming cheaper to develop elsewhere",
+    "matched_keywords": [
+      "Gold",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8402
+  },
+  {
+    "title": "U.S. fights with Brazil for China's giant soybean market",
+    "link": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T09:43:57+00:00",
+    "summary": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Reich",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
+    "source": "The Guardian Economics",
+    "published": "2026-06-23T09:00:37+00:00",
+    "summary": "<p>The former Federal Reserve chair was a smart guy – but he had a huge blind spot. Here’s what I wish I’d said to him</p><p>Alan Greenspan <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100\">has died</a> at the age of 100.</p><p>My students don’t recognize his name, but you probably do. When he was chair of the Federal Reserve – for more than 18 years, from 11 August 1987 to 31 January 2006 – he not only ran the US (and most of the world’s) economy but was also in many ways the most powerful person in the US.</p><p>Robert Reich, a former US secretary of labor, is a professor of public policy emeritus at the University of California, Berkeley. He is a Guardian US columnist and his newsletter is at <a href=\"http://robertreich.substack.com/\">robertreich.substack.com</a>. His new book, Coming Up Short: A Memoir of My America, is <a href=\"https://sites.prh.com/reich\">out now in the US</a> and <a href=\"https://scribepublications.co.uk/books/coming-up-short\">in the UK</a></p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8804
+  },
+  {
     "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
     "link": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
     "source": "CNBC Finance",
@@ -10,90 +98,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7003
-  },
-  {
-    "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
-    "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T00:23:00+00:00",
-    "summary": "In the wake of the SpaceX IPO, investors can expect global communications and AI data processing — both via satellites — to be important themes for many years.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-    "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T22:47:00+00:00",
-    "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0951
-  },
-  {
-    "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-    "link": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T22:21:00+00:00",
-    "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8047
-  },
-  {
-    "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-    "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T22:18:00+00:00",
-    "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street",
-    "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T21:50:00+00:00",
-    "summary": "Caterpillar is the hottest stock in the Dow this year, and now one of just two in the index with a share price above $1,000.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
-    "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T20:58:00+00:00",
-    "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9524
-  },
-  {
-    "title": "Salesforce’s stock extends record losing streak. Can the company disrupt itself?",
-    "link": "https://www.marketwatch.com/story/salesforces-stock-extends-record-losing-streak-can-the-company-disrupt-itself-8402d62c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T20:50:00+00:00",
-    "summary": "Shares of Salesforce posted their 14th consecutive day of losses as investors remain unconvinced of the company’s AI momentum.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
   },
   {
     "title": "Keir Starmer’s economic legacy – in charts",
