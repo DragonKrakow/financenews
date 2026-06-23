@@ -1,21 +1,45 @@
 [
   {
-    "title": "A flood of oil is set to hit energy markets. Here’s how much crude may be unleashed.",
-    "link": "https://www.marketwatch.com/story/a-flood-of-oil-is-set-to-hit-energy-markets-heres-how-much-crude-may-be-unleashed-5b3484f0?mod=mw_rss_topstories",
+    "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
+    "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T18:33:00+00:00",
-    "summary": "Despite a fragile U.S.-Iran cease-fire and fears of an uneven recovery, millions of barrels of crude oil are already lined up over the short term.",
+    "published": "2026-06-23T00:23:00+00:00",
+    "summary": "In the wake of the SpaceX IPO, investors can expect global communications and AI data processing — both via satellites — to be important themes for many years.",
     "matched_keywords": [
-      "Oil"
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8442
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+    "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T22:47:00+00:00",
+    "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0951
+  },
+  {
+    "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+    "link": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T22:21:00+00:00",
+    "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8047
   },
   {
     "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
     "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T18:30:00+00:00",
+    "published": "2026-06-22T22:18:00+00:00",
     "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
     "matched_keywords": [
       "AI"
@@ -24,16 +48,40 @@
     "sentiment_score": -0.4939
   },
   {
-    "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
-    "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+    "title": "Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street",
+    "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T17:12:00+00:00",
-    "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
+    "published": "2026-06-22T21:50:00+00:00",
+    "summary": "Caterpillar is the hottest stock in the Dow this year, and now one of just two in the index with a share price above $1,000.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+    "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T20:58:00+00:00",
+    "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9524
+  },
+  {
+    "title": "Salesforce’s stock extends record losing streak. Can the company disrupt itself?",
+    "link": "https://www.marketwatch.com/story/salesforces-stock-extends-record-losing-streak-can-the-company-disrupt-itself-8402d62c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-22T20:50:00+00:00",
+    "summary": "Shares of Salesforce posted their 14th consecutive day of losses as investors remain unconvinced of the company’s AI momentum.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7964
+    "sentiment_score": -0.6369
   },
   {
     "title": "Keir Starmer’s economic legacy – in charts",
@@ -58,30 +106,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8225
-  },
-  {
-    "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
-    "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T16:24:00+00:00",
-    "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9524
-  },
-  {
-    "title": "‘I’ll probably be working until I die’: I’m 60, wait tables and have $2,000 in a Roth IRA. What will happen to me?",
-    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-22T16:15:00+00:00",
-    "summary": "“I’m afraid I’m in a bad place.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   },
   {
     "title": "Alan Greenspan obituary",
@@ -348,33 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "Bank of England governor warns UK public to expect higher costs this year",
-    "link": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
-    "source": "The Guardian Economics",
-    "published": "2026-06-18T17:23:28+00:00",
-    "summary": "<p>Andrew Bailey says ‘inflationary pressure in pipeline’ despite US and Iran signing initial peace deal as interest rates kept on hold</p><p>The governor of the Bank of England has warned consumers to expect higher costs this year as a result of the conflict in the Middle East, despite falling oil prices as the US and Iran signing an initial peace deal.</p><p>Speaking after the Bank kept interest rates on hold at 3.75%, Andrew Bailey said there was “still some inflationary pressure in the pipeline” after the conflict pushed up energy prices.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7222
-  },
-  {
-    "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-18T15:12:54+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8481
   }
 ]
