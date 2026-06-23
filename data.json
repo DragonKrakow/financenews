@@ -1,66 +1,76 @@
 [
   {
-    "title": "Stock investors expect the Fed to save them. But no ‘Warsh put’ is coming — and the ‘Greenspan put’ was a myth.",
-    "link": "https://www.marketwatch.com/story/stock-investors-expect-the-fed-to-save-them-but-no-warsh-put-is-coming-and-the-greenspan-put-was-a-myth-ed92e3d9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T12:58:00+00:00",
-    "summary": "Wall Street’s belief in a central bank safety net misreads the dot-com crash. Alan Greenspan was following rules — not saving portfolios.",
+    "title": "Meta is building a prediction markets app. These stocks are falling in response",
+    "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T18:42:41+00:00",
+    "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
     "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1406
-  },
-  {
-    "title": "Investor assumptions about the AI trade are starting to stretch reality, Goldman Sachs says",
-    "link": "https://www.marketwatch.com/story/investor-assumptions-about-the-ai-trade-are-starting-to-stretch-reality-goldman-sachs-says-0f39d408?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T12:38:00+00:00",
-    "summary": "Investors may be racing ahead of what the AI trade can deliver, warns Goldman Sachs.",
-    "matched_keywords": [
-      "Gold",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_score": -0.1531
   },
   {
-    "title": "Everyday investors fueled the SpaceX trading frenzy. Now they face a bear market.",
-    "link": "https://www.marketwatch.com/story/everyday-investors-fueled-the-spacex-trading-frenzy-now-they-face-a-bear-market-c45e8a76?mod=mw_rss_topstories",
+    "title": "This tech ‘fear gauge’ is nearing a two-decade high. Investors should worry.",
+    "link": "https://www.marketwatch.com/story/this-tech-fear-gauge-is-nearing-a-two-decade-high-investors-should-worry-691ed639?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T12:30:00+00:00",
-    "summary": "From six-figure retirement gambles to tactical day trades, retail investors have made big bets on SpaceX’s volatile stock.",
+    "published": "2026-06-23T18:15:00+00:00",
+    "summary": "Wall Street’s main ‘fear gauge,’ the ‘VIX’ might not be the best way to track this volatility in stocks",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_score": -0.7405
   },
   {
-    "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-    "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T12:19:00+00:00",
-    "summary": "“He also wants me to downsize and move.”",
+    "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+    "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T18:14:04+00:00",
+    "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
+    "sentiment_score": 0.765
   },
   {
-    "title": "The AI market has become a ‘rubber band’ — the question now is how far it can stretch, says Goldman strategist",
-    "link": "https://www.marketwatch.com/story/the-ai-market-has-become-a-rubber-band-the-question-now-is-how-far-it-can-stretch-says-goldman-strategist-70ed46b7?mod=mw_rss_topstories",
+    "title": "How to work in retirement without seeing your Social Security checks slashed",
+    "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T09:50:00+00:00",
-    "summary": "Rich Privorotsky, strategist at Goldman Sachs, said that while so-called hyperscalers continue to increase their capital expenditure forecasts, artificial intelligence software is becoming cheaper to develop elsewhere",
+    "published": "2026-06-23T17:49:00+00:00",
+    "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
     "matched_keywords": [
-      "Gold",
-      "AI",
-      "Artificial Intelligence"
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Keir Starmer and Andy Burnham have met away from No 10 to discuss transition – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-23T16:40:28+00:00",
+    "summary": "<p>Prime minister said to have left Downing Street for secret meeting with his probable successor</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Burnham adviser calls for billions of pounds in borrowing for infrastructure</a></p></li></ul><p><em>Peter Walker is a senior Guardian political correspondent.</em></p><p>The Liberal Democrats are marking the tenth anniversary of Brexit by enjoying their favourite pursuit – being rude about Nigel Farage.</p><p>Nigel Farage pocketed a £5m “reward” for the damage he’s caused, while the rest of us are paying for it dearly. When he promised we would be better off, he clearly only meant himself. We are taking over billboards across the UK today to say enough is enough.</p><p>Key to a serious Jones run seems to what he makes of Burnham’s economic policies in the coming days - including public control of utilities. And whether Ed Miliband ends up as chancellor.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8402
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
+    "link": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
+    "source": "The Guardian Economics",
+    "published": "2026-06-23T13:36:54+00:00",
+    "summary": "<p>Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projects</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The man tapped by Andy Burnham to be his chief economic adviser has called for billions of pounds more borrowing to pay for investment in infrastructure, in a sign of how Burnham may seek to break from the policies pursued by Keir Starmer.</p><p>Jim O’Neill, an economist and former minister, said he wanted the government to create an independent body for infrastructure spending along the lines of the Office for Budget Responsibility (OBR), which could be freed up to spend significantly more on major projects.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.483
   },
   {
     "title": "U.S. fights with Brazil for China's giant soybean market",
@@ -362,18 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8689
-  },
-  {
-    "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-    "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-18T22:03:50+00:00",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
