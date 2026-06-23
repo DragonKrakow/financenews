@@ -1,5 +1,17 @@
 [
   {
+    "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
+    "link": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T03:19:02+00:00",
+    "summary": "The latest consumer data reinforce how consumption in China remains subdued.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
     "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
     "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,18 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Markets are set for a much more hawkish Warsh Fed than expected",
-    "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-18T18:04:41+00:00",
-    "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   }
 ]
