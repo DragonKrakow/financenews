@@ -1,51 +1,100 @@
 [
   {
-    "title": "Meta is building a prediction markets app. These stocks are falling in response",
+    "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+    "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-24T00:51:00+00:00",
+    "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0951
+  },
+  {
+    "title": "SpaceX pulls off one of the biggest AI debt deals yet",
+    "link": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T23:14:00+00:00",
+    "summary": "The offering is set to close on Friday and help SpaceX pay off its existing debt",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T23:00:00+00:00",
+    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+    "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T22:10:00+00:00",
+    "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
+    "link": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T21:31:49+00:00",
+    "summary": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
+    "link": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-23T21:23:00+00:00",
+    "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Meta is building a prediction markets app. These stocks fell in response",
     "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
     "source": "CNBC Finance",
-    "published": "2026-06-23T18:42:41+00:00",
+    "published": "2026-06-23T20:09:00+00:00",
     "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "This tech ‘fear gauge’ is nearing a two-decade high. Investors should worry.",
-    "link": "https://www.marketwatch.com/story/this-tech-fear-gauge-is-nearing-a-two-decade-high-investors-should-worry-691ed639?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T18:15:00+00:00",
-    "summary": "Wall Street’s main ‘fear gauge,’ the ‘VIX’ might not be the best way to track this volatility in stocks",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7405
+    "sentiment_score": 0.0
   },
   {
     "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
     "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
     "source": "CNBC Finance",
-    "published": "2026-06-23T18:14:04+00:00",
+    "published": "2026-06-23T19:33:07+00:00",
     "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "How to work in retirement without seeing your Social Security checks slashed",
-    "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-23T17:49:00+00:00",
-    "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
   },
   {
     "title": "Keir Starmer and Andy Burnham have met away from No 10 to discuss transition – as it happened",
@@ -64,7 +113,7 @@
     "link": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
     "source": "The Guardian Economics",
     "published": "2026-06-23T13:36:54+00:00",
-    "summary": "<p>Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projects</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The man tapped by Andy Burnham to be his chief economic adviser has called for billions of pounds more borrowing to pay for investment in infrastructure, in a sign of how Burnham may seek to break from the policies pursued by Keir Starmer.</p><p>Jim O’Neill, an economist and former minister, said he wanted the government to create an independent body for infrastructure spending along the lines of the Office for Budget Responsibility (OBR), which could be freed up to spend significantly more on major projects.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Continue reading...</a>",
+    "summary": "<p>Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projects</p><p>The man tapped by Andy Burnham to be his chief economic adviser has called for billions of pounds more borrowing to pay for investment in infrastructure, in a sign of how Burnham may seek to break from the policies pursued by Keir Starmer.</p><p>Jim O’Neill, an economist and former minister, said he wanted the government to create an independent body for infrastructure spending along the lines of the Office for Budget Responsibility (OBR), which could be freed up to spend significantly more on major projects.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Continue reading...</a>",
     "matched_keywords": [
       "Gold",
       "AI"
@@ -321,56 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4497
-  },
-  {
-    "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-19T15:46:19+00:00",
-    "summary": "<p>UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called off</p><p><strong>Shares in UK water companies are dropping in early trading, as Andy Burnham’s byelection win raises the prospect of nationalisation.</strong></p><p><strong>United Utilities</strong>, which provides water and wastewater services in the North West of England, are down 1.3%.</p><p>When Andy says he wants the public to have control over ‘the essentials of life’, we should believe him. He is completely serious.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "What could US-Iran peace deal mean for UK household costs?",
-    "link": "https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-06-19T13:35:35+00:00",
-    "summary": "<p>The impact on petrol and food prices, energy bills and mortgages if the truce holds and strait of Hormuz reopens</p><p>Around the world, markets reacted with relief this week to news that Donald Trump had <a href=\"https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal\">signed a draft peace deal with Iran </a>that promised to reopen flows of oil and gas from the Gulf to global buyers.</p><p>There are already signs the truce could unravel, with Friday’s peace talks in Switzerland <a href=\"https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled\">abruptly called off</a>, but for now markets seem persuaded that commercial vessel traffic through the key waterway can start returning to normal.</p> <a href=\"https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8442
-  },
-  {
-    "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
-    "source": "The Guardian Economics",
-    "published": "2026-06-19T07:25:02+00:00",
-    "summary": "<p>International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contract</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>KPMG has admitted to another breach of ethics after its staff leaked Optus’ confidential information to colleagues bidding for an audit contract with Telstra.</p><p>The consulting firm’s executives also surveilled a whistleblower’s laptop and dismissed the individual as someone with “workplace grievances”, a parliamentary inquiry heard on Friday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7059
-  },
-  {
-    "title": "UK borrows more than expected as impact of Iran war takes toll",
-    "link": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
-    "source": "The Guardian Economics",
-    "published": "2026-06-19T06:34:06+00:00",
-    "summary": "<p>May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leader</p><p>The UK borrowed a higher-than-expected £23.3bn in May amid the economic fallout from the Iran war, underlining the fiscal pressures facing Andy Burnham if he takes over as the Labour leader.</p><p>In figures released shortly after Burnham’s <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, the Office for National Statistics (ONS) said public sector net borrowing – the difference between government spending and income – for the month was the second highest for any May on record.</p> <a href=\"https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8689
   }
 ]
