@@ -1,113 +1,104 @@
 [
   {
-    "title": "These S&P 500 stocks are expected to make double-digit comebacks",
-    "link": "https://www.marketwatch.com/story/these-s-p-500-stocks-are-expected-to-make-double-digit-comebacks-8696a849?mod=mw_rss_topstories",
+    "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
+    "link": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T12:51:00+00:00",
-    "summary": "A list of 20 highly rated stocks favored by analysts for gains over the next year includes only one that has risen this year: Nvidia.",
+    "published": "2026-06-25T17:30:00+00:00",
+    "summary": "Oil risks fresh shocks as Iran appears to assert control over the waterway.",
     "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "Amateur investors are changing how the stock market works. That’s creating opportunities for those who know where to look.",
+    "link": "https://www.marketwatch.com/story/amateur-investors-are-changing-how-the-stock-market-works-thats-creating-opportunities-for-those-who-know-where-to-look-34d78484?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-25T16:59:00+00:00",
+    "summary": "The rise of the retail investor is making the market less efficient — and AI is compounding the problem, according to a quant at Goldman Sachs.",
+    "matched_keywords": [
+      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6666
+    "sentiment_score": 0.5584
   },
   {
-    "title": "Consumer spending rises again — and now cheaper gas is on the way",
-    "link": "https://www.marketwatch.com/story/consumer-spending-rises-again-and-now-cheaper-gas-is-on-the-way-7615b45b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T12:50:00+00:00",
-    "summary": "Inflation is set to slow during the summer",
+    "title": "Wendy's turns lower as meme rally fails to extend to a second day",
+    "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-25T16:36:12+00:00",
+    "summary": "The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.1027
   },
   {
-    "title": "Here are five themes Wall Street left behind while chasing a single trade",
-    "link": "https://www.marketwatch.com/story/here-are-five-themes-wall-street-left-behind-while-chasing-a-single-trade-2fc5a2ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T12:44:00+00:00",
-    "summary": "Citrini Research says the artificial intelligence trade is getting crowded and investors might start refocusing on some less popular sectors with promise.",
+    "title": "Burnham could become PM on 17 July based on Labour leadership contest timetable – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-25T16:35:54+00:00",
+    "summary": "<p>The former Manchester mayor could be installed as prime minister in weeks if no other MP puts themselves forward</p><p>In her Q&amp;A this morning <strong>Rachel Reeves</strong>, the chancellor, confirmed that she wants the government to approve the licences for the Rosebank and Jackdaw oil and gas fields in the North Sea.</p><p>She said:</p><p>I’ve been very clear that I think that the North Sea is a crucial asset for the UK, and that oil and gas will be an important part of our energy mix for years to come. And I’m very keen to make sure that we use that resource, to ensure our energy security.</p><p>There are decisions to be made shortly on both Rosebank and Jackdaw. Those are quasi-judicial decisions. But in our manifesto two years ago, we committed to honour existing licences, and I hope that we do.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Artificial Intelligence"
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.785
+    "sentiment_score": 0.9612
   },
   {
-    "title": "Ryanair to allow parents flying with young children to avoid seat fee; Oil price hits lowest level since before conflict began – business live",
+    "title": "Ryanair ditches family seating fees; Markets at record highs as oil hits pre-Iran war levels – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-25T12:40:39+00:00",
+    "published": "2026-06-25T16:12:02+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><em>Q: Some people are backing Andy Burnham because they think he’ll rip up your fiscal rules…</em></p><p><strong>Reeves</strong><em> </em>replies that Burnham has been “really explicit” that he backs those fiscal rules [they dictate that day to day spending is funded through tax receipts, and that debt falls as a share of the economy].</p><p>So yes, there is more to do, but all of that has to be anchored around that stability, that high return to the economy.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2382
+    "sentiment_score": -0.2023
   },
   {
-    "title": "Could the U.S. join Germany in raising its retirement age?",
-    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T12:40:00+00:00",
-    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "Wendy's shares soar for a second day as retail investors pile into their new meme darling",
-    "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-25T12:39:41+00:00",
-    "summary": "The stock's advance appeared largely disconnected from company fundamentals and instead reflected a burst of social-media enthusiasm.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.836
-  },
-  {
-    "title": "U.S. inflation tops 4%, but tumbling oil prices to bring price relief soon",
-    "link": "https://www.marketwatch.com/story/u-s-inflation-tops-4-but-tumbling-oil-prices-to-bring-price-relief-soon-ef1ce5e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T12:37:00+00:00",
-    "summary": "Worst inflation in three years may have peaked",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.09
-  },
-  {
-    "title": "Starmer says he wants to ensure disruption during transition to Burnham government ‘absolutely minimised’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
+    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
     "source": "The Guardian Economics",
-    "published": "2026-06-25T12:33:42+00:00",
-    "summary": "<p>PM says: ‘I love this country, I want this country to thrive, and I shall do everything I can to make sure it’s a success and thrives’</p><p>In her Q&amp;A this morning <strong>Rachel Reeves</strong>, the chancellor, confirmed that she wants the government to approve the licences for the Rosebank and Jackdaw oil and gas fields in the North Sea.</p><p>She said:</p><p>I’ve been very clear that I think that the North Sea is a crucial asset for the UK, and that oil and gas will be an important part of our energy mix for years to come. And I’m very keen to make sure that we use that resource, to ensure our energy security.</p><p>There are decisions to be made shortly on both Rosebank and Jackdaw. Those are quasi-judicial decisions. But in our manifesto two years ago, we committed to honour existing licences, and I hope that we do.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-06-25T15:41:17+00:00",
+    "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9774
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9532
   },
   {
-    "title": "Why Iraq’s threat to leave OPEC may be the final nail in the cartel’s coffin",
-    "link": "https://www.marketwatch.com/story/why-iraqs-threat-to-leave-opec-may-be-the-final-nail-in-the-cartels-coffin-07e3463e?mod=mw_rss_topstories",
+    "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
+    "link": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T11:57:00+00:00",
-    "summary": "The message from the Iraqi government looks unequivocal: “allow us to bump up production significantly or we are leaving the club”",
+    "published": "2026-06-25T15:31:00+00:00",
+    "summary": "The court ruled that states cannot have differing labeling warning rules than federal law requires.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "Make pension tax relief only available to savers prepared to invest in UK, Andy Haldane says",
+    "link": "https://www.theguardian.com/business/2026/jun/25/make-pension-tax-relief-only-available-to-savers-invest-in-uk-andy-haldane",
+    "source": "The Guardian Economics",
+    "published": "2026-06-25T13:31:21+00:00",
+    "summary": "<p>British Chambers of Commerce chief calls for ‘home bias’ on retirement savings to close funding gap for SMEs</p><p>Pension tax relief worth more than £50bn should only be offered to savers who are prepared to invest in Britain, according to Andy Haldane, the president of the British Chambers of Commerce.</p><p>There should be a “home bias” that directs retirement savings into UK businesses, closing a funding gap that hampers the growth of small- and medium-sized businesses, he said.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/make-pension-tax-relief-only-available-to-savers-invest-in-uk-andy-haldane\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.91
   },
   {
     "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
@@ -122,31 +113,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "SpaceX is a bad buy — why OpenAI and Anthropic will be too",
-    "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T11:50:00+00:00",
-    "summary": "Overhyped IPOs are usually terrible bets. That doesn’t mean the bull market is over.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.765
-  },
-  {
-    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-06-25T07:39:13+00:00",
-    "summary": "<p>Fears of long-lasting energy crunch ‘slinking away’ as vessel traffic doubled in 24 hours to highest level since late February</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen below levels last seen before the <a href=\"https://www.theguardian.com/world/iran\">Iran war</a> started in late February as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9424
   },
   {
     "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
@@ -370,5 +336,44 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8399
+  },
+  {
+    "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
+    "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-22T14:39:38+00:00",
+    "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T14:08:12+00:00",
+    "summary": "<p>Sterling and gilts avoided major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "The ungovernable country? Why Britain keeps losing prime ministers",
+    "link": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+    "source": "The Guardian Economics",
+    "published": "2026-06-22T13:47:06+00:00",
+    "summary": "<p>May, Johnson, Truss, Sunak, and now Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?</p><p></p><p>They were times in which prime ministers seemed to be on their way out as soon as they’d arrived. The big strategic decisions the country faced were ducked or postponed. The public finances repeatedly wobbled, yet efforts to rationalise the tax system faltered in the face of vested interests, including farmers. Reforms to social security were trumpeted before being diluted. The whole business of politics was animated by rancour and rivalry, rather than practical action. All the while, populists waited in the wings.</p><p>This is not a sneak peak into a future history book about today’s Britain, but a description of the French fourth republic, which staggered after a difficult birth in 1946 until 1958, when the exhausted regime ceded the authority to create a new order to Gen Charles de Gaulle, effectively putting itself out of its misery.</p> <a href=\"https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2523
   }
 ]
