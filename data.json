@@ -1,46 +1,47 @@
 [
   {
-    "title": "This solar stock is surging on the heels of a new Tesla deal",
-    "link": "https://www.marketwatch.com/story/this-solar-stock-is-surging-on-the-heels-of-a-new-tesla-deal-efd2747d?mod=mw_rss_topstories",
+    "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+    "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T18:28:00+00:00",
-    "summary": "Sunrun, a provider of home battery storage, is working with Tesla to meet the energy needs of AI data centers.",
+    "published": "2026-06-25T00:22:00+00:00",
+    "summary": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
+    "sentiment_score": 0.6115
   },
   {
-    "title": "Americans are as worried as ever about layoffs and losing their jobs. Why so much angst?",
-    "link": "https://www.marketwatch.com/story/americans-are-as-worried-as-ever-about-layoffs-and-losing-their-jobs-why-so-much-angst-6503fb63?mod=mw_rss_topstories",
+    "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project",
+    "link": "https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T18:21:00+00:00",
-    "summary": "AI-fueled “anxiety about layoffs and job security are still skyrocketing,” Glassdoor research finds.",
+    "published": "2026-06-24T23:47:00+00:00",
+    "summary": "Government documents show a lineup of defense contractors joining SpaceX to create a satellite network to track airborne threats.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-    "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T17:11:00+00:00",
-    "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
-    "matched_keywords": [
+      "Defense",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_score": -0.0516
   },
   {
-    "title": "The tech stocks now leading this bull market are far more volatile than the old guard",
-    "link": "https://www.marketwatch.com/story/the-tech-stocks-now-leading-this-bull-market-are-far-more-volatile-than-the-old-guard-fc802fc5?mod=mw_rss_topstories",
+    "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T17:00:00+00:00",
-    "summary": "This new chapter started when the early AI stalwarts began serving as the next kingmakers of the market.",
+    "published": "2026-06-24T23:01:00+00:00",
+    "summary": "“He also wants me to downsize and move.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Cerebras’s stock sinks below IPO price in a major blow to early investors",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-sinks-below-ipo-price-in-a-major-blow-to-early-investors-8a55f2ff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-24T22:06:00+00:00",
+    "summary": "The once-high-flying AI chip maker’s stock has now dropped more than 50% from its all-time intraday high hit six weeks ago.",
     "matched_keywords": [
       "AI"
     ],
@@ -48,16 +49,31 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Did the Trump White House just give Warsh the green light to hike interest rates? This analyst thinks so.",
-    "link": "https://www.marketwatch.com/story/did-the-trump-white-house-just-give-warsh-the-green-light-to-hike-interest-rates-this-analyst-thinks-so-f03b29fd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T16:42:00+00:00",
-    "summary": "Treasury Secretary Scott Bessent has floated the idea of a single “tap the brakes” rate hike.",
+    "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+    "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-24T21:42:05+00:00",
+    "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
     "matched_keywords": [
-      "Interest Rates"
+      "Fed",
+      "Gold",
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8126
+  },
+  {
+    "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+    "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-24T21:19:27+00:00",
+    "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+    "matched_keywords": [
+      "Fed",
+      "Regulation"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
   },
   {
     "title": "Badenoch will ‘absolutely not’ apologise for PMQs comments about Starmer’s downfall, spokesperson says – as it happened",
@@ -72,29 +88,16 @@
     "sentiment_score": 0.9437
   },
   {
-    "title": "U.S. oil prices fall back to preconflict levels as physical flow through the Strait of Hormuz improves",
-    "link": "https://www.marketwatch.com/story/u-s-oil-prices-fall-back-to-preconflict-levels-as-physical-flow-through-the-strait-of-hormuz-improves-d7c910c3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T16:22:00+00:00",
-    "summary": "U.S. and global benchmark oil prices have dropped back to levels they haven’t seen since before the U.S.-Israeli war with Iran started at the end of February, but it’s not because risks associated with the conflict have suddenly disappeared.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5616
-  },
-  {
     "title": "Musk loses trillionaire status as SpaceX shares ‘come down to earth with a bump’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
     "source": "The Guardian Economics",
     "published": "2026-06-24T16:06:39+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as drops in SpaceX and Tesla’s shares eat into Musk’s wealth</p><p><strong>Segro</strong> have confirmed they have “unequivocally” rejected <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">a takeover proposal from US rival </a><strong><a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">Prologis</a>, </strong>saying the £12.6bn bid falls “a long way short” of its true value.</p><p>In a statement to the City, <strong>Segro</strong> say:</p><p>The Board of SEGRO considered the Proposal together with its advisers and believed that the Proposal was opportunistically timed and sought to take advantage of the clear dislocation between SEGRO’s current share price and its highly attractive underlying business and strong prospects. This has been accentuated by major geopolitical issues which have adversely impacted trading valuations across the UK and European real estate sectors relative to the US REIT sector.</p><p>SEGRO has a clear strategy, supported by a strong balance sheet and a proven operating platform. Momentum is building in SEGRO’s occupational markets and the Company has a large and attractive development pipeline, including an exceptional data centre platform, as well as a long track record of delivery.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates\">Continue reading...</a>",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as drops in SpaceX and Tesla’s shares eat into Musk’s wealth</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex\">Elon Musk loses trillionaire status as SpaceX and Tesla stock drops</a></p></li></ul><p><strong>Segro</strong> have confirmed they have “unequivocally” rejected <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">a takeover proposal from US rival </a><strong><a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">Prologis</a>, </strong>saying the £12.6bn bid falls “a long way short” of its true value.</p><p>In a statement to the City, <strong>Segro</strong> say:</p><p>The Board of SEGRO considered the Proposal together with its advisers and believed that the Proposal was opportunistically timed and sought to take advantage of the clear dislocation between SEGRO’s current share price and its highly attractive underlying business and strong prospects. This has been accentuated by major geopolitical issues which have adversely impacted trading valuations across the UK and European real estate sectors relative to the US REIT sector.</p><p>SEGRO has a clear strategy, supported by a strong balance sheet and a proven operating platform. Momentum is building in SEGRO’s occupational markets and the Company has a large and attractive development pipeline, including an exceptional data centre platform, as well as a long track record of delivery.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9793
+    "sentiment_score": 0.9763
   },
   {
     "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
