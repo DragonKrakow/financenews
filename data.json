@@ -1,15 +1,51 @@
 [
   {
+    "title": "Oil price falls to lowest level since before the US-Iran war; UK firms hope Burnham will ease burden – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-25T07:14:35+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>Oil has been on quite a journey this year.</p><p>On 27 February, just before the Iran war started, Brent crude closed at $72.48 a barrel. It surged once the conflict began – hitting $119/barrel several times in March, and then peaking at $126.41 at the end of April.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9313
+  },
+  {
+    "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
+    "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-25T03:22:15+00:00",
+    "summary": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
     "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
     "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T00:22:00+00:00",
+    "published": "2026-06-25T01:09:00+00:00",
     "summary": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6115
+  },
+  {
+    "title": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+    "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-25T01:06:00+00:00",
+    "summary": "The PCE inflation report will either calm Wall Street or ignite fears of a restrictive Fed.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
     "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project",
@@ -35,18 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6124
-  },
-  {
-    "title": "Cerebras’s stock sinks below IPO price in a major blow to early investors",
-    "link": "https://www.marketwatch.com/story/cerebrass-stock-sinks-below-ipo-price-in-a-major-blow-to-early-investors-8a55f2ff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-24T22:06:00+00:00",
-    "summary": "The once-high-flying AI chip maker’s stock has now dropped more than 50% from its all-time intraday high hit six weeks ago.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -347,30 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
-    "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-06-21T12:24:47+00:00",
-    "summary": "<p>As the price of crude oil falls governments are counting the costs of the war in the Middle East </p><p>Hailing his Iran deal this week amid the excess of Versailles, Donald Trump urged sceptics to take Wall Street’s word for its success. “There is nothing as smart as the market – and the market loves it,” he said, claiming credit for ending the economic chaos that had kicked off when he started bombing Iran in late February. Without the agreement, he said, “the alternative would be a worldwide depression”.</p><p>By the weekend, the outlook was less optimistic after planned US-Iran peace talks in Switzerland were <a href=\"https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled\">abruptly called off</a>, then reinstated, and Iran said Israeli bombing in Jordan meant it was justified in closing the strait of Hormuz again. Still, hopes persist that the sea passage carrying about 20% of the world’s oil supplies will reopen fully in the coming days and weeks.</p> <a href=\"https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.303
-  },
-  {
-    "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-21T12:16:26+00:00",
-    "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
   }
 ]
