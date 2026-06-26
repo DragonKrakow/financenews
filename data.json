@@ -1,40 +1,151 @@
 [
   {
-    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
-    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+    "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T12:48:00+00:00",
-    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+    "published": "2026-06-26T18:23:00+00:00",
+    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9169
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "The ambition penalty: Why speaking up and asking for more at work is still weaponized against women",
-    "link": "https://www.marketwatch.com/story/the-ambition-penalty-why-speaking-up-and-asking-for-more-at-work-is-still-weaponized-against-women-ad03dd8e?mod=mw_rss_topstories",
+    "title": "Oil prices may have fallen ‘too far, too fast’ as Trump confirms Iran violated the cease-fire deal",
+    "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T12:28:00+00:00",
-    "summary": "Closing the gender pay gap could add $12 trillion to global GDP — so why is progress stalled?",
+    "published": "2026-06-26T18:10:00+00:00",
+    "summary": "Oil futures were on track to tally a third-straight weekly loss on Friday — but after President Trump confirmed Iran violated its cease-fire deal with the U.S. by attacking a ship in the Strait of Hormuz, some analysts believe prices have fallen “too far, too fast.”",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9473
+  },
+  {
+    "title": "AI’s most explosive hardware trades are hitting a wall. Why optical and memory stocks are falling.",
+    "link": "https://www.marketwatch.com/story/ais-most-explosive-hardware-trades-are-hitting-a-wall-why-optical-and-memory-stocks-are-falling-d4e9eeaa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T17:53:00+00:00",
+    "summary": "AI spending has been a key engine for the market, and some investors now worry that it could stall out, one expert says.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2815
+    "sentiment_score": -0.6486
   },
   {
-    "title": "Markets fall as tech worries rise; Brexit and Trump tariffs take bite out of UK food exports – business live",
+    "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+    "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T17:45:05+00:00",
+    "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
+    "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T17:39:00+00:00",
+    "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "The housing bill’s back on track to becoming law. Here’s what it does for affordability.",
+    "link": "https://www.marketwatch.com/story/the-housing-bills-back-on-track-to-becoming-law-heres-what-it-does-for-affordability-14f4c7ba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T17:35:00+00:00",
+    "summary": "A bipartisan housing package appears once again close to becoming U.S. law, albeit with a delay after President Donald Trump canceled a signing ceremony for the legislation on Wednesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+    "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T17:15:00+00:00",
+    "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
+    "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T17:09:00+00:00",
+    "summary": "“The only reason” to use these accounts is “if you’re planning to do the Roth strategy,” said one financial planner.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Warsh reaches within the Fed for latest advisory appointments",
+    "link": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T16:52:10+00:00",
+    "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+    "link": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T16:04:42+00:00",
+    "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-26T12:19:32+00:00",
+    "published": "2026-06-26T15:46:07+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>European stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.</strong></p><p>In London, the <strong>FTSE</strong> <strong>100</strong> is down 80 points, or 0.77%, falling away from its highest closing level in two months.</p><p>Apple and Microsoft’s price rises have struck at the market’s fear of inflation, raising worries that, far from being deflationary, the AI boom might be inflationary, particularly for the hard-pressed consumer, hurting rather than aiding economic growth.</p><p>Meanwhile, OpenAI seems to have little stomach for market volatility either, reportedly put off by SpaceX’s travails. Having piled in to AI and tech since the end of March, there is a desire to protect profits, and investors continue to be in a mood to sell first and ask questions later.”</p><p>We find a 1.0°C El Niño shock drives a 9.55% peak increase in global wholesale food prices after two years. Scaled to the expected 2026 “very strong” event (implying a 1.65°C temperature increase), our model projects a cumulative 15.8% surge in food commodity prices, fully realised by 2028H2.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T15:34:09+00:00",
+    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "‘Make people dream’: how to build an economy for the common good",
@@ -49,18 +160,6 @@
     "sentiment_score": 0.4588
   },
   {
-    "title": "Micron’s stock is still dirt cheap. Some analysts say that’s about to change.",
-    "link": "https://www.marketwatch.com/story/microns-stock-is-still-dirt-cheap-some-analysts-say-thats-about-to-change-5514e54f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T12:03:00+00:00",
-    "summary": "New long-term customer agreements could bring more predictability to Micron’s financials, addressing a persistent investor concern about sustainability.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
     "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
     "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
     "source": "CNBC Finance",
@@ -71,31 +170,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "Oil heads for another losing week, but analyst warns sluggish Strait of Hormuz traffic could send price soaring again",
-    "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T11:50:00+00:00",
-    "summary": "Iran warned on Thursday that vessels not following approved routes would be be dealt with ‘accordingly,’ and a U.N. organization paused ship-evacuation efforts at the strait.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8909
-  },
-  {
-    "title": "Why a reported delay for OpenAI’s listing complicates further the picture for tech stocks",
-    "link": "https://www.marketwatch.com/story/the-tech-selloff-has-a-new-worry-and-it-involves-openais-ipo-timeline-ea9f0276?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T09:31:00+00:00",
-    "summary": "SoftBank shares slumped Friday following a report that OpenAi may delay its IPO until next year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
   },
   {
     "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
@@ -297,79 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6361
-  },
-  {
-    "title": "Meta is building a prediction markets app. These stocks fell in response",
-    "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-23T20:09:00+00:00",
-    "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-    "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-23T19:33:07+00:00",
-    "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "Keir Starmer and Andy Burnham have met away from No 10 to discuss transition – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-23T16:40:28+00:00",
-    "summary": "<p>Prime minister said to have left Downing Street for secret meeting with his probable successor</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Burnham adviser calls for billions of pounds in borrowing for infrastructure</a></p></li></ul><p><em>Peter Walker is a senior Guardian political correspondent.</em></p><p>The Liberal Democrats are marking the tenth anniversary of Brexit by enjoying their favourite pursuit – being rude about Nigel Farage.</p><p>Nigel Farage pocketed a £5m “reward” for the damage he’s caused, while the rest of us are paying for it dearly. When he promised we would be better off, he clearly only meant himself. We are taking over billboards across the UK today to say enough is enough.</p><p>Key to a serious Jones run seems to what he makes of Burnham’s economic policies in the coming days - including public control of utilities. And whether Ed Miliband ends up as chancellor.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
-    "link": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
-    "source": "The Guardian Economics",
-    "published": "2026-06-23T13:36:54+00:00",
-    "summary": "<p>Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projects</p><p>The man tapped by Andy Burnham to be his chief economic adviser has called for billions of pounds more borrowing to pay for investment in infrastructure, in a sign of how Burnham may seek to break from the policies pursued by Keir Starmer.</p><p>Jim O’Neill, an economist and former minister, said he wanted the government to create an independent body for infrastructure spending along the lines of the Office for Budget Responsibility (OBR), which could be freed up to spend significantly more on major projects.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Continue reading...</a>",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.483
-  },
-  {
-    "title": "U.S. fights with Brazil for China's giant soybean market",
-    "link": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-23T09:43:57+00:00",
-    "summary": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Reich",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
-    "source": "The Guardian Economics",
-    "published": "2026-06-23T09:00:37+00:00",
-    "summary": "<p>The former Federal Reserve chair was a smart guy – but he had a huge blind spot. Here’s what I wish I’d said to him</p><p>Alan Greenspan <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100\">has died</a> at the age of 100.</p><p>My students don’t recognize his name, but you probably do. When he was chair of the Federal Reserve – for more than 18 years, from 11 August 1987 to 31 January 2006 – he not only ran the US (and most of the world’s) economy but was also in many ways the most powerful person in the US.</p><p>Robert Reich, a former US secretary of labor, is a professor of public policy emeritus at the University of California, Berkeley. He is a Guardian US columnist and his newsletter is at <a href=\"http://robertreich.substack.com/\">robertreich.substack.com</a>. His new book, Coming Up Short: A Memoir of My America, is <a href=\"https://sites.prh.com/reich\">out now in the US</a> and <a href=\"https://scribepublications.co.uk/books/coming-up-short\">in the UK</a></p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8804
   }
 ]
