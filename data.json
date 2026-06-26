@@ -1,5 +1,42 @@
 [
   {
+    "title": "UK food and drink exports fall as US tariffs and Brexit trade friction bites – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-26T06:54:10+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Energy news (2): Britain’s electricity grid operator has warned that the power supply could be squeezed tonight, as the country continues to swelter.</strong></p><p>The <strong>National Energy System Operator (Neso)</strong> has issued an Electricity Margin Notice (EMN) for this evening – a sign that it fears a power supply crunch, and wants producers to provide more energy.</p><p>This is due to the impact of extremely high temperatures affecting Great Britain and the continent.</p><p>“An Electricity Margin Notice (EMN) has been issued to the market. This is a routine tool, and means we are asking market participants to make any additional generation capacity they may have available.”</p><p>“Forty years after the country’s last pumped storage facility, this government is getting Britain building again.</p><p>“The lesson from the conflict in Iran is clear: Britain cannot afford to remain at the mercy of volatile fossil fuel markets and leave families exposed to the next price shock.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+    "link": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
+    "source": "The Guardian Economics",
+    "published": "2026-06-26T05:00:08+00:00",
+    "summary": "<p>High temperatures make some workplaces dangerous, with economists warning disruption will dent growth</p><p>Monique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works, but June’s <a href=\"https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day\">record-breaking heatwave</a> has made conditions unbearable. “We make hot filled food products and it’s common that we see temperatures in the high 30s,” she said. “Thanks to our union, our employer is offering extra breaks, but not every workplace is the same.”</p><p>The latest heatwave to grip the UK and much of western Europe has presented <a href=\"https://www.theguardian.com/environment/2026/jun/24/as-temperatures-soar-in-baking-britain-how-are-workers-coping-in-the-heat\">significant challenges to employers and their employees</a>, from sweltering offices, disrupted commutes and school closures to dangerous construction sites where workers are at risk of dehydration, heatstroke and other injury.</p> <a href=\"https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9011
+  },
+  {
+    "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished.",
+    "link": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T02:27:00+00:00",
+    "summary": "Investors seem to be having second thoughts about the lofty valuations in the sector, an analyst said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
     "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
     "link": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,18 +72,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6124
-  },
-  {
-    "title": "Micron has suddenly become one of the world’s most important stocks",
-    "link": "https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T20:39:00+00:00",
-    "summary": "“It is hard to overstate how significant last night’s earnings were,” a Mizuho managing director said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3597
   },
   {
     "title": "Wendy's turns lower as meme rally fails to extend to a second day",
@@ -347,32 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8399
-  },
-  {
-    "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
-    "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-22T14:39:38+00:00",
-    "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
-    "source": "The Guardian Economics",
-    "published": "2026-06-22T14:08:12+00:00",
-    "summary": "<p>Sterling and gilts avoided major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
   }
 ]
