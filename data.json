@@ -1,16 +1,101 @@
 [
   {
-    "title": "UK food and drink exports fall as US tariffs and Brexit trade friction bites – business live",
+    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T12:48:00+00:00",
+    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9169
+  },
+  {
+    "title": "The ambition penalty: Why speaking up and asking for more at work is still weaponized against women",
+    "link": "https://www.marketwatch.com/story/the-ambition-penalty-why-speaking-up-and-asking-for-more-at-work-is-still-weaponized-against-women-ad03dd8e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T12:28:00+00:00",
+    "summary": "Closing the gender pay gap could add $12 trillion to global GDP — so why is progress stalled?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2815
+  },
+  {
+    "title": "Markets fall as tech worries rise; Brexit and Trump tariffs take bite out of UK food exports – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-26T06:54:10+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Energy news (2): Britain’s electricity grid operator has warned that the power supply could be squeezed tonight, as the country continues to swelter.</strong></p><p>The <strong>National Energy System Operator (Neso)</strong> has issued an Electricity Margin Notice (EMN) for this evening – a sign that it fears a power supply crunch, and wants producers to provide more energy.</p><p>This is due to the impact of extremely high temperatures affecting Great Britain and the continent.</p><p>“An Electricity Margin Notice (EMN) has been issued to the market. This is a routine tool, and means we are asking market participants to make any additional generation capacity they may have available.”</p><p>“Forty years after the country’s last pumped storage facility, this government is getting Britain building again.</p><p>“The lesson from the conflict in Iran is clear: Britain cannot afford to remain at the mercy of volatile fossil fuel markets and leave families exposed to the next price shock.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-06-26T12:19:32+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>European stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.</strong></p><p>In London, the <strong>FTSE</strong> <strong>100</strong> is down 80 points, or 0.77%, falling away from its highest closing level in two months.</p><p>Apple and Microsoft’s price rises have struck at the market’s fear of inflation, raising worries that, far from being deflationary, the AI boom might be inflationary, particularly for the hard-pressed consumer, hurting rather than aiding economic growth.</p><p>Meanwhile, OpenAI seems to have little stomach for market volatility either, reportedly put off by SpaceX’s travails. Having piled in to AI and tech since the end of March, there is a desire to protect profits, and investors continue to be in a mood to sell first and ask questions later.”</p><p>We find a 1.0°C El Niño shock drives a 9.55% peak increase in global wholesale food prices after two years. Scaled to the expected 2026 “very strong” event (implying a 1.65°C temperature increase), our model projects a cumulative 15.8% surge in food commodity prices, fully realised by 2028H2.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "‘Make people dream’: how to build an economy for the common good",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
+    "source": "The Guardian Economics",
+    "published": "2026-06-26T12:05:14+00:00",
+    "summary": "<p>Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world </p><p>Good governments have a vision. They know what they want to achieve, can articulate why, and work out in public how to get there. They don’t just spout slogans about economic growth – because growth is meaningless unless we know what it is for. They understand that there is no trade-off between solving social problems and boosting the economy, and aim to do both, while avoiding rigid fiscal rules that defeat their own purpose by strangling public investment.</p><p>If this sounds like a critique of <a href=\"https://www.theguardian.com/politics/series/politics-live-with-andrew-sparrow\">what went wrong with Keir Starmer’s government</a>, it is also a lot more. Mariana Mazzucato, a professor in the economics of innovation and public value at University College London, is a world-renowned economist, adviser to governments, chair of international commissions, prolific author, and PhD supervisor to at least one poet. She was the thinker who inspired Starmer to <a href=\"https://www.theguardian.com/politics/2023/jul/09/five-missions-keir-starmer-labour-government\">fashion his political project around five key “missions”</a>, now largely forgotten in the mire of scandals, U-turns and infighting that beset his premiership.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Micron’s stock is still dirt cheap. Some analysts say that’s about to change.",
+    "link": "https://www.marketwatch.com/story/microns-stock-is-still-dirt-cheap-some-analysts-say-thats-about-to-change-5514e54f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T12:03:00+00:00",
+    "summary": "New long-term customer agreements could bring more predictability to Micron’s financials, addressing a persistent investor concern about sustainability.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
+    "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T12:00:11+00:00",
+    "summary": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Oil heads for another losing week, but analyst warns sluggish Strait of Hormuz traffic could send price soaring again",
+    "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T11:50:00+00:00",
+    "summary": "Iran warned on Thursday that vessels not following approved routes would be be dealt with ‘accordingly,’ and a U.N. organization paused ship-evacuation efforts at the strait.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8909
+  },
+  {
+    "title": "Why a reported delay for OpenAI’s listing complicates further the picture for tech stocks",
+    "link": "https://www.marketwatch.com/story/the-tech-selloff-has-a-new-worry-and-it-involves-openais-ipo-timeline-ea9f0276?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T09:31:00+00:00",
+    "summary": "SoftBank shares slumped Friday following a report that OpenAi may delay its IPO until next year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
   },
   {
     "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
@@ -25,30 +110,6 @@
     "sentiment_score": -0.9011
   },
   {
-    "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished.",
-    "link": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T02:27:00+00:00",
-    "summary": "Investors seem to be having second thoughts about the lofty valuations in the sector, an analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
-    "link": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T22:29:00+00:00",
-    "summary": "Iraq’s hint that it could exit OPEC is yet another source of potential tumult for the global oil market in 2026.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
     "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
     "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
     "source": "CNBC Finance",
@@ -60,18 +121,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
-    "link": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-25T20:54:00+00:00",
-    "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
   },
   {
     "title": "Wendy's turns lower as meme rally fails to extend to a second day",
@@ -322,55 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8804
-  },
-  {
-    "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
-    "link": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-23T03:19:02+00:00",
-    "summary": "The latest consumer data reinforce how consumption in China remains subdued.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "Keir Starmer’s economic legacy – in charts",
-    "link": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-06-22T17:07:37+00:00",
-    "summary": "<p>PM said Labour had turned economy around – but his record on growth and unemployment appears mixed</p><p>Keir Starmer used his<a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\"> leaving speech</a> to lay out a long list of Labour’s achievements in office – but his economic legacy appears mixed, with sluggish UK growth and higher employment costs.</p><p>The prime minister said his government had turned around an ailing economy, after 14 years of austerity. He said plans by the previous Tory administration to cut investment had been reversed and economic growth was the highest in the G7.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0387
-  },
-  {
-    "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-22T16:45:37+00:00",
-    "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
-    "title": "Alan Greenspan obituary",
-    "link": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
-    "source": "The Guardian Economics",
-    "published": "2026-06-22T16:13:47+00:00",
-    "summary": "<p>American economist and long-serving head of the Federal Reserve widely praised  for the US boom whose reputation was re-evaluated in the wake of the 2008 crash</p><p>For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro.</p><p>As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: <a href=\"https://www.theguardian.com/news/2004/jun/07/guardianobituaries.past\">Ronald Reagan</a>, <a href=\"https://www.theguardian.com/global/2018/dec/01/george-hw-bush-obituary\">George HW Bush</a>, Bill Clinton – even though Greenspan was a lifelong Republican – and George W Bush.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8399
   }
 ]
