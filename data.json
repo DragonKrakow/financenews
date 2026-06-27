@@ -1,5 +1,79 @@
 [
   {
+    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and possibly AI — should be doing.",
+    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T16:41:00+00:00",
+    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history — and then make better decisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "The AI bubble has further to run despite the looming crash",
+    "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-06-27T15:00:07+00:00",
+    "summary": "<p>As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos\">OpenAI staggers AI model release after White House request</a></p></li></ul><p>Every couple of decades, investors will ask themselves how long can the stock market keep climbing. Is it safe to buy more shares? Is their pension or equity portfolio vulnerable should financial markets, and especially those in the US, come crashing down to earth?</p><p>When stock markets rise to historically high levels – and beyond the level when normal profits can sustain share prices – a few “experts” typically warn of an impending crash.</p> <a href=\"https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9298
+  },
+  {
+    "title": "Why investors may want to prioritize bond markets outside the U.S.",
+    "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T15:00:01+00:00",
+    "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
+    "link": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T15:00:00+00:00",
+    "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
+    "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T13:01:00+00:00",
+    "summary": "“Only 8% to 10% of people wait until age 70 to claim.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
+    "link": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T13:00:00+00:00",
+    "summary": "A modern-day gold rush is giving a big boost to U.S. GDP.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
     "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
     "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,68 +108,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9169
-  },
-  {
-    "title": "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch",
-    "link": "https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T12:00:00+00:00",
-    "summary": "The company’s pivot toward offering hardware access to rivals could hamstring its own AI goals.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
-    "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T22:09:00+00:00",
-    "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "U.S. confirms retaliatory strike on Iran, pushing oil prices higher in after-hours trading",
-    "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T21:50:00+00:00",
-    "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5023
-  },
-  {
-    "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
-    "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T21:16:00+00:00",
-    "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
-    "link": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T21:06:00+00:00",
-    "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7998
-  },
-  {
-    "title": "Progressive economists reject Unite leader’s criticism of Ed Miliband",
-    "link": "https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband",
-    "source": "The Guardian Economics",
-    "published": "2026-06-24T05:00:37+00:00",
-    "summary": "<p>Sharon Graham is urged to withdraw her claim that the energy secretary would cost jobs if he became chancellor</p><p>More than 40 progressive economists have written to Sharon Graham, the leader of Unite, rejecting her claim that Ed Miliband would destroy jobs if he becomes the next chancellor.</p><p>With Andy Burnham almost certain to be prime minister within weeks, there is a fierce debate within Labour about who should succeed Rachel Reeves at the Treasury, with Miliband considered a frontrunner.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6361
   }
 ]
