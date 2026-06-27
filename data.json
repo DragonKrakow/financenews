@@ -1,58 +1,71 @@
 [
   {
-    "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+    "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+    "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T18:23:00+00:00",
-    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
+    "published": "2026-06-26T22:09:00+00:00",
+    "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
   },
   {
-    "title": "Oil prices may have fallen ‘too far, too fast’ as Trump confirms Iran violated the cease-fire deal",
+    "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
     "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T18:10:00+00:00",
-    "summary": "Oil futures were on track to tally a third-straight weekly loss on Friday — but after President Trump confirmed Iran violated its cease-fire deal with the U.S. by attacking a ship in the Strait of Hormuz, some analysts believe prices have fallen “too far, too fast.”",
+    "published": "2026-06-26T21:50:00+00:00",
+    "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9473
+    "sentiment_score": -0.5023
   },
   {
-    "title": "AI’s most explosive hardware trades are hitting a wall. Why optical and memory stocks are falling.",
-    "link": "https://www.marketwatch.com/story/ais-most-explosive-hardware-trades-are-hitting-a-wall-why-optical-and-memory-stocks-are-falling-d4e9eeaa?mod=mw_rss_topstories",
+    "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
+    "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T17:53:00+00:00",
-    "summary": "AI spending has been a key engine for the market, and some investors now worry that it could stall out, one expert says.",
+    "published": "2026-06-26T21:16:00+00:00",
+    "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
+    "sentiment_score": -0.6808
   },
   {
-    "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-    "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T17:45:05+00:00",
-    "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
+    "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
+    "link": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T21:06:00+00:00",
+    "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
+    "link": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-26T20:42:00+00:00",
+    "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
   },
   {
     "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
     "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T17:39:00+00:00",
+    "published": "2026-06-26T20:38:00+00:00",
     "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
     "matched_keywords": [
       "Fed",
@@ -62,35 +75,24 @@
     "sentiment_score": 0.1027
   },
   {
-    "title": "The housing bill’s back on track to becoming law. Here’s what it does for affordability.",
-    "link": "https://www.marketwatch.com/story/the-housing-bills-back-on-track-to-becoming-law-heres-what-it-does-for-affordability-14f4c7ba?mod=mw_rss_topstories",
+    "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
+    "link": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T17:35:00+00:00",
-    "summary": "A bipartisan housing package appears once again close to becoming U.S. law, albeit with a delay after President Donald Trump canceled a signing ceremony for the legislation on Wednesday.",
+    "published": "2026-06-26T20:27:00+00:00",
+    "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
   },
   {
-    "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-    "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T17:15:00+00:00",
-    "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
-    "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T17:09:00+00:00",
-    "summary": "“The only reason” to use these accounts is “if you’re planning to do the Roth strategy,” said one financial planner.",
+    "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+    "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T17:45:05+00:00",
+    "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
     "matched_keywords": [
       "AI"
     ],
