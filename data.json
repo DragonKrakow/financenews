@@ -1,5 +1,53 @@
 [
   {
+    "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
+    "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T12:30:00+00:00",
+    "summary": "Smart glasses could become the definitive hardware design of the AI era — if consumers buy in to the idea.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T12:22:08+00:00",
+    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T12:00:00+00:00",
+    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9169
+  },
+  {
+    "title": "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch",
+    "link": "https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T12:00:00+00:00",
+    "summary": "The company’s pivot toward offering hardware access to rivals could hamstring its own AI goals.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
     "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -50,44 +98,6 @@
     "sentiment_score": 0.2263
   },
   {
-    "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
-    "link": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T20:42:00+00:00",
-    "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
-  },
-  {
-    "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
-    "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T20:38:00+00:00",
-    "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
-    "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
-    "link": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-26T20:27:00+00:00",
-    "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
     "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
     "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
     "source": "CNBC Finance",
@@ -136,18 +146,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
-    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T15:34:09+00:00",
-    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "‘Make people dream’: how to build an economy for the common good",
