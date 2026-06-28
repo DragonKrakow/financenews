@@ -1,5 +1,41 @@
 [
   {
+    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
+    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-28T14:03:00+00:00",
+    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+    "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-28T14:00:00+00:00",
+    "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7089
+  },
+  {
+    "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
+    "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-28T13:00:00+00:00",
+    "summary": "Foreign investors are still pouring money into U.S. assets, and the dollar remains the undisputed global reserve currency.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
     "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
     "link": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
     "source": "The Guardian Economics",
@@ -99,18 +135,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T19:30:00+00:00",
-    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "The AI bubble has further to run despite the looming crash",
@@ -350,30 +374,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8126
-  },
-  {
-    "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-    "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-24T21:19:27+00:00",
-    "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
-    "matched_keywords": [
-      "Fed",
-      "Regulation"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Badenoch will ‘absolutely not’ apologise for PMQs comments about Starmer’s downfall, spokesperson says – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-24T16:35:57+00:00",
-    "summary": "<p>Tory leader said Labour MPs were cheering, even though there are ‘400 knives’ in Starmer’s back</p><p><em>Ben Quinn is a Guardian political correspondent.</em></p><p><strong>Nigel Farage</strong> has made an explicit pitch for support from an international gathering of thousands of social conservatives and hard-right activists, likening “family breakdown” to “community breakdown” as populations grew more diverse.<br /><br />\n The Reform UK leader was speaking a day after the Conservative leader Kemi Badenoch at the Alliance for Responsible Citizenship (ARC) conference, which is backed by influential right-wing funders including donors to Donald Trump.<br /><br />\n “I think family breakdown is pretty much the same as community breakdown,” Farage said in an interview on the event’s main stage with Philippa Stroud, the Tory peer who set up ARC with others including the controversial Canadian psychologist Jordan Peterson and Paul Marshall, one of the backers of GB News.</p><p>When people live together in the same communities and they all speak the same language and they all have something in common and they all know their neighbours’ christian names and they all take part in community events ... And when that starts to break down what happens? People become more individualised, more selfish.<br /><br />\n They don’t know the names of their next door neighbours and I think downstream of that a similar thing has happened in families and I am not pretending that government can on its own wave a magic hand. But we can at least start to make the argument that living in a family, living in a genuine sense of community, is a better way of life and start unashamedly champion that.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9437
   }
 ]
