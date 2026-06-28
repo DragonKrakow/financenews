@@ -1,15 +1,39 @@
 [
   {
-    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and possibly AI — should be doing.",
-    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+    "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+    "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T16:41:00+00:00",
-    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history — and then make better decisions.",
+    "published": "2026-06-27T19:30:00+00:00",
+    "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "How to work in retirement without seeing your Social Security checks slashed",
+    "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T19:30:00+00:00",
+    "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-27T19:30:00+00:00",
+    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "The AI bubble has further to run despite the looming crash",
@@ -37,55 +61,6 @@
     "sentiment_score": 0.6597
   },
   {
-    "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
-    "link": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T15:00:00+00:00",
-    "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
-  },
-  {
-    "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
-    "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T13:01:00+00:00",
-    "summary": "“Only 8% to 10% of people wait until age 70 to claim.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
-    "link": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T13:00:00+00:00",
-    "summary": "A modern-day gold rush is giving a big boost to U.S. GDP.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
-    "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T12:30:00+00:00",
-    "summary": "Smart glasses could become the definitive hardware design of the AI era — if consumers buy in to the idea.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
     "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
     "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
     "source": "CNBC Finance",
@@ -96,18 +71,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
-    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T12:00:00+00:00",
-    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9169
   },
   {
     "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
@@ -371,5 +334,41 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7998
+  },
+  {
+    "title": "Progressive economists reject Unite leader’s criticism of Ed Miliband",
+    "link": "https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband",
+    "source": "The Guardian Economics",
+    "published": "2026-06-24T05:00:37+00:00",
+    "summary": "<p>Sharon Graham is urged to withdraw her claim that the energy secretary would cost jobs if he became chancellor</p><p>More than 40 progressive economists have written to Sharon Graham, the leader of Unite, rejecting her claim that Ed Miliband would destroy jobs if he becomes the next chancellor.</p><p>With Andy Burnham almost certain to be prime minister within weeks, there is a fierce debate within Labour about who should succeed Rachel Reeves at the Treasury, with Miliband considered a frontrunner.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6361
+  },
+  {
+    "title": "Meta is building a prediction markets app. These stocks fell in response",
+    "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T20:09:00+00:00",
+    "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+    "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-23T19:33:07+00:00",
+    "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
   }
 ]
