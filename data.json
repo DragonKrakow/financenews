@@ -1,5 +1,17 @@
 [
   {
+    "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-29T00:30:00+00:00",
+    "summary": "Oil prices rose Sunday while U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
     "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
     "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -111,18 +123,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9853
-  },
-  {
-    "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-    "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T19:30:00+00:00",
-    "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
   },
   {
     "title": "How to work in retirement without seeing your Social Security checks slashed",
