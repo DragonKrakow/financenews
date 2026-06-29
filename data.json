@@ -1,64 +1,88 @@
 [
   {
-    "title": "Bank of England chief economist warns against ‘complacency’ in fight against inflation – business live",
+    "title": "How the chip trade has come to resemble silver — a warning from Morgan Stanley’s Wilson",
+    "link": "https://www.marketwatch.com/story/silver-and-the-semiconductor-climax-a-warning-from-morgan-stanleys-wilson-833e06e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-29T13:30:00+00:00",
+    "summary": "Investors should shift away from popular momentum trades, says veteran Wall Street strategist Mike Wilson.",
+    "matched_keywords": [
+      "Silver"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "UK government borrowing costs dip and pound rises as City welcomes Burnham speech – business live",
     "link": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-06-29T07:43:56+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>BT and the US mobile company Verizon are to combine their international businesses, ending the British telecom group’s more than 18-month search for a buyer.</strong></p><p>Verizon will pay a $625m (£473m) “equalisation” fee to BT to guarantee equal voting rights in the new 50/50 joint venture, the companies announced on Monday. The deal is expected to create a company with more than 3,000 customers across about 180 countries and $4bn in combined annual revenue.</p><p>“We are building a future-ready organisation that is more agile, cost disciplined and technology enabled.</p><p>“Fit2Win is central to this ambition, strengthening how we operate and our ability to compete in a rapidly evolving environment.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
+    "published": "2026-06-29T13:22:42+00:00",
+    "summary": "<p>Makerfield MP’s plans for good-quality growth around the UK, and commitment to fiscal rules, are welcomed by investors and economists</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026\">Shares in chipmakers underpinning AI boom rocket in first half of 2026</a></p></li></ul><p><strong>The total value of new mortgage approvals also fell in May.</strong></p><p>Net borrowing of mortgage debt by individuals decreased to £2.9bn in May, down from £4.4bn in April, the Bank of England reports.</p><p>“The sharp slowdown in mortgage borrowing and approvals suggests the surge in activity earlier this year has now faded, with buyers and homeowners taking a more cautious approach. While borrowing costs have eased from their recent highs, affordability remains stretched and many prospective buyers continue to contend with elevated house prices and wider cost-of-living pressures.</p><p>“For lenders, the changing outlook highlights the importance of integrating forward-looking affordability assessments that better reflect real borrower behaviour and lifetime income patterns. As caution rises, these more personalised models can help to sustain housing demand over the coming months.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9501
+  },
+  {
+    "title": "European stocks are poised to outdo their American peers. These catalysts explain why.",
+    "link": "https://www.marketwatch.com/story/european-stocks-are-poised-to-outdo-their-american-peers-these-catalysts-explain-why-4e23b027?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-29T13:19:00+00:00",
+    "summary": "JPMorgan raises its year-end target for European stocks again. Panmure warns that  high valuations imply negative returns for the U.S. in the next decade.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-29T13:18:06+00:00",
+    "summary": "<p>Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’</p><p>Asked what she thought of Andy Burnham not taking questions this morning, <strong>Badenoch</strong> said:</p><p>Andy Burnham doesn’t like questions. Nigel Farage doesn’t like questions. Even Keir Starmer in parliament, he doesn’t like questions here.</p><p>If you want somebody who can answer questions, please come to me. I will answer all of your questions.</p><p>I know that it should not be Ed Miliband. He is the single person who has done the most to deindustrialise our country and make us poorer. He should not be rewarded with an even more powerful job where he can completely bankrupt the country.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7559
+  },
+  {
+    "title": "Laser weapons aren’t science fiction anymore — and they’re changing how defense stocks are valued",
+    "link": "https://www.marketwatch.com/story/laser-weapons-arent-science-fiction-anymore-and-theyre-changing-how-defense-stocks-are-valued-ff4c3910?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-29T12:15:00+00:00",
+    "summary": "Why Palantir and Elbit are top plays in the booming counterdrone market.",
+    "matched_keywords": [
+      "Defense"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Comcast’s stock is having its best day in 18 years amid plan to spin off NBCUniversal",
+    "link": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-29T11:54:00+00:00",
+    "summary": "Comcast on Monday said it would spin off NBCUniversal into a separate company, breaking off the media business it acquired 15 years ago.",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
   },
   {
-    "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+    "title": "People say I should wait until 70 to claim Social Security. When does delaying pay off?",
+    "link": "https://www.marketwatch.com/story/people-say-i-should-wait-until-70-to-claim-social-security-when-does-delaying-pay-off-f1cd948c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T03:02:00+00:00",
-    "summary": "Oil prices rose Sunday and U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
-    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-28T14:03:00+00:00",
-    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+    "published": "2026-06-29T11:00:00+00:00",
+    "summary": "“Too many people believe that if they wait until 70 to begin collecting, they are automatically better off.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
-    "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-28T14:00:00+00:00",
-    "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7089
-  },
-  {
-    "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
-    "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-28T13:00:00+00:00",
-    "summary": "Foreign investors are still pouring money into U.S. assets, and the dollar remains the undisputed global reserve currency.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
+    "sentiment_score": 0.5994
   },
   {
     "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
@@ -85,18 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9602
-  },
-  {
-    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
-    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-28T11:00:00+00:00",
-    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9169
   },
   {
     "title": "Rising cost of insuring against climate crisis will have wider knock-on effects for UK economy | Heather Stewart",
@@ -136,18 +148,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9853
-  },
-  {
-    "title": "How to work in retirement without seeing your Social Security checks slashed",
-    "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-27T19:30:00+00:00",
-    "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
   },
   {
     "title": "The AI bubble has further to run despite the looming crash",
