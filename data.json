@@ -1,10 +1,23 @@
 [
   {
+    "title": "Bank of England chief economist warns against ‘complacency’ in fight against inflation – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-29T07:43:56+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>BT and the US mobile company Verizon are to combine their international businesses, ending the British telecom group’s more than 18-month search for a buyer.</strong></p><p>Verizon will pay a $625m (£473m) “equalisation” fee to BT to guarantee equal voting rights in the new 50/50 joint venture, the companies announced on Monday. The deal is expected to create a company with more than 3,000 customers across about 180 countries and $4bn in combined annual revenue.</p><p>“We are building a future-ready organisation that is more agile, cost disciplined and technology enabled.</p><p>“Fit2Win is central to this ambition, strengthening how we operate and our ability to compete in a rapidly evolving environment.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
     "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
     "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T00:30:00+00:00",
-    "summary": "Oil prices rose Sunday while U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
+    "published": "2026-06-29T03:02:00+00:00",
+    "summary": "Oil prices rose Sunday and U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
     "matched_keywords": [
       "Oil"
     ],
@@ -360,19 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4939
-  },
-  {
-    "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-    "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-24T21:42:05+00:00",
-    "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
-    "matched_keywords": [
-      "Fed",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8126
   }
 ]
