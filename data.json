@@ -1,89 +1,63 @@
 [
   {
-    "title": "UK living standards fall despite fastest growth in G7, highlighting Burnham’s economic challenge – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates",
+    "title": "A 23% plunge in personal wealth leaves this country trailing its global peers",
+    "link": "https://www.marketwatch.com/story/a-23-plunge-in-personal-wealth-leaves-this-country-trailing-its-global-peers-7b3f4128?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T12:12:00+00:00",
+    "summary": "The average wealth per person has rapidly dropped in this country — and it’s not looking good compared with other developed markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6116
+  },
+  {
+    "title": "20 stocks in the S&P 500 that plunged the most in 2026’s first half",
+    "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-plunged-the-most-in-2026s-first-half-ae11e114?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T11:55:00+00:00",
+    "summary": "These companies were hit hard as investors worried about eventual losses of market share to AI tools.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "The big surprise for the year’s second half could be the AI trade powering higher. Why it wouldn’t take much.",
+    "link": "https://www.marketwatch.com/story/the-big-surprise-for-the-second-half-could-be-the-ai-trade-powering-higher-why-it-wouldnt-take-much-a02dd10b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T11:51:00+00:00",
+    "summary": "HSBC strategists say persistent scrutiny of the artificial-intelligence trade could be met with surprise this year, if valuations of those stocks start to climb again.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Get ready for the summer rally, Wells Fargo tells investors",
+    "link": "https://www.marketwatch.com/story/get-ready-for-the-summer-rally-wells-fargo-tells-investors-78f9c9d0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T11:51:00+00:00",
+    "summary": "Recent volatility in equities was probably caused by quarter-end rebalancing, while future volatility may develop as midterm elections approach in November. Between times, though, stocks look set to flourish, argues Wells Fargo.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "UK disposable incomes squeezed by price rises and tax changes",
+    "link": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
     "source": "The Guardian Economics",
-    "published": "2026-06-30T07:24:42+00:00",
-    "summary": "<p>GDP quarterly national accounts show people grew worse off in January to March 2026, despite solid growth</p><p>Britain’s trade deficit was slightly larger than first estimated in January-March, today’s national accounts show.</p><p>Excluding non-monetary gold and other precious metals, the trade deficit was 1.0% of nominal GDP in Quarter 1 2026, up from a previous estimate of 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Gold",
-      "Metals",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7293
-  },
-  {
-    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T21:33:00+00:00",
-    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+    "published": "2026-06-30T10:23:04+00:00",
+    "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition",
-    "link": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T21:30:00+00:00",
-    "summary": "Rocket Lab said it is buying Iridium as a “shortcut” to expanding its growing capabilities.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Tesla’s stock rips higher after a long-awaited update to self-driving technology",
-    "link": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T21:24:00+00:00",
-    "summary": "EV maker’s stock has best day in over a year, but is still down for the month.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
-    "link": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T20:43:00+00:00",
-    "summary": "Many portfolio experts are wrong about what drives value outperformance. This single metric explains why.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "Bye-bye, ‘HODL’: Strategy now has a plan to sell bitcoin to raise cash and buy its stock",
-    "link": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T20:41:00+00:00",
-    "summary": "Strategy disclosed a program to sell bitcoin “from time to time” to fund its U.S. dollar reserve and share repurchases.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "My sister died and I’m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?",
-    "link": "https://www.marketwatch.com/story/my-sister-died-and-im-leaving-new-york-to-help-raise-my-niece-in-colorado-at-33-am-i-making-a-financial-mistake-5ad41b2a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-29T20:37:00+00:00",
-    "summary": "“I need to decide what I can afford when it comes to storing the belongings from my studio apartment.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
+    "sentiment_score": 0.4404
   },
   {
     "title": "EU sets up three months of talks with China over €360bn trade deficit",
@@ -373,5 +347,30 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
+  },
+  {
+    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
+    "source": "The Guardian Economics",
+    "published": "2026-06-25T15:41:17+00:00",
+    "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9532
+  },
+  {
+    "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
+    "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-25T03:22:15+00:00",
+    "summary": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   }
 ]
