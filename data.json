@@ -1,5 +1,19 @@
 [
   {
+    "title": "UK living standards fall despite fastest growth in G7, highlighting Burnham’s economic challenge – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-06-30T07:24:42+00:00",
+    "summary": "<p>GDP quarterly national accounts show people grew worse off in January to March 2026, despite solid growth</p><p>Britain’s trade deficit was slightly larger than first estimated in January-March, today’s national accounts show.</p><p>Excluding non-monetary gold and other precious metals, the trade deficit was 1.0% of nominal GDP in Quarter 1 2026, up from a previous estimate of 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "Metals",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7293
+  },
+  {
     "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
     "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,18 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
-  },
-  {
-    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-06-25T15:41:17+00:00",
-    "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9532
   }
 ]
