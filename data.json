@@ -1,57 +1,72 @@
 [
   {
-    "title": "A 23% plunge in personal wealth leaves this country trailing its global peers",
-    "link": "https://www.marketwatch.com/story/a-23-plunge-in-personal-wealth-leaves-this-country-trailing-its-global-peers-7b3f4128?mod=mw_rss_topstories",
+    "title": "Oil is set for the largest quarterly price drop in 6 years as historic supply crunch eases",
+    "link": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T12:12:00+00:00",
-    "summary": "The average wealth per person has rapidly dropped in this country — and it’s not looking good compared with other developed markets.",
+    "published": "2026-06-30T18:36:00+00:00",
+    "summary": "Workarounds for the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6116
-  },
-  {
-    "title": "20 stocks in the S&P 500 that plunged the most in 2026’s first half",
-    "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-plunged-the-most-in-2026s-first-half-ae11e114?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T11:55:00+00:00",
-    "summary": "These companies were hit hard as investors worried about eventual losses of market share to AI tools.",
-    "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.6597
   },
   {
-    "title": "The big surprise for the year’s second half could be the AI trade powering higher. Why it wouldn’t take much.",
-    "link": "https://www.marketwatch.com/story/the-big-surprise-for-the-second-half-could-be-the-ai-trade-powering-higher-why-it-wouldnt-take-much-a02dd10b?mod=mw_rss_topstories",
+    "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+    "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-30T18:27:17+00:00",
+    "summary": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Amazon is laying out $1 billion to follow Palantir’s AI playbook",
+    "link": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T11:51:00+00:00",
-    "summary": "HSBC strategists say persistent scrutiny of the artificial-intelligence trade could be met with surprise this year, if valuations of those stocks start to climb again.",
+    "published": "2026-06-30T17:41:00+00:00",
+    "summary": "Packages aren’t the only thing Amazon.com is delivering: The company is now sending engineers directly to clients in order to bolster artificial-intelligence adoption.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Gold is on the verge of a ‘death cross’ that could surprisingly foreshadow gains",
+    "link": "https://www.marketwatch.com/story/gold-is-on-the-verge-of-a-death-cross-that-could-surprisingly-foreshadow-gains-2605e99d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T17:03:00+00:00",
+    "summary": "Here’s what 45 years of data on death crosses in gold can tell us about the path ahead.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "Hope must be backed by legislation | Letter",
+    "link": "https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation",
+    "source": "The Guardian Economics",
+    "published": "2026-06-30T17:01:52+00:00",
+    "summary": "<p>Andy Burnham has a short window to demonstrate that he will follow a new path, writes <strong>Benjamin Selwyn</strong></p><p>Andy Beckett is right to identify Andy Burnham as a figure on to whom renewed hopes might be projected (<a href=\"https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics\">Burnham has brought hope back to Labour – but he must understand how quickly it can be punctured, 26 June</a>). But those hopes must be understood in the shadow of Keir Starmer’s rapid dissipation of the electoral mandate secured in 2024.</p><p>That victory was built on a promise – implicit if not explicit – of material improvement. Instead, policies such as maintaining the two‑child benefit cap, cutting the winter fuel allowance, and failing to confront price gouging by utilities and supermarkets deepened the cost of living crisis for millions.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Get ready for the summer rally, Wells Fargo tells investors",
-    "link": "https://www.marketwatch.com/story/get-ready-for-the-summer-rally-wells-fargo-tells-investors-78f9c9d0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T11:51:00+00:00",
-    "summary": "Recent volatility in equities was probably caused by quarter-end rebalancing, while future volatility may develop as midterm elections approach in November. Between times, though, stocks look set to flourish, argues Wells Fargo.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_score": 0.8462
   },
   {
     "title": "UK disposable incomes squeezed by price rises and tax changes",
     "link": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
     "source": "The Guardian Economics",
-    "published": "2026-06-30T10:23:04+00:00",
+    "published": "2026-06-30T15:14:39+00:00",
     "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
@@ -347,19 +362,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
-  },
-  {
-    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-    "source": "The Guardian Economics",
-    "published": "2026-06-25T15:41:17+00:00",
-    "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9532
   },
   {
     "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
