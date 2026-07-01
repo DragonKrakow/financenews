@@ -1,10 +1,58 @@
 [
   {
-    "title": "Oil is set for the largest quarterly price drop in 6 years as historic supply crunch eases",
+    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+    "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-30T23:27:41+00:00",
+    "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.",
+    "link": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T22:12:00+00:00",
+    "summary": "Investors have poured money into exchange-traded funds at a rapid pace in the first half of 2026, demonstrating an unrelenting appetite for stocks associated with the AI theme.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+    "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-30T22:03:46+00:00",
+    "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+    "link": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-06-30T21:57:00+00:00",
+    "summary": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.079
+  },
+  {
+    "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
     "link": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T18:36:00+00:00",
-    "summary": "Workarounds for the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil.",
+    "published": "2026-06-30T21:28:00+00:00",
+    "summary": "Workarounds to the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil supplies.",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -24,31 +72,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Amazon is laying out $1 billion to follow Palantir’s AI playbook",
-    "link": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T17:41:00+00:00",
-    "summary": "Packages aren’t the only thing Amazon.com is delivering: The company is now sending engineers directly to clients in order to bolster artificial-intelligence adoption.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Gold is on the verge of a ‘death cross’ that could surprisingly foreshadow gains",
-    "link": "https://www.marketwatch.com/story/gold-is-on-the-verge-of-a-death-cross-that-could-surprisingly-foreshadow-gains-2605e99d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T17:03:00+00:00",
-    "summary": "Here’s what 45 years of data on death crosses in gold can tell us about the path ahead.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
   },
   {
     "title": "Hope must be backed by legislation | Letter",
@@ -349,30 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9612
-  },
-  {
-    "title": "Ryanair ditches family seating fees; Markets at record highs as oil hits pre-Iran war levels – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-25T16:12:02+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><em>Q: Some people are backing Andy Burnham because they think he’ll rip up your fiscal rules…</em></p><p><strong>Reeves</strong><em> </em>replies that Burnham has been “really explicit” that he backs those fiscal rules [they dictate that day to day spending is funded through tax receipts, and that debt falls as a share of the economy].</p><p>So yes, there is more to do, but all of that has to be anchored around that stability, that high return to the economy.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
-    "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-25T03:22:15+00:00",
-    "summary": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
   }
 ]
