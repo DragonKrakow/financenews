@@ -1,5 +1,29 @@
 [
   {
+    "title": "This threat to the chip rally has surged to its highest level since 2015",
+    "link": "https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T01:57:00+00:00",
+    "summary": "Volatility threatens top gainers including AMD and Micron.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+    "link": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T01:12:00+00:00",
+    "summary": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.079
+  },
+  {
     "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
     "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
     "source": "CNBC Finance",
@@ -34,31 +58,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
-    "link": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T21:57:00+00:00",
-    "summary": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.079
-  },
-  {
-    "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
-    "link": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T21:28:00+00:00",
-    "summary": "Workarounds to the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil supplies.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
   },
   {
     "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
