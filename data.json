@@ -1,40 +1,113 @@
 [
   {
-    "title": "Businesses add 98,000 jobs in June, ADP says. Labor market on the mend, but it’s still not great.",
-    "link": "https://www.marketwatch.com/story/businesses-add-98-000-new-jobs-in-june-adp-says-154835d8?mod=mw_rss_topstories",
+    "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+    "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T12:26:00+00:00",
-    "summary": "ADP said U.S. businesses 98,000 new jobs in June — the smallest increase in three months. The  payroll processor said hiring was slow but demand for labor was improving.",
+    "published": "2026-07-01T18:39:00+00:00",
+    "summary": "“Cat growth is on fire,” one executive said.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1177
+    "sentiment_score": -0.0772
   },
   {
-    "title": "One in five U.S. companies is now using AI, but the impact on the job market remains narrow, say Goldman analysts",
-    "link": "https://www.marketwatch.com/story/one-in-five-u-s-companies-is-now-using-ai-but-the-impact-on-the-job-market-remains-narrow-say-goldman-analysts-e1c7e11e?mod=mw_rss_topstories",
+    "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+    "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T12:20:00+00:00",
-    "summary": "Artificial-intelligence usage by American firms increased to 20.6% in June, and drags caused by the technology in certain sectors have been offset by growth in the construction sector.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7684
-  },
-  {
-    "title": "How to stay healthy in a ‘heat dome’ — and medicines that put you at risk for heat exhaustion",
-    "link": "https://www.marketwatch.com/story/how-to-stay-healthy-in-a-heat-wave-and-medicines-that-put-you-at-risk-for-heat-exhaustion-1f8125fb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T12:02:00+00:00",
-    "summary": "Heatstroke can affect anyone, but people who take certain medications or have certain health conditions are at higher risk.",
+    "published": "2026-07-01T18:17:00+00:00",
+    "summary": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll",
+    "link": "https://www.marketwatch.com/story/stock-market-bulls-need-kevin-warsh-on-their-side-to-keep-winning-says-wall-street-veteran-bob-doll-28fa3172?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T17:25:00+00:00",
+    "summary": "The “high-risk” bull market in stocks needs Federal Reserve Chair Kevin Warsh on its side, according to Bob Doll, CEO at Crossmark Global Investments.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
+    "link": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-01T17:20:22+00:00",
+    "summary": "Warsh has said that inflation is a \"choice.\" The same could also be true of how inflation is measured.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "5 charts showing how ‘dumb money’ is transforming the stock market, as retail traders smash Wall Street records",
+    "link": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T17:10:00+00:00",
+    "summary": "Retail trading activity set records in May and June — and the propensity of that cohort to buy the dip has looked pretty smart.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
+    "link": "https://www.marketwatch.com/story/u-s-manufacturers-keep-on-trucking-despite-a-road-littered-with-obstacles-bc09d82f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T16:22:00+00:00",
+    "summary": "High U.S. tariffs, war with Iran, a spike in oil prices, rising inflation — no matter. American manufacturers grew in June for the sixth month in a row to mark the longest streak in four years.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7632
+  },
+  {
+    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+    "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T16:13:00+00:00",
+    "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+    "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-01T14:13:44+00:00",
+    "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "EU urged to exempt UK from car rules that could be worst Brexit impact yet",
+    "link": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
+    "source": "The Guardian Economics",
+    "published": "2026-07-01T13:53:45+00:00",
+    "summary": "<p> Bloc’s ‘made in Europe’ regulations risk shutting out British manufacturers in ‘most spectacular own goal in history’</p><p>The EU’s car industry has called for the UK to be fully included in <a href=\"https://www.theguardian.com/commentisfree/2026/feb/11/the-guardian-view-on-a-made-in-europe-industrial-strategy-an-idea-whose-time-has-come\">new “made in Europe”</a> rules that threaten to shut out British manufacturers from their biggest export market.</p><p>The European Automobile Manufacturers Association (Acea) on Wednesday urged Brussels to give the UK, Turkey and Morocco “justified, targeted exemptions” to the rules, which will require cars and parts to be made within the EU to qualify for subsidies or public procurement.</p> <a href=\"https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8126
   },
   {
     "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
@@ -47,18 +120,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
-  },
-  {
-    "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-    "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-30T22:03:46+00:00",
-    "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
   },
   {
     "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
@@ -310,67 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
-    "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T12:00:11+00:00",
-    "summary": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
-    "link": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-06-26T05:00:08+00:00",
-    "summary": "<p>High temperatures make some workplaces dangerous, with economists warning disruption will dent growth</p><p>Monique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works, but June’s <a href=\"https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day\">record-breaking heatwave</a> has made conditions unbearable. “We make hot filled food products and it’s common that we see temperatures in the high 30s,” she said. “Thanks to our union, our employer is offering extra breaks, but not every workplace is the same.”</p><p>The latest heatwave to grip the UK and much of western Europe has presented <a href=\"https://www.theguardian.com/environment/2026/jun/24/as-temperatures-soar-in-baking-britain-how-are-workers-coping-in-the-heat\">significant challenges to employers and their employees</a>, from sweltering offices, disrupted commutes and school closures to dangerous construction sites where workers are at risk of dehydration, heatstroke and other injury.</p> <a href=\"https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9011
-  },
-  {
-    "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
-    "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-25T21:03:16+00:00",
-    "summary": "In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Wendy's turns lower as meme rally fails to extend to a second day",
-    "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-25T20:27:33+00:00",
-    "summary": "The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Burnham could become PM on 17 July based on Labour leadership contest timetable – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-25T16:35:54+00:00",
-    "summary": "<p>The former Manchester mayor could be installed as prime minister in weeks if no other MP puts themselves forward</p><p>In her Q&amp;A this morning <strong>Rachel Reeves</strong>, the chancellor, confirmed that she wants the government to approve the licences for the Rosebank and Jackdaw oil and gas fields in the North Sea.</p><p>She said:</p><p>I’ve been very clear that I think that the North Sea is a crucial asset for the UK, and that oil and gas will be an important part of our energy mix for years to come. And I’m very keen to make sure that we use that resource, to ensure our energy security.</p><p>There are decisions to be made shortly on both Rosebank and Jackdaw. Those are quasi-judicial decisions. But in our manifesto two years ago, we committed to honour existing licences, and I hope that we do.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9612
   }
 ]
