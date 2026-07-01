@@ -1,27 +1,40 @@
 [
   {
-    "title": "This threat to the chip rally has surged to its highest level since 2015",
-    "link": "https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories",
+    "title": "Businesses add 98,000 jobs in June, ADP says. Labor market on the mend, but it’s still not great.",
+    "link": "https://www.marketwatch.com/story/businesses-add-98-000-new-jobs-in-june-adp-says-154835d8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T01:57:00+00:00",
-    "summary": "Volatility threatens top gainers including AMD and Micron.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
-  },
-  {
-    "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
-    "link": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T01:12:00+00:00",
-    "summary": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
+    "published": "2026-07-01T12:26:00+00:00",
+    "summary": "ADP said U.S. businesses 98,000 new jobs in June — the smallest increase in three months. The  payroll processor said hiring was slow but demand for labor was improving.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.079
+    "sentiment_score": 0.1177
+  },
+  {
+    "title": "One in five U.S. companies is now using AI, but the impact on the job market remains narrow, say Goldman analysts",
+    "link": "https://www.marketwatch.com/story/one-in-five-u-s-companies-is-now-using-ai-but-the-impact-on-the-job-market-remains-narrow-say-goldman-analysts-e1c7e11e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T12:20:00+00:00",
+    "summary": "Artificial-intelligence usage by American firms increased to 20.6% in June, and drags caused by the technology in certain sectors have been offset by growth in the construction sector.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7684
+  },
+  {
+    "title": "How to stay healthy in a ‘heat dome’ — and medicines that put you at risk for heat exhaustion",
+    "link": "https://www.marketwatch.com/story/how-to-stay-healthy-in-a-heat-wave-and-medicines-that-put-you-at-risk-for-heat-exhaustion-1f8125fb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T12:02:00+00:00",
+    "summary": "Heatstroke can affect anyone, but people who take certain medications or have certain health conditions are at higher risk.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
   },
   {
     "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
@@ -34,18 +47,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
-  },
-  {
-    "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.",
-    "link": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-06-30T22:12:00+00:00",
-    "summary": "Investors have poured money into exchange-traded funds at a rapid pace in the first half of 2026, demonstrating an unrelenting appetite for stocks associated with the AI theme.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
