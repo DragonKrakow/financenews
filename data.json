@@ -1,58 +1,22 @@
 [
   {
-    "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’",
-    "link": "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories",
+    "title": "Oil prices are now back to prewar levels, but the market is not. Here’s what could happen next.",
+    "link": "https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T12:42:00+00:00",
-    "summary": "Blue Whale Growth Fund manager exited software stocks before many others did.",
+    "published": "2026-07-02T18:17:00+00:00",
+    "summary": "Oil prices have finally fallen back to pre-Iran war levels — but the crude market is far from seeing a normalization of shipping, oil supplies and demand that such a big retreat implies.",
     "matched_keywords": [
-      "AI"
+      "Oil",
+      "Shipping"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Is the stock market open tomorrow, or will it close early for the Fourth of July?",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T12:06:00+00:00",
-    "summary": "Since Independence Day falls on Saturday this year, here’s what to know about trading hours and mail delivery",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T11:15:00+00:00",
-    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "The three factors that have finally brought the small-cap trade to life",
-    "link": "https://www.marketwatch.com/story/the-three-factors-that-have-finally-brought-the-small-cap-trade-to-life-722e8936?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T11:15:00+00:00",
-    "summary": "Strategists at Goldman Sachs said the three key catalysts for the Russell 2000’s recent outperformance were the artificial-intelligence industry, a strong economic backdrop and a boost in biotechnology stocks.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9349
   },
   {
     "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
     "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T11:00:00+00:00",
+    "published": "2026-07-02T17:43:00+00:00",
     "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
     "matched_keywords": [
       "AI"
@@ -61,29 +25,64 @@
     "sentiment_score": 0.7003
   },
   {
-    "title": "‘There was a catch’: My doctor friend was outraged by his hospital’s fundraising tactics. Where do we draw the line?",
+    "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T15:15:00+00:00",
+    "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
     "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T09:42:00+00:00",
+    "published": "2026-07-02T15:00:00+00:00",
     "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
   },
   {
-    "title": "Warsh’s throwaway comment injects life into the debasement trade, for one day at least",
-    "link": "https://www.marketwatch.com/story/warshs-throwaway-comment-injects-life-into-the-debasement-trade-for-one-day-at-least-1c70d477?mod=mw_rss_topstories",
+    "title": "How you as an investor can get ahead of the next AI investment wave",
+    "link": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T09:08:00+00:00",
-    "summary": "As much as new Fed Chair Kevin Warsh tried to refrain from steering markets, it looks like he did.",
+    "published": "2026-07-02T14:53:00+00:00",
+    "summary": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-02T14:25:02+00:00",
+    "summary": "<p>US non-farm payrolls only increased by 57,000 in June, but unemployment rate fell</p><p><strong>Just in: Default rates on UK credit cards have risen, and the situation is expected to get worse.</strong></p><p>New data from the Bank of England has found that default rates for total unsecured lending, including credit card defaults, rose in the April-June quarter.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1001
+  },
+  {
+    "title": "US employers added just 57,000 new jobs in June, lower than expected",
+    "link": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
+    "source": "The Guardian Economics",
+    "published": "2026-07-02T13:21:35+00:00",
+    "summary": "<p>The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US job growth slowed in June as employers added 57,000 new jobs –&nbsp;just about half of what economists had predicted – and the Bureau of Labor Statistics revised its figures from the past two months down by a total of 74,000.</p><p>The country’s unemployment rate dropped slightly to 4.2%, but the number of unemployed people changed little, according to the latest data, as 720,000 people left the labor force. The bureau revised the unexpectedly high May figures from 172,000 new jobs to 129,000, and revised the April figures from 179,000 to 148,000.</p> <a href=\"https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1154
   },
   {
     "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
