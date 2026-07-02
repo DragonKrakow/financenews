@@ -1,18 +1,89 @@
 [
   {
-    "title": "UK cost of living squeeze eases after record fall in diesel prices, and drop in mortgage rates – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-02T07:01:27+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>While the cost of motor fuel are down, chip prices continue to climb amid a scramble for semiconductors.</strong></p><p>The boss of retailer <strong>Currys</strong> has warned that that global shortages of memory chips will mean some price rises for consumer electrical products.</p><p>“AI and data centres are eating up the world’s supply of silicon, leaving less for the likes of mobile phones and laptops which does create availability challenges and will produce some cost price inflation.</p><p>“Inevitably there are going to be some price rises but we’re in a pretty good position to dampen that as much as possible.”</p><p>Geopolitical risks were the biggest growing challenge to performance with 65% of companies citing this as an issue, likely reflecting the fallout from the Iran conflict and increasing domestic uncertainty as a change of prime minister looms large.</p><p>Labour costs (58%) were the second biggest challenge amid the notable minimum wage increase during the survey period, followed by energy costs with the percentage of firms highlighting this issue rising sharply from 35% in Q1 to 55% in Q2. The closure of the Strait of Hormuz and rising fuel prices meant the share of businesses citing transport worries nearly doubled from 11% to 20%, the highest for over two years.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
+    "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’",
+    "link": "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T12:42:00+00:00",
+    "summary": "Blue Whale Growth Fund manager exited software stocks before many others did.",
     "matched_keywords": [
-      "Semiconductors",
-      "Chips",
-      "AI",
-      "Transport"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7856
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Is the stock market open tomorrow, or will it close early for the Fourth of July?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T12:06:00+00:00",
+    "summary": "Since Independence Day falls on Saturday this year, here’s what to know about trading hours and mail delivery",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T11:15:00+00:00",
+    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "The three factors that have finally brought the small-cap trade to life",
+    "link": "https://www.marketwatch.com/story/the-three-factors-that-have-finally-brought-the-small-cap-trade-to-life-722e8936?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T11:15:00+00:00",
+    "summary": "Strategists at Goldman Sachs said the three key catalysts for the Russell 2000’s recent outperformance were the artificial-intelligence industry, a strong economic backdrop and a boost in biotechnology stocks.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T11:00:00+00:00",
+    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "‘There was a catch’: My doctor friend was outraged by his hospital’s fundraising tactics. Where do we draw the line?",
+    "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T09:42:00+00:00",
+    "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "Warsh’s throwaway comment injects life into the debasement trade, for one day at least",
+    "link": "https://www.marketwatch.com/story/warshs-throwaway-comment-injects-life-into-the-debasement-trade-for-one-day-at-least-1c70d477?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T09:08:00+00:00",
+    "summary": "As much as new Fed Chair Kevin Warsh tried to refrain from steering markets, it looks like he did.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
   },
   {
     "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
@@ -27,42 +98,6 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-    "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T00:15:00+00:00",
-    "summary": "“Cat growth is on fire,” one executive said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
-    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-    "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T23:11:00+00:00",
-    "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T23:01:00+00:00",
-    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
     "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
     "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
     "source": "CNBC Finance",
@@ -73,54 +108,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
-  },
-  {
-    "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-    "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T22:05:00+00:00",
-    "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
-    "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T21:58:00+00:00",
-    "summary": "Wedbush analysts are taking a bullish view of the  space sector, initiating coverage of SpaceX and other stocks.",
-    "matched_keywords": [
-      "Defense"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
-    "link": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T21:54:00+00:00",
-    "summary": "A Guggenheim analyst says that valuations for the two software stocks are too depressed, even though the AI threat is real.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
-    "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T21:51:00+00:00",
-    "summary": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   },
   {
     "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
@@ -371,5 +358,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Warsh reaches within the Fed for latest advisory appointments",
+    "link": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T16:52:10+00:00",
+    "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
   }
 ]
