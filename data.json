@@ -3,7 +3,7 @@
     "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
     "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T18:39:00+00:00",
+    "published": "2026-07-02T00:15:00+00:00",
     "summary": "“Cat growth is on fire,” one executive said.",
     "matched_keywords": [
       "AI"
@@ -12,10 +12,82 @@
     "sentiment_score": -0.0772
   },
   {
+    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+    "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T23:11:00+00:00",
+    "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T23:01:00+00:00",
+    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+    "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-01T22:55:00+00:00",
+    "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+    "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T22:05:00+00:00",
+    "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+    "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T21:58:00+00:00",
+    "summary": "Wedbush analysts are taking a bullish view of the  space sector, initiating coverage of SpaceX and other stocks.",
+    "matched_keywords": [
+      "Defense"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
+    "link": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-01T21:54:00+00:00",
+    "summary": "A Guggenheim analyst says that valuations for the two software stocks are too depressed, even though the AI threat is real.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
     "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
     "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T18:17:00+00:00",
+    "published": "2026-07-01T21:51:00+00:00",
     "summary": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
     "matched_keywords": [
       "AI"
@@ -24,17 +96,16 @@
     "sentiment_score": -0.1531
   },
   {
-    "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll",
-    "link": "https://www.marketwatch.com/story/stock-market-bulls-need-kevin-warsh-on-their-side-to-keep-winning-says-wall-street-veteran-bob-doll-28fa3172?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T17:25:00+00:00",
-    "summary": "The “high-risk” bull market in stocks needs Federal Reserve Chair Kevin Warsh on its side, according to Bob Doll, CEO at Crossmark Global Investments.",
+    "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
+    "link": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-01T20:40:10+00:00",
+    "summary": "Ives said the new firm will seek to build what he described as a \"modern merchant bank.\"",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
@@ -48,42 +119,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "5 charts showing how ‘dumb money’ is transforming the stock market, as retail traders smash Wall Street records",
-    "link": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T17:10:00+00:00",
-    "summary": "Retail trading activity set records in May and June — and the propensity of that cohort to buy the dip has looked pretty smart.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
-    "title": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
-    "link": "https://www.marketwatch.com/story/u-s-manufacturers-keep-on-trucking-despite-a-road-littered-with-obstacles-bc09d82f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T16:22:00+00:00",
-    "summary": "High U.S. tariffs, war with Iran, a spike in oil prices, rising inflation — no matter. American manufacturers grew in June for the sixth month in a row to mark the longest streak in four years.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7632
-  },
-  {
-    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-    "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-01T16:13:00+00:00",
-    "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
@@ -108,18 +143,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8126
-  },
-  {
-    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-    "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-30T23:27:41+00:00",
-    "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
@@ -346,30 +369,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-26T15:46:07+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>European stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.</strong></p><p>In London, the <strong>FTSE</strong> <strong>100</strong> is down 80 points, or 0.77%, falling away from its highest closing level in two months.</p><p>Apple and Microsoft’s price rises have struck at the market’s fear of inflation, raising worries that, far from being deflationary, the AI boom might be inflationary, particularly for the hard-pressed consumer, hurting rather than aiding economic growth.</p><p>Meanwhile, OpenAI seems to have little stomach for market volatility either, reportedly put off by SpaceX’s travails. Having piled in to AI and tech since the end of March, there is a desire to protect profits, and investors continue to be in a mood to sell first and ask questions later.”</p><p>We find a 1.0°C El Niño shock drives a 9.55% peak increase in global wholesale food prices after two years. Scaled to the expected 2026 “very strong” event (implying a 1.65°C temperature increase), our model projects a cumulative 15.8% surge in food commodity prices, fully realised by 2028H2.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
-  },
-  {
-    "title": "‘Make people dream’: how to build an economy for the common good",
-    "link": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
-    "source": "The Guardian Economics",
-    "published": "2026-06-26T12:05:14+00:00",
-    "summary": "<p>Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world </p><p>Good governments have a vision. They know what they want to achieve, can articulate why, and work out in public how to get there. They don’t just spout slogans about economic growth – because growth is meaningless unless we know what it is for. They understand that there is no trade-off between solving social problems and boosting the economy, and aim to do both, while avoiding rigid fiscal rules that defeat their own purpose by strangling public investment.</p><p>If this sounds like a critique of <a href=\"https://www.theguardian.com/politics/series/politics-live-with-andrew-sparrow\">what went wrong with Keir Starmer’s government</a>, it is also a lot more. Mariana Mazzucato, a professor in the economics of innovation and public value at University College London, is a world-renowned economist, adviser to governments, chair of international commissions, prolific author, and PhD supervisor to at least one poet. She was the thinker who inspired Starmer to <a href=\"https://www.theguardian.com/politics/2023/jul/09/five-missions-keir-starmer-labour-government\">fashion his political project around five key “missions”</a>, now largely forgotten in the mire of scandals, U-turns and infighting that beset his premiership.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
