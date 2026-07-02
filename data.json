@@ -1,5 +1,32 @@
 [
   {
+    "title": "UK cost of living squeeze eases after record fall in diesel prices, and drop in mortgage rates – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-02T07:01:27+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>While the cost of motor fuel are down, chip prices continue to climb amid a scramble for semiconductors.</strong></p><p>The boss of retailer <strong>Currys</strong> has warned that that global shortages of memory chips will mean some price rises for consumer electrical products.</p><p>“AI and data centres are eating up the world’s supply of silicon, leaving less for the likes of mobile phones and laptops which does create availability challenges and will produce some cost price inflation.</p><p>“Inevitably there are going to be some price rises but we’re in a pretty good position to dampen that as much as possible.”</p><p>Geopolitical risks were the biggest growing challenge to performance with 65% of companies citing this as an issue, likely reflecting the fallout from the Iran conflict and increasing domestic uncertainty as a change of prime minister looms large.</p><p>Labour costs (58%) were the second biggest challenge amid the notable minimum wage increase during the survey period, followed by energy costs with the percentage of firms highlighting this issue rising sharply from 35% in Q1 to 55% in Q2. The closure of the Strait of Hormuz and rising fuel prices meant the share of businesses citing transport worries nearly doubled from 11% to 20%, the highest for over two years.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Semiconductors",
+      "Chips",
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7856
+  },
+  {
+    "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+    "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-02T01:00:01+00:00",
+    "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
     "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -340,31 +367,6 @@
     "published": "2026-06-26T17:45:05+00:00",
     "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Warsh reaches within the Fed for latest advisory appointments",
-    "link": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T16:52:10+00:00",
-    "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-    "link": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T16:04:42+00:00",
-    "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
-    "matched_keywords": [
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Neutral",
