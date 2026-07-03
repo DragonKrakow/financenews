@@ -3,7 +3,7 @@
     "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
     "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T12:15:00+00:00",
+    "published": "2026-07-03T18:25:00+00:00",
     "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
     "matched_keywords": [
       "AI"
@@ -12,7 +12,95 @@
     "sentiment_score": 0.5994
   },
   {
-    "title": "Micron was started by a few guys in an Idaho basement. How it rose to be at the center of the AI boom.",
+    "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
+    "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+    "source": "The Guardian Economics",
+    "published": "2026-07-03T17:00:52+00:00",
+    "summary": "<p>Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind</p><p>The Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking their ethical responsibilities (<a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June</a>). Yet it also left me wondering whether the most important decision has already been made.</p><p>The article asks whose moral compass should guide artificial intelligence. My concern is that the direction of travel may already have been set, not by philosophers or engineers, but by the incentives surrounding the technology. Hundreds of billions are now being invested because AI promises commercial returns and geopolitical advantage. Those pressures are understandable, but they are also quietly determining the future before society has consciously debated where it wants to go.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course\">Continue reading...</a>",
+    "matched_keywords": [
+      "Mining",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.967
+  },
+  {
+    "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
+    "link": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T16:24:00+00:00",
+    "summary": "As Cape Verde faces off against Lionel Messi and Argentina tonight, here’s a look at what could be next for the breakout World Cup star",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-03T15:42:09+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9287
+  },
+  {
+    "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls ‘extraordinary’",
+    "link": "https://www.marketwatch.com/story/ai-infrastructure-stocks-have-overtaken-big-tech-hyperscalers-in-an-extraordinary-shift-says-ubs-research-arm-7c425a02?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T15:41:00+00:00",
+    "summary": "A research team at UBS sees value creation in the artificial intelligence infrastructure sector soaring 600% in the space of four years, compared with just 100% for “hyperscalers.”",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
+    "link": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T14:17:00+00:00",
+    "summary": "In a market dominated by tech stocks, a big test is facing investors in the next 12 months, warns MacroResearchBoard",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T14:15:00+00:00",
+    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
+    "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-03T13:16:09+00:00",
+    "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Micron was started by a few guys in an Idaho basement. How it wound up at the center of the AI boom.",
     "link": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-07-03T12:00:00+00:00",
@@ -37,32 +125,6 @@
     "sentiment_score": 0.8225
   },
   {
-    "title": "UK service sector shrinks amid Iran war disruption and heatwave – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T11:58:25+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9287
-  },
-  {
-    "title": "Michael Burry makes a bearish bet against hot memory stock Micron: reports",
-    "link": "https://www.marketwatch.com/story/michael-burry-makes-a-bearish-bet-against-hot-memory-stock-micron-reports-4c976262?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T11:16:00+00:00",
-    "summary": "The ‘Big Short’ investor has intensified his gloom around the artificial intelligence trade with a reported fresh bearish bet on memory-chip maker Micron",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
     "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
     "link": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
     "source": "The Guardian Economics",
@@ -73,30 +135,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6249
-  },
-  {
-    "title": "Is the stock market open today? Here’s how Fourth of July weekend affects trading hours.",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T04:09:00+00:00",
-    "summary": "Since Independence Day falls on Saturday this year, here’s what to know about markets, mail delivery and more.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
-    "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T23:00:00+00:00",
-    "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
@@ -331,44 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7972
-  },
-  {
-    "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
-    "link": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
-    "source": "The Guardian Economics",
-    "published": "2026-06-28T06:00:01+00:00",
-    "summary": "<p>In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames Water</p><p>As he swept towards <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, Andy Burnham told voters he wanted to see “the essentials of life being run primarily for the public interest, not for the private interests”.</p><p>Citing the <a href=\"https://www.theguardian.com/uk-news/2025/dec/11/first-trains-to-join-manchesters-bee-network-by-end-of-2026\">Bee Network of buses and trams</a> across Manchester city region, brought together on his watch, Burnham repeatedly highlighted the need for more “public control” over the necessities of life. Water, energy, transport and housing are at the top of his list.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "Why investors may want to prioritize bond markets outside the U.S.",
-    "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-27T15:00:01+00:00",
-    "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
-    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-27T12:22:08+00:00",
-    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
