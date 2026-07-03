@@ -1,17 +1,66 @@
 [
   {
-    "title": "Oil price ‘may fall to $60 a barrel’ as voyages through the strait of Hormuz jump – business live",
+    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T12:15:00+00:00",
+    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Micron was started by a few guys in an Idaho basement. How it rose to be at the center of the AI boom.",
+    "link": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T12:00:00+00:00",
+    "summary": "Memory chips were once seen as an unglamorous business, but Micron is betting AI will change the game for good.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5927
+  },
+  {
+    "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
+    "link": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T12:00:00+00:00",
+    "summary": "“I have a monthly pension worth $11,000 and Social Security income of $4,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
+    "title": "UK service sector shrinks amid Iran war disruption and heatwave – business live",
     "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-07-03T06:51:01+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Voyages through the Strait of Hormuz have more than quadrupled in the past week amid growing confidence in the US and Iran’s 60-day ceasefire, </strong><em><strong>the Financial Times reports</strong></em><strong>.</strong></p><p>The number of traceable journeys by ships passing into and out of the Gulf each day has increased from between one and two for the majority of the conflict to eight on July 1, according to a moving seven-day average from maritime data platform Signal.</p><p>“Fundamentals are rapidly reasserting themselves.</p><p>Shipping flows are normalizing, Chinese buyers remain absent, physical crude markets have weakened sharply, and inventories have drawn far less than expected.”</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
+    "published": "2026-07-03T11:58:25+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
-      "AI",
-      "Shipping"
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_score": -0.9287
+  },
+  {
+    "title": "Michael Burry makes a bearish bet against hot memory stock Micron: reports",
+    "link": "https://www.marketwatch.com/story/michael-burry-makes-a-bearish-bet-against-hot-memory-stock-micron-reports-4c976262?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T11:16:00+00:00",
+    "summary": "The ‘Big Short’ investor has intensified his gloom around the artificial intelligence trade with a reported fresh bearish bet on memory-chip maker Micron",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   },
   {
     "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
@@ -48,68 +97,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T22:45:00+00:00",
-    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.",
-    "link": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T22:38:00+00:00",
-    "summary": "“American workers are not getting a raise,” says J.P. Morgan Asset Management strategist.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
-    "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T22:30:00+00:00",
-    "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "5 things to know about Jersey Mike’s ahead of its IPO",
-    "link": "https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T22:24:00+00:00",
-    "summary": "Sandwich chain’s IPO filing offers details about sales gains and family compensation",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
-    "link": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T22:12:00+00:00",
-    "summary": "Millions of crypto investors around the world are sitting on losses as a painful bear market erases trillions of dollars in paper profits.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
   },
   {
     "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
@@ -371,5 +358,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
+  },
+  {
+    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T12:22:08+00:00",
+    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
