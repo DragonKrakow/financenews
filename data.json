@@ -1,46 +1,9 @@
 [
   {
-    "title": "Oil prices are now back to prewar levels, but the market is not. Here’s what could happen next.",
-    "link": "https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T18:17:00+00:00",
-    "summary": "Oil prices have finally fallen back to pre-Iran war levels — but the crude market is far from seeing a normalization of shipping, oil supplies and demand that such a big retreat implies.",
-    "matched_keywords": [
-      "Oil",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9349
-  },
-  {
-    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T17:43:00+00:00",
-    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
-    "link": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T15:15:00+00:00",
-    "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
-  },
-  {
     "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
     "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T15:00:00+00:00",
+    "published": "2026-07-02T23:00:00+00:00",
     "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
     "matched_keywords": [
       "AI"
@@ -49,16 +12,78 @@
     "sentiment_score": 0.2263
   },
   {
-    "title": "How you as an investor can get ahead of the next AI investment wave",
-    "link": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
+    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-02T14:53:00+00:00",
-    "summary": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
+    "published": "2026-07-02T22:45:00+00:00",
+    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.",
+    "link": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T22:38:00+00:00",
+    "summary": "“American workers are not getting a raise,” says J.P. Morgan Asset Management strategist.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+    "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T22:30:00+00:00",
+    "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "5 things to know about Jersey Mike’s ahead of its IPO",
+    "link": "https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T22:24:00+00:00",
+    "summary": "Sandwich chain’s IPO filing offers details about sales gains and family compensation",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
+    "link": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-02T22:12:00+00:00",
+    "summary": "Millions of crypto investors around the world are sitting on losses as a painful bear market erases trillions of dollars in paper profits.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
+    "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-02T21:11:03+00:00",
+    "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   },
   {
     "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
@@ -345,29 +370,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-    "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T17:45:05+00:00",
-    "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Warsh reaches within the Fed for latest advisory appointments",
-    "link": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-26T16:52:10+00:00",
-    "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
   }
 ]
