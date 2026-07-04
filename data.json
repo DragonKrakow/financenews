@@ -1,5 +1,17 @@
 [
   {
+    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+    "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-03T18:52:00+00:00",
+    "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
     "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -51,43 +63,6 @@
     "sentiment_score": -0.9287
   },
   {
-    "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls ‘extraordinary’",
-    "link": "https://www.marketwatch.com/story/ai-infrastructure-stocks-have-overtaken-big-tech-hyperscalers-in-an-extraordinary-shift-says-ubs-research-arm-7c425a02?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T15:41:00+00:00",
-    "summary": "A research team at UBS sees value creation in the artificial intelligence infrastructure sector soaring 600% in the space of four years, compared with just 100% for “hyperscalers.”",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
-  },
-  {
-    "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
-    "link": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T14:17:00+00:00",
-    "summary": "In a market dominated by tech stocks, a big test is facing investors in the next 12 months, warns MacroResearchBoard",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
-  },
-  {
-    "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-    "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T14:15:00+00:00",
-    "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
     "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
     "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
     "source": "CNBC Finance",
@@ -98,31 +73,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Micron was started by a few guys in an Idaho basement. How it wound up at the center of the AI boom.",
-    "link": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T12:00:00+00:00",
-    "summary": "Memory chips were once seen as an unglamorous business, but Micron is betting AI will change the game for good.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5927
-  },
-  {
-    "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
-    "link": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-03T12:00:00+00:00",
-    "summary": "“I have a monthly pension worth $11,000 and Social Security income of $4,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
   },
   {
     "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
@@ -369,5 +319,54 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7972
+  },
+  {
+    "title": "Why investors may want to prioritize bond markets outside the U.S.",
+    "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T15:00:01+00:00",
+    "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T12:22:08+00:00",
+    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+    "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T17:45:05+00:00",
+    "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Warsh reaches within the Fed for latest advisory appointments",
+    "link": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T16:52:10+00:00",
+    "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
   }
 ]
