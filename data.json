@@ -13,18 +13,6 @@
     "sentiment_score": 0.0772
   },
   {
-    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-04T17:08:00+00:00",
-    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
     "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
     "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
     "source": "The Guardian Economics",
@@ -370,5 +358,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
+    "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-26T12:00:11+00:00",
+    "summary": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
   }
 ]
