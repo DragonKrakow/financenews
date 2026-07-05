@@ -1,5 +1,18 @@
 [
   {
+    "title": "‘New direction, same old problems’: the economic challenges facing  Andy Burnham | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham",
+    "source": "The Guardian Economics",
+    "published": "2026-07-05T10:57:07+00:00",
+    "summary": "<p>Blair met good fortune when he assumed office, others such as Wilson faced tougher times. The PM-presumptive will start firmly on the back foot</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham\">Make Miliband chancellor, ex-chief Treasury adviser tells Burnham</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/05/major-industry-britain-andy-burnham-collieries-retail-parks-manufacturing\">John Harris: Without a good revival plan, Burnham cannot succeed</a></p></li></ul><p></p><p>In politics, timing and luck matter. Tony Blair had astounding good fortune, benefiting from <a href=\"https://www.theguardian.com/business/2007/may/03/politics.money\">goldilocks economic conditions</a> and a weak opposition. Others have taken charge in tougher times: in the 1970s Harold Wilson faced a global energy crisis, as have the last four occupants of No 10.</p><p>As <a href=\"https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation\">Andy Burnham prepares to replace Keir Starmer</a>, there are clear economic headwinds for the prime minister-presumptive.</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8071
+  },
+  {
     "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
     "link": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
     "source": "The Guardian Economics",
@@ -282,20 +295,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
-  },
-  {
-    "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
-    "link": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
-    "source": "The Guardian Economics",
-    "published": "2026-06-28T11:00:10+00:00",
-    "summary": "<p>Any new tax on the rich won’t raise much money unless many of the exceptions and loopholes are dealt with</p><p>In this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on <a href=\"https://www.theguardian.com/technology/elon-musk\">Elon Musk</a>’s new trillion-dollar fortune. What most bothers Americans about federal taxes is that billionaires <a href=\"https://www.pewresearch.org/short-reads/2026/04/06/top-tax-frustrations-for-americans-feeling-that-some-wealthy-people-corporations-dont-pay-fair-share/\">don’t pay their fair share</a>. As the race to develop artificial intelligence mints more billionaires, policymakers’ temptation to directly tax their brobdingnagian wealth is becoming unbearable.</p><p>The first state out of the blocks <a href=\"https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition\">is California</a>, where voters in November will decide whether to impose a one-time tax of 5% on fortunes worth more than $1bn. Given the ease with which <a href=\"https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax\">plutocrats avoid</a> paying <a href=\"https://www.nber.org/system/files/working_papers/w34170/w34170.pdf\">income taxes</a>, the case for this sort of direct tax on their stash appears unassailable.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9602
   },
   {
     "title": "Why investors may want to prioritize bond markets outside the U.S.",
