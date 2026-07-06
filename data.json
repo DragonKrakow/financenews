@@ -1,76 +1,51 @@
 [
   {
-    "title": "Global stocks may be headed for a summer swoon. Why AI won’t be the only story that matters, JPMorgan says",
-    "link": "https://www.marketwatch.com/story/global-stocks-may-be-headed-for-a-summer-swoon-why-ai-wont-be-the-only-story-that-matters-jpmorgan-says-d2ad9b1c?mod=mw_rss_topstories",
+    "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T13:04:00+00:00",
-    "summary": "Strategists at the investment bank outlined five key drivers for global equities in the months ahead",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "As oil exits the ‘danger zone,’ here’s what history suggests happens next for stocks",
-    "link": "https://www.marketwatch.com/story/as-oil-exits-the-danger-zone-heres-what-history-suggests-happens-next-for-stocks-7724a8a9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T12:14:00+00:00",
-    "summary": "The swift pullback in oil prices is a tailwind for the economy, says Evercore ISI",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "AI hyperscalers are poised for a big comeback rally as chip gains cool, says Morgan Stanley",
-    "link": "https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T12:02:00+00:00",
-    "summary": "The once-hot semiconductor trade has seen a cooling in the last couple of weeks, which is not only likely to continue, but usher in a bumpy ride for the overall stock market.",
+    "published": "2026-07-06T18:15:00+00:00",
+    "summary": "“I could have bought a home for what I hope will be a growing family.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.431
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
+    "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-06T17:45:00+00:00",
+    "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.",
+    "link": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-06T17:43:00+00:00",
+    "summary": "Strategy sold more than 3,000 bitcoins to raise cash to pay dividends on its preferred stock — something Executive Chair Michael Saylor had previously said it didn’t need to do.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
   },
   {
     "title": "Stocks rally when Congress goes on summer break. Here’s why.",
     "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T11:42:00+00:00",
+    "published": "2026-07-06T17:27:00+00:00",
     "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5994
-  },
-  {
-    "title": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-    "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T11:32:00+00:00",
-    "summary": "Why we actually own the capital behind the AI revolution.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Highflying hedge fund run by former OpenAI researcher will be cornerstone investor in SK Hynix U.S. listing",
-    "link": "https://www.marketwatch.com/story/highflying-hedge-fund-run-by-former-openai-researcher-will-be-cornerstone-investor-in-sk-hynix-u-s-listing-01299e0c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T11:28:00+00:00",
-    "summary": "Three major investors in the technology sector will back SK Hynix’s offering of American depository receipts that is expected this week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
@@ -367,5 +342,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
+  },
+  {
+    "title": "Why investors may want to prioritize bond markets outside the U.S.",
+    "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T15:00:01+00:00",
+    "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-06-27T12:22:08+00:00",
+    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
