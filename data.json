@@ -1,21 +1,21 @@
 [
   {
-    "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+    "title": "Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune",
+    "link": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T18:15:00+00:00",
-    "summary": "“I could have bought a home for what I hope will be a growing family.”",
+    "published": "2026-07-07T00:15:00+00:00",
+    "summary": "The president hasn’t always approved of Walmart’s moves, having criticized the chain’s response to tariffs last year.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
   },
   {
     "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
     "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T17:45:00+00:00",
+    "published": "2026-07-06T21:36:00+00:00",
     "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
     "matched_keywords": [
       "AI"
@@ -24,28 +24,28 @@
     "sentiment_score": 0.7964
   },
   {
-    "title": "Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.",
-    "link": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T17:43:00+00:00",
-    "summary": "Strategy sold more than 3,000 bitcoins to raise cash to pay dividends on its preferred stock — something Executive Chair Michael Saylor had previously said it didn’t need to do.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
     "title": "Stocks rally when Congress goes on summer break. Here’s why.",
     "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T17:27:00+00:00",
+    "published": "2026-07-06T21:18:00+00:00",
     "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5994
+  },
+  {
+    "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+    "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-06T20:33:00+00:00",
+    "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix’s ADR listing, experts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
   },
   {
     "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
