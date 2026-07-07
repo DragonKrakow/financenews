@@ -1,34 +1,10 @@
 [
   {
-    "title": "Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune",
-    "link": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
+    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T00:15:00+00:00",
-    "summary": "The president hasn’t always approved of Walmart’s moves, having criticized the chain’s response to tariffs last year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
-    "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T21:36:00+00:00",
-    "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
-  },
-  {
-    "title": "Stocks rally when Congress goes on summer break. Here’s why.",
-    "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T21:18:00+00:00",
-    "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
+    "published": "2026-07-07T12:39:00+00:00",
+    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
     "matched_keywords": [
       "AI"
     ],
@@ -36,16 +12,66 @@
     "sentiment_score": 0.5994
   },
   {
-    "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
-    "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+    "title": "Russia’s oil refineries are burning — and, now, so is its bond market",
+    "link": "https://www.marketwatch.com/story/russias-oil-refineries-are-burning-and-now-so-is-its-bond-market-10468951?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-06T20:33:00+00:00",
-    "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix’s ADR listing, experts say.",
+    "published": "2026-07-07T11:56:00+00:00",
+    "summary": "Fuel shortages in Russia may achieve what nothing — and nobody — else could: force Putin to the negotiating table.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
+    "link": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T11:11:00+00:00",
+    "summary": "The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
+    "link": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
+    "source": "The Guardian Economics",
+    "published": "2026-07-07T11:00:06+00:00",
+    "summary": "<p>About 57% of polled Americans also believe economy is worsening in grim portrait of cost of living crisis, according to Harris survey for the Guardian</p><p>Ninety-five per cent of Americans believe the US is suffering an affordability crisis, as many report trouble with the rising cost of groceries and gas, according to an exclusive new poll conducted for the Guardian.</p><p>The survey, conducted by Harris Poll, paints a bleak picture of how people feel about the <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> amid the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war in Iran</a> and ahead of the key <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> this fall.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9682
+  },
+  {
+    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T11:00:00+00:00",
+    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "These global stocks benefit from high barriers to entry. And they’re winning the war against AI disruption.",
+    "link": "https://www.marketwatch.com/story/why-these-global-stocks-with-a-high-barrier-to-entry-are-winning-the-war-on-ai-disruption-43e88c2c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T10:56:00+00:00",
+    "summary": "Goldman Sachs says the HALO trade has worked well this year, but a tougher phase relying on earnings performance lies ahead.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
   },
   {
     "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
@@ -332,18 +358,6 @@
     "sentiment_score": 0.9501
   },
   {
-    "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
-    "link": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
-    "source": "The Guardian Economics",
-    "published": "2026-06-28T12:00:08+00:00",
-    "summary": "<p>Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loans</p><p>On a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to a father helping his son at the wheel of a tractor, and flits to a smiling couple on a grass-lined pavement, moments before flashing to grainy images of “crypto insiders” in suits.</p><p>“American families don’t want experiments with their money,” a voice booms. “They want jobs, growth, and available credit. When crypto gets a free pass, communities pay the price.”</p> <a href=\"https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
     "title": "Why investors may want to prioritize bond markets outside the U.S.",
     "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
     "source": "CNBC Finance",
@@ -355,17 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
-    "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-27T12:22:08+00:00",
-    "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
