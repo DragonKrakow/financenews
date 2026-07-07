@@ -1,39 +1,88 @@
 [
   {
-    "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-    "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+    "title": "Bond traders are watching this tracker to figure out the real odds of Fed rate hikes",
+    "link": "https://www.marketwatch.com/story/bond-traders-are-watching-this-tracker-to-figure-out-the-real-odds-of-fed-rate-hikes-42fa2742?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T12:39:00+00:00",
-    "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+    "published": "2026-07-07T17:53:00+00:00",
+    "summary": "A Fed gauge of wage growth is due to be updated on Friday, followed by a June reading on consumer inflation next Tuesday.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Trump floats idea of Australia’s retirement system again. But what about Social Security?",
+    "link": "https://www.marketwatch.com/story/trump-floats-idea-of-australias-retirement-system-again-but-what-about-social-security-de63b8c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T16:22:00+00:00",
+    "summary": "The president said his administration was working on a plan based on the Austrialian system, days after the launch of “Trump accounts” for children.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
+    "sentiment_score": 0.4767
   },
   {
-    "title": "Russia’s oil refineries are burning — and, now, so is its bond market",
-    "link": "https://www.marketwatch.com/story/russias-oil-refineries-are-burning-and-now-so-is-its-bond-market-10468951?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T11:56:00+00:00",
-    "summary": "Fuel shortages in Russia may achieve what nothing — and nobody — else could: force Putin to the negotiating table.",
+    "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
+    "link": "https://www.cnbc.com/2026/07/07/buy-these-quality-low-stress-stocks-for-the-summer-says-jefferies.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-07T15:45:33+00:00",
+    "summary": "This summer, Jefferies recommends focusing on some high-quality stocks that have been left behind by the AI momentum trade.",
     "matched_keywords": [
-      "Oil"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
   },
   {
-    "title": "SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
-    "link": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories",
+    "title": "NATO announces billions in defense deals. What investors should watch for now.",
+    "link": "https://www.marketwatch.com/story/nato-announces-billions-in-defense-deals-what-investors-should-watch-for-now-d7f3c4be?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T11:11:00+00:00",
-    "summary": "The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.",
+    "published": "2026-07-07T15:06:00+00:00",
+    "summary": "A number of major defense companies, including Rheinmetall and Lockheed Martin have announced billions of dollars worth of backlogs",
     "matched_keywords": [
-      "Gold"
+      "Defense"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5413
+  },
+  {
+    "title": "Recession off the cards but Australia faces dreary outlook, economists say",
+    "link": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
+    "source": "The Guardian Economics",
+    "published": "2026-07-07T15:00:06+00:00",
+    "summary": "<p>De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinch</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears of a recession have fallen away, with economists saying that Australia is set to safely navigate the <a href=\"https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel\">biggest global oil supply shock</a> in history even as they warn of sub-standard growth in the year ahead.</p><p>The de-escalation of the Middle East conflict has been accompanied by <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">a major retreat in global oil prices</a> back to prewar levels, essentially removing the worst-case scenarios contemplated before Donald Trump’s wobbly ceasefire with Iran was announced in mid-June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9148
+  },
+  {
+    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T15:00:00+00:00",
+    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
+    "link": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
+    "source": "The Guardian Economics",
+    "published": "2026-07-07T13:21:36+00:00",
+    "summary": "<p>Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/07/uk-house-prices-rise-in-june-despite-wider-economic-uncertainty-business-live\">Business live – latest updates</a></p></li></ul><p>Policymakers must act to prevent public debt rising unsustainably in coming decades as the population ages and defence spending rises, the government’s independent economic forecaster has said.</p><p>In a fresh illustration of the challenges facing the prime minister in waiting, Andy Burnham, the Office for Budget Responsibility (OBR) said that without government action “debt would move on to what would be an unsustainable, ever-upward path from around the 2040s”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
   },
   {
     "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
@@ -47,31 +96,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9682
-  },
-  {
-    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T11:00:00+00:00",
-    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "These global stocks benefit from high barriers to entry. And they’re winning the war against AI disruption.",
-    "link": "https://www.marketwatch.com/story/why-these-global-stocks-with-a-high-barrier-to-entry-are-winning-the-war-on-ai-disruption-43e88c2c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T10:56:00+00:00",
-    "summary": "Goldman Sachs says the HALO trade has worked well this year, but a tougher phase relying on earnings performance lies ahead.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
   },
   {
     "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
@@ -331,31 +355,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9926
-  },
-  {
-    "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-29T16:23:07+00:00",
-    "summary": "<p>Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/andy-burnham-no-10-north-nerve-centre-rewired-britain\">Andy Burnham vows to set up No 10 North as ‘nerve centre of rewired Britain’</a></p></li></ul><p>Asked what she thought of Andy Burnham not taking questions this morning, <strong>Badenoch</strong> said:</p><p>Andy Burnham doesn’t like questions. Nigel Farage doesn’t like questions. Even Keir Starmer in parliament, he doesn’t like questions here.</p><p>If you want somebody who can answer questions, please come to me. I will answer all of your questions.</p><p>I know that it should not be Ed Miliband. He is the single person who has done the most to deindustrialise our country and make us poorer. He should not be rewarded with an even more powerful job where he can completely bankrupt the country.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6454
-  },
-  {
-    "title": "UK government borrowing costs dip and pound rises as City welcomes Burnham speech – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-06-29T15:21:02+00:00",
-    "summary": "<p>Makerfield MP’s plans for good-quality growth around the UK, and commitment to fiscal rules, are welcomed by investors and economists</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026\">Shares in chipmakers underpinning AI boom rocket in first half of 2026</a></p></li></ul><p><strong>The total value of new mortgage approvals also fell in May.</strong></p><p>Net borrowing of mortgage debt by individuals decreased to £2.9bn in May, down from £4.4bn in April, the Bank of England reports.</p><p>“The sharp slowdown in mortgage borrowing and approvals suggests the surge in activity earlier this year has now faded, with buyers and homeowners taking a more cautious approach. While borrowing costs have eased from their recent highs, affordability remains stretched and many prospective buyers continue to contend with elevated house prices and wider cost-of-living pressures.</p><p>“For lenders, the changing outlook highlights the importance of integrating forward-looking affordability assessments that better reflect real borrower behaviour and lifetime income patterns. As caution rises, these more personalised models can help to sustain housing demand over the coming months.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9501
   },
   {
     "title": "Why investors may want to prioritize bond markets outside the U.S.",
