@@ -1,5 +1,79 @@
 [
   {
+    "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+    "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-08T11:40:31+00:00",
+    "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Kevin Warsh plans to stop scripting the Fed’s next moves. It could trigger a wild ride for traders.",
+    "link": "https://www.marketwatch.com/story/kevin-warsh-plans-to-stop-scripting-the-feds-next-moves-it-could-trigger-a-wild-ride-for-traders-0bb39b9e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T11:00:00+00:00",
+    "summary": "James Bullard, a former president of the St. Louis Federal Reserve, said Fed Chair Kevin Warsh could decide on policy changes without signaling to the market first, sparking volatility",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "It was the world’s hottest stock market. Now South Korea has entered bear territory.",
+    "link": "https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T10:57:00+00:00",
+    "summary": "The cumulative impact of several different narratives – competition, sustainability, excessive leverage, international outflows- has sapped the Korean market of its upward mobility since clocking up a record high in June.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
+    "link": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-07-08T10:00:26+00:00",
+    "summary": "<p>Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troubles</p><p>The political consequences of Donald Trump’s policy mayhem are now coming into view: “Maga” America is getting pissed.</p><p>It has been a sight to see how every one of the president’s policy initiatives <a href=\"https://www.theguardian.com/business/2026/jul/01/trump-voters-housing-affordability-bill\">has sabotaged</a> some core constituency or other. From farmers and rural Americans to manufacturing workers and every American struggling to make ends meet, Trump has torched pretty much his entire political base. For all his efforts to <a href=\"https://www.nytimes.com/interactive/2026/07/02/us/politics/trump-midterm-election-strategies.html\">rig the midterm elections</a> in his favor, it’s as if he is daring the Maga faithful to drop him.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over",
+    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T09:21:00+00:00",
+    "summary": "Brent crude and West Texas Intermediate contracts climbed on President Donald Trump saying dealing with Tehran is “a waste of time”",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "China warns about AI risks with Anthropic's Claude Code",
+    "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-08T08:14:28+00:00",
+    "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
     "link": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
     "source": "The Guardian Economics",
@@ -10,90 +84,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0059
-  },
-  {
-    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T23:00:00+00:00",
-    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
-    "link": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T22:43:00+00:00",
-    "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "Adobe’s stock is temptingly cheap. Should investors bite?",
-    "link": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T22:35:00+00:00",
-    "summary": "Adobe has become a polarizing stock in the face of questions about its AI future.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
-    "link": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T22:35:00+00:00",
-    "summary": "Bonds financing the massive artificial-intelligence buildout were hit hard by selling on Tuesday, as Amazon.com set out to borrow another $25 billion in new debt.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
-  },
-  {
-    "title": "Crude prices rise as U.S. launches strikes on Iran shortly after canceling its license to sell oil",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T22:11:00+00:00",
-    "summary": "Oil futures climbed late Tuesday after the Treasury Department canceled a license granted on June 21 to allow for the sale of Iranian oil.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Think the U.S. stock market is too heavily exposed to AI? It’s even worse abroad.",
-    "link": "https://www.marketwatch.com/story/think-the-u-s-stock-market-is-too-heavily-exposed-to-ai-its-even-worse-abroad-7524d770?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T21:59:00+00:00",
-    "summary": "Stock-market concentration is hardly just an issue in the U.S.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "GameStop investors clear the way for a fresh attempt at buying eBay",
-    "link": "https://www.marketwatch.com/story/gamestop-investors-clear-the-way-for-a-fresh-attempt-at-buying-ebay-8231871d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T21:37:00+00:00",
-    "summary": "Shareholders approved a change that will let the video-game retailer issue more stock.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
   },
   {
     "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
@@ -366,5 +356,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8462
+  },
+  {
+    "title": "UK disposable incomes squeezed by price rises and tax changes",
+    "link": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
+    "source": "The Guardian Economics",
+    "published": "2026-06-30T15:14:39+00:00",
+    "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
   }
 ]
