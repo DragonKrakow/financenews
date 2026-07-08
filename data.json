@@ -1,9 +1,111 @@
 [
   {
+    "title": "A ‘few’ Fed officials said there was a case for a rate hike in June, minutes from Warsh’s first meeting show",
+    "link": "https://www.marketwatch.com/story/a-few-fed-officials-said-there-was-a-case-for-a-rate-hike-in-june-minutes-from-warshs-first-meeting-show-bc302ead?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T18:22:00+00:00",
+    "summary": "A “few” Federal Reserve officials said there was a case for raising interest rates in June, according to minutes released Wednesday from the central bank’s meeting last month.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+    "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-08T18:19:47+00:00",
+    "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Oil surges as Strait of Hormuz is back into ‘full conflict conditions’",
+    "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T18:14:00+00:00",
+    "summary": "Even without further disruption, volatility is here to stay for energy markets",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2287
+  },
+  {
+    "title": "The case for having Big Oil in your 401(k) or IRA",
+    "link": "https://www.marketwatch.com/story/the-case-for-having-big-oil-in-your-401-k-or-ira-05c2eef5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T17:56:00+00:00",
+    "summary": "Energy exposure may help you sleep better at night.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict",
+    "link": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-08T17:45:24+00:00",
+    "summary": "Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Oil prices touch two-week highs after Trump suggests U.S.-Iran cease-fire is over",
+    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T15:36:00+00:00",
+    "summary": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+    "link": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+    "source": "The Guardian Economics",
+    "published": "2026-07-08T15:30:17+00:00",
+    "summary": "<p>How to hit the 3.5% of GDP defence spending promise would be a matter for ‘the next prime minister’, MPs told </p><p>The Treasury has as yet carried out no analysis of the trade-offs necessary for the UK to hit the 3.5% of GDP defence spending promise made to Nato, the department’s chief secretary has said.</p><p>Under robust questioning in a joint session of the Treasury and defence select committees on Wednesday, Lucy Rigby repeatedly said that how to fund additional defence spending would be a matter for “the next prime minister”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8625
+  },
+  {
+    "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
+    "link": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T15:02:00+00:00",
+    "summary": "Low-volatility stocks are having a moment after a long stretch of underperformance.",
+    "matched_keywords": [
+      "Defense",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
     "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
     "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
     "source": "CNBC Finance",
-    "published": "2026-07-08T11:40:31+00:00",
+    "published": "2026-07-08T14:28:30+00:00",
     "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
     "matched_keywords": [
       "Fed"
@@ -12,29 +114,17 @@
     "sentiment_score": -0.5423
   },
   {
-    "title": "Kevin Warsh plans to stop scripting the Fed’s next moves. It could trigger a wild ride for traders.",
-    "link": "https://www.marketwatch.com/story/kevin-warsh-plans-to-stop-scripting-the-feds-next-moves-it-could-trigger-a-wild-ride-for-traders-0bb39b9e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T11:00:00+00:00",
-    "summary": "James Bullard, a former president of the St. Louis Federal Reserve, said Fed Chair Kevin Warsh could decide on policy changes without signaling to the market first, sparking volatility",
+    "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+    "link": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+    "source": "The Guardian Economics",
+    "published": "2026-07-08T13:00:32+00:00",
+    "summary": "<p>July update projects GDP growth of 1% this year, making UK the third fastest-growing economy in the G7</p><p>The International Monetary Fund (IMF) has upgraded its growth forecast for the UK, while leaving those for other G7 countries weaker or unchanged, amid hopes the economic impact of the Iran war may be less severe than feared.</p><p>In a July update of its World Economic Outlook, which was finalised before the latest <a href=\"https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz\">outbreak of hostilities in the Middle East</a>, the Washington-based organisation projected UK gross domestic product to grow by 1% this year – up 0.2 percentage points from <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">its April forecast</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish\">Continue reading...</a>",
     "matched_keywords": [
-      "Fed",
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "It was the world’s hottest stock market. Now South Korea has entered bear territory.",
-    "link": "https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T10:57:00+00:00",
-    "summary": "The cumulative impact of several different narratives – competition, sustainability, excessive leverage, international outflows- has sapped the Korean market of its upward mobility since clocking up a record high in June.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.9083
   },
   {
     "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
@@ -48,18 +138,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over",
-    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T09:21:00+00:00",
-    "summary": "Brent crude and West Texas Intermediate contracts climbed on President Donald Trump saying dealing with Tehran is “a waste of time”",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
   },
   {
     "title": "China warns about AI risks with Anthropic's Claude Code",
@@ -294,79 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
-    "link": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-01T17:20:22+00:00",
-    "summary": "Warsh has said that inflation is a \"choice.\" The same could also be true of how inflation is measured.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-    "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-01T14:13:44+00:00",
-    "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "EU urged to exempt UK from car rules that could be worst Brexit impact yet",
-    "link": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
-    "source": "The Guardian Economics",
-    "published": "2026-07-01T13:53:45+00:00",
-    "summary": "<p> Bloc’s ‘made in Europe’ regulations risk shutting out British manufacturers in ‘most spectacular own goal in history’</p><p>The EU’s car industry has called for the UK to be fully included in <a href=\"https://www.theguardian.com/commentisfree/2026/feb/11/the-guardian-view-on-a-made-in-europe-industrial-strategy-an-idea-whose-time-has-come\">new “made in Europe”</a> rules that threaten to shut out British manufacturers from their biggest export market.</p><p>The European Automobile Manufacturers Association (Acea) on Wednesday urged Brussels to give the UK, Turkey and Morocco “justified, targeted exemptions” to the rules, which will require cars and parts to be made within the EU to qualify for subsidies or public procurement.</p> <a href=\"https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8126
-  },
-  {
-    "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-    "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-30T18:27:17+00:00",
-    "summary": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Hope must be backed by legislation | Letter",
-    "link": "https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation",
-    "source": "The Guardian Economics",
-    "published": "2026-06-30T17:01:52+00:00",
-    "summary": "<p>Andy Burnham has a short window to demonstrate that he will follow a new path, writes <strong>Benjamin Selwyn</strong></p><p>Andy Beckett is right to identify Andy Burnham as a figure on to whom renewed hopes might be projected (<a href=\"https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics\">Burnham has brought hope back to Labour – but he must understand how quickly it can be punctured, 26 June</a>). But those hopes must be understood in the shadow of Keir Starmer’s rapid dissipation of the electoral mandate secured in 2024.</p><p>That victory was built on a promise – implicit if not explicit – of material improvement. Instead, policies such as maintaining the two‑child benefit cap, cutting the winter fuel allowance, and failing to confront price gouging by utilities and supermarkets deepened the cost of living crisis for millions.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8462
-  },
-  {
-    "title": "UK disposable incomes squeezed by price rises and tax changes",
-    "link": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-06-30T15:14:39+00:00",
-    "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
   }
 ]
