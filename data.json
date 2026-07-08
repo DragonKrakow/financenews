@@ -1,27 +1,99 @@
 [
   {
-    "title": "Bond traders are watching this tracker to figure out the real odds of Fed rate hikes",
-    "link": "https://www.marketwatch.com/story/bond-traders-are-watching-this-tracker-to-figure-out-the-real-odds-of-fed-rate-hikes-42fa2742?mod=mw_rss_topstories",
+    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T17:53:00+00:00",
-    "summary": "A Fed gauge of wage growth is due to be updated on Friday, followed by a June reading on consumer inflation next Tuesday.",
+    "published": "2026-07-07T23:00:00+00:00",
+    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
-    "title": "Trump floats idea of Australia’s retirement system again. But what about Social Security?",
-    "link": "https://www.marketwatch.com/story/trump-floats-idea-of-australias-retirement-system-again-but-what-about-social-security-de63b8c6?mod=mw_rss_topstories",
+    "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
+    "link": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T16:22:00+00:00",
-    "summary": "The president said his administration was working on a plan based on the Austrialian system, days after the launch of “Trump accounts” for children.",
+    "published": "2026-07-07T22:43:00+00:00",
+    "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Adobe’s stock is temptingly cheap. Should investors bite?",
+    "link": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T22:35:00+00:00",
+    "summary": "Adobe has become a polarizing stock in the face of questions about its AI future.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
+    "link": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T22:35:00+00:00",
+    "summary": "Bonds financing the massive artificial-intelligence buildout were hit hard by selling on Tuesday, as Amazon.com set out to borrow another $25 billion in new debt.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
+  },
+  {
+    "title": "Crude prices rise as U.S. launches strikes on Iran shortly after canceling its license to sell oil",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T22:11:00+00:00",
+    "summary": "Oil futures climbed late Tuesday after the Treasury Department canceled a license granted on June 21 to allow for the sale of Iranian oil.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "Think the U.S. stock market is too heavily exposed to AI? It’s even worse abroad.",
+    "link": "https://www.marketwatch.com/story/think-the-u-s-stock-market-is-too-heavily-exposed-to-ai-its-even-worse-abroad-7524d770?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T21:59:00+00:00",
+    "summary": "Stock-market concentration is hardly just an issue in the U.S.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "GameStop investors clear the way for a fresh attempt at buying eBay",
+    "link": "https://www.marketwatch.com/story/gamestop-investors-clear-the-way-for-a-fresh-attempt-at-buying-ebay-8231871d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T21:37:00+00:00",
+    "summary": "Shareholders approved a change that will let the video-game retailer issue more stock.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-07T21:30:00+00:00",
+    "summary": "“I could have bought a home for what I hope will be a growing family.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
   },
   {
     "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
@@ -36,23 +108,11 @@
     "sentiment_score": 0.2263
   },
   {
-    "title": "NATO announces billions in defense deals. What investors should watch for now.",
-    "link": "https://www.marketwatch.com/story/nato-announces-billions-in-defense-deals-what-investors-should-watch-for-now-d7f3c4be?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T15:06:00+00:00",
-    "summary": "A number of major defense companies, including Rheinmetall and Lockheed Martin have announced billions of dollars worth of backlogs",
-    "matched_keywords": [
-      "Defense"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5413
-  },
-  {
     "title": "Recession off the cards but Australia faces dreary outlook, economists say",
     "link": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
     "source": "The Guardian Economics",
     "published": "2026-07-07T15:00:06+00:00",
-    "summary": "<p>De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinch</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears of a recession have fallen away, with economists saying that Australia is set to safely navigate the <a href=\"https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel\">biggest global oil supply shock</a> in history even as they warn of sub-standard growth in the year ahead.</p><p>The de-escalation of the Middle East conflict has been accompanied by <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">a major retreat in global oil prices</a> back to prewar levels, essentially removing the worst-case scenarios contemplated before Donald Trump’s wobbly ceasefire with Iran was announced in mid-June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists\">Continue reading...</a>",
+    "summary": "<p>De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinch</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears of a recession have fallen away, with economists saying Australia is set to safely navigate the <a href=\"https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel\">biggest global oil supply shock</a> in history even as they warn of substandard growth in the year ahead.</p><p>The de-escalation of the Middle East conflict has been accompanied by <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">a major retreat in global oil prices</a> back to prewar levels, essentially removing the worst-case scenarios contemplated before Donald Trump’s wobbly ceasefire with Iran was announced in mid-June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -61,23 +121,11 @@
     "sentiment_score": -0.9148
   },
   {
-    "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-    "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-07T15:00:00+00:00",
-    "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
     "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
     "link": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
     "source": "The Guardian Economics",
     "published": "2026-07-07T13:21:36+00:00",
-    "summary": "<p>Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/07/uk-house-prices-rise-in-june-despite-wider-economic-uncertainty-business-live\">Business live – latest updates</a></p></li></ul><p>Policymakers must act to prevent public debt rising unsustainably in coming decades as the population ages and defence spending rises, the government’s independent economic forecaster has said.</p><p>In a fresh illustration of the challenges facing the prime minister in waiting, Andy Burnham, the Office for Budget Responsibility (OBR) said that without government action “debt would move on to what would be an unsustainable, ever-upward path from around the 2040s”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions\">Continue reading...</a>",
+    "summary": "<p>Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’</p><p>Policymakers must act to prevent public debt rising unsustainably in coming decades as the population ages and defence spending rises, the government’s independent economic forecaster has said.</p><p>In a fresh illustration of the challenges facing the prime minister in waiting, Andy Burnham, the Office for Budget Responsibility (OBR) said that without government action “debt would move on to what would be an unsustainable, ever-upward path from around the 2040s”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -318,55 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8462
-  },
-  {
-    "title": "UK disposable incomes squeezed by price rises and tax changes",
-    "link": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-06-30T15:14:39+00:00",
-    "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "EU sets up three months of talks with China over €360bn trade deficit",
-    "link": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-    "source": "The Guardian Economics",
-    "published": "2026-06-29T18:33:51+00:00",
-    "summary": "<p>Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats</p><p>The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance.</p><p>In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc.</p> <a href=\"https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8126
-  },
-  {
-    "title": "What is Andy Burnham’s economic and political blueprint for Britain?",
-    "link": "https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain",
-    "source": "The Guardian Economics",
-    "published": "2026-06-29T18:31:06+00:00",
-    "summary": "<p>Plans include greater regional power, public ownership of utilities and the end of trickle-down economics</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/burnham-sets-out-vision-to-transform-britain-and-fix-broken-system\">Burnham sets out vision to transform Britain and fix ‘broken’ system</a></p></li></ul><p>Andy Burnham’s speech at the People’s History Museum in Manchester was the first time we saw the man likely to be Britain’s next prime minister set out his vision for power.</p><p>He promised “good growth in every postcode” in a speech that focused on a significant transfer of power out of Whitehall to local communities and a new economic vision. But what might this mean in practice?</p><p>It will be about offering new opportunities to extend devolution in Scotland, Wales and Northern Ireland by taking power deeper down.</p><p><em>They require radical change if the country is to get back on track.</em></p><p><em>All parts of the UK should now be given the chance to develop … focusing on the things that most matter to them.</em></p><p><em>We will ensure all parts of the UK are able to take greater public control of essential services like water, housing, energy and transport …</em></p><p><em>Britain has lost almost 1.5</em><em>m council homes since the 1980s and around the same number of people are now on housing waiting lists and have been there for a very long time.</em></p><p><em>Shouldn’t we make our high streets the symbols of Britain’s renaissance?</em></p><p><em>We will support every region to set clear and credible industrial ambitions – and provide the support to achieve them.</em></p><p><em>We need a complete rethink of how we support the next generation to succeed, and it has to start with the education system.</em></p><p><em>We will set out 10-year plans to bring down the cost of </em><em> … essentials</em><em> to individuals, families and businesses.</em></p><p><em>All of it backed by the stability that comes from sound public finances, as I said before, and the discipline of our current fiscal rules.</em></p> <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9926
-  },
-  {
-    "title": "Why investors may want to prioritize bond markets outside the U.S.",
-    "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-06-27T15:00:01+00:00",
-    "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
   }
 ]
