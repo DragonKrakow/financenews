@@ -1,5 +1,79 @@
 [
   {
+    "title": "The U.S. and China are today’s leaders in AI. These countries could be the next-stage champions.",
+    "link": "https://www.marketwatch.com/story/the-u-s-and-china-are-todays-leaders-in-ai-these-countries-could-be-the-next-stage-champions-3297348c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T13:00:00+00:00",
+    "summary": "Economists at Bank of America spotlight South Korea and the United Arab Emirates as likely to gain from both the build-out and adoption of artificial intelligence.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9136
+  },
+  {
+    "title": "Salesforce’s stock may look like a bargain — but that’s just a mirage, analyst says",
+    "link": "https://www.marketwatch.com/story/salesforces-stock-may-look-like-a-bargain-but-thats-just-a-mirage-analyst-says-b8f590a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T12:43:00+00:00",
+    "summary": "KeyBanc downgraded Salesforce shares, citing doubts about the company’s AI narrative.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2846
+  },
+  {
+    "title": "Schwab strategists warn of a major market shift: The era of easy index gains is officially over",
+    "link": "https://www.marketwatch.com/story/schwab-strategists-warn-of-a-major-market-shift-the-era-of-easy-index-gains-is-officially-over-2396d139?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T12:42:00+00:00",
+    "summary": "More geopolitical instability, more frequent supply shocks and macro volatility are facing investors in an era that’s just starting, says Charles Schwab.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2585
+  },
+  {
+    "title": "Major drugmaker loses $27 billion in market value after failed trial",
+    "link": "https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T12:28:00+00:00",
+    "summary": "Two companies announced on Thursday that the heart-disease drug they had been developing failed its Phase 3 trial.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7769
+  },
+  {
+    "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
+    "link": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
+    "source": "The Guardian Economics",
+    "published": "2026-07-09T12:13:07+00:00",
+    "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/09/stock-markets-oil-uk-house-prices-business-news-updates\">Business live – latest updates</a></p></li></ul><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3321
+  },
+  {
+    "title": "This chart shows stamp prices since 1885 as USPS hikes postage again this weekend",
+    "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T11:41:00+00:00",
+    "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
     "title": "China warns about AI risks with Anthropic's Claude Code",
     "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
     "source": "CNBC Finance",
@@ -12,31 +86,6 @@
     "sentiment_score": -0.4767
   },
   {
-    "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
-    "link": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T00:38:00+00:00",
-    "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
-    "link": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T00:07:00+00:00",
-    "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
     "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
     "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
     "source": "CNBC Finance",
@@ -47,69 +96,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
-    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T21:16:00+00:00",
-    "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
-    "link": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T21:01:00+00:00",
-    "summary": "A crowded bet on a stronger U.S. dollar may depend on whether Wednesday’s jump in oil prices proves lasting, as renewed Middle East tensions revive inflation concerns and bolster expectations that the Federal Reserve may need to keep policy tight.",
-    "matched_keywords": [
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "This chart shows stamp prices over the years as USPS hikes postage again this weekend",
-    "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T20:35:00+00:00",
-    "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling",
-    "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T20:32:00+00:00",
-    "summary": "Oil prices surge as U.S. and Iran trade strikes; but even without further disruption, volatility appears here to stay for energy markets",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6267
-  },
-  {
-    "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T19:36:00+00:00",
-    "summary": "An analyst recommends investors take advantage of the “enhanced” buying opportunity brought upon by sustained underperformance.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
   },
   {
     "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
@@ -371,5 +357,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1154
+  },
+  {
+    "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+    "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-02T01:00:01+00:00",
+    "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
