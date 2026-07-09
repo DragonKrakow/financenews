@@ -1,5 +1,17 @@
 [
   {
+    "title": "China warns about AI risks with Anthropic's Claude Code",
+    "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T01:24:02+00:00",
+    "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
     "link": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -173,18 +185,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "China warns about AI risks with Anthropic's Claude Code",
-    "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T08:14:28+00:00",
-    "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
