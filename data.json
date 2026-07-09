@@ -1,23 +1,109 @@
 [
   {
-    "title": "A ‘few’ Fed officials said there was a case for a rate hike in June, minutes from Warsh’s first meeting show",
-    "link": "https://www.marketwatch.com/story/a-few-fed-officials-said-there-was-a-case-for-a-rate-hike-in-june-minutes-from-warshs-first-meeting-show-bc302ead?mod=mw_rss_topstories",
+    "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
+    "link": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T18:22:00+00:00",
-    "summary": "A “few” Federal Reserve officials said there was a case for raising interest rates in June, according to minutes released Wednesday from the central bank’s meeting last month.",
+    "published": "2026-07-09T00:38:00+00:00",
+    "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
+    "link": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T00:07:00+00:00",
+    "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+    "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-08T21:59:27+00:00",
+    "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
+    "matched_keywords": [
+      "Regulation"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T21:16:00+00:00",
+    "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
+    "link": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T21:01:00+00:00",
+    "summary": "A crowded bet on a stronger U.S. dollar may depend on whether Wednesday’s jump in oil prices proves lasting, as renewed Middle East tensions revive inflation concerns and bolster expectations that the Federal Reserve may need to keep policy tight.",
+    "matched_keywords": [
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "This chart shows stamp prices over the years as USPS hikes postage again this weekend",
+    "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T20:35:00+00:00",
+    "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling",
+    "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T20:32:00+00:00",
+    "summary": "Oil prices surge as U.S. and Iran trade strikes; but even without further disruption, volatility appears here to stay for energy markets",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6267
+  },
+  {
+    "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-08T19:36:00+00:00",
+    "summary": "An analyst recommends investors take advantage of the “enhanced” buying opportunity brought upon by sustained underperformance.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
     "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
     "source": "CNBC Finance",
-    "published": "2026-07-08T18:19:47+00:00",
+    "published": "2026-07-08T19:05:47+00:00",
     "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
     "matched_keywords": [
       "Interest Rates",
@@ -25,31 +111,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Oil surges as Strait of Hormuz is back into ‘full conflict conditions’",
-    "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T18:14:00+00:00",
-    "summary": "Even without further disruption, volatility is here to stay for energy markets",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2287
-  },
-  {
-    "title": "The case for having Big Oil in your 401(k) or IRA",
-    "link": "https://www.marketwatch.com/story/the-case-for-having-big-oil-in-your-401-k-or-ira-05c2eef5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T17:56:00+00:00",
-    "summary": "Energy exposure may help you sleep better at night.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
   },
   {
     "title": "Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict",
@@ -64,42 +125,16 @@
     "sentiment_score": 0.25
   },
   {
-    "title": "Oil prices touch two-week highs after Trump suggests U.S.-Iran cease-fire is over",
-    "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T15:36:00+00:00",
-    "summary": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+    "title": "UK Treasury yet to do due diligence on finding extra money for defence",
     "link": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
     "source": "The Guardian Economics",
     "published": "2026-07-08T15:30:17+00:00",
-    "summary": "<p>How to hit the 3.5% of GDP defence spending promise would be a matter for ‘the next prime minister’, MPs told </p><p>The Treasury has as yet carried out no analysis of the trade-offs necessary for the UK to hit the 3.5% of GDP defence spending promise made to Nato, the department’s chief secretary has said.</p><p>Under robust questioning in a joint session of the Treasury and defence select committees on Wednesday, Lucy Rigby repeatedly said that how to fund additional defence spending would be a matter for “the next prime minister”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend\">Continue reading...</a>",
+    "summary": "<p>How to hit the 3.5% of GDP spending promise made to Nato would be a matter for the next prime minister, MPs told</p><p>The Treasury has as yet carried out no analysis of the trade-offs necessary for the UK to hit the 3.5% of GDP defence spending promise made to Nato, the department’s chief secretary has said.</p><p>Under robust questioning in a joint session of the Treasury and defence committees on Wednesday, Lucy Rigby repeatedly said funding additional defence spending would be a matter for “the next prime minister”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8625
-  },
-  {
-    "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
-    "link": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-08T15:02:00+00:00",
-    "summary": "Low-volatility stocks are having a moment after a long stretch of underperformance.",
-    "matched_keywords": [
-      "Defense",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
   },
   {
     "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
@@ -336,41 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1154
-  },
-  {
-    "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
-    "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-02T01:00:01+00:00",
-    "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-    "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-01T22:55:00+00:00",
-    "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
-    "link": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-01T20:40:10+00:00",
-    "summary": "Ives said the new firm will seek to build what he described as a \"modern merchant bank.\"",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
