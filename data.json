@@ -1,77 +1,100 @@
 [
   {
-    "title": "The U.S. and China are today’s leaders in AI. These countries could be the next-stage champions.",
-    "link": "https://www.marketwatch.com/story/the-u-s-and-china-are-todays-leaders-in-ai-these-countries-could-be-the-next-stage-champions-3297348c?mod=mw_rss_topstories",
+    "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+    "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T18:11:22+00:00",
+    "summary": "Odds that gas prices are above $3.50 on Election Day in November have jumped to 75% on the platform.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+    "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T13:00:00+00:00",
-    "summary": "Economists at Bank of America spotlight South Korea and the United Arab Emirates as likely to gain from both the build-out and adoption of artificial intelligence.",
+    "published": "2026-07-09T18:00:00+00:00",
+    "summary": "“She said it’s the second message they have left.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Micron’s stock surges on multibillion-dollar U.S. manufacturing push",
+    "link": "https://www.marketwatch.com/story/microns-stock-surges-on-multibillion-dollar-u-s-manufacturing-push-b1e63834?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T16:13:00+00:00",
+    "summary": "The memory-chip giant is reversing its recent slide after increasing its investment in the U.S. semiconductor supply chain.",
     "matched_keywords": [
       "AI",
-      "Artificial Intelligence"
+      "Supply Chain"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9136
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "Salesforce’s stock may look like a bargain — but that’s just a mirage, analyst says",
-    "link": "https://www.marketwatch.com/story/salesforces-stock-may-look-like-a-bargain-but-thats-just-a-mirage-analyst-says-b8f590a4?mod=mw_rss_topstories",
+    "title": "This is why paper checks refuse to die",
+    "link": "https://www.marketwatch.com/story/this-is-why-paper-checks-refuse-to-die-12e06864?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T12:43:00+00:00",
-    "summary": "KeyBanc downgraded Salesforce shares, citing doubts about the company’s AI narrative.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2846
-  },
-  {
-    "title": "Schwab strategists warn of a major market shift: The era of easy index gains is officially over",
-    "link": "https://www.marketwatch.com/story/schwab-strategists-warn-of-a-major-market-shift-the-era-of-easy-index-gains-is-officially-over-2396d139?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T12:42:00+00:00",
-    "summary": "More geopolitical instability, more frequent supply shocks and macro volatility are facing investors in an era that’s just starting, says Charles Schwab.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2585
-  },
-  {
-    "title": "Major drugmaker loses $27 billion in market value after failed trial",
-    "link": "https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T12:28:00+00:00",
-    "summary": "Two companies announced on Thursday that the heart-disease drug they had been developing failed its Phase 3 trial.",
+    "published": "2026-07-09T16:04:00+00:00",
+    "summary": "While some retailers still accept checks, an attempt to pay with anything other than cash or card is likely to result in a blank stare from a Gen Z cashier.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7769
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+    "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T15:00:50+00:00",
+    "summary": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more",
+    "link": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T14:58:00+00:00",
+    "summary": "PepsiCo’s North America business lagged in the latest quarter, and the stock was having its worst day in 15 months, even as strength in international business led to an earnings beat.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6908
+  },
+  {
+    "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
+    "link": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
+    "source": "The Guardian Economics",
+    "published": "2026-07-09T13:27:57+00:00",
+    "summary": "<p>Economists including Jim O’Neill write open letter calling for single levy to replace six key taxes to raise money for public services</p><p>Prominent economists including Jim O’Neill, an ally of Andy Burnham, are urging the MP for Makerfield to pursue radical tax and spending reform to “unlock the gridlock that plagues the country” when he is confirmed as prime minister.</p><p>O’Neill joins Jonathan Portes, an economics professor at King’s College London, and Danny Sriskandarajah, the chief executive of the New Economics Foundation, in calling for bold action in an open letter.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
   },
   {
     "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
     "link": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
     "source": "The Guardian Economics",
     "published": "2026-07-09T12:13:07+00:00",
-    "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/09/stock-markets-oil-uk-house-prices-business-news-updates\">Business live – latest updates</a></p></li></ul><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
+    "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3321
-  },
-  {
-    "title": "This chart shows stamp prices since 1885 as USPS hikes postage again this weekend",
-    "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T11:41:00+00:00",
-    "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   },
   {
     "title": "China warns about AI risks with Anthropic's Claude Code",
@@ -345,29 +368,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1001
-  },
-  {
-    "title": "US employers added just 57,000 new jobs in June, lower than expected",
-    "link": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
-    "source": "The Guardian Economics",
-    "published": "2026-07-02T13:21:35+00:00",
-    "summary": "<p>The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US job growth slowed in June as employers added 57,000 new jobs –&nbsp;just about half of what economists had predicted – and the Bureau of Labor Statistics revised its figures from the past two months down by a total of 74,000.</p><p>The country’s unemployment rate dropped slightly to 4.2%, but the number of unemployed people changed little, according to the latest data, as 720,000 people left the labor force. The bureau revised the unexpectedly high May figures from 172,000 new jobs to 129,000, and revised the April figures from 179,000 to 148,000.</p> <a href=\"https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1154
-  },
-  {
-    "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
-    "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-02T01:00:01+00:00",
-    "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
