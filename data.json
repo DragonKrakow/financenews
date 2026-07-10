@@ -1,9 +1,33 @@
 [
   {
-    "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+    "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+    "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+    "source": "The Guardian Economics",
+    "published": "2026-07-10T07:00:14+00:00",
+    "summary": "<p>Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans</p><p>Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.</p><p>More was spent on servicing foreign debt than on education in 113 developing countries in 2025, according to research by the UN’s culture and education agency, Unesco. In sub-Saharan Africa, <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000398572\">countries spent 3.6 times more on debt than education</a>.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9238
+  },
+  {
+    "title": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group’s bid",
+    "link": "https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T06:40:00+00:00",
+    "summary": "A bidding war has broken out for EasyJet, the British low-cost airline, with the second American private-equity bid.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8225
+  },
+  {
+    "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
     "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T22:07:00+00:00",
+    "published": "2026-07-10T02:38:00+00:00",
     "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
     "matched_keywords": [
       "Chips",
@@ -72,18 +96,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
-    "link": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T20:56:00+00:00",
-    "summary": "Growing threats from China and falling token prices may put AI financials at risk.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8271
   },
   {
     "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
@@ -355,19 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9517
-  },
-  {
-    "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
-    "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T17:00:52+00:00",
-    "summary": "<p>Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind</p><p>The Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking their ethical responsibilities (<a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June</a>). Yet it also left me wondering whether the most important decision has already been made.</p><p>The article asks whose moral compass should guide artificial intelligence. My concern is that the direction of travel may already have been set, not by philosophers or engineers, but by the incentives surrounding the technology. Hundreds of billions are now being invested because AI promises commercial returns and geopolitical advantage. Those pressures are understandable, but they are also quietly determining the future before society has consciously debated where it wants to go.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course\">Continue reading...</a>",
-    "matched_keywords": [
-      "Mining",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.967
   }
 ]
