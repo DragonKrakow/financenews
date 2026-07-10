@@ -1,21 +1,22 @@
 [
   {
-    "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-    "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-09T18:11:22+00:00",
-    "summary": "Odds that gas prices are above $3.50 on Election Day in November have jumped to 75% on the platform.",
+    "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+    "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T22:07:00+00:00",
+    "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
     "matched_keywords": [
-      "Election"
+      "Chips",
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
   },
   {
     "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
     "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T18:00:00+00:00",
+    "published": "2026-07-09T22:00:00+00:00",
     "summary": "“She said it’s the second message they have left.”",
     "matched_keywords": [
       "AI"
@@ -24,29 +25,102 @@
     "sentiment_score": 0.0772
   },
   {
-    "title": "Micron’s stock surges on multibillion-dollar U.S. manufacturing push",
-    "link": "https://www.marketwatch.com/story/microns-stock-surges-on-multibillion-dollar-u-s-manufacturing-push-b1e63834?mod=mw_rss_topstories",
+    "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+    "link": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T16:13:00+00:00",
-    "summary": "The memory-chip giant is reversing its recent slide after increasing its investment in the U.S. semiconductor supply chain.",
+    "published": "2026-07-09T21:52:00+00:00",
+    "summary": "The Federal Reserve named a former Walmart CEO to a task force to develop contemporaneous data on spending, inflation and growth.",
     "matched_keywords": [
-      "AI",
-      "Supply Chain"
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "A junior employee saved this company six figures using AI. Here’s how.",
+    "link": "https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T21:29:00+00:00",
+    "summary": "“Some of the best ideas can come from anywhere in the organization.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
+    "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T21:00:00+00:00",
+    "summary": "“I could have bought a home for what I hope will be a growing family.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
+    "link": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T20:58:00+00:00",
+    "summary": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
+    "link": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-09T20:56:00+00:00",
+    "summary": "Growing threats from China and falling token prices may put AI financials at risk.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8271
+  },
+  {
+    "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+    "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T19:53:20+00:00",
+    "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
   },
   {
-    "title": "This is why paper checks refuse to die",
-    "link": "https://www.marketwatch.com/story/this-is-why-paper-checks-refuse-to-die-12e06864?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T16:04:00+00:00",
-    "summary": "While some retailers still accept checks, an attempt to pay with anything other than cash or card is likely to result in a blank stare from a Gen Z cashier.",
+    "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+    "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T19:44:17+00:00",
+    "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
     "matched_keywords": [
-      "AI"
+      "Election"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+    "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-09T18:52:22+00:00",
+    "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
   },
   {
     "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
@@ -59,18 +133,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more",
-    "link": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T14:58:00+00:00",
-    "summary": "PepsiCo’s North America business lagged in the latest quarter, and the stock was having its worst day in 15 months, even as strength in international business led to an earnings beat.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6908
   },
   {
     "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
@@ -307,66 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.967
-  },
-  {
-    "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T15:42:09+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9287
-  },
-  {
-    "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
-    "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-03T13:16:09+00:00",
-    "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
-    "link": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T06:00:20+00:00",
-    "summary": "<p>Given pressures on the public purse, the Makerfield MP may have to look at  autumn tax rises to fund his ‘new direction’</p><p>An economy rattled by a global energy shock, jittery bond markets and rising spending demands. As Andy Burnham prepares for government, the pressures on the public finances are in focus.</p><p>The prospective prime minister <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">pledged a new direction for Britain this week</a> within two constraints: sticking to Labour’s current fiscal rules, and consistency with its 2024 manifesto.</p> <a href=\"https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
-  },
-  {
-    "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-    "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-02T21:11:03+00:00",
-    "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-02T14:25:02+00:00",
-    "summary": "<p>US non-farm payrolls only increased by 57,000 in June, but unemployment rate fell</p><p><strong>Just in: Default rates on UK credit cards have risen, and the situation is expected to get worse.</strong></p><p>New data from the Bank of England has found that default rates for total unsecured lending, including credit card defaults, rose in the April-June quarter.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1001
   }
 ]
