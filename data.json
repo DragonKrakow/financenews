@@ -1,5 +1,53 @@
 [
   {
+    "title": "Landon Donovan says there’s ‘zero chance’ he could’ve afforded to play youth soccer in America if he was a kid today",
+    "link": "https://www.marketwatch.com/story/landon-donovan-says-theres-zero-chance-he-could-have-afforded-to-play-youth-soccer-if-he-was-a-kid-today-e32e905f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T12:41:00+00:00",
+    "summary": "The U.S. men’s soccer team once again didn’t make it past the Round of 16 in the World Cup — and some say the high cost to play youth soccer in America could be a key reason.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Delta absorbs highest fuel costs in its history, but also books record revenue",
+    "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T12:28:00+00:00",
+    "summary": "Delta Air Lines’ profit dropped as the air carrier absorbed the highest quarterly fuel expense in its history.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5927
+  },
+  {
+    "title": "Slumping AI stocks could be really good news for your nontech holdings, says market strategist",
+    "link": "https://www.marketwatch.com/story/slumping-ai-stocks-could-be-really-good-news-for-your-nontech-holdings-says-market-strategist-561942a7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T11:59:00+00:00",
+    "summary": "Katie Stockton, of Fairlead Strategies, said she is seeing strong buying momentum in the healthcare, industrial, biotech, insurance and utility sectors",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7574
+  },
+  {
+    "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+    "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T11:00:00+00:00",
+    "summary": "“She said it’s the second message they have left.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
     "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
     "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
     "source": "The Guardian Economics",
@@ -10,92 +58,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9238
-  },
-  {
-    "title": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group’s bid",
-    "link": "https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T06:40:00+00:00",
-    "summary": "A bidding war has broken out for EasyJet, the British low-cost airline, with the second American private-equity bid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8225
-  },
-  {
-    "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
-    "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T02:38:00+00:00",
-    "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-    "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T22:00:00+00:00",
-    "summary": "“She said it’s the second message they have left.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
-    "link": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T21:52:00+00:00",
-    "summary": "The Federal Reserve named a former Walmart CEO to a task force to develop contemporaneous data on spending, inflation and growth.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "A junior employee saved this company six figures using AI. Here’s how.",
-    "link": "https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T21:29:00+00:00",
-    "summary": "“Some of the best ideas can come from anywhere in the organization.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
-  },
-  {
-    "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T21:00:00+00:00",
-    "summary": "“I could have bought a home for what I hope will be a growing family.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
-    "link": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-09T20:58:00+00:00",
-    "summary": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
@@ -367,5 +329,44 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9517
+  },
+  {
+    "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
+    "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+    "source": "The Guardian Economics",
+    "published": "2026-07-03T17:00:52+00:00",
+    "summary": "<p>Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind</p><p>The Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking their ethical responsibilities (<a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June</a>). Yet it also left me wondering whether the most important decision has already been made.</p><p>The article asks whose moral compass should guide artificial intelligence. My concern is that the direction of travel may already have been set, not by philosophers or engineers, but by the incentives surrounding the technology. Hundreds of billions are now being invested because AI promises commercial returns and geopolitical advantage. Those pressures are understandable, but they are also quietly determining the future before society has consciously debated where it wants to go.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course\">Continue reading...</a>",
+    "matched_keywords": [
+      "Mining",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.967
+  },
+  {
+    "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-03T15:42:09+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9287
+  },
+  {
+    "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
+    "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-03T13:16:09+00:00",
+    "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
