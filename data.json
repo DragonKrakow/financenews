@@ -1,39 +1,102 @@
 [
   {
-    "title": "Should you lock in a 4% CD rate now? Here’s how to decide on the next move for your cash.",
-    "link": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
+    "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
+    "link": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T18:12:00+00:00",
-    "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
+    "published": "2026-07-10T23:06:00+00:00",
+    "summary": "The iPhone maker claims “misconduct is normalized and exemplified by leadership” at OpenAI.",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
   },
   {
-    "title": "Delta faces jet-fuel jitters even as it sees strong travel demand",
-    "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
+    "title": "Meta’s stock roars back to life as it notches its best week in years",
+    "link": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T16:18:00+00:00",
-    "summary": "Delta’s profit dropped as the air carrier absorbed the highest quarterly fuel expense in its history.",
+    "published": "2026-07-10T22:24:00+00:00",
+    "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
+    "sentiment_score": 0.6369
   },
   {
-    "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
-    "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+    "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
+    "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T15:42:00+00:00",
-    "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
+    "published": "2026-07-10T22:18:00+00:00",
+    "summary": "The South Korean memory-chip company’s new American depositary receipts began trading on Friday and logged gains of nearly 13%.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+    "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T21:12:00+00:00",
+    "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+    "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T21:11:00+00:00",
+    "summary": "“My house shook violently from the wind.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9001
+  },
+  {
+    "title": "Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?",
+    "link": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T19:30:00+00:00",
+    "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
+    "link": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T19:04:00+00:00",
+    "summary": "The currency-market carry trade is back — and bigger than it’s been in many years.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
+    "link": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-10T19:02:00+00:00",
+    "summary": "The Federal Reserve likely will take back all the 2025 ‘insurance cuts’ or not raise interest rates at all, according to RBC Wealth Management.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.123
   },
   {
     "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
@@ -305,68 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8071
-  },
-  {
-    "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
-    "link": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-07-05T05:00:17+00:00",
-    "summary": "<p>Nicholas Stern joins growing number backing Miliband, saying he has vision and experience to revive economy</p><p>A former chief economic adviser to the Treasury has called on Andy Burnham to appoint <a href=\"https://www.theguardian.com/politics/edmiliband\">Ed Miliband</a> as chancellor, arguing the energy secretary has a “bold” vision to revive the economy.</p><p>Nicholas Stern, a professor at the London School of Economics who was a senior figure in the Treasury during Gordon Brown’s tenure, said only Miliband had the experience and the strategic vision to accelerate investment and rebuild public trust in the state’s ability to “get things done”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9517
-  },
-  {
-    "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
-    "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T17:00:52+00:00",
-    "summary": "<p>Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind</p><p>The Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking their ethical responsibilities (<a href=\"https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind\">‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June</a>). Yet it also left me wondering whether the most important decision has already been made.</p><p>The article asks whose moral compass should guide artificial intelligence. My concern is that the direction of travel may already have been set, not by philosophers or engineers, but by the incentives surrounding the technology. Hundreds of billions are now being invested because AI promises commercial returns and geopolitical advantage. Those pressures are understandable, but they are also quietly determining the future before society has consciously debated where it wants to go.</p> <a href=\"https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course\">Continue reading...</a>",
-    "matched_keywords": [
-      "Mining",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.967
-  },
-  {
-    "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
-    "link": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T15:42:09+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9287
-  },
-  {
-    "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
-    "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-03T13:16:09+00:00",
-    "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
-    "link": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
-    "source": "The Guardian Economics",
-    "published": "2026-07-03T06:00:20+00:00",
-    "summary": "<p>Given pressures on the public purse, the Makerfield MP may have to look at  autumn tax rises to fund his ‘new direction’</p><p>An economy rattled by a global energy shock, jittery bond markets and rising spending demands. As Andy Burnham prepares for government, the pressures on the public finances are in focus.</p><p>The prospective prime minister <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">pledged a new direction for Britain this week</a> within two constraints: sticking to Labour’s current fiscal rules, and consistency with its 2024 manifesto.</p> <a href=\"https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   }
 ]
