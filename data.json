@@ -1,5 +1,54 @@
 [
   {
+    "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
+    "link": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-11T12:00:00+00:00",
+    "summary": "Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "The U.S. stock market is becoming ‘too big to fail’",
+    "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-11T11:30:00+00:00",
+    "summary": "Why protracted bear markets may be a thing of the past.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
+    "link": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-11T11:00:00+00:00",
+    "summary": "Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-11T10:15:00+00:00",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7968
+  },
+  {
     "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
     "link": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
     "source": "The Guardian Economics",
@@ -70,45 +119,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9001
-  },
-  {
-    "title": "Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?",
-    "link": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T19:30:00+00:00",
-    "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-    "link": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T19:04:00+00:00",
-    "summary": "The currency-market carry trade is back — and bigger than it’s been in many years.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
-    "link": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-10T19:02:00+00:00",
-    "summary": "The Federal Reserve likely will take back all the 2025 ‘insurance cuts’ or not raise interest rates at all, according to RBC Wealth Management.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.123
   },
   {
     "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
@@ -355,17 +365,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9682
-  },
-  {
-    "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
-    "link": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
-    "source": "The Guardian Economics",
-    "published": "2026-07-06T04:00:01+00:00",
-    "summary": "<p>Andy Burnham’s rise has stoked talk of the terms for a future British return – but this is the wrong question</p><p>The question of the UK’s relationship with the EU has resurfaced with Keir Starmer’s premiership drawing to a close and Andy Burnham, his likely successor, preparing to enter No 10. Wes Streeting, until recently one of the contenders for the top job and now a possible future chancellor of the exchequer, went as far as to say recently that <a href=\"https://www.euronews.com/my-europe/2026/05/17/uk-leadership-hopeful-streeting-calls-brexit-a-catastrophic-mistake\">Britain should be back in the EU</a>.</p><p>The “rejoin” debate in the UK has focused squarely and, parochially, on two things. The first is the <a href=\"https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts\">cost imposed by Brexit on the UK economy</a>, the second is the price of rejoining – in other words, whether the UK would be able to win back its previous <a href=\"https://yougov.com/en-gb/articles/55023-ten-years-after-the-eu-referendum-do-the-french-and-german-publics-want-the-uk-to-rejoin\">opt-outs</a> from the Euro and Schengen areas.</p><p>Mujtaba Rahman is the managing director for Europe at Eurasia Group, a political risk research and consulting firm</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   }
 ]
