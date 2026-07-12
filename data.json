@@ -1,5 +1,18 @@
 [
   {
+    "title": "The stock-market rally now hinges more on AI than oil",
+    "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-12T13:00:00+00:00",
+    "summary": "As earnings season kicks off, AI investment remains front and center.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
     "link": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
     "source": "The Guardian Economics",
@@ -83,18 +96,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
-  },
-  {
-    "title": "Stocks rally when Congress goes on summer break. Here’s why.",
-    "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-11T16:00:00+00:00",
-    "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
   },
   {
     "title": "These underperforming trades could yield big returns over next six months",
