@@ -1,5 +1,18 @@
 [
   {
+    "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-12T23:52:00+00:00",
+    "summary": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
     "title": "The stock-market rally now hinges more on AI than oil",
     "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -84,18 +97,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6904
-  },
-  {
-    "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
-    "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-11T16:01:00+00:00",
-    "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
   },
   {
     "title": "These underperforming trades could yield big returns over next six months",
