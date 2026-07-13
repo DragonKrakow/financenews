@@ -1,58 +1,22 @@
 [
   {
-    "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-    "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+    "title": "Global oil prices top $82 a barrel, heading for biggest jump in 3 months after Trump reimposes Strait of Hormuz blockade",
+    "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T12:30:00+00:00",
-    "summary": "“She said it’s the second message they have left.”",
+    "published": "2026-07-13T18:19:00+00:00",
+    "summary": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
     "matched_keywords": [
+      "Oil",
       "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-    "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T12:00:00+00:00",
-    "summary": "“My house shook violently from the wind.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9001
-  },
-  {
-    "title": "A Fed interest-rate hike could trigger a short-term stock selloff, but history points to a big silver lining",
-    "link": "https://www.marketwatch.com/story/a-fed-interest-rate-hike-could-trigger-a-short-term-stock-selloff-but-history-points-to-a-big-silver-lining-29f8c9e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T11:46:00+00:00",
-    "summary": "The immediate impact of hiking cycles is often negative but, zooming out, stock markets recover",
-    "matched_keywords": [
-      "Fed",
-      "Silver"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7227
-  },
-  {
-    "title": "These biggest and ‘least loved’ stocks are the ones to pick ahead of earnings",
-    "link": "https://www.marketwatch.com/story/these-biggest-and-least-loved-stocks-are-the-ones-to-pick-ahead-of-earnings-f7f012e3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T10:38:00+00:00",
-    "summary": "Profit growth will overcome artificial intelligence concerns and lift the S&amp;P 500, says Evercore ISI.",
-    "matched_keywords": [
-      "Artificial Intelligence"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
+    "sentiment_score": 0.4767
   },
   {
     "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
     "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T10:15:00+00:00",
+    "published": "2026-07-13T17:45:00+00:00",
     "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
     "matched_keywords": [
       "AI"
@@ -61,17 +25,81 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed",
-    "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+    "title": "A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says",
+    "link": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T09:27:00+00:00",
-    "summary": "The week is kicking off with fresh spikes for oil prices as the U.S. and Iran continued to exchange attacks.",
+    "published": "2026-07-13T17:10:00+00:00",
+    "summary": "There is a chance the Federal Reserve will need to raise interest rates soon if inflation readings this week disappoint, Fed governor Christopher Waller said Monday.",
     "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "A July rate hike from the Fed? The odds are rising",
+    "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T17:07:51+00:00",
+    "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
+    "matched_keywords": [
+      "Fed",
       "Oil",
       "AI"
     ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+    "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T16:40:00+00:00",
+    "summary": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8658
+  },
+  {
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T16:33:49+00:00",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
+    "sentiment_score": 0.0495
+  },
+  {
+    "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
+    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T15:26:00+00:00",
+    "summary": "The SOX chip index was suffering a unanimous selloff, after SK Hynix’s stock had its worst day in 18 years in South Korea trading.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9169
+  },
+  {
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T15:00:00+00:00",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7968
   },
   {
     "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
@@ -342,30 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9148
-  },
-  {
-    "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
-    "link": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
-    "source": "The Guardian Economics",
-    "published": "2026-07-07T13:21:36+00:00",
-    "summary": "<p>Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’</p><p>Policymakers must act to prevent public debt rising unsustainably in coming decades as the population ages and defence spending rises, the government’s independent economic forecaster has said.</p><p>In a fresh illustration of the challenges facing the prime minister in waiting, Andy Burnham, the Office for Budget Responsibility (OBR) said that without government action “debt would move on to what would be an unsustainable, ever-upward path from around the 2040s”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
-  },
-  {
-    "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
-    "link": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
-    "source": "The Guardian Economics",
-    "published": "2026-07-07T11:00:06+00:00",
-    "summary": "<p>About 57% of polled Americans also believe economy is worsening in grim portrait of cost of living crisis, according to Harris survey for the Guardian</p><p>Ninety-five per cent of Americans believe the US is suffering an affordability crisis, as many report trouble with the rising cost of groceries and gas, according to an exclusive new poll conducted for the Guardian.</p><p>The survey, conducted by Harris Poll, paints a bleak picture of how people feel about the <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> amid the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war in Iran</a> and ahead of the key <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> this fall.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9682
   }
 ]
