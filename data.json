@@ -1,9 +1,120 @@
 [
   {
+    "title": "Global oil prices on track to notch back-to-back rise, remain ‘tethered to the Hormuz narrative’",
+    "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T17:40:00+00:00",
+    "summary": "Global oil prices Tuesday were on track to notch their largest two-day rise since mid-March, buoyed by further escalation in the U.S.-Iran conflict.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T17:31:00+00:00",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7968
+  },
+  {
+    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-14T17:29:07+00:00",
+    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "Health officials reportedly looking into Taco Bell, as source of parasite outbreak remains elusive",
+    "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T17:28:00+00:00",
+    "summary": "Shares of Yum Brands were down nearly 4% on Tuesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
+    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-14T17:26:37+00:00",
+    "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "Sky-high returns and earnings expectations could mean the end is near for this stock-market bull run",
+    "link": "https://www.marketwatch.com/story/sky-high-returns-and-earnings-expectations-could-mean-the-end-is-near-for-this-stock-market-bull-run-429b4085?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T17:12:00+00:00",
+    "summary": "Never since 1950 have the S&amp;P 500’s price and earnings both been so far above the historical trend at one time, one strategist said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T17:00:00+00:00",
+    "summary": "“I’ve just been ignoring their attempts.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
+    "link": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+    "source": "The Guardian Economics",
+    "published": "2026-07-14T16:56:56+00:00",
+    "summary": "<p>Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last year</p><p>Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.</p><p>The consumer price index (CPI), which measures a basket of goods and services, has been elevated since the start of the war, largely because of higher energy prices. After mostly staying under 3% since mid-2024, CPI reached a three-year high of 4.2% in May – up from 2.4% in February. Month-over-month, CPI fell 0.8% in June, the largest one-month decrease since April 2020.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Trump forced to refund billions in tariffs – The Latest",
+    "link": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
+    "source": "The Guardian Economics",
+    "published": "2026-07-14T16:17:48+00:00",
+    "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to Chris Michael, an international editor for Guardian US <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7506
+  },
+  {
     "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
     "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T12:30:00+00:00",
+    "published": "2026-07-14T16:00:00+00:00",
     "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
     "matched_keywords": [
       "AI"
@@ -12,65 +123,17 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "AI vs. robo advisers: How they stack up against each other —and human financial advisers",
-    "link": "https://www.marketwatch.com/story/ai-vs-robo-advisers-how-they-stack-up-against-each-other-and-human-financial-advisers-3132bb3d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T12:00:00+00:00",
-    "summary": "Robo advisers are getting smarter as AI capabilities increase — but how much control are investors willing to hand over?",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7876
-  },
-  {
-    "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
-    "link": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T11:53:00+00:00",
-    "summary": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "Why SpaceX and Tesla are ‘value’ stocks, according to this fund manager",
-    "link": "https://www.marketwatch.com/story/why-spacex-and-tesla-are-value-stocks-according-to-this-fund-manager-5f59ff86?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T11:52:00+00:00",
-    "summary": "Tesla and SpaceX may be winners in the next evolution of value investing, says the president and chief investment officer of Tsai Capital, Christopher Tsai.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
-    "title": "Airbnb co-founder is bullish on tokenization of real-world assets — but one thing is key",
-    "link": "https://www.marketwatch.com/story/airbnb-co-founder-is-bullish-on-tokenization-of-real-world-assets-but-one-thing-is-key-9672818c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T11:27:00+00:00",
-    "summary": "Airbnb founder and CEO thinks the success of  tokenizing real-world assets depends on trust embedded in the governance and trustworthiness of the hosting system itself.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9485
-  },
-  {
     "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises",
     "link": "https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets",
     "source": "The Guardian Economics",
     "published": "2026-07-14T11:24:04+00:00",
-    "summary": "<p>Stock markets fall as analysts price in two quarter-point UK rate rises by the end of the year</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-strikes-chinas-exports-surge-ai-boom-live-updates\">Business live – latest updates</a></p></li></ul><p>Oil and gas prices have jumped and expectations of interest rate rises in Europe have increased after the <a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">US carried out a third night of military strikes against Iran</a>.</p><p>Brent crude, the international benchmark for oil prices, rose by as much as 4.6% to $87.08 a barrel on Tuesday, its highest level in just over a month.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets\">Continue reading...</a>",
+    "summary": "<p>Energy prices later stabilise after Trump abandons plan for 20% levy on traffic through strait of Hormuz </p><p>Oil and gas prices jumped and expectations of interest rate rises in Europe increased on Tuesday after the <a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">US carried out a third night of military strikes against Iran</a>.</p><p>However, they later eased back after Donald Trump said <a href=\"https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers\">he would abandon</a> his proposal for the US to levy a 20% fee on cargo passing through the strait of Hormuz.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.6705
   },
   {
     "title": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
@@ -306,67 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-    "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T19:05:47+00:00",
-    "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict",
-    "link": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T17:45:24+00:00",
-    "summary": "Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "UK Treasury yet to do due diligence on finding extra money for defence",
-    "link": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-    "source": "The Guardian Economics",
-    "published": "2026-07-08T15:30:17+00:00",
-    "summary": "<p>How to hit the 3.5% of GDP spending promise made to Nato would be a matter for the next prime minister, MPs told</p><p>The Treasury has as yet carried out no analysis of the trade-offs necessary for the UK to hit the 3.5% of GDP defence spending promise made to Nato, the department’s chief secretary has said.</p><p>Under robust questioning in a joint session of the Treasury and defence committees on Wednesday, Lucy Rigby repeatedly said funding additional defence spending would be a matter for “the next prime minister”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8625
-  },
-  {
-    "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-    "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T14:28:30+00:00",
-    "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-    "link": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-    "source": "The Guardian Economics",
-    "published": "2026-07-08T13:00:32+00:00",
-    "summary": "<p>July update projects GDP growth of 1% this year, making UK the third fastest-growing economy in the G7</p><p>The International Monetary Fund (IMF) has upgraded its growth forecast for the UK, while leaving those for other G7 countries weaker or unchanged, amid hopes the economic impact of the Iran war may be less severe than feared.</p><p>In a July update of its World Economic Outlook, which was finalised before the latest <a href=\"https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz\">outbreak of hostilities in the Middle East</a>, the Washington-based organisation projected UK gross domestic product to grow by 1% this year – up 0.2 percentage points from <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">its April forecast</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9083
   }
 ]
