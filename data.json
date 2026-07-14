@@ -1,22 +1,21 @@
 [
   {
-    "title": "Global oil prices top $82 a barrel, heading for biggest jump in 3 months after Trump reimposes Strait of Hormuz blockade",
-    "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T18:19:00+00:00",
-    "summary": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
+    "published": "2026-07-13T23:30:00+00:00",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7968
   },
   {
     "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
     "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T17:45:00+00:00",
+    "published": "2026-07-13T23:03:00+00:00",
     "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
     "matched_keywords": [
       "AI"
@@ -25,18 +24,78 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says",
-    "link": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T17:10:00+00:00",
-    "summary": "There is a chance the Federal Reserve will need to raise interest rates soon if inflation readings this week disappoint, Fed governor Christopher Waller said Monday.",
+    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
+    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
+    "source": "The Guardian Economics",
+    "published": "2026-07-13T23:01:13+00:00",
+    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.577
+  },
+  {
+    "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T22:50:00+00:00",
+    "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6573
+  },
+  {
+    "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
+    "link": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T20:48:00+00:00",
+    "summary": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.",
+    "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T20:35:00+00:00",
+    "summary": "How to satisfy your inner trader without derailing your long-term investment goals.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+    "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-13T20:32:00+00:00",
+    "summary": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8658
+  },
+  {
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T19:15:25+00:00",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0495
   },
   {
     "title": "A July rate hike from the Fed? The odds are rising",
@@ -51,55 +110,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2023
-  },
-  {
-    "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-    "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T16:40:00+00:00",
-    "summary": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8658
-  },
-  {
-    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T16:33:49+00:00",
-    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0495
-  },
-  {
-    "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
-    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T15:26:00+00:00",
-    "summary": "The SOX chip index was suffering a unanimous selloff, after SK Hynix’s stock had its worst day in 18 years in South Korea trading.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9169
-  },
-  {
-    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T15:00:00+00:00",
-    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7968
   },
   {
     "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
@@ -357,18 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "Recession off the cards but Australia faces dreary outlook, economists say",
-    "link": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
-    "source": "The Guardian Economics",
-    "published": "2026-07-07T15:00:06+00:00",
-    "summary": "<p>De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinch</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears of a recession have fallen away, with economists saying Australia is set to safely navigate the <a href=\"https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel\">biggest global oil supply shock</a> in history even as they warn of substandard growth in the year ahead.</p><p>The de-escalation of the Middle East conflict has been accompanied by <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">a major retreat in global oil prices</a> back to prewar levels, essentially removing the worst-case scenarios contemplated before Donald Trump’s wobbly ceasefire with Iran was announced in mid-June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9148
   }
 ]
