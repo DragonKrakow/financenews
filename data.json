@@ -1,5 +1,43 @@
 [
   {
+    "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
+    "link": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
+    "source": "The Guardian Economics",
+    "published": "2026-07-14T05:00:20+00:00",
+    "summary": "<p>Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approval</p><p>The UK’s North Sea oil industry has made a last-ditch attempt to curry favour with the Labour government by appealing to Andy Burnham’s reindustrialisation agenda just days before he is expected to become Britain’s next prime minister.</p><p>Industry lobbyists have written to more than 400 Labour MPs to call on the government’s new leaders to allow more oil and gas drilling in UK waters to support homegrown energy and show “a commitment to UK manufacturing, industrial capability and the skilled workforce that has powered the nation for generations”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8807
+  },
+  {
+    "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-14T02:30:00+00:00",
+    "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6573
+  },
+  {
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-14T00:31:01+00:00",
+    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
     "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
     "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,19 +72,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.577
-  },
-  {
-    "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-13T22:50:00+00:00",
-    "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6573
   },
   {
     "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
@@ -343,29 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
-    "link": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
-    "source": "The Guardian Economics",
-    "published": "2026-07-08T05:00:21+00:00",
-    "summary": "<p>Despite promises of successive governments, gap between richest and poorest areas consistent since 1997</p><p>Britain’s deep regional income divide has barely changed in 30 years despite the promises of successive governments to narrow the gap, according to a report showing the challenge for Andy Burnham.</p><p>As the <a href=\"https://www.theguardian.com/politics/2026/jun/29/burnham-sets-out-vision-to-transform-britain-and-fix-broken-system\">prime minister-in-waiting</a> prepares for government, the Resolution Foundation said almost no progress had been made since 1997 to tackle stark divisions in household income, before housing costs are taken into account, between the richest and poorest parts of the country.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0059
-  },
-  {
-    "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
-    "link": "https://www.cnbc.com/2026/07/07/buy-these-quality-low-stress-stocks-for-the-summer-says-jefferies.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-07T15:45:33+00:00",
-    "summary": "This summer, Jefferies recommends focusing on some high-quality stocks that have been left behind by the AI momentum trade.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   }
 ]
