@@ -1,5 +1,90 @@
 [
   {
+    "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
+    "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T12:21:33+00:00",
+    "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T12:14:59+00:00",
+    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T12:10:02+00:00",
+    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T12:00:00+00:00",
+    "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Industrials could be the next big bottleneck trade. Here are some stocks that could benefit.",
+    "link": "https://www.marketwatch.com/story/industrials-could-be-the-next-big-bottleneck-trade-here-are-some-stocks-that-could-benefit-7f14a376?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T11:00:00+00:00",
+    "summary": "The next big bottleneck trade might have more to do with bearings than microchips.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T10:15:00+00:00",
+    "summary": "“I’ve just been ignoring their attempts.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "Labour should ditch triple-lock pensions promise, says OECD",
+    "link": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
+    "source": "The Guardian Economics",
+    "published": "2026-07-15T09:00:51+00:00",
+    "summary": "<p>Organisation’s experts say pledge puts pressure on UK public finances and ‘adds significant fiscal risks’</p><p>Labour should ditch the triple-lock pensions promise to help tackle the UK’s straitened public finances, the Organisation for Economic Cooperation and Development has urged.</p><p>In its latest survey of the UK economy, the Paris-based club of industrialised nations added its voice to those calling for an end to the pledge, <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">which uprates the state pension each year</a> by whichever is the highest of wage growth, inflation or 2.5%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
     "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
     "link": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
     "source": "The Guardian Economics",
@@ -23,54 +108,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5023
-  },
-  {
-    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-    "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T00:28:00+00:00",
-    "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T22:15:00+00:00",
-    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7968
-  },
-  {
-    "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-    "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T21:38:00+00:00",
-    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
-    "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
-    "link": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-14T21:10:00+00:00",
-    "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
   },
   {
     "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
@@ -334,41 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
-    "link": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
-    "source": "The Guardian Economics",
-    "published": "2026-07-09T13:27:57+00:00",
-    "summary": "<p>Economists including Jim O’Neill write open letter calling for single levy to replace six key taxes to raise money for public services</p><p>Prominent economists including Jim O’Neill, an ally of Andy Burnham, are urging the MP for Makerfield to pursue radical tax and spending reform to “unlock the gridlock that plagues the country” when he is confirmed as prime minister.</p><p>O’Neill joins Jonathan Portes, an economics professor at King’s College London, and Danny Sriskandarajah, the chief executive of the New Economics Foundation, in calling for bold action in an open letter.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
-    "link": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
-    "source": "The Guardian Economics",
-    "published": "2026-07-09T12:13:07+00:00",
-    "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3321
-  },
-  {
-    "title": "China warns about AI risks with Anthropic's Claude Code",
-    "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-09T01:24:02+00:00",
-    "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   }
 ]
