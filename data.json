@@ -1,5 +1,30 @@
 [
   {
+    "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
+    "link": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
+    "source": "The Guardian Economics",
+    "published": "2026-07-15T05:00:46+00:00",
+    "summary": "<p>Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviews</p><p>Labour must stop “simply writing a cheque” for health and disability benefit claimants and will provide more job support instead, the work and pensions secretary has said.</p><p>Pat McFadden said the government was preparing to launch a renewed effort at welfare reform with a focus on encouraging more people with health conditions to get into work and off benefits.</p> <a href=\"https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8548
+  },
+  {
+    "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
+    "source": "The Guardian Economics",
+    "published": "2026-07-15T02:53:48+00:00",
+    "summary": "<p>Coherent decision-making and internal accountability are critical to meeting this manic moment</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment\">Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment</a></p></li></ul><p>The University of Sydney was the natural setting for Anthony Albanese to lay out his vision for how Australia should confront the profound economic and social challenges posed by so-called artificial intelligence technology.</p><p>His time around the jacaranda and sandstone in the early 80s was a seminal marker in the future PM’s development, not as a scholar but as a rabble-rousing organiser honing skills that would make him the political grandmaster of his generation.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
+  },
+  {
     "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
     "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -345,30 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4767
-  },
-  {
-    "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
-    "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T21:59:27+00:00",
-    "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
-    "matched_keywords": [
-      "Regulation"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-    "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-08T19:05:47+00:00",
-    "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
