@@ -1,5 +1,115 @@
 [
   {
+    "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+    "link": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T18:07:00+00:00",
+    "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8223
+  },
+  {
+    "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
+    "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T17:31:41+00:00",
+    "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T17:30:00+00:00",
+    "summary": "“I’ve just been ignoring their attempts.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "Warsh won’t say if he’s spoken with Trump since taking the Fed’s helm",
+    "link": "https://www.marketwatch.com/story/warsh-wont-say-if-hes-spoken-with-trump-since-taking-the-feds-helm-45dd7d26?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T17:27:00+00:00",
+    "summary": "Senate Democrats are uneasy about White House influence at central bank.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T17:22:51+00:00",
+    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
+    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T17:18:00+00:00",
+    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T16:19:08+00:00",
+    "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T14:58:54+00:00",
+    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T13:44:44+00:00",
+    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
     "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
     "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
     "source": "CNBC Finance",
@@ -11,66 +121,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
-  },
-  {
-    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T12:14:59+00:00",
-    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes",
-    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T12:10:02+00:00",
-    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-    "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T12:00:00+00:00",
-    "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Industrials could be the next big bottleneck trade. Here are some stocks that could benefit.",
-    "link": "https://www.marketwatch.com/story/industrials-could-be-the-next-big-bottleneck-trade-here-are-some-stocks-that-could-benefit-7f14a376?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T11:00:00+00:00",
-    "summary": "The next big bottleneck trade might have more to do with bearings than microchips.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T10:15:00+00:00",
-    "summary": "“I’ve just been ignoring their attempts.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
   },
   {
     "title": "Labour should ditch triple-lock pensions promise, says OECD",
@@ -165,7 +215,7 @@
     "link": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
     "source": "The Guardian Economics",
     "published": "2026-07-14T16:17:48+00:00",
-    "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to Chris Michael, the International editor for Guardian US <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
+    "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to international editor Chris Michael <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -322,54 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
-  },
-  {
-    "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-    "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-    "source": "The Guardian Economics",
-    "published": "2026-07-10T07:00:14+00:00",
-    "summary": "<p>Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans</p><p>Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.</p><p>More was spent on servicing foreign debt than on education in 113 developing countries in 2025, according to research by the UN’s culture and education agency, Unesco. In sub-Saharan Africa, <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000398572\">countries spent 3.6 times more on debt than education</a>.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9238
-  },
-  {
-    "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-    "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-09T19:53:20+00:00",
-    "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-    "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-09T19:44:17+00:00",
-    "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-    "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-09T15:00:50+00:00",
-    "summary": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   }
 ]
