@@ -1,15 +1,78 @@
 [
   {
+    "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
+    "link": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T00:25:00+00:00",
+    "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+    "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T00:22:00+00:00",
+    "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+    "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-15T23:00:00+00:00",
+    "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T22:05:14+00:00",
+    "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
     "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
     "link": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T18:07:00+00:00",
+    "published": "2026-07-15T21:43:00+00:00",
     "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8223
+  },
+  {
+    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-15T18:45:53+00:00",
+    "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7574
   },
   {
     "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
@@ -24,30 +87,6 @@
     "sentiment_score": 0.2732
   },
   {
-    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T17:30:00+00:00",
-    "summary": "“I’ve just been ignoring their attempts.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
-  },
-  {
-    "title": "Warsh won’t say if he’s spoken with Trump since taking the Fed’s helm",
-    "link": "https://www.marketwatch.com/story/warsh-wont-say-if-hes-spoken-with-trump-since-taking-the-feds-helm-45dd7d26?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T17:27:00+00:00",
-    "summary": "Senate Democrats are uneasy about White House influence at central bank.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
     "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
     "source": "CNBC Finance",
@@ -58,32 +97,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
-    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T17:18:00+00:00",
-    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T16:19:08+00:00",
-    "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   },
   {
     "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
@@ -158,19 +171,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5023
-  },
-  {
-    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-14T19:50:48+00:00",
-    "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7574
   },
   {
     "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
