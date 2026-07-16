@@ -1,21 +1,82 @@
 [
   {
-    "title": "UK economy grew by 0.1% in May despite impact of Iran war",
-    "link": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-07-16T06:03:39+00:00",
-    "summary": "<p>Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics show</p><p>The UK economy grew by 0.1% in May, despite the impact of the Iran war on energy costs, official figures show.</p><p>The Office for National Statistics said GDP rose, in line with economists’ forecasts, <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth#:~:text=UK%20economy%20shrank%20by%200.1,growth%20(GDP)%20%7C%20The%20Guardian\">following a 0.1% decline in April</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">Continue reading...</a>",
+    "title": "The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market",
+    "link": "https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T12:30:00+00:00",
+    "summary": "OpenAI is going down, and taking investors and an entire industry with it, argues artificial-intelligence critic Ed Zitron.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
+    "sentiment_score": -0.8164
+  },
+  {
+    "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-16T12:19:34+00:00",
+    "summary": "<p>Green leader says expected appointment shows new PM ‘won’t challenge the power of the bankers, or tax their wealth’</p><p>Couples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA says <a href=\"https://www.gov.uk/government/consultations/tying-the-knot-reforming-weddings-law-in-england-and-wales\">a government consultation announced today</a>, covering rules in England and Wales, could help cut the costs of <em>weddings</em> and mean two ceremonies are no longer required to cover different faiths. PA says:</p><p>The average <em>wedding</em> in England is estimated to cost more than £20,000, with venue hire alone typically accounting for around £6,000 without catering.</p><p>The system as it stands means some couples have two ceremonies – one where they feel their beliefs are best reflected and another making their marriage legal.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+    "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T12:15:00+00:00",
+    "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
+    "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T12:07:00+00:00",
+    "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+    "matched_keywords": [
+      "Aerospace",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8555
+  },
+  {
+    "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+    "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T12:03:00+00:00",
+    "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The stock market has a ‘Magnificent Seven’ problem — but not the one bears are warning about",
+    "link": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T11:50:00+00:00",
+    "summary": "Wall Street is terrified of a trillion-dollar AI bill — but the payoff is in sight.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8873
   },
   {
     "title": "AI is so big, it’s now impossible for investors to avoid",
     "link": "https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T00:59:00+00:00",
+    "published": "2026-07-16T11:43:00+00:00",
     "summary": "Exposure to the artificial-intelligence boom has become virtually impossible for investors to avoid. The theme hasn’t just cornered the stock market. It has systematically swallowed up corporate credit and venture capital, too.",
     "matched_keywords": [
       "AI"
@@ -24,40 +85,16 @@
     "sentiment_score": -0.4404
   },
   {
-    "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-    "link": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T00:25:00+00:00",
-    "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-    "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T00:22:00+00:00",
-    "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-    "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-15T23:00:00+00:00",
-    "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+    "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+    "link": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+    "source": "The Guardian Economics",
+    "published": "2026-07-16T07:36:05+00:00",
+    "summary": "<p>Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics show</p><p>The UK economy returned to growth in May, despite the impact of the Iran war on energy costs, official figures show.</p><p>The Office for National Statistics said GDP rose 0.1% in May, in line with economists’ forecasts, <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth#:~:text=UK%20economy%20shrank%20by%200.1,growth%20(GDP)%20%7C%20The%20Guardian\">after a 0.1% decline in April</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
+    "sentiment_score": -0.6249
   },
   {
     "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
@@ -335,42 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8779
-  },
-  {
-    "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
-    "link": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
-    "source": "The Guardian Economics",
-    "published": "2026-07-12T07:00:11+00:00",
-    "summary": "<p>Weather cycle threatens harvests worldwide, adding to inflation already fuelled by the Iran war</p><p>Economists are warning that a “super” <a href=\"https://www.theguardian.com/environment/elnino\">El Niño</a> weather cycle this year could cause a severe shock to global food prices lasting into 2028.</p><p>As the Iran war pushes up world food prices to the highest level in three years, economists said supply chains faced “two shocks at once” stoked by extreme weather linked to global heating.</p> <a href=\"https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9538
-  },
-  {
-    "title": "These underperforming trades could yield big returns over next six months",
-    "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-11T15:00:01+00:00",
-    "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8583
-  },
-  {
-    "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-    "link": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-    "source": "The Guardian Economics",
-    "published": "2026-07-11T06:00:41+00:00",
-    "summary": "<p>Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on development</p><p>Influential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on international development and chart a course back to spending 0.7% of national income on overseas aid.</p><p>In a collection of essays to be published soon by the New Economics Foundation (NEF) thinktank, MPs lay out proposals for a Burnham-led government to rethink foreign policy.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
