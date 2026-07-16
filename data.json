@@ -1,58 +1,33 @@
 [
   {
-    "title": "The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market",
-    "link": "https://www.marketwatch.com/story/the-lehman-brothers-of-the-ai-bubble-is-coming-says-this-critic-warning-of-a-fallout-for-tech-and-the-entire-market-eec47e4d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T12:30:00+00:00",
-    "summary": "OpenAI is going down, and taking investors and an entire industry with it, argues artificial-intelligence critic Ed Zitron.",
+    "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+    "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-16T18:12:21+00:00",
+    "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8164
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
   },
   {
-    "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+    "title": "‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor",
+    "link": "https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor",
     "source": "The Guardian Economics",
-    "published": "2026-07-16T12:19:34+00:00",
-    "summary": "<p>Green leader says expected appointment shows new PM ‘won’t challenge the power of the bankers, or tax their wealth’</p><p>Couples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA says <a href=\"https://www.gov.uk/government/consultations/tying-the-knot-reforming-weddings-law-in-england-and-wales\">a government consultation announced today</a>, covering rules in England and Wales, could help cut the costs of <em>weddings</em> and mean two ceremonies are no longer required to cover different faiths. PA says:</p><p>The average <em>wedding</em> in England is estimated to cost more than £20,000, with venue hire alone typically accounting for around £6,000 without catering.</p><p>The system as it stands means some couples have two ceremonies – one where they feel their beliefs are best reflected and another making their marriage legal.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-07-16T18:00:45+00:00",
+    "summary": "<p>The home secretary, favourite to take over at No 11, has minimal economic credentials and many MPs would prefer Ed Miliband</p><p>Andy Burnham last month promised the UK he would bring “good growth in every postcode and hope in every heart” when he is installed as prime minister. Britain’s industry leaders also have a hope in their hearts: that Burnham will install a pro-business chancellor.</p><p>The energy secretary, Ed Miliband, was for several weeks seen as the most likely candidate to succeed Rachel Reeves but, after a brutal briefing battle and a backlash from big business, the home secretary, <a href=\"https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor\">Shabana Mahmood, appears to have emerged as the frontrunner</a>. Now businesses are scrambling to try to work out how she might run the economy if confirmed in the Treasury on Monday.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-    "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T12:15:00+00:00",
-    "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
-  },
-  {
-    "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
-    "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T12:07:00+00:00",
-    "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
-    "matched_keywords": [
-      "Aerospace",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
     "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
     "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T12:03:00+00:00",
+    "published": "2026-07-16T18:00:00+00:00",
     "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
     "matched_keywords": [
       "AI"
@@ -61,28 +36,66 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "The stock market has a ‘Magnificent Seven’ problem — but not the one bears are warning about",
-    "link": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
+    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
+    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T11:50:00+00:00",
-    "summary": "Wall Street is terrified of a trillion-dollar AI bill — but the payoff is in sight.",
+    "published": "2026-07-16T17:59:00+00:00",
+    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8873
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
   },
   {
-    "title": "AI is so big, it’s now impossible for investors to avoid",
-    "link": "https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories",
+    "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T11:43:00+00:00",
-    "summary": "Exposure to the artificial-intelligence boom has become virtually impossible for investors to avoid. The theme hasn’t just cornered the stock market. It has systematically swallowed up corporate credit and venture capital, too.",
+    "published": "2026-07-16T17:42:00+00:00",
+    "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+    "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-16T17:18:17+00:00",
+    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5414
+  },
+  {
+    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-16T17:07:36+00:00",
+    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-16T16:45:22+00:00",
+    "summary": "<p>This blog is now closed, you can read more on this story <a href=\"https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords\">here</a></p><p>Couples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA says <a href=\"https://www.gov.uk/government/consultations/tying-the-knot-reforming-weddings-law-in-england-and-wales\">a government consultation announced today</a>, covering rules in England and Wales, could help cut the costs of <em>weddings</em> and mean two ceremonies are no longer required to cover different faiths. PA says:</p><p>The average <em>wedding</em> in England is estimated to cost more than £20,000, with venue hire alone typically accounting for around £6,000 without catering.</p><p>The system as it stands means some couples have two ceremonies – one where they feel their beliefs are best reflected and another making their marriage legal.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "UK economy grew by 0.1% in May despite impact of Iran war",
@@ -146,18 +159,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
-    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T14:58:54+00:00",
-    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   },
   {
     "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
