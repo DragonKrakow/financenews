@@ -1,89 +1,51 @@
 [
   {
-    "title": "Oil prices are up 13% in a week — and could head for more than $100 a barrel",
-    "link": "https://www.marketwatch.com/story/oil-prices-are-up-13-in-a-week-and-could-head-for-more-than-100-a-barrel-7c8021ed?mod=mw_rss_topstories",
+    "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
+    "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T12:19:00+00:00",
-    "summary": "West Texas Intermediate and Brent crude both saw their largest one-week percentage gains in months.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "Airbnb co-founder says his X account was hacked as he deletes comments about tokenization",
-    "link": "https://www.marketwatch.com/story/airbnb-co-founder-is-bullish-on-tokenization-of-real-world-assets-but-one-thing-is-key-9672818c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T11:53:00+00:00",
-    "summary": "Airbnb founder and CEO has deleted comments about tokenization that were posted to his account.",
+    "published": "2026-07-17T17:27:00+00:00",
+    "summary": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
+    "sentiment_score": -0.6542
   },
   {
-    "title": "The market may be headed for a 40% correction, warns this wealth manager. He flags bargains in overlooked stocks.",
-    "link": "https://www.marketwatch.com/story/the-market-may-be-headed-for-a-40-correction-warns-this-wealth-manager-he-flags-bargains-in-overlooked-stocks-828f88e4?mod=mw_rss_topstories",
+    "title": "Bond yields are sending a new signal about Fed rate hikes",
+    "link": "https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T11:46:00+00:00",
-    "summary": "Ted Oakley of Oxbow Advisors sees a market that is “not normal,” with investors locked into the S&amp;P 500 that is not giving them a diversified portfolio.",
+    "published": "2026-07-17T16:45:00+00:00",
+    "summary": "The benchmark 10-year Treasury is looking like a safety play during a sharp unwind in chip stocks",
     "matched_keywords": [
-      "AI"
+      "Fed"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2991
+    "sentiment_score": 0.8176
   },
   {
-    "title": "Ranch dressing and stuffed raccoons: Some of the World Cup’s biggest winners as Spain and Argentina face off in the final",
-    "link": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
+    "title": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet",
+    "link": "https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T11:01:00+00:00",
-    "summary": "As the World Cup wraps up, the off-field battle for eyeballs, ad dollars and viral fame has already crowned some champions",
+    "published": "2026-07-17T15:55:00+00:00",
+    "summary": "The two main pillars of the economy — consumer spending and business investment — appear to have shrugged off early angst arising from Iran tensions.",
     "matched_keywords": [
-      "Fed",
       "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9306
+  },
+  {
+    "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
+    "link": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
+    "source": "The Guardian Economics",
+    "published": "2026-07-17T14:00:31+00:00",
+    "summary": "<p>Struggling industry seeks to capitalise on Gen Z’s willingness to spend on experiences and comfort</p><p>It had always been the great British festival way: greasy burgers and warm beer, retch-inducing toilets and the descent into dishevelment as roughing it takes its toll.</p><p>But a generation of festivalgoers has emerged who are willing to splash the cash to inject luxury into the experience. This summer, there are signs the under-pressure industry is ramping up its offer, from gleaming private toilets and “pamper parlours” to fine dining, hot tubs, saunas and even a “cold waterfall drench” to keep refreshed.</p> <a href=\"https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving — and these are the stocks to buy there",
-    "link": "https://www.marketwatch.com/story/as-semiconductor-stocks-slump-one-ai-adjacent-sector-is-thriving-and-these-are-the-stocks-to-buy-9c34937c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T10:51:00+00:00",
-    "summary": "Another way to exploit the AI evolution is available for investors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-    "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T10:30:00+00:00",
-    "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Retail investors had been outperforming the market since May. Not any more.",
-    "link": "https://www.marketwatch.com/story/retail-investors-had-been-outperforming-the-market-since-may-not-any-more-8cf1e46d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T10:00:00+00:00",
-    "summary": "Retail investors had a pretty strong two-month stretch when they were outperforming the broader market by as much as 10 percentage points.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
+    "sentiment_score": 0.9477
   },
   {
     "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
@@ -372,5 +334,44 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
+  },
+  {
+    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
+    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
+    "source": "The Guardian Economics",
+    "published": "2026-07-13T23:01:13+00:00",
+    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.577
+  },
+  {
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T19:15:25+00:00",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0495
+  },
+  {
+    "title": "A July rate hike from the Fed? The odds are rising",
+    "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T17:07:51+00:00",
+    "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
