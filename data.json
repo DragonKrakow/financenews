@@ -1,64 +1,89 @@
 [
   {
-    "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+    "title": "Oil prices are up 13% in a week — and could head for more than $100 a barrel",
+    "link": "https://www.marketwatch.com/story/oil-prices-are-up-13-in-a-week-and-could-head-for-more-than-100-a-barrel-7c8021ed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T23:38:00+00:00",
-    "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+    "published": "2026-07-17T12:19:00+00:00",
+    "summary": "West Texas Intermediate and Brent crude both saw their largest one-week percentage gains in months.",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   },
   {
-    "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
-    "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+    "title": "Airbnb co-founder says his X account was hacked as he deletes comments about tokenization",
+    "link": "https://www.marketwatch.com/story/airbnb-co-founder-is-bullish-on-tokenization-of-real-world-assets-but-one-thing-is-key-9672818c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T23:12:00+00:00",
-    "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
-    "matched_keywords": [
-      "Aerospace",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
-  },
-  {
-    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T22:00:00+00:00",
-    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "published": "2026-07-17T11:53:00+00:00",
+    "summary": "Airbnb founder and CEO has deleted comments about tokenization that were posted to his account.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7968
+    "sentiment_score": -0.4019
   },
   {
-    "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
-    "link": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+    "title": "The market may be headed for a 40% correction, warns this wealth manager. He flags bargains in overlooked stocks.",
+    "link": "https://www.marketwatch.com/story/the-market-may-be-headed-for-a-40-correction-warns-this-wealth-manager-he-flags-bargains-in-overlooked-stocks-828f88e4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T21:45:00+00:00",
-    "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
+    "published": "2026-07-17T11:46:00+00:00",
+    "summary": "Ted Oakley of Oxbow Advisors sees a market that is “not normal,” with investors locked into the S&amp;P 500 that is not giving them a diversified portfolio.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
+    "sentiment_score": 0.2991
   },
   {
-    "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
-    "link": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
+    "title": "Ranch dressing and stuffed raccoons: Some of the World Cup’s biggest winners as Spain and Argentina face off in the final",
+    "link": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T21:32:00+00:00",
-    "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
+    "published": "2026-07-17T11:01:00+00:00",
+    "summary": "As the World Cup wraps up, the off-field battle for eyeballs, ad dollars and viral fame has already crowned some champions",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving — and these are the stocks to buy there",
+    "link": "https://www.marketwatch.com/story/as-semiconductor-stocks-slump-one-ai-adjacent-sector-is-thriving-and-these-are-the-stocks-to-buy-9c34937c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-17T10:51:00+00:00",
+    "summary": "Another way to exploit the AI evolution is available for investors.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+    "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-17T10:30:00+00:00",
+    "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Retail investors had been outperforming the market since May. Not any more.",
+    "link": "https://www.marketwatch.com/story/retail-investors-had-been-outperforming-the-market-since-may-not-any-more-8cf1e46d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-17T10:00:00+00:00",
+    "summary": "Retail investors had a pretty strong two-month stretch when they were outperforming the broader market by as much as 10 percentage points.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
   },
   {
     "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
@@ -347,30 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
-    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
-    "source": "The Guardian Economics",
-    "published": "2026-07-13T23:01:13+00:00",
-    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.577
-  },
-  {
-    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T19:15:25+00:00",
-    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0495
   }
 ]
