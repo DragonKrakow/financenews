@@ -1,5 +1,80 @@
 [
   {
+    "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T23:38:00+00:00",
+    "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
+    "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T23:12:00+00:00",
+    "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+    "matched_keywords": [
+      "Aerospace",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8555
+  },
+  {
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T22:00:00+00:00",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7968
+  },
+  {
+    "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+    "link": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T21:45:00+00:00",
+    "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+    "link": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-16T21:32:00+00:00",
+    "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+    "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-16T18:50:42+00:00",
+    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5414
+  },
+  {
     "title": "Short sellers load up against SpaceX as stock drops below IPO price",
     "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
     "source": "CNBC Finance",
@@ -22,56 +97,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-    "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T18:00:00+00:00",
-    "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
-    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T17:59:00+00:00",
-    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-16T17:42:00+00:00",
-    "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-    "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-16T17:18:17+00:00",
-    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5414
   },
   {
     "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
@@ -347,31 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0495
-  },
-  {
-    "title": "A July rate hike from the Fed? The odds are rising",
-    "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T17:07:51+00:00",
-    "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
-    "link": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
-    "source": "The Guardian Economics",
-    "published": "2026-07-12T11:01:33+00:00",
-    "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
   }
 ]
