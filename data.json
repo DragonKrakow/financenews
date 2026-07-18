@@ -1,5 +1,56 @@
 [
   {
+    "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
+    "link": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T12:00:00+00:00",
+    "summary": "It’s ‘like driving one more nail into the proverbial coffin,’ says a rancher about the recent deterioration in U.S. agriculture data",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-18T11:31:03+00:00",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Will the Fed hike interest rates this month?",
+    "link": "https://www.marketwatch.com/story/will-the-fed-hike-interest-rates-this-month-6e8f952a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T11:00:00+00:00",
+    "summary": "Kevin Warsh’s testimony to Congress “offered some heat but not a lot of new light” on the outlook for interest rates, one economist said.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+    "link": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-07-18T10:00:02+00:00",
+    "summary": "<p>Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy</p><p>The scale of the graft is decidedly off the charts, but the <a href=\"https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025\">revelation</a> that Donald Trump raked in a personal fortune of <a href=\"https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-as-president\">$2.2bn</a> during his first year in office should come as no surprise. The president didn’t even try to hide his venality. Not only did he refuse to sell businesses and put assets in a blind trust, as other presidents have done to limit opportunities for self-dealing; the quid pro quos with foreign governments and assorted magnates were exposed for all to see.</p><p>It is troubling that the president of the United States would so nonchalantly deploy his official powers to profit from dealings with <a href=\"https://www.bbc.com/news/articles/cly1qrl9l1qo\">money launderers</a> and <a href=\"https://www.nytimes.com/2026/02/01/us/politics/trump-crypto-uae-world-liberty.html\">Middle Eastern princes</a>. It is perhaps more so that the supposedly robust checks and balances upholding American governance proved powerless to stop him. (Here’s waiting for the supreme court to define Trump’s dealings as “<a href=\"https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law\">official acts</a>” in order to exonerate him.)</p> <a href=\"https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6929
+  },
+  {
     "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
     "link": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -322,56 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
-    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
-    "source": "The Guardian Economics",
-    "published": "2026-07-13T23:01:13+00:00",
-    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.577
-  },
-  {
-    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T19:15:25+00:00",
-    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0495
-  },
-  {
-    "title": "A July rate hike from the Fed? The odds are rising",
-    "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T17:07:51+00:00",
-    "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
-    "link": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
-    "source": "The Guardian Economics",
-    "published": "2026-07-12T11:01:33+00:00",
-    "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
   }
 ]
