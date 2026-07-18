@@ -1,39 +1,27 @@
 [
   {
-    "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
-    "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
+    "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
+    "link": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T17:27:00+00:00",
-    "summary": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
+    "published": "2026-07-17T22:31:00+00:00",
+    "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6542
+    "sentiment_score": -0.2732
   },
   {
-    "title": "Bond yields are sending a new signal about Fed rate hikes",
-    "link": "https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories",
+    "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
+    "link": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T16:45:00+00:00",
-    "summary": "The benchmark 10-year Treasury is looking like a safety play during a sharp unwind in chip stocks",
+    "published": "2026-07-17T21:55:00+00:00",
+    "summary": "It has been a good week to be average on Wall Street.",
     "matched_keywords": [
-      "Fed"
+      "Semiconductors"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet",
-    "link": "https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T15:55:00+00:00",
-    "summary": "The two main pillars of the economy — consumer spending and business investment — appear to have shrugged off early angst arising from Iran tensions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9306
+    "sentiment_score": 0.5106
   },
   {
     "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
@@ -373,5 +361,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2023
+  },
+  {
+    "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
+    "link": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
+    "source": "The Guardian Economics",
+    "published": "2026-07-12T11:01:33+00:00",
+    "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8779
   }
 ]
