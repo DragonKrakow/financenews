@@ -1,21 +1,9 @@
 [
   {
-    "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
-    "link": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T12:00:00+00:00",
-    "summary": "It’s ‘like driving one more nail into the proverbial coffin,’ says a rancher about the recent deterioration in U.S. agriculture data",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
     "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
     "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
     "source": "CNBC Finance",
-    "published": "2026-07-18T11:31:03+00:00",
+    "published": "2026-07-18T18:16:42+00:00",
     "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
     "matched_keywords": [
       "Fed",
@@ -25,18 +13,52 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Will the Fed hike interest rates this month?",
-    "link": "https://www.marketwatch.com/story/will-the-fed-hike-interest-rates-this-month-6e8f952a?mod=mw_rss_topstories",
+    "title": "The stock market has a ‘Magnificent Seven’ problem — but not the one bears are warning about",
+    "link": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T11:00:00+00:00",
-    "summary": "Kevin Warsh’s testimony to Congress “offered some heat but not a lot of new light” on the outlook for interest rates, one economist said.",
+    "published": "2026-07-18T17:03:00+00:00",
+    "summary": "Wall Street is terrified of a trillion-dollar AI bill — but the payoff is in sight.",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8873
+  },
+  {
+    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
+    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T16:50:00+00:00",
+    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+    "link": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T16:31:00+00:00",
+    "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
+    "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T16:14:00+00:00",
+    "summary": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6542
   },
   {
     "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
@@ -49,30 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6929
-  },
-  {
-    "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-    "link": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T01:17:00+00:00",
-    "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
-    "link": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-17T21:55:00+00:00",
-    "summary": "It has been a good week to be average on Wall Street.",
-    "matched_keywords": [
-      "Semiconductors"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
   },
   {
     "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
