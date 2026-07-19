@@ -1,5 +1,29 @@
 [
   {
+    "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+    "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T19:16:00+00:00",
+    "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-18T19:00:00+00:00",
+    "summary": "“I’ve just been ignoring their attempts.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
     "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
     "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
     "source": "CNBC Finance",
@@ -11,54 +35,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "The stock market has a ‘Magnificent Seven’ problem — but not the one bears are warning about",
-    "link": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T17:03:00+00:00",
-    "summary": "Wall Street is terrified of a trillion-dollar AI bill — but the payoff is in sight.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8873
-  },
-  {
-    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
-    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T16:50:00+00:00",
-    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
-    "link": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T16:31:00+00:00",
-    "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
-    "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-18T16:14:00+00:00",
-    "summary": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6542
   },
   {
     "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
@@ -371,5 +347,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
+  },
+  {
+    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
+    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
+    "source": "The Guardian Economics",
+    "published": "2026-07-13T23:01:13+00:00",
+    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.577
+  },
+  {
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-13T19:15:25+00:00",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0495
   }
 ]
