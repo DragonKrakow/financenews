@@ -1,5 +1,29 @@
 [
   {
+    "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
+    "link": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
+    "source": "The Guardian Economics",
+    "published": "2026-07-19T11:16:50+00:00",
+    "summary": "<p>Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far</p><p>It’s almost all over. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa <a href=\"https://www.theguardian.com/football/world-cup-2026\">World Cup</a> 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch.</p><p>Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.</p> <a href=\"https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
+    "link": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+    "source": "The Guardian Economics",
+    "published": "2026-07-19T09:00:22+00:00",
+    "summary": "<p>Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public finances</p><p>Restoring the deteriorating health of the UK’s population to the level of 2014 would boost GDP by 2% and generate a £72bn dividend for the public finances, research suggests.</p><p>A <a href=\"https://www.health.org.uk/reports-and-analysis/reports/health-as-an-economic-asset\">paper by the Health Foundation thinktank</a>, published on Sunday, argues the nation’s health should be valued by policymakers as an economic asset.</p> <a href=\"https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
     "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
     "link": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
     "source": "The Guardian Economics",
@@ -348,29 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8807
-  },
-  {
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-14T00:31:01+00:00",
-    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
-    "link": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
-    "source": "The Guardian Economics",
-    "published": "2026-07-13T23:01:13+00:00",
-    "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.577
   }
 ]
