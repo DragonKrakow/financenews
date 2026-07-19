@@ -1,5 +1,18 @@
 [
   {
+    "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
+    "link": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
+    "source": "The Guardian Economics",
+    "published": "2026-07-19T06:00:20+00:00",
+    "summary": "<p>From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM</p><p>Andy Burnham becomes prime minister as Britain contends with a series of global economic shocks and years of weak growth in living standards, fuelled by underinvestment and deep regional divisions.</p><p>Before his arrival in Downing Street, the Labour leader pledged to deliver “<a href=\"https://www.theguardian.com/politics/2026/jun/28/andy-burnham-to-pledge-good-growth-in-every-postcode-in-devolution-plan\">good growth in every postcode</a>” by transferring power from Westminster to local communities. But with the public finances under pressure, and time running out before the next general election, the task is not straightforward.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
     "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
     "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,18 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.577
-  },
-  {
-    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-13T19:15:25+00:00",
-    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0495
   }
 ]
