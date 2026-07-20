@@ -1,5 +1,30 @@
 [
   {
+    "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
+    "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-20T00:16:00+00:00",
+    "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+    "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-19T22:29:00+00:00",
+    "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.743
+  },
+  {
     "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
     "source": "The Guardian Economics",
@@ -345,31 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4588
-  },
-  {
-    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-14T17:26:37+00:00",
-    "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
-    "link": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-    "source": "The Guardian Economics",
-    "published": "2026-07-14T16:56:56+00:00",
-    "summary": "<p>Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025</p><p>Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.</p><p>The consumer price index (CPI), which measures a basket of goods and services, has been elevated since the start of the war, largely because of higher energy prices. After mostly staying under 3% since mid-2024, CPI reached a three-year high of 4.2% in May – up from 2.4% in February. Month-over-month, CPI fell 0.8% in June, the largest one-month decrease since April 2020.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
   }
 ]
