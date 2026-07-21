@@ -1,45 +1,107 @@
 [
   {
-    "title": "GM’s stock bounces back as revenue grows for the first time in over a year",
-    "link": "https://www.marketwatch.com/story/gms-stock-bounces-back-as-revenue-grows-for-the-first-time-in-over-a-year-d5d95804?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T12:21:00+00:00",
-    "summary": "GM’s stock rises after a beat-and-raise earnings report, as revenue grows to snap a four-quarter streak of declines.",
+    "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+    "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-21T18:23:32+00:00",
+    "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
     "matched_keywords": [
+      "Gold",
       "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Alphabet is pouring record cash into data centers, and earnings will show if that’s paying off",
-    "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T12:06:00+00:00",
-    "summary": "Investors will be looking for more signs of AI monetization when Alphabet reports its earnings Wednesday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live",
-    "link": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T12:02:13+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>More on the cost of living: new figures show that UK grocery inflation eased in the four weeks to 12th July to 2.6%, its lowest rate since December 2024.</p><p>It marks the fifth consecutive month of slowing price rises, <strong>Worldpanel by Numerator </strong>found.</p><p>Easing price rises will come as welcome news to shoppers, but the annual bill tells a fuller story. The average household spent £5,530 on groceries over the past twelve months to July, up £156 on the same period last year - a reminder that even as the rate of inflation cools, the cumulative cost of the weekly shop keeps climbing.</p><p>L&amp;VW agrees that there is an opportunity to enhance the way local government, regulators and Thames Water work together, granting greater public controls on critical business issues to improve delivery of complex, essential infrastructure projects, and demonstrate shared accountability.</p><p>The consortium is willing to make significant new commitments to grant greater controls and oversight to ministers, implemented through a ‘golden share’.</p> <a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Continue reading...</a>",
-    "matched_keywords": [
-      "Gold"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9789
+    "sentiment_score": 0.8625
+  },
+  {
+    "title": "Trump looks set to roll out a new set of tariffs. Will markets care?",
+    "link": "https://www.marketwatch.com/story/trump-looks-set-to-roll-out-a-new-set-of-tariffs-will-markets-care-71097833?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-21T18:16:00+00:00",
+    "summary": "The president is expected to impose fresh import taxes this week, as levies from February are only able to remain in effect for 150 days.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+    "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-21T17:19:00+00:00",
+    "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8674
+  },
+  {
+    "title": "An oil lifeline is under threat, and markets have yet to price in the growing crisis",
+    "link": "https://www.marketwatch.com/story/an-oil-lifeline-is-under-threat-and-markets-have-yet-to-price-in-the-growing-crisis-801d53b1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-21T16:54:00+00:00",
+    "summary": "The Houthis escalated threats on Tuesday, risking millions of barrels of Saudi oil that had been reaching energy markets despite the U.S.-Iran war.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7054
+  },
+  {
+    "title": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says",
+    "link": "https://www.marketwatch.com/story/microsoft-has-3-secret-weapons-that-could-drive-its-stock-50-higher-analyst-says-f1afb554?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-21T16:25:00+00:00",
+    "summary": "Wall Street is misjudging Microsoft’s AI strategy, according to Morgan Stanley.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+    "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-21T15:35:59+00:00",
+    "summary": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+    "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-21T15:12:00+00:00",
+    "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5606
+  },
+  {
+    "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
+    "source": "The Guardian Economics",
+    "published": "2026-07-21T15:00:51+00:00",
+    "summary": "<p>Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The likelihood of a Reserve Bank interest rate hike has doubled according to market forecasts, as the escalating Middle East crisis once again drives fuel prices higher amid dwindling global oil reserves.</p><p>The <a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">total breakdown in the fragile ceasefire</a> between the United States and Iran has sent the international Brent crude benchmark surging by 23% over the past two weeks and back within reach of $US90 a barrel.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8577
   },
   {
     "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
     "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
     "source": "CNBC Finance",
-    "published": "2026-07-21T11:56:14+00:00",
+    "published": "2026-07-21T14:37:08+00:00",
     "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
     "matched_keywords": [
       "AI"
@@ -48,52 +110,17 @@
     "sentiment_score": -0.8225
   },
   {
-    "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-    "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T11:53:00+00:00",
-    "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+    "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - as it happened",
+    "link": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+    "source": "The Guardian Economics",
+    "published": "2026-07-21T14:07:21+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>More on the cost of living: new figures show that UK grocery inflation eased in the four weeks to 12th July to 2.6%, its lowest rate since December 2024.</p><p>It marks the fifth consecutive month of slowing price rises, <strong>Worldpanel by Numerator </strong>found.</p><p>Easing price rises will come as welcome news to shoppers, but the annual bill tells a fuller story. The average household spent £5,530 on groceries over the past twelve months to July, up £156 on the same period last year - a reminder that even as the rate of inflation cools, the cumulative cost of the weekly shop keeps climbing.</p><p>L&amp;VW agrees that there is an opportunity to enhance the way local government, regulators and Thames Water work together, granting greater public controls on critical business issues to improve delivery of complex, essential infrastructure projects, and demonstrate shared accountability.</p><p>The consortium is willing to make significant new commitments to grant greater controls and oversight to ministers, implemented through a ‘golden share’.</p> <a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
-  },
-  {
-    "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
-    "link": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T11:06:00+00:00",
-    "summary": "For the last few years, China’s buying patterns have been an excellent investment signal on gold",
-    "matched_keywords": [
+      "Oil",
       "Gold"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
-    "link": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T10:58:00+00:00",
-    "summary": "Morgan Stanley cut its price target for Adobe by more than a third, citing multiple transitions and the potential for increased competition from artificial-intelligence alternatives.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-21T10:31:00+00:00",
-    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
+    "sentiment_score": 0.9746
   },
   {
     "title": "UK borrows less than expected as Healey vows to ‘buffer against uncertainty’",
@@ -148,7 +175,7 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
     "source": "The Guardian Economics",
     "published": "2026-07-21T02:29:47+00:00",
-    "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
+    "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -343,30 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T18:45:53+00:00",
-    "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7574
-  },
-  {
-    "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-    "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-15T17:31:41+00:00",
-    "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   }
 ]
