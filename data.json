@@ -1,66 +1,101 @@
 [
   {
-    "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-    "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+    "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+    "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-20T17:15:00+00:00",
-    "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
+    "published": "2026-07-21T00:13:00+00:00",
+    "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
     "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+    "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-20T22:55:00+00:00",
+    "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7269
+  },
+  {
+    "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-20T22:30:00+00:00",
+    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+    "source": "The Guardian Economics",
+    "published": "2026-07-20T22:27:04+00:00",
+    "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+    "link": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-20T22:21:00+00:00",
+    "summary": "Moonshot AI’s Kimi K3 could encourage a surge in enterprise workloads and provide a long-term tailwind to chip demand.",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
   },
   {
-    "title": "As Micron’s stock rebounds, Morgan Stanley says investors shouldn’t get spooked by the past",
-    "link": "https://www.marketwatch.com/story/as-microns-stock-rebounds-morgan-stanley-says-investors-shouldnt-get-spooked-by-the-past-6996574b?mod=mw_rss_topstories",
+    "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+    "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-20T17:14:00+00:00",
-    "summary": "Memory chips remain a bottleneck to AI development and demand looks durable, Morgan Stanley analyst says.",
+    "published": "2026-07-20T21:44:00+00:00",
+    "summary": "Shares of salad chains like Cava, Chipotle and Sweetgreen closed lower on Monday.",
     "matched_keywords": [
-      "Chips",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
   },
   {
-    "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
-    "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+    "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
+    "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-20T17:05:00+00:00",
-    "summary": "The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are looking elsewhere.",
+    "published": "2026-07-20T21:11:00+00:00",
+    "summary": "Oil prices settled at one-month highs in volatile trading on Monday as traders weighed escalating geopolitical tensions following a fresh barrage of strikes across the Middle East over the weekend against reports of a new ceasefire proposal between the U.S. and Iran.",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_score": -0.4404
   },
   {
-    "title": "Ranch dressing and stuffed raccoons: Spain isn’t the World Cup’s only winner",
-    "link": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
+    "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+    "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-20T16:39:00+00:00",
-    "summary": "Spain beat Argentina to win the World Cup. But there were some other big victories off the field, too.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "‘I never want to manage people again.’ I’m 33. Should I leave my corporate leadership role to become an assistant?",
-    "link": "https://www.marketwatch.com/story/i-never-want-to-manage-people-again-im-33-should-i-leave-my-corporate-leadership-role-to-become-an-assistant-7df24213?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-20T16:28:00+00:00",
-    "summary": "“I just don’t care about the corporate ladder.”",
+    "published": "2026-07-20T20:55:00+00:00",
+    "summary": "Three years into the AI trade, Wall Street is no closer to agreeing about whether it’s a bubble, how much longer it can keep going or what might ultimately end it.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4172
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
   },
   {
     "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
@@ -335,43 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8548
-  },
-  {
-    "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
-    "link": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
-    "source": "The Guardian Economics",
-    "published": "2026-07-15T02:53:48+00:00",
-    "summary": "<p>Coherent decision-making and internal accountability are critical to meeting this manic moment</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment\">Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment</a></p></li></ul><p>The University of Sydney was the natural setting for Anthony Albanese to lay out his vision for how Australia should confront the profound economic and social challenges posed by so-called artificial intelligence technology.</p><p>His time around the jacaranda and sandstone in the early 80s was a seminal marker in the future PM’s development, not as a scholar but as a rabble-rousing organiser honing skills that would make him the political grandmaster of his generation.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5023
-  },
-  {
-    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-14T17:29:07+00:00",
-    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-14T17:26:37+00:00",
-    "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   }
 ]
