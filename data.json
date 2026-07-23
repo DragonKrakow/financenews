@@ -1,52 +1,66 @@
 [
   {
-    "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
-    "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+    "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+    "link": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-22T18:10:00+00:00",
-    "summary": "Shares of restaurant chains like Cava, Chipotle and Sweetgreen have come under pressure.",
+    "published": "2026-07-23T00:27:00+00:00",
+    "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "Intel earnings will pit red-hot AI demand against a sluggish PC market",
-    "link": "https://www.marketwatch.com/story/intel-earnings-will-pit-red-hot-ai-demand-against-a-sluggish-pc-market-6b9984fe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-22T17:46:00+00:00",
-    "summary": "Intel’s stock has fallen 25% from its June high, but remains a standout gainer in 2026.",
-    "matched_keywords": [
-      "AI"
+      "Fed",
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.431
+    "sentiment_score": -0.802
   },
   {
-    "title": "This the best way to ask strangers on the internet for financial advice",
-    "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+    "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+    "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-22T17:06:00+00:00",
-    "summary": "Whether you’re emailing an expert or posting on a public forum, you need some ground rules",
+    "published": "2026-07-23T00:18:00+00:00",
+    "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-22T22:06:49+00:00",
+    "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+    "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-22T21:01:00+00:00",
+    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
+    "sentiment_score": 0.81
   },
   {
-    "title": "Global oil prices hold gains after topping $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+    "title": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
     "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-22T16:28:00+00:00",
-    "summary": "Oil prices were holding on to their gains after climbing to a six-week high on Wednesday morning after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if Tehran shoots at ships in the Strait of Hormuz.",
+    "published": "2026-07-22T20:10:00+00:00",
+    "summary": "Oil prices settled at six-week highs on Wednesday after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if Tehran fires on ships in the Strait of Hormuz.",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
+    "sentiment_score": -0.8126
   },
   {
     "title": "Kalshi launches election hub for prediction markets ahead of midterms",
@@ -66,12 +80,12 @@
     "link": "https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out",
     "source": "The Guardian Economics",
     "published": "2026-07-22T15:00:19+00:00",
-    "summary": "<p>The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growth</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Economics is a word we are all familiar with, but knowing is different from understanding.</p><p>The Reserve Bank has released its <a href=\"https://www.rba.gov.au/publications/bulletin/2026/jul/listening-to-australians-a-new-rba-survey-of-the-community.html\">latest public survey</a> of Australians to gauge how much we know about how the economy works and how the RBA’s actions affect things like inflation, employment and growth.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out\">Continue reading...</a>",
+    "summary": "<p>The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growth</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Economics is a word we are all familiar with, but knowing is different from understanding.</p><p>The Reserve Bank has released its <a href=\"https://www.rba.gov.au/publications/bulletin/2026/jul/listening-to-australians-a-new-rba-survey-of-the-community.html\">latest public survey</a> of Australians to gauge how much we know about how the economy works and how the RBA’s actions affect things such as inflation, employment and growth.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6994
+    "sentiment_score": 0.3695
   },
   {
     "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
@@ -359,17 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6908
-  },
-  {
-    "title": "UK economy grew by 0.1% in May despite impact of Iran war",
-    "link": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-07-16T07:36:05+00:00",
-    "summary": "<p>Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics show</p><p>The UK economy returned to growth in May, despite the impact of the Iran war on energy costs, official figures show.</p><p>The Office for National Statistics said GDP rose 0.1% in May, in line with economists’ forecasts, <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth#:~:text=UK%20economy%20shrank%20by%200.1,growth%20(GDP)%20%7C%20The%20Guardian\">after a 0.1% decline in April</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   }
 ]
