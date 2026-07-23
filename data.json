@@ -1,39 +1,117 @@
 [
   {
-    "title": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
-    "link": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+    "title": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
+    "link": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T12:16:00+00:00",
-    "summary": "Japan’s pension titan selling foreign assets could push U.S. yields up and sap demand for the dollar.",
+    "published": "2026-07-23T17:49:00+00:00",
+    "summary": "Around $1.5 billion has been deposited into the accounts since their launch earlier this month, the Treasury Department said.",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
   },
   {
-    "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-    "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
+    "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+    "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-23T17:41:22+00:00",
+    "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-23T17:10:06+00:00",
+    "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Most FDA advisers say the BPC-157 peptide should be made available in the U.S. Here’s what happens next.",
+    "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T11:59:00+00:00",
-    "summary": "The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argues JPMorgan.",
+    "published": "2026-07-23T17:08:00+00:00",
+    "summary": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "The rising cost of capital for companies today is starting to spook the stock market: ‘The worry is the spending might not pay off’",
+    "link": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-23T17:04:00+00:00",
+    "summary": "Alphabet says it plans to throw even more money at the AI build-out. The Iran war, oil back at $100 a barrel and rising bond yields make it all the more difficult for the market to stomach.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8518
+  },
+  {
+    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-23T16:56:57+00:00",
+    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9169
+  },
+  {
+    "title": "Trump administration to unveil latest stage of aggressive trade policy",
+    "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+    "source": "The Guardian Economics",
+    "published": "2026-07-23T16:53:42+00:00",
+    "summary": "<p>US president is reportedly preparing fresh wave of sweeping tariffs as previous 10% on much of the world is due to expire</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s administration will unveil the latest stage of his aggressive trade policy on Thursday, the White House has said, amid reports the US president is preparing a fresh wave of sweeping tariffs.</p><p><a href=\"https://www.theguardian.com/us-news/trump-tariffs\">Trump’s tariffs</a> policy suffered a damaging blow in February when the US supreme court <a href=\"https://www.theguardian.com/us-news/2026/feb/20/trump-supreme-court-tariffs-ruling\">ruled</a> that many of those tariffs were illegal. While the US replaced those tariffs with a <a href=\"https://www.theguardian.com/us-news/2026/feb/24/donald-trump-global-tariff-us-levy\">10% tariff regime</a> on much of the world, these are due to expire on Friday.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
+    "sentiment_score": -0.6249
   },
   {
-    "title": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off",
-    "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+    "title": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
+    "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T11:56:00+00:00",
-    "summary": "Lockheed Martin’s stock jumps as a ramp up in missile production helped lead to an earnings beat and raise.",
+    "published": "2026-07-23T16:50:00+00:00",
+    "summary": "Oil futures climbed sharply Thursday, with global benchmark Brent crude topping $100 a barrel for the first time since May, after Yemen’s Houthi militants claimed attacks on two Saudi Arabian tankers in the Red Sea.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7506
+  },
+  {
+    "title": "Are you looking for financial advice? This is the best way to ask for it.",
+    "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-23T16:37:00+00:00",
+    "summary": "Whether you’re emailing an expert or posting on a public forum, you need some ground rules",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
   },
   {
     "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
@@ -48,43 +126,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7783
-  },
-  {
-    "title": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers",
-    "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T11:07:00+00:00",
-    "summary": "Brent crude rose to over $98 a barrel following the news that the rebel group attacked the vessels in the Red Sea.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8689
-  },
-  {
-    "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling",
-    "link": "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T11:04:00+00:00",
-    "summary": "The huge premium commanded by SK Hynix ‘s American depository receipts over its domestically-listed ordinary shares is likely to remain, after restrictions were put in place on the number of ADRs that can be created by converting local shares.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
-  },
-  {
-    "title": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
-    "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T09:48:00+00:00",
-    "summary": "The changing inflation landscape could spell trouble for corporate America.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
   },
   {
     "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
@@ -336,43 +377,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6929
-  },
-  {
-    "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
-    "link": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
-    "source": "The Guardian Economics",
-    "published": "2026-07-17T14:00:31+00:00",
-    "summary": "<p>Struggling industry seeks to capitalise on Gen Z’s willingness to spend on experiences and comfort</p><p>It had always been the great British festival way: greasy burgers and warm beer, retch-inducing toilets and the descent into dishevelment as roughing it takes its toll.</p><p>But a generation of festivalgoers has emerged who are willing to splash the cash to inject luxury into the experience. This summer, there are signs the under-pressure industry is ramping up its offer, from gleaming private toilets and “pamper parlours” to fine dining, hot tubs, saunas and even a “cold waterfall drench” to keep refreshed.</p> <a href=\"https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9477
-  },
-  {
-    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-    "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-16T18:50:42+00:00",
-    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5414
-  },
-  {
-    "title": "Short sellers load up against SpaceX as stock drops below IPO price",
-    "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-16T18:12:21+00:00",
-    "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
