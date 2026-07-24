@@ -1,5 +1,65 @@
 [
   {
+    "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
+    "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T12:29:00+00:00",
+    "summary": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Can AI replace your financial adviser? Why bots still can’t match human judgment.",
+    "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T12:10:00+00:00",
+    "summary": "Before you ask AI how to invest $5,000, read this first.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?",
+    "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T11:50:00+00:00",
+    "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7717
+  },
+  {
+    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T10:30:00+00:00",
+    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "China is winning the war in the Middle East, and gold and the dollar will start to feel it, strategist says",
+    "link": "https://www.marketwatch.com/story/china-is-winning-the-war-in-the-middle-east-and-gold-and-the-dollar-will-start-to-feel-it-strategist-says-5a04a544?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T10:21:00+00:00",
+    "summary": "China’s resilience in the face of the U.S.-Iranian conflict has one strategist saying that gold will be the big winner and the U.S. dollar the loser from the revolution in the world order.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
     "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
     "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
     "source": "CNBC Finance",
@@ -10,66 +70,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6908
-  },
-  {
-    "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
-    "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T23:43:00+00:00",
-    "summary": "The FDA is deciding whether seven peptides can be legally compounded, potentially opening the door to broader use in Americans.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-    "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T22:12:00+00:00",
-    "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
-    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-    "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T22:02:00+00:00",
-    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.81
-  },
-  {
-    "title": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
-    "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T21:41:00+00:00",
-    "summary": "While ServiceNow’s earnings beat proved that its AI momentum is picking up, the launch of OpenAI Presence reignited fears of enterprise software disruption",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8271
-  },
-  {
-    "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-    "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-23T21:15:00+00:00",
-    "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
