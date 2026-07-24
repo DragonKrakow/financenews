@@ -1,33 +1,9 @@
 [
   {
-    "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
-    "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-24T12:29:00+00:00",
-    "summary": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "Can AI replace your financial adviser? Why bots still can’t match human judgment.",
-    "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-24T12:10:00+00:00",
-    "summary": "Before you ask AI how to invest $5,000, read this first.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?",
+    "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
     "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-24T11:50:00+00:00",
+    "published": "2026-07-24T18:31:00+00:00",
     "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
     "matched_keywords": [
       "AI"
@@ -36,28 +12,126 @@
     "sentiment_score": -0.7717
   },
   {
-    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    "title": "Can AI-powered ETFs beat the stock market?",
+    "link": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-24T10:30:00+00:00",
-    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+    "published": "2026-07-24T18:31:00+00:00",
+    "summary": "“So far, AI isn’t poised to steal portfolio managers’ jobs.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-24T18:20:17+00:00",
+    "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Your retirement math may have a surprising flaw",
+    "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T18:14:00+00:00",
+    "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Jensen Huang has a high-stakes message for AI policymakers",
+    "link": "https://www.marketwatch.com/story/jensen-huang-has-a-high-stakes-message-for-ai-policymakers-aa60017b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T18:06:00+00:00",
+    "summary": "As Washington considers tighter restrictions on open-weight AI over concerns of intellectual-property theft, Nvidia and other tech companies are pushing back.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Trump targets E.U. with new tariffs over its fines for Big Tech – and even more levies are coming",
+    "link": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T17:41:00+00:00",
+    "summary": "The Trump administration’s trade fights are far from over, even after its big move on Thursday evening to maintain its elevated tariffs for 60 economies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
+    "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T17:26:00+00:00",
+    "summary": "An FDA advisory committee is meeting for two days to discuss whether seven peptides — which have become popular in wellness circles — should be allowed to be compounded.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
+    "sentiment_score": 0.8176
   },
   {
-    "title": "China is winning the war in the Middle East, and gold and the dollar will start to feel it, strategist says",
-    "link": "https://www.marketwatch.com/story/china-is-winning-the-war-in-the-middle-east-and-gold-and-the-dollar-will-start-to-feel-it-strategist-says-5a04a544?mod=mw_rss_topstories",
+    "title": "Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’",
+    "link": "https://www.marketwatch.com/story/dont-rush-to-save-social-security-aarp-tells-congress-it-should-be-debated-openly-not-through-an-accelerated-process-96cfb75d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-24T10:21:00+00:00",
-    "summary": "China’s resilience in the face of the U.S.-Iranian conflict has one strategist saying that gold will be the big winner and the U.S. dollar the loser from the revolution in the world order.",
+    "published": "2026-07-24T17:05:00+00:00",
+    "summary": "The Promise Act would curtail proper debate, the senior-focused organization said.",
     "matched_keywords": [
-      "Gold"
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "Verizon’s stock rises after earnings — and a surprise entry into a new AI business area",
+    "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-24T16:55:00+00:00",
+    "summary": "Thanks to its “dark fiber” deal with Google, Verizon has a “new revenue stream that’s above our core business,” its CFO says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
+    "source": "The Guardian Economics",
+    "published": "2026-07-24T15:00:19+00:00",
+    "summary": "<p>Economists’ warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrel</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian households face the prospect of a Reserve Bank interest rate hike and petrol prices above $2 a litre over the coming weeks, economists warn, as the escalating Middle East crisis pushes global crude back above $US100 a barrel.</p><p>Financial markets now see an even chance the <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast\">RBA board</a> will deliver a fourth cash rate increase at the next meeting on 11 August.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
+    "sentiment_score": -0.7941
+  },
+  {
+    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-24T14:10:40+00:00",
+    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9169
   },
   {
     "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
@@ -84,19 +158,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-23T19:19:01+00:00",
-    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9169
   },
   {
     "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
@@ -313,67 +374,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9125
-  },
-  {
-    "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
-    "link": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T11:16:50+00:00",
-    "summary": "<p>Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far</p><p>It’s almost all over. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa <a href=\"https://www.theguardian.com/football/world-cup-2026\">World Cup</a> 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch.</p><p>Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.</p> <a href=\"https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
-    "link": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T09:00:22+00:00",
-    "summary": "<p>Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public finances</p><p>Restoring the deteriorating health of the UK’s population to the level of 2014 would boost GDP by 2% and generate a £72bn dividend for the public finances, research suggests.</p><p>A <a href=\"https://www.health.org.uk/reports-and-analysis/reports/health-as-an-economic-asset\">paper by the Health Foundation thinktank</a>, published on Sunday, argues the nation’s health should be valued by policymakers as an economic asset.</p> <a href=\"https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
-  },
-  {
-    "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
-    "link": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T06:00:20+00:00",
-    "summary": "<p>From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM</p><p>Andy Burnham becomes prime minister as Britain contends with a series of global economic shocks and years of weak growth in living standards, fuelled by underinvestment and deep regional divisions.</p><p>Before his arrival in Downing Street, the Labour leader pledged to deliver “<a href=\"https://www.theguardian.com/politics/2026/jun/28/andy-burnham-to-pledge-good-growth-in-every-postcode-in-devolution-plan\">good growth in every postcode</a>” by transferring power from Westminster to local communities. But with the public finances under pressure, and time running out before the next general election, the task is not straightforward.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-18T18:16:42+00:00",
-    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
-    "link": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-07-18T10:00:02+00:00",
-    "summary": "<p>Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy</p><p>The scale of the graft is decidedly off the charts, but the <a href=\"https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025\">revelation</a> that Donald Trump raked in a personal fortune of <a href=\"https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-as-president\">$2.2bn</a> during his first year in office should come as no surprise. The president didn’t even try to hide his venality. Not only did he refuse to sell businesses and put assets in a blind trust, as other presidents have done to limit opportunities for self-dealing; the quid pro quos with foreign governments and assorted magnates were exposed for all to see.</p><p>It is troubling that the president of the United States would so nonchalantly deploy his official powers to profit from dealings with <a href=\"https://www.bbc.com/news/articles/cly1qrl9l1qo\">money launderers</a> and <a href=\"https://www.nytimes.com/2026/02/01/us/politics/trump-crypto-uae-world-liberty.html\">Middle Eastern princes</a>. It is perhaps more so that the supposedly robust checks and balances upholding American governance proved powerless to stop him. (Here’s waiting for the supreme court to define Trump’s dealings as “<a href=\"https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law\">official acts</a>” in order to exonerate him.)</p> <a href=\"https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6929
   }
 ]
