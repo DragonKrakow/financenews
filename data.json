@@ -1,5 +1,17 @@
 [
   {
+    "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+    "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-24T02:42:21+00:00",
+    "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
     "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
     "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -363,17 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6929
-  },
-  {
-    "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
-    "link": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
-    "source": "The Guardian Economics",
-    "published": "2026-07-17T14:00:31+00:00",
-    "summary": "<p>Struggling industry seeks to capitalise on Gen Z’s willingness to spend on experiences and comfort</p><p>It had always been the great British festival way: greasy burgers and warm beer, retch-inducing toilets and the descent into dishevelment as roughing it takes its toll.</p><p>But a generation of festivalgoers has emerged who are willing to splash the cash to inject luxury into the experience. This summer, there are signs the under-pressure industry is ramping up its offer, from gleaming private toilets and “pamper parlours” to fine dining, hot tubs, saunas and even a “cold waterfall drench” to keep refreshed.</p> <a href=\"https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9477
   }
 ]
