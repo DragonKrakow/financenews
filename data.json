@@ -1,5 +1,17 @@
 [
   {
+    "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
+    "source": "The Guardian Economics",
+    "published": "2026-07-26T11:34:30+00:00",
+    "summary": "<p>UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorest</p><p>A <a href=\"https://www.theguardian.com/business/2026/jul/24/burnham-bounce-and-world-cup-lift-mood-in-july-says-data-firm\">“Burnham bounce”</a>, sunshine and a strong World Cup run for the England men’s football team. Could this be a turnaround moment for Britain’s struggling consumer economy or yet another false start for the UK’s spluttering growth engine?</p><p>Last week the data company GfK credited Andy Burnham’s return to Westminster politics for lifting UK consumer confidence at its fastest monthly pace for almost three years in June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
     "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
     "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -364,18 +376,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
-  },
-  {
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-18T18:16:42+00:00",
-    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
