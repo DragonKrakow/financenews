@@ -1,51 +1,40 @@
 [
   {
-    "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
-    "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+    "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T17:48:00+00:00",
-    "summary": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+    "published": "2026-07-25T18:59:00+00:00",
+    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.81
   },
   {
-    "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-    "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+    "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
+    "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T17:36:00+00:00",
-    "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+    "published": "2026-07-25T18:45:00+00:00",
+    "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
     "matched_keywords": [
-      "AI"
+      "AI",
+      "Artificial Intelligence"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5719
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
   },
   {
-    "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
-    "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+    "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+    "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T17:18:00+00:00",
-    "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
+    "published": "2026-07-25T18:34:00+00:00",
+    "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
     "matched_keywords": [
-      "AI"
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
-    "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T17:03:00+00:00",
-    "summary": "One solution is getting a different job — but that’s not so simple.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1154
+    "sentiment_score": -0.8674
   },
   {
     "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
@@ -375,5 +364,18 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
+  },
+  {
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-18T18:16:42+00:00",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
