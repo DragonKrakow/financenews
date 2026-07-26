@@ -1,5 +1,54 @@
 [
   {
+    "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
+    "link": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
+    "source": "The Guardian Economics",
+    "published": "2026-07-26T16:11:45+00:00",
+    "summary": "<p>Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemic</p><p>The City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel that made his name, citing health concerns.</p><p>His announcement, in a 48-minute address to camera, came after a mixed reaction to a televised documentary that brought him to a wider audience but drew some scepticism from left-leaning tax experts as well as more rightwing critics.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1154
+  },
+  {
+    "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+    "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-26T13:00:00+00:00",
+    "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
+    "link": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-26T12:30:00+00:00",
+    "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-26T12:30:00+00:00",
+    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
     "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
     "link": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
     "source": "The Guardian Economics",
@@ -10,43 +59,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
-  },
-  {
-    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-    "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T18:59:00+00:00",
-    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.81
-  },
-  {
-    "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-    "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T18:45:00+00:00",
-    "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
-    "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-25T18:34:00+00:00",
-    "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8674
   },
   {
     "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
@@ -363,18 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7845
-  },
-  {
-    "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
-    "link": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T06:00:20+00:00",
-    "summary": "<p>From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM</p><p>Andy Burnham becomes prime minister as Britain contends with a series of global economic shocks and years of weak growth in living standards, fuelled by underinvestment and deep regional divisions.</p><p>Before his arrival in Downing Street, the Labour leader pledged to deliver “<a href=\"https://www.theguardian.com/politics/2026/jun/28/andy-burnham-to-pledge-good-growth-in-every-postcode-in-devolution-plan\">good growth in every postcode</a>” by transferring power from Westminster to local communities. But with the public finances under pressure, and time running out before the next general election, the task is not straightforward.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
