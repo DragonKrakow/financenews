@@ -1,17 +1,88 @@
 [
   {
-    "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-    "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+    "title": "Here’s how to use the salary ranges in job postings to get paid more",
+    "link": "https://www.marketwatch.com/story/heres-how-to-use-salary-transparency-laws-to-get-paid-more-a941c75f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T03:02:00+00:00",
-    "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+    "published": "2026-07-27T12:01:00+00:00",
+    "summary": "Virginia and Maine are the latest states pushing for salary transparency.",
     "matched_keywords": [
-      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+    "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T11:50:00+00:00",
+    "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
+    "title": "Is your AI data-center stock vulnerable to voter backlash? Use this 5-part test to find out.",
+    "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T11:43:00+00:00",
+    "summary": "Anger over soaring electricity bills is separating winning utility stocks from the losers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Navigating the Fed’s next move? Here’s why these trades may be an investor’s best weapon.",
+    "link": "https://www.marketwatch.com/story/navigating-the-feds-next-move-why-these-trades-may-be-an-investors-best-weapon-7a7e80c0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T11:22:00+00:00",
+    "summary": "Citigroup strategists suggest protecting from jitters over a potentially more hawkish Federal Reserve via small caps.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Oil prices see largest one-day declines in two months amid pause in strikes",
+    "link": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T10:06:00+00:00",
+    "summary": "West Texas Intermediate and Brent crude’s front-month contracts fell on Monday after the U.S. paused launching attacks at Iran.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Fivefold increase for Chinese chip maker CXMT in Shanghai debut",
+    "link": "https://www.marketwatch.com/story/fivefold-increase-for-chinese-chip-maker-cxmt-in-shanghai-debut-2861827e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T09:51:00+00:00",
+    "summary": "CXMT  closed its first day of trading with a market capitalization of $85 billion",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
+    "link": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
+    "source": "The Guardian Economics",
+    "published": "2026-07-27T08:36:06+00:00",
+    "summary": "<p>Brent crude drops 6% to below $91 a barrel, while shares in energy firms BP and Shell slide on FTSE 100</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news\">Business live – latest updates</a></p></li></ul><p>Oil prices have dropped by 6% as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, fell 6% to below $91 a barrel on Monday morning, after briefly dropping below $90 earlier in the morning. Futures prices hit $100 last week when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
+    "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_score": -0.946
   },
   {
     "title": "Rising oil prices could force up UK interest rates, say economists",
@@ -28,30 +99,6 @@
     "sentiment_score": -0.09
   },
   {
-    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-26T20:00:00+00:00",
-    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
-  },
-  {
-    "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-    "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-26T19:15:00+00:00",
-    "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
     "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
     "link": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
     "source": "The Guardian Economics",
@@ -62,19 +109,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1154
-  },
-  {
-    "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-    "link": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-26T12:30:00+00:00",
-    "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   },
   {
     "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
@@ -340,44 +374,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9565
-  },
-  {
-    "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T02:29:47+00:00",
-    "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T16:25:31+00:00",
-    "summary": "<p>Communal spaces where people can share big moments are a vital part of our shared life</p><p>“People can’t get enough of football fever,” a <a href=\"https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes\">pub landlord, Sam Hale,</a> told the Guardian last week. The World Cup provided the UK’s struggling hospitality industry with a much-needed boost, with <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">pubs benefiting</a> from extended opening hours and one estimate suggesting that an extra 5.5m pints were sold in the group stages alone. The tournament lifted customers’ spirits too – even if it ended in disappointment for England and Scotland fans – as millions of people relished the communal spectacle.</p><p>These sociable few weeks could not have come at a better time for pubs, which are <a href=\"https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/07/now-the-village-is-dead-its-awful-why-was-one-of-britains-best-pubs-forced-to-close\">closing at a rate of two a day</a>, with about 2,000 gone since 2020. This reflects a long-term trend away from going out, combined with pressures from rising costs including energy bills, business rates, wages and national insurance contributions. The hope in the sector, and among its advocates, is that the temporary uplift of the past few weeks will focus minds on the importance of venues, including pubs, in promoting social cohesion and “<a href=\"https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-world-cup-outdoor-viewing-parties-fan-zone-british\">watercooler moments</a>”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9393
-  },
-  {
-    "title": "Why a modest US interest rate rise won’t change much for most businesses",
-    "link": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T14:00:28+00:00",
-    "summary": "<p>Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring</p><p>With the appointment of a new <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> chair, the latest concern is that interest rates will go up in the next few months. That decision will depend on many factors, including <a href=\"https://www.theguardian.com/business/inflation\">inflation</a>, jobs and the economy’s overall growth. But when that happens, watch out! The media will go nuts and the president will go ballistic. Everyone treats every Fed meeting as an economic earthquake. But for most small businesses, it isn’t.</p><p>A 25-basis-point increase doesn’t meaningfully change borrowing costs for most established businesses. In fact, it changes nothing at all.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9125
   }
 ]
