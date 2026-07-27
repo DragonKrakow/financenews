@@ -1,5 +1,57 @@
 [
   {
+    "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+    "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T00:35:00+00:00",
+    "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Rising oil prices could force up UK interest rates, say economists",
+    "link": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
+    "source": "The Guardian Economics",
+    "published": "2026-07-26T23:01:23+00:00",
+    "summary": "<p>Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs</p><p><a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">The Bank of England</a> could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists.</p><p>Before a meeting of Bank officials on Thursday, economists said that while an interest rate hike would probably be avoided this week there could be some in the future because of conflict in the Middle East.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.09
+  },
+  {
+    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-26T20:00:00+00:00",
+    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+    "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-26T19:15:00+00:00",
+    "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
     "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
     "link": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
     "source": "The Guardian Economics",
@@ -10,18 +62,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1154
-  },
-  {
-    "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-    "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-26T13:00:00+00:00",
-    "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
   },
   {
     "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
@@ -35,18 +75,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
-  },
-  {
-    "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-26T12:30:00+00:00",
-    "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
   },
   {
     "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
@@ -351,29 +379,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9125
-  },
-  {
-    "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
-    "link": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T11:16:50+00:00",
-    "summary": "<p>Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far</p><p>It’s almost all over. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa <a href=\"https://www.theguardian.com/football/world-cup-2026\">World Cup</a> 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch.</p><p>Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.</p> <a href=\"https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
-    "link": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T09:00:22+00:00",
-    "summary": "<p>Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public finances</p><p>Restoring the deteriorating health of the UK’s population to the level of 2014 would boost GDP by 2% and generate a £72bn dividend for the public finances, research suggests.</p><p>A <a href=\"https://www.health.org.uk/reports-and-analysis/reports/health-as-an-economic-asset\">paper by the Health Foundation thinktank</a>, published on Sunday, argues the nation’s health should be valued by policymakers as an economic asset.</p> <a href=\"https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   }
 ]
