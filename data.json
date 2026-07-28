@@ -1,51 +1,114 @@
 [
   {
-    "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-    "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+    "title": "As chips sell off, rattled investors should heed this Cisco Systems lesson from the last millennium",
+    "link": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-28T01:19:00+00:00",
-    "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+    "published": "2026-07-28T12:39:00+00:00",
+    "summary": "The market should recover its poise within the next few days, says Fundstrat’s Tom Lee.",
     "matched_keywords": [
-      "AI"
+      "Chips"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-    "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+    "title": "Boeing’s stock rallies as surprisingly large loss is offset by upbeat revenue and backlog",
+    "link": "https://www.marketwatch.com/story/boeings-stock-rallies-as-surprisingly-large-loss-is-offset-by-upbeat-revenue-and-backlog-e0ad69c9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T21:35:00+00:00",
-    "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
+    "published": "2026-07-28T12:24:00+00:00",
+    "summary": "Sales outpace Wall Street expectations as defense business comes through while commercial airplane sales miss mark.",
+    "matched_keywords": [
+      "Defense",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Meta is up against a wall of AI pessimism heading into earnings",
+    "link": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-28T12:17:00+00:00",
+    "summary": "Following Alphabet’s earnings last week, investors will be closely scrutinizing Meta’s AI spending.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.3612
   },
   {
-    "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
-    "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+    "title": "Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.",
+    "link": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T21:03:00+00:00",
-    "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+    "published": "2026-07-28T12:15:00+00:00",
+    "summary": "Climate disruption could prolong inflation. Look to refiners, tanker operators and agricultural stocks.",
     "matched_keywords": [
-      "AI"
+      "Fed",
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.7579
   },
   {
-    "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
-    "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T21:02:00+00:00",
-    "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
+    "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
+    "link": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
+    "source": "The Guardian Economics",
+    "published": "2026-07-28T12:12:41+00:00",
+    "summary": "<p>Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaigns</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/28/ai-sell-off-chip-stocks-slump-market-south-korea-japan-economy-latest-news\">Business live – latest updates</a></p></li></ul><p>Unilever has warned it will push through further price rises over the coming months, as the Marmite, Dove and Hellmann’s owner tries to recoup its own growing costs.</p><p>The Anglo-Dutch company said that while the pace of price rises slowed in the second quarter, owing in part to World Cup-related discounts and efforts to stay competitive in Brazil, these were “temporary factors” and would not shield consumers for long.</p> <a href=\"https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Oil prices decline further after Trump claims ‘deep talks’ are underway with Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-28T12:01:00+00:00",
+    "summary": "Brent crude and West Texas Intermediate’s front-month contracts fell again as the U.S. and Iran continue to pause fighting.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
+  },
+  {
+    "title": "PayPal delivers an earnings beat as investors await updates on possible merger",
+    "link": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-28T11:41:00+00:00",
+    "summary": "PayPal is showing progress on some metrics as a standalone company, but Wall Street is preoccupied with its deal prospects following recent news.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Emerging China threat puts a scare into AI hardware stocks. Is the ‘picks and shovels’ trade breaking down?",
+    "link": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-28T11:40:00+00:00",
+    "summary": "Asian stocks sold off sharply on Tuesday amid reports that China is now capable of manufacturing DUV lithography machines.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "UPS turns the page as job cuts and Amazon ‘glide down’ are completed",
+    "link": "https://www.marketwatch.com/story/ups-turns-the-page-as-job-cuts-and-amazon-glide-down-are-completed-e16f03fe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-28T11:31:00+00:00",
+    "summary": "UPS’s stock rallies after reporting an earnings beat and raised outlook.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
     "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
@@ -314,66 +377,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4767
-  },
-  {
-    "title": "UK employers cut job vacancies as Burnham aims to lift living standards",
-    "link": "https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T08:16:14+00:00",
-    "summary": "<p>Unemployment holds steady at 4.9%, underlining the challenge facing the new prime minister</p><ul><li><p><a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Business live – latest updates</a></p></li></ul><p>Employers cut the number of job vacancies in June, according to official figures that highlight the UK’s “fragile” economic outlook amid the conflict in the Middle East.</p><p>Job vacancies fell to 712,000 – almost half the level in 2022 – as employers put off hiring new staff in the three months to May, the Office for National Statistics said.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "JP Morgan boss warns of ‘consequences’ if Burnham taxes banks",
-    "link": "https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T07:42:58+00:00",
-    "summary": "<p>Higher taxes on sector could threaten plan for £3bn headquarters in London, says Jamie Dimon</p><ul><li><p><a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Business live – latest updates</a></p></li></ul><p>The boss of JP Morgan, Jamie Dimon, has warned Andy Burnham against raising tax charges on banks, suggesting it could threaten plans to build its £3bn headquarters in London and drive investment away from Britain.</p><p>The chief executive of the world’s biggest bank, who has a <a href=\"https://www.theguardian.com/business/2026/may/12/jamie-dimon-jp-morgan-could-scrap-new-3bn-hq-if-starmer-is-replaced-by-pm-hostile-to-banks\">track record of criticising the UK’s bank tax surcharge</a>, does not want to see the UK’s new prime minister targeting the banking industry to raise extra revenue.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7688
-  },
-  {
-    "title": "Wealth tax on UK’s super-rich could raise £10bn a year, Andy Burnham told",
-    "link": "https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T05:00:01+00:00",
-    "summary": "<p>New prime minister urged to introduce 2% minimum charge on households with more than £100m in wealth</p><p>A wealth tax on the UK’s super-rich households could raise £10bn a year, according to academics who urged Andy Burnham to include the measure in his plans to “make tax fairer” and pay for better public services.</p><p>The sum could be raised through a 2% minimum charge on households with more than £100m in wealth and would affect fewer than 1,000 of the richest UK households, according to the study by <a href=\"https://www.theguardian.com/profile/gabriel-zucman\">Gabriel Zucman</a>, a professor of economics at the Paris School of Economics, and Ben Tippet, a lecturer in economics and wealth inequality at King’s College London.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9565
-  },
-  {
-    "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T02:29:47+00:00",
-    "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
-    "source": "The Guardian Economics",
-    "published": "2026-07-19T16:25:31+00:00",
-    "summary": "<p>Communal spaces where people can share big moments are a vital part of our shared life</p><p>“People can’t get enough of football fever,” a <a href=\"https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes\">pub landlord, Sam Hale,</a> told the Guardian last week. The World Cup provided the UK’s struggling hospitality industry with a much-needed boost, with <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">pubs benefiting</a> from extended opening hours and one estimate suggesting that an extra 5.5m pints were sold in the group stages alone. The tournament lifted customers’ spirits too – even if it ended in disappointment for England and Scotland fans – as millions of people relished the communal spectacle.</p><p>These sociable few weeks could not have come at a better time for pubs, which are <a href=\"https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/07/now-the-village-is-dead-its-awful-why-was-one-of-britains-best-pubs-forced-to-close\">closing at a rate of two a day</a>, with about 2,000 gone since 2020. This reflects a long-term trend away from going out, combined with pressures from rising costs including energy bills, business rates, wages and national insurance contributions. The hope in the sector, and among its advocates, is that the temporary uplift of the past few weeks will focus minds on the importance of venues, including pubs, in promoting social cohesion and “<a href=\"https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-world-cup-outdoor-viewing-parties-fan-zone-british\">watercooler moments</a>”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9393
   }
 ]
