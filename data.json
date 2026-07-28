@@ -1,46 +1,45 @@
 [
   {
-    "title": "Should you get paid to care for a family member?",
-    "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+    "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+    "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T17:56:00+00:00",
-    "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-    "source": "The Guardian Economics",
-    "published": "2026-07-27T17:30:47+00:00",
-    "summary": "<p>Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall</p><p>Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9618
-  },
-  {
-    "title": "This small-cap fund is built to win the earnings-report games companies play",
-    "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T16:48:00+00:00",
-    "summary": "Brandon Nelson of Calamos Investments considers the earnings-season beat-and-raise pattern in identifying companies primed for sustainable growth and improving profit margins.",
+    "published": "2026-07-27T21:46:00+00:00",
+    "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.926
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+    "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T21:35:00+00:00",
+    "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+    "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-27T21:03:00+00:00",
+    "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
   },
   {
     "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
     "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T16:31:00+00:00",
+    "published": "2026-07-27T21:02:00+00:00",
     "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
     "matched_keywords": [
       "AI"
@@ -49,16 +48,17 @@
     "sentiment_score": 0.6652
   },
   {
-    "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
-    "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-27T16:18:00+00:00",
-    "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+    "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
+    "link": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
+    "source": "The Guardian Economics",
+    "published": "2026-07-27T17:30:46+00:00",
+    "summary": "<p>Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall</p><p>Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.9618
   },
   {
     "title": "Rising oil prices could force up UK interest rates, say economists",
