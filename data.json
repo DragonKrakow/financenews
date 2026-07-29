@@ -1,70 +1,46 @@
 [
   {
-    "title": "Two rival AI super PACs are backing the same congressman. What gives?",
-    "link": "https://www.marketwatch.com/story/two-rival-ai-super-pacs-are-backing-the-same-congressman-what-gives-dbc93094?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T12:30:00+00:00",
-    "summary": "The artificial-intelligence industry is following in the crypto sector’s footsteps in working to influence elections.",
+    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+    "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T18:17:39+00:00",
+    "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
     "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T11:32:00+00:00",
-    "summary": "West Texas Intermediate and Brent crude’s front-month contracts climbed on Wednesday on the risk of more fighting.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7902
-  },
-  {
-    "title": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
-    "link": "https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T11:20:00+00:00",
-    "summary": "MFS Investment Management’s chief global investment strategist, Robert Almeida, says investors are focusing too much on the Federal Reserve, when their attention should be on a major shift in the capital cycle.",
-    "matched_keywords": [
+      "Interest Rates",
       "Fed"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "‘Nothing seems to shake this market.’ Why it’s time to go all-in on stocks, according to these bullish strategists.",
-    "link": "https://www.marketwatch.com/story/oil-is-up-40-and-tech-is-tumbling-why-its-time-to-go-all-in-on-stocks-according-to-these-bullish-strategists-41d812f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T11:17:00+00:00",
-    "summary": "Strategists at the bank, led by Max Kettner, are betting on equities as they have remained resilient despite geopolitical volatility and pullbacks in the technology sector.",
-    "matched_keywords": [
-      "AI"
-    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
+    "sentiment_score": 0.1933
   },
   {
-    "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
-    "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T11:16:00+00:00",
-    "summary": "Loadings at a Mediterranean port have picked up as Saudi Arabia races to offer its oil to buyers through a lengthier — and more expensive — backdoor.",
+    "title": "Here's what changed in the second Fed statement under Warsh",
+    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T18:08:58+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
     "matched_keywords": [
-      "Oil"
+      "Fed"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
   },
   {
+    "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
+    "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-29T17:18:00+00:00",
+    "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
     "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T11:00:00+00:00",
+    "published": "2026-07-29T17:12:00+00:00",
     "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
     "matched_keywords": [
       "Fed",
@@ -74,16 +50,29 @@
     "sentiment_score": 0.8336
   },
   {
-    "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline",
-    "link": "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories",
+    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T10:23:00+00:00",
-    "summary": "Weakness in SK Hynix shares can be attributed to excessive leverage by retail investors, fears of Chinese competition and a failure to live up to aggressive expectations but some analysts remain bullish.,",
+    "published": "2026-07-29T17:01:00+00:00",
+    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-29T16:36:00+00:00",
+    "summary": "Oil prices rose on Wednesday after President Donald Trump said the U.S. would order heavy strikes after Iran targeted American forces in the Middle East with ballistic missiles overnight.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5395
+    "sentiment_score": -0.4019
   },
   {
     "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
@@ -376,5 +365,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9054
+  },
+  {
+    "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+    "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-21T14:37:08+00:00",
+    "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8225
   }
 ]
