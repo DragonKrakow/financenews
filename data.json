@@ -1,9 +1,120 @@
 [
   {
+    "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
+    "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T00:19:00+00:00",
+    "summary": "Trendier products, faster service and more food options boost Starbucks’ earnings.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6444
+  },
+  {
+    "title": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
+    "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T00:16:00+00:00",
+    "summary": "Mexican fast-casual chain acknowledged ‘softening’ traffic in the second half of July, but it’s taking a rosier view of its full-year prospects.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+    "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T23:10:46+00:00",
+    "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
+    "title": "Here are the five big takeaways from this week's Fed meeting",
+    "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T22:54:09+00:00",
+    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.357
+  },
+  {
+    "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+    "link": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-29T22:44:00+00:00",
+    "summary": "The United States Oil Fund has climbed by 58% since the start of the Iran war, more than double the gain of WTI crude futures.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8807
+  },
+  {
+    "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+    "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T22:20:18+00:00",
+    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-29T22:01:00+00:00",
+    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+    "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-29T21:56:00+00:00",
+    "summary": "Major equity indexes put in their worst “Fed Day” performance since December 2024, while the yield on the 30-year bond shot higher.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-29T21:43:50+00:00",
+    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
     "title": "Divided Fed holds interest rates steady, but three members voted to hike",
     "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
     "source": "CNBC Finance",
-    "published": "2026-07-29T18:17:39+00:00",
+    "published": "2026-07-29T18:58:16+00:00",
     "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
     "matched_keywords": [
       "Interest Rates",
@@ -16,63 +127,13 @@
     "title": "Here's what changed in the second Fed statement under Warsh",
     "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
     "source": "CNBC Finance",
-    "published": "2026-07-29T18:08:58+00:00",
+    "published": "2026-07-29T18:48:02+00:00",
     "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
-    "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T17:18:00+00:00",
-    "summary": "Investors were disappointed by the neobank’s restrained guidance.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
-    "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T17:12:00+00:00",
-    "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8336
-  },
-  {
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T17:01:00+00:00",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T16:36:00+00:00",
-    "summary": "Oil prices rose on Wednesday after President Donald Trump said the U.S. would order heavy strikes after Iran targeted American forces in the Middle East with ballistic missiles overnight.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
   },
   {
     "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
@@ -314,68 +375,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Think you have a handle on how Australia’s economy works? Take the RBA’s quiz and find out",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out",
-    "source": "The Guardian Economics",
-    "published": "2026-07-22T15:00:19+00:00",
-    "summary": "<p>The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growth</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Economics is a word we are all familiar with, but knowing is different from understanding.</p><p>The Reserve Bank has released its <a href=\"https://www.rba.gov.au/publications/bulletin/2026/jul/listening-to-australians-a-new-rba-survey-of-the-community.html\">latest public survey</a> of Australians to gauge how much we know about how the economy works and how the RBA’s actions affect things such as inflation, employment and growth.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3695
-  },
-  {
-    "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-    "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-21T20:51:34+00:00",
-    "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8625
-  },
-  {
-    "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
-    "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-21T20:01:39+00:00",
-    "summary": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
-    "source": "The Guardian Economics",
-    "published": "2026-07-21T15:00:51+00:00",
-    "summary": "<p>Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The likelihood of a Reserve Bank interest rate hike has doubled, according to market forecasts, as the escalating Middle East crisis once again drives fuel prices higher amid dwindling global oil reserves.</p><p>The <a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">total breakdown in the fragile ceasefire</a> between the US and Iran has sent the international Brent crude benchmark surging by 23% over the past two weeks and back within reach of $US90 a barrel.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9054
-  },
-  {
-    "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-    "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-21T14:37:08+00:00",
-    "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8225
   }
 ]
