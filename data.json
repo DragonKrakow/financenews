@@ -1,21 +1,96 @@
 [
   {
-    "title": "Fed-favored PCE inflation gauge falls for first time since pandemic, but danger far from over",
-    "link": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+    "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+    "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-30T12:35:00+00:00",
-    "summary": "Lower gas prices after temporary Iran truce tugs inflation lower",
+    "published": "2026-07-30T18:30:00+00:00",
+    "summary": "“I will file a complaint with the Better Business Bureau.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T17:36:00+00:00",
+    "summary": "Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2014
+  },
+  {
+    "title": "The cyclospora outbreak is the biggest ever. Why this ‘unusual’ outbreak is so hard to manage.",
+    "link": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T17:16:00+00:00",
+    "summary": "The complexity of the cyclospora outbreak raises questions about whether it could last longer than previous outbreaks, which usually end in August.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2183
+  },
+  {
+    "title": "Mortgage rates jump to their highest level in a year and show few signs of falling",
+    "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T16:20:00+00:00",
+    "summary": "The Federal Reserve on Wednesday kept its benchmark interest rate steady, but political and economic developments are pushing mortgage rates higher.",
     "matched_keywords": [
       "Fed"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8807
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
   },
   {
-    "title": "Bank of England holds interest rates despite Iran war inflation threat - business live",
+    "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
+    "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T16:15:00+00:00",
+    "summary": "“Her husband is open to a trust, but he wants to be the administrator.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
+  },
+  {
+    "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+    "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T16:06:00+00:00",
+    "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
+    "link": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
+    "source": "The Guardian Economics",
+    "published": "2026-07-30T15:47:35+00:00",
+    "summary": "<p>Split vote comes as Iran war is rekindled and oil price climbs close to $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Only Middle East crisis is preventing drop in UK interest rates</a></p></li></ul><p>The Bank of England has kept UK interest rates on hold as it warned that a further escalation in the Iran war could drive inflation above 4% next year, adding to cost of living pressures on households.</p><p>Against a volatile backdrop in the Middle East conflict, the Bank’s monetary policy committee (MPC) voted by six to three to keep its key base rate at 3.75%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9274
+  },
+  {
+    "title": "Bank of England holds interest rates despite Iran war inflation threat - as it happened",
     "link": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
     "source": "The Guardian Economics",
-    "published": "2026-07-30T12:32:16+00:00",
+    "published": "2026-07-30T13:59:40+00:00",
     "summary": "<p>Live, rolling coverage of business, economics and financial markets as three members of monetary policy committee vote to raise rates</p><p>That <a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates?page=with%3Ablock-6a6b0d6b8f085a0ed6ef2afe#block-6a6b0d6b8f085a0ed6ef2afe\">German GDP reading</a> has indeed contributed to the wider eurozone hitting expectations – and then some.</p><p>The <strong>eurozone economy</strong> grew by 0.4% in the second quarter of 2026, according to the preliminary reading from Eurostat – defying the gloom caused by the US-Israeli war on Iran.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
@@ -26,43 +101,56 @@
     "sentiment_score": -0.696
   },
   {
-    "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-    "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-30T11:16:00+00:00",
-    "summary": "“I will file a complaint with the Better Business Bureau.”",
+    "title": "Here's what changed in the second Fed statement under Warsh",
+    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-30T13:42:07+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-30T13:39:36+00:00",
+    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
-    "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-    "link": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
+    "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
+    "link": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
     "source": "The Guardian Economics",
-    "published": "2026-07-30T11:00:52+00:00",
-    "summary": "<p>Split vote comes as Iran war is rekindled and oil price climbs back above $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept UK interest rates on hold as it warned that a further escalation in the Iran war could drive inflation above 4% next year, adding to cost of living pressures on households.</p><p>Against a volatile backdrop in the Middle East conflict, the Bank’s monetary policy committee (MPC) voted by six to three to keep its key base rate at the current level of 3.75%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount\">Continue reading...</a>",
+    "published": "2026-07-30T13:21:19+00:00",
+    "summary": "<p>Consumer spending remained resilient even as policymakers kept interest rates on hold</p><p>The <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>’s favored measure of <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> grew more slowly last month despite remaining above the central bank’s 2% target.</p><p>The commerce department reported on Thursday that growth in US gross domestic product (GDP) – the nation’s output of goods and services – decelerated from 2.1% in the first three months of 2026 and came in below economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8834
-  },
-  {
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-30T10:01:00+00:00",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
+    "link": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-07-30T12:44:47+00:00",
+    "summary": "<p>Bank’s wariness about inflationary pressures from the conflict lie behind decision to hold steady at 3.75%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>There is a threat of high inflation coming to the UK but only from the conflict in the Middle East, which could keep oil prices high for much longer than was expected when Donald Trump first began attacking Iran.</p><p>It is the war that makes the difference between a benign outlook for inflation and one that puts it back on a rising trajectory, senior UK central bankers believe.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9432
   },
   {
     "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
@@ -130,18 +218,6 @@
     "sentiment_score": -0.0516
   },
   {
-    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T21:43:50+00:00",
-    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
     "title": "Divided Fed holds interest rates steady, but three members voted to hike",
     "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
     "source": "CNBC Finance",
@@ -153,18 +229,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1933
-  },
-  {
-    "title": "Here's what changed in the second Fed statement under Warsh",
-    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T18:48:02+00:00",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
@@ -314,71 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7941
-  },
-  {
-    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-24T14:10:40+00:00",
-    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9169
-  },
-  {
-    "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-    "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-24T02:42:21+00:00",
-    "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
-  },
-  {
-    "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-    "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-23T20:25:28+00:00",
-    "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-    "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-23T17:10:06+00:00",
-    "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-23T11:27:00+00:00",
-    "summary": "<p>Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’</p><p>The <strong>Houthi attacks</strong> off the coast of Yemen targeted Saudi Arabian tankers, but two <strong>Chinese vessels carrying Saudi oil</strong> appear to be trying to exit the Bab el-Mandeb strait, Reuters reports.</p><p>From Reuters:</p><p>Two Chinese supertankers carrying a combined 4 million barrels of Saudi Arabian oil are exiting the Red Sea via the Bab el-Mandeb strait on Thursday, shipping data showed, even as a Saudi vessel came under attack in the region.</p><p>The ships’ attempt to transit the strait will clearly test how tightly the Houthis will impose the naval blockade on Saudi Arabia they announced on Monday.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
   }
 ]
