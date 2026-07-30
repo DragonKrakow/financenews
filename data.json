@@ -1,5 +1,43 @@
 [
   {
+    "title": "FTSE 100 to fall from record high after Fed holds interest rates and Iran attacks; Rolls-Royce expects higher profits – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-07-30T06:46:36+00:00",
+    "summary": "<p>Live, rolling coverage of business, economics and financial markets as global stock markets drop after US central bank keeps interest rates steady</p><p><strong>Good morning, and welcome to our live coverage of business, economics and financial markets.</strong></p><p>London’s <strong>FTSE 100</strong> is set to fall when it opens after the <strong>US Federal Reserve</strong> held interest rates steady despite the increasing expectations of inflation, while Donald Trump’s renewed <strong>attacks on Iran</strong> promised to add fuel to the price rise fire.</p><p>This rise in yields ended up weighing on equities after some big intra-day swings. The S&amp;P 500 went from trading more than half a percent down pre-FOMC to higher on the day during Warsh’s press conference but then saw a sharp drop in the final hour of trading to close -1.52% lower. Equities were also weighed down by another rout in chip stocks, with the Philly semiconductor index slumping by -5.33%.</p><p><strong>9am BST</strong>: Germany GDP growth (second quarter; previous: 0.3% quarter-on-quarter; consensus: 0.1%)</p><p><strong>10am BST</strong>: Eurozone GDP growth (second quarter; prev.: -0.2% quarter-on-quarter; cons.: 0.2%)</p><p><strong>10am BST</strong>: Eurozone unemployment (June; prev.: 6.2%; cons.: 6.2%)</p><p><strong>12pm BST</strong>: Bank of England interest rate decision (prev.: 3.75%; cons.: 3.75%)</p><p><strong>1pm BST</strong>: Germany inflation (July; prev.: 2.3%; cons.: 2.7%)</p><p><strong>1:30pm BST</strong>: US core personal consumption expenditure index (June; prev.: 0.3%; cons.: 0.2%)</p><p><strong>1:30pm BST</strong>: US GDP growth (second quarter; prev.: 2.1%; cons.: 2.1%)</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9022
+  },
+  {
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-30T02:52:30+00:00",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9246
+  },
+  {
+    "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
+    "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-30T01:01:00+00:00",
+    "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
     "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -85,18 +123,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
-    "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-29T21:56:00+00:00",
-    "summary": "Major equity indexes put in their worst “Fed Day” performance since December 2024, while the yield on the 30-year bond shot higher.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   },
   {
     "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
@@ -349,31 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7783
-  },
-  {
-    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-    "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-22T22:06:49+00:00",
-    "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-    "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-22T15:23:02+00:00",
-    "summary": "The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
