@@ -1,58 +1,71 @@
 [
   {
-    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
     "source": "CNBC Finance",
-    "published": "2026-07-31T12:40:00+00:00",
-    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Why fresh volatility means a ‘valuation opportunity’ is opening up in U.S. stocks",
-    "link": "https://www.marketwatch.com/story/why-fresh-volatility-means-a-valuation-opportunity-is-opening-up-in-u-s-stocks-9dbef149?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T12:32:00+00:00",
-    "summary": "It’s normal for equities to have a tough time around Federal Reserve transitions, says RBC.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "The cyclospora outbreak is the biggest ever. Why this ‘unusual’ outbreak is so hard to manage.",
-    "link": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T12:27:00+00:00",
-    "summary": "The complexity of the cyclospora outbreak raises questions about whether it could last longer than previous outbreaks, which usually end in August.",
+    "published": "2026-07-31T18:33:23+00:00",
+    "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2183
+    "sentiment_score": -0.3182
   },
   {
-    "title": "South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
-    "link": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+    "title": "AI stocks may have bottomed out. What investors should watch for next.",
+    "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T11:59:00+00:00",
-    "summary": "The Kospi saw its best-ever day on Friday, as the index came roaring back thanks to historical jumps in its big tech names.",
+    "published": "2026-07-31T18:29:00+00:00",
+    "summary": "Microsoft earnings provided optimism for the AI trade, as did the trading activity surrounding a hedge fund’s fire sale.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T18:20:01+00:00",
+    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-31T18:15:00+00:00",
+    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Warsh’s Fed is failing to stick to its own principles for good monetary policy",
+    "link": "https://www.marketwatch.com/story/warshs-fed-is-failing-to-stick-to-its-own-principles-for-good-monetary-policy-0d4e45ef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-31T17:38:00+00:00",
+    "summary": "Bond investors don’t understand how Fed Chair Kevin Warsh’s pledge to restore stable prices squares with inaction on interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   },
   {
     "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
     "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T10:00:00+00:00",
+    "published": "2026-07-31T17:30:00+00:00",
     "summary": "“I will file a complaint with the Better Business Bureau.”",
     "matched_keywords": [
       "AI"
@@ -61,28 +74,54 @@
     "sentiment_score": -0.4404
   },
   {
-    "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too aggressive?",
-    "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+    "title": "HSAs can be a great retirement tool – if you’re healthy or wealthy",
+    "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T10:00:00+00:00",
-    "summary": "Spending down assets can be unsettling after a lifetime of saving.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-    "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T09:46:00+00:00",
-    "summary": "“Her husband is open to a trust, but he wants to be the administrator.”",
+    "published": "2026-07-31T17:20:00+00:00",
+    "summary": "Health savings accounts can offset healthcare costs in your old age. But most people can’t afford to wait.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
+    "sentiment_score": 0.631
+  },
+  {
+    "title": "Here’s how Big Oil cashed in on the historic supply crunch",
+    "link": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-31T17:03:00+00:00",
+    "summary": "ExxonMobil’s profit more than doubled in the latest quarter, but that was not enough. Chevron’s better print boosted the company’s stock.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2711
+  },
+  {
+    "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+    "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T15:31:24+00:00",
+    "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T14:35:52+00:00",
+    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
@@ -342,41 +381,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1154
-  },
-  {
-    "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
-    "source": "The Guardian Economics",
-    "published": "2026-07-26T11:34:30+00:00",
-    "summary": "<p>UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorest</p><p>A <a href=\"https://www.theguardian.com/business/2026/jul/24/burnham-bounce-and-world-cup-lift-mood-in-july-says-data-firm\">“Burnham bounce”</a>, sunshine and a strong World Cup run for the England men’s football team. Could this be a turnaround moment for Britain’s struggling consumer economy or yet another false start for the UK’s spluttering growth engine?</p><p>Last week the data company GfK credited Andy Burnham’s return to Westminster politics for lifting UK consumer confidence at its fastest monthly pace for almost three years in June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
-    "link": "https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-07-25T12:00:41+00:00",
-    "summary": "<p>Sanae Takaichi’s blueprint to inject £1.7tn and double economic growth leaves many investors fearful</p><p>International investors are asking where Japan’s prime minister will find the ¥370tn (£1.7tn) of extra cash that she wants to invest in 17 industrial sectors by 2040.</p><p>Such is the scale of spending by Sanae Takaichi’s coalition government that many in her own party fear she is about to blow up the Japanese economy, triggering a <a href=\"https://www.theguardian.com/business/2022/oct/20/the-mini-budget-that-broke-britain-and-liz-truss\">Liz Truss-style economic shock</a>.</p> <a href=\"https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-24T22:43:56+00:00",
-    "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
