@@ -1,5 +1,66 @@
 [
   {
+    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-01T12:15:00+00:00",
+    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Loyalists may miss the old Southwest. Wall Street loves the new one.",
+    "link": "https://www.marketwatch.com/story/loyalists-may-miss-the-old-southwest-wall-street-loves-the-new-one-fab88537?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-01T12:00:00+00:00",
+    "summary": "The airline is ‘getting on with the times,’ one fund manager says",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing",
+    "link": "https://www.marketwatch.com/story/the-iran-war-sent-investors-into-fertilizer-stocks-but-heres-the-china-risk-everyones-missing-7be93b9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-01T11:30:00+00:00",
+    "summary": "The fertilizer trade as it relates to the Iran war and the Strait of Hormuz is really three trades pointed in different directions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9224
+  },
+  {
+    "title": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind",
+    "link": "https://www.marketwatch.com/story/the-equal-weighted-s-p-500-just-smoked-the-nasdaq-100-in-july-outperforming-amid-the-violent-chip-stock-unwind-bceb1437?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-01T11:00:00+00:00",
+    "summary": "Tech stocks struggled in July. Will the volatility around the AI trade continue in August?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.743
+  },
+  {
+    "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices.",
+    "link": "https://www.marketwatch.com/story/opec-may-keep-lifting-its-oil-output-quotas-as-the-iran-war-broadens-why-that-wont-help-lower-prices-c80f53d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-01T11:00:00+00:00",
+    "summary": "The Organization of the Petroleum Exporting Countries and its allies may decide Sunday to lift their oil production quotas for a sixth straight month — but finding ways to export those extra barrels will be the real problem.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
     "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
     "link": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
     "source": "The Guardian Economics",
@@ -22,43 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
-  },
-  {
-    "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
-    "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T21:28:00+00:00",
-    "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.631
-  },
-  {
-    "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-    "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T20:23:00+00:00",
-    "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-    "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T20:20:00+00:00",
-    "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
   },
   {
     "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
@@ -356,29 +380,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.09
-  },
-  {
-    "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
-    "link": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
-    "source": "The Guardian Economics",
-    "published": "2026-07-26T16:11:45+00:00",
-    "summary": "<p>Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemic</p><p>The City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel that made his name, citing health concerns.</p><p>His announcement, in a 48-minute address to camera, came after a mixed reaction to a televised documentary that brought him to a wider audience but drew some scepticism from left-leaning tax experts as well as more rightwing critics.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1154
-  },
-  {
-    "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
-    "source": "The Guardian Economics",
-    "published": "2026-07-26T11:34:30+00:00",
-    "summary": "<p>UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorest</p><p>A <a href=\"https://www.theguardian.com/business/2026/jul/24/burnham-bounce-and-world-cup-lift-mood-in-july-says-data-firm\">“Burnham bounce”</a>, sunshine and a strong World Cup run for the England men’s football team. Could this be a turnaround moment for Britain’s struggling consumer economy or yet another false start for the UK’s spluttering growth engine?</p><p>Last week the data company GfK credited Andy Burnham’s return to Westminster politics for lifting UK consumer confidence at its fastest monthly pace for almost three years in June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
   }
 ]
