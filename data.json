@@ -1,5 +1,17 @@
 [
   {
+    "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
+    "link": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+    "source": "The Guardian Economics",
+    "published": "2026-08-01T04:00:41+00:00",
+    "summary": "<p>Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services</p><p>A senior policymaker at the <a href=\"https://www.theguardian.com/business/european-central-bank\">European Central Bank</a> has said the climate emergency and the breakdown of nature poses a dramatically growing risk to the global economy.</p><p>Frank Elderson, a member of the ECB’s executive board, said the eurozone lender of last resort was stepping up its monitoring of the financial risks linked to the destruction of “ecosystem services”, which are nature-related processes or assets that support human activity.</p> <a href=\"https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9661
+  },
+  {
     "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
     "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
     "source": "CNBC Finance",
@@ -59,18 +71,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
-    "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T19:04:00+00:00",
-    "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
