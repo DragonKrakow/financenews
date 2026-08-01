@@ -1,33 +1,9 @@
 [
   {
-    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T18:33:23+00:00",
-    "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "AI stocks may have bottomed out. What investors should watch for next.",
-    "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T18:29:00+00:00",
-    "summary": "Microsoft earnings provided optimism for the AI trade, as did the trading activity surrounding a hedge fund’s fire sale.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
     "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
     "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
     "source": "CNBC Finance",
-    "published": "2026-07-31T18:20:01+00:00",
+    "published": "2026-07-31T21:49:40+00:00",
     "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
     "matched_keywords": [
       "AI"
@@ -36,49 +12,11 @@
     "sentiment_score": 0.6369
   },
   {
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T18:15:00+00:00",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Warsh’s Fed is failing to stick to its own principles for good monetary policy",
-    "link": "https://www.marketwatch.com/story/warshs-fed-is-failing-to-stick-to-its-own-principles-for-good-monetary-policy-0d4e45ef?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T17:38:00+00:00",
-    "summary": "Bond investors don’t understand how Fed Chair Kevin Warsh’s pledge to restore stable prices squares with inaction on interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-    "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T17:30:00+00:00",
-    "summary": "“I will file a complaint with the Better Business Bureau.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
-    "title": "HSAs can be a great retirement tool – if you’re healthy or wealthy",
+    "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
     "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T17:20:00+00:00",
-    "summary": "Health savings accounts can offset healthcare costs in your old age. But most people can’t afford to wait.",
+    "published": "2026-07-31T21:28:00+00:00",
+    "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
     "matched_keywords": [
       "AI"
     ],
@@ -86,16 +24,65 @@
     "sentiment_score": 0.631
   },
   {
-    "title": "Here’s how Big Oil cashed in on the historic supply crunch",
-    "link": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
+    "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+    "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-07-31T17:03:00+00:00",
-    "summary": "ExxonMobil’s profit more than doubled in the latest quarter, but that was not enough. Chevron’s better print boosted the company’s stock.",
+    "published": "2026-07-31T20:23:00+00:00",
+    "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
     "matched_keywords": [
-      "Oil"
+      "Chips",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2711
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+    "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-31T20:20:00+00:00",
+    "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T20:19:03+00:00",
+    "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+    "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-07-31T19:04:00+00:00",
+    "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+    "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T18:46:45+00:00",
+    "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
   },
   {
     "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
@@ -381,5 +368,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1154
+  },
+  {
+    "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
+    "source": "The Guardian Economics",
+    "published": "2026-07-26T11:34:30+00:00",
+    "summary": "<p>UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorest</p><p>A <a href=\"https://www.theguardian.com/business/2026/jul/24/burnham-bounce-and-world-cup-lift-mood-in-july-says-data-firm\">“Burnham bounce”</a>, sunshine and a strong World Cup run for the England men’s football team. Could this be a turnaround moment for Britain’s struggling consumer economy or yet another false start for the UK’s spluttering growth engine?</p><p>Last week the data company GfK credited Andy Burnham’s return to Westminster politics for lifting UK consumer confidence at its fastest monthly pace for almost three years in June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   }
 ]
