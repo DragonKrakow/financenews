@@ -1,5 +1,29 @@
 [
   {
+    "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+    "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-02T12:00:00+00:00",
+    "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+    "link": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-02T11:30:00+00:00",
+    "summary": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
     "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
     "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,30 +58,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4404
-  },
-  {
-    "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
-    "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-01T17:09:00+00:00",
-    "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.631
-  },
-  {
-    "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-    "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-01T16:41:00+00:00",
-    "summary": "Spending down assets can be unsettling after a lifetime of saving.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   },
   {
     "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
