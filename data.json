@@ -1,5 +1,18 @@
 [
   {
+    "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
+    "link": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
+    "source": "The Guardian Economics",
+    "published": "2026-08-03T06:00:42+00:00",
+    "summary": "<p>The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the US</p><p>Here he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements that he himself signed and almost surely violating federal law. The only difference this time is that he has a new pretext for abusing tariffs: stopping forced labour.</p><p>Of course, the administration is right that too little is being done about forced labour. But its stated concern is a ruse. With the new tariffs closely tracking the ones that Trump imposed on the basis of trade balances, are we supposed to believe that bilateral trade deficits just so happen to be highly correlated with the use of forced labour?</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9254
+  },
+  {
     "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
     "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -365,19 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9618
-  },
-  {
-    "title": "Rising oil prices could force up UK interest rates, say economists",
-    "link": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
-    "source": "The Guardian Economics",
-    "published": "2026-07-26T23:01:23+00:00",
-    "summary": "<p>Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs</p><p><a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">The Bank of England</a> could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists.</p><p>Before a meeting of Bank officials on Thursday, economists said that while an interest rate hike would probably be avoided this week there could be some in the future because of conflict in the Middle East.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.09
   }
 ]
