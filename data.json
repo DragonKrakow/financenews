@@ -1,28 +1,52 @@
 [
   {
-    "title": "JPMorgan says Warsh failure to buttress Fed credibility may force a rate hike before year-end",
-    "link": "https://www.marketwatch.com/story/jpmorgan-says-warsh-failure-to-buttress-fed-credibility-may-force-a-rate-hike-before-year-end-e14e5821?mod=mw_rss_topstories",
+    "title": "SpaceX’s stock is down nearly 50% from its high. Why it’s still not a bargain.",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T13:06:00+00:00",
-    "summary": "JPMorgan’s U.S. economics team says last week’s post-decision press conference by Fed Chair Kevin Warsh was the most troubling since the practice began in 2012 as the U.S. banking giant moved forward their call for a rate increase.",
+    "published": "2026-08-03T17:05:00+00:00",
+    "summary": "Don’t chase a SpaceX stock rally even if earnings are excellent, as a wave of shares will become available for sale.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6495
+  },
+  {
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-03T16:44:25+00:00",
+    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-03T15:27:52+00:00",
+    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-03T15:20:00+00:00",
+    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which confirmed the move in a statement on Monday.",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6997
-  },
-  {
-    "title": "Gold is still in its ‘explosive phase,’ says Deutsche Bank, as it sticks to year-end target",
-    "link": "https://www.marketwatch.com/story/gold-is-still-in-its-explosive-phase-says-deutsche-bank-as-it-sticks-to-year-end-target-fc5bc13a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T12:36:00+00:00",
-    "summary": "Going back as far as 1957 and a few periods notwithstanding, gold tends to outperform CPI and in the last couple of yars this has been especially pronounced.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
   },
   {
     "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
@@ -36,32 +60,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8481
-  },
-  {
-    "title": "The gap between big tech and the rest of the market just vanished. Here’s what it means for investors.",
-    "link": "https://www.marketwatch.com/story/the-gap-between-big-tech-and-the-rest-of-the-market-just-vanished-heres-what-it-means-for-investors-e783d2dc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T12:10:00+00:00",
-    "summary": "Goldman Sachs says hot technology stocks have taken a beating — and investors should take a fresh look.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
-    "title": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
-    "link": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T12:08:00+00:00",
-    "summary": "It sounds paradoxical, but Federal Reserve Chair Kevin Warsh may have tightened the economy more by not lifting interest rates than he would have by actually increasing them.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6149
   },
   {
     "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
