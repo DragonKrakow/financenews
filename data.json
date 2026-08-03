@@ -1,5 +1,95 @@
 [
   {
+    "title": "JPMorgan says Warsh failure to buttress Fed credibility may force a rate hike before year-end",
+    "link": "https://www.marketwatch.com/story/jpmorgan-says-warsh-failure-to-buttress-fed-credibility-may-force-a-rate-hike-before-year-end-e14e5821?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-03T13:06:00+00:00",
+    "summary": "JPMorgan’s U.S. economics team says last week’s post-decision press conference by Fed Chair Kevin Warsh was the most troubling since the practice began in 2012 as the U.S. banking giant moved forward their call for a rate increase.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6997
+  },
+  {
+    "title": "Gold is still in its ‘explosive phase,’ says Deutsche Bank, as it sticks to year-end target",
+    "link": "https://www.marketwatch.com/story/gold-is-still-in-its-explosive-phase-says-deutsche-bank-as-it-sticks-to-year-end-target-fc5bc13a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-03T12:36:00+00:00",
+    "summary": "Going back as far as 1957 and a few periods notwithstanding, gold tends to outperform CPI and in the last couple of yars this has been especially pronounced.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
+    "link": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
+    "source": "The Guardian Economics",
+    "published": "2026-08-03T12:10:59+00:00",
+    "summary": "<p>Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.</p><p>Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texas Intermediate dropped more than 5% to $79.47 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8481
+  },
+  {
+    "title": "The gap between big tech and the rest of the market just vanished. Here’s what it means for investors.",
+    "link": "https://www.marketwatch.com/story/the-gap-between-big-tech-and-the-rest-of-the-market-just-vanished-heres-what-it-means-for-investors-e783d2dc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-03T12:10:00+00:00",
+    "summary": "Goldman Sachs says hot technology stocks have taken a beating — and investors should take a fresh look.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
+    "link": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-03T12:08:00+00:00",
+    "summary": "It sounds paradoxical, but Federal Reserve Chair Kevin Warsh may have tightened the economy more by not lifting interest rates than he would have by actually increasing them.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6149
+  },
+  {
+    "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
+    "link": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
+    "source": "The Guardian Economics",
+    "published": "2026-08-03T10:29:26+00:00",
+    "summary": "<p>Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according to a leading survey of the industry.</p><p>The S&amp;P Global poll of manufacturers found them in upbeat mood in July, though anxious about the prospect of a long war in the Middle East that would block supplies of oil and gas, and raise the cost of production.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8388
+  },
+  {
+    "title": "Yen hits three-month high after Trump helps prop up currency",
+    "link": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+    "source": "The Guardian Economics",
+    "published": "2026-08-03T08:34:06+00:00",
+    "summary": "<p>US and Japanese governments confirm they carried out a rare joint intervention late last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Why has Trump stepped in to prop up Japan’s currency?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The yen has hit its highest level in three months after <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Japan and the US</a> launched a combined operation to support the Japanese currency.</p><p>The yen strengthened to ¥155 to the US dollar on Monday, its highest level since early May, after Tokyo and Washington confirmed they had carried out a rare joint currency intervention late last week.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8225
+  },
+  {
     "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
     "link": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
     "source": "The Guardian Economics",
@@ -13,42 +103,6 @@
     "sentiment_score": -0.9254
   },
   {
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-02T16:00:00+00:00",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-    "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-02T15:19:00+00:00",
-    "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-    "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-02T14:00:00+00:00",
-    "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.93
-  },
-  {
     "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
     "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
     "source": "CNBC Finance",
@@ -59,18 +113,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-    "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-02T12:00:00+00:00",
-    "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   },
   {
     "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
@@ -341,42 +383,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-    "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-28T15:35:48+00:00",
-    "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
-  },
-  {
-    "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
-    "link": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
-    "source": "The Guardian Economics",
-    "published": "2026-07-28T12:12:41+00:00",
-    "summary": "<p>Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaigns</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/28/ai-sell-off-chip-stocks-slump-market-south-korea-japan-economy-latest-news\">Business live – latest updates</a></p></li></ul><p>Unilever has warned it will push through further price rises over the coming months, as the Marmite, Dove and Hellmann’s owner tries to recoup its own growing costs.</p><p>The Anglo-Dutch company said that while the pace of price rises slowed in the second quarter, owing in part to World Cup-related discounts and efforts to stay competitive in Brazil, these were “temporary factors” and would not shield consumers for long.</p> <a href=\"https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
-  },
-  {
-    "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-    "source": "The Guardian Economics",
-    "published": "2026-07-27T17:30:46+00:00",
-    "summary": "<p>Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall</p><p>Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9618
   }
 ]
