@@ -1,15 +1,53 @@
 [
   {
-    "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
-    "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+    "title": "Oil prices slump as Qatar and Bessent note talks to reopen Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T21:59:00+00:00",
-    "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
+    "published": "2026-08-04T12:34:00+00:00",
+    "summary": "Oil prices turned sharply lower on Tuesday as a Qatari official talked about a potential short-term deal between the U.S. and Iran.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
+    "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T12:30:00+00:00",
+    "summary": "Citadel Securities strategist Scott Rubner said markets have gotten a “technical reset” and is ready to recommend buying stocks again.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+    "link": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
+    "source": "The Guardian Economics",
+    "published": "2026-08-04T11:00:48+00:00",
+    "summary": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.</p><p>For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from Ronald Reagan’s 1981 inaugural: “Government is not the solution to our problem; government is the problem.” Solutions, in this view, are delivered by free, unencumbered markets.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack</p> <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7606
+  },
+  {
+    "title": "The ‘Magnificent Seven’ companies just did something they haven’t since ChatGPT was first released",
+    "link": "https://www.marketwatch.com/story/the-magnificent-seven-companies-just-did-something-they-havent-since-chatgpt-was-first-released-d8aa609f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T10:43:00+00:00",
+    "summary": "The grouping of companies called the Magnificent Seven just did something that they haven’t since the introduction of ChatGPT sent the market into an artificial intelligence-sparked frenzy.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
   },
   {
     "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
@@ -344,41 +382,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9565
-  },
-  {
-    "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-    "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-28T18:27:43+00:00",
-    "summary": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-    "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-28T16:16:25+00:00",
-    "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-    "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-28T15:35:48+00:00",
-    "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
   }
 ]
