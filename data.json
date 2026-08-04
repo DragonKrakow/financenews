@@ -1,28 +1,88 @@
 [
   {
-    "title": "Oil prices slump as Qatar and Bessent note talks to reopen Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T12:34:00+00:00",
-    "summary": "Oil prices turned sharply lower on Tuesday as a Qatari official talked about a potential short-term deal between the U.S. and Iran.",
+    "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+    "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-04T17:49:24+00:00",
+    "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
     "matched_keywords": [
-      "Oil",
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1419
   },
   {
-    "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
-    "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
+    "title": "The richest 20% are buying most of the new cars sold in the U.S.",
+    "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T12:30:00+00:00",
-    "summary": "Citadel Securities strategist Scott Rubner said markets have gotten a “technical reset” and is ready to recommend buying stocks again.",
+    "published": "2026-08-04T17:09:00+00:00",
+    "summary": "The AI-fueled bull market in stocks has shifted U.S. car sales into a higher gear — and the richest Americans are doing most of the buying.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+    "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T16:56:00+00:00",
+    "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance",
+    "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T16:25:00+00:00",
+    "summary": "The Treasury secretary questioned the need for an interest-rate hike.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+    "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-04T16:14:49+00:00",
+    "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Palantir is leaving its software peers behind in the AI race",
+    "link": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T15:29:00+00:00",
+    "summary": "The company’s focus on sovereign AI is resonating with customers, analysts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
+    "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-04T13:31:19+00:00",
+    "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
@@ -36,18 +96,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7606
-  },
-  {
-    "title": "The ‘Magnificent Seven’ companies just did something they haven’t since ChatGPT was first released",
-    "link": "https://www.marketwatch.com/story/the-magnificent-seven-companies-just-did-something-they-havent-since-chatgpt-was-first-released-d8aa609f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T10:43:00+00:00",
-    "summary": "The grouping of companies called the Magnificent Seven just did something that they haven’t since the introduction of ChatGPT sent the market into an artificial intelligence-sparked frenzy.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
@@ -91,7 +139,7 @@
     "link": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
     "source": "The Guardian Economics",
     "published": "2026-08-03T10:29:26+00:00",
-    "summary": "<p>Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according to a leading survey of the industry.</p><p>The S&amp;P Global poll of manufacturers found them in upbeat mood in July, though anxious about the prospect of a long war in the Middle East that would block supplies of oil and gas, and raise the cost of production.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran\">Continue reading...</a>",
+    "summary": "<p>Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds</p><p>UK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according to a leading survey of the industry.</p><p>The S&amp;P Global poll of manufacturers found them in upbeat mood in July, though anxious about the prospect of a long war in the Middle East that would block supplies of oil and gas, and raise the cost of production.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -331,56 +379,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6652
-  },
-  {
-    "title": "Here are the five big takeaways from this week's Fed meeting",
-    "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T22:54:09+00:00",
-    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.357
-  },
-  {
-    "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-    "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T22:20:18+00:00",
-    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-    "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T18:58:16+00:00",
-    "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1933
-  },
-  {
-    "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
-    "link": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-07-28T23:01:15+00:00",
-    "summary": "<p>Leading thinktank says higher oil prices and inflation will give Andy Burnham a ‘challenging inheritance’</p><p>Andy Burnham has been warned by a leading thinktank of “very difficult trade-offs in the next autumn budget” if the Iran war keeps oil prices and inflation high.</p><p>The National Institute of Economic and Social Research (NIESR) said the new prime minister faced a “challenging inheritance” and his plans to revamp public services would meet severe pressure from persistently higher prices.</p> <a href=\"https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9565
   }
 ]
