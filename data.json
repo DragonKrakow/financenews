@@ -1,15 +1,27 @@
 [
   {
-    "title": "SpaceX’s stock is down nearly 50% from its high. Why it’s still not a bargain.",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
+    "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T17:05:00+00:00",
-    "summary": "Don’t chase a SpaceX stock rally even if earnings are excellent, as a wave of shares will become available for sale.",
+    "published": "2026-08-03T21:59:00+00:00",
+    "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6495
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-03T19:20:25+00:00",
+    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
   },
   {
     "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
@@ -24,36 +36,11 @@
     "sentiment_score": -0.3612
   },
   {
-    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-03T15:27:52+00:00",
-    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-03T15:20:00+00:00",
-    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which confirmed the move in a statement on Monday.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8225
-  },
-  {
     "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
     "link": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
     "source": "The Guardian Economics",
     "published": "2026-08-03T12:10:59+00:00",
-    "summary": "<p>Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.</p><p>Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texas Intermediate dropped more than 5% to $79.47 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude\">Continue reading...</a>",
+    "summary": "<p>Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume</p><p>Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.</p><p>Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texas Intermediate dropped more than 5% to $79.47 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -381,5 +368,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
+  },
+  {
+    "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+    "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-28T15:35:48+00:00",
+    "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
   }
 ]
