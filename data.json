@@ -1,5 +1,66 @@
 [
   {
+    "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+    "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T22:22:00+00:00",
+    "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+    "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T21:54:00+00:00",
+    "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+    "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-04T21:39:30+00:00",
+    "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4915
+  },
+  {
+    "title": "McDonald’s says its value meals have become too complicated",
+    "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T21:13:00+00:00",
+    "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
+    "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-04T20:26:00+00:00",
+    "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
     "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
     "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
     "source": "CNBC Finance",
@@ -13,42 +74,6 @@
     "sentiment_score": 0.1419
   },
   {
-    "title": "The richest 20% are buying most of the new cars sold in the U.S.",
-    "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T17:09:00+00:00",
-    "summary": "The AI-fueled bull market in stocks has shifted U.S. car sales into a higher gear — and the richest Americans are doing most of the buying.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
-    "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T16:56:00+00:00",
-    "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance",
-    "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T16:25:00+00:00",
-    "summary": "The Treasury secretary questioned the need for an interest-rate hike.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
     "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
     "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
     "source": "CNBC Finance",
@@ -59,18 +84,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Palantir is leaving its software peers behind in the AI race",
-    "link": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T15:29:00+00:00",
-    "summary": "The company’s focus on sovereign AI is resonating with customers, analysts say.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
@@ -89,13 +102,13 @@
     "link": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
     "source": "The Guardian Economics",
     "published": "2026-08-04T11:00:48+00:00",
-    "summary": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.</p><p>For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from Ronald Reagan’s 1981 inaugural: “Government is not the solution to our problem; government is the problem.” Solutions, in this view, are delivered by free, unencumbered markets.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack</p> <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Continue reading...</a>",
+    "summary": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.</p><p>For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>’s 1981 inaugural speech: “Government is not the solution to our problem; government is the problem.” Solutions, in this view, are delivered by free, unencumbered markets.</p> <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7606
+    "sentiment_score": 0.6044
   },
   {
     "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
@@ -172,18 +185,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9254
-  },
-  {
-    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-02T13:52:33+00:00",
-    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
