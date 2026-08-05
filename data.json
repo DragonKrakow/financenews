@@ -1,51 +1,100 @@
 [
   {
-    "title": "ADP says businesses add the fewest new jobs in six months. Labor market is still sluggish.",
-    "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+    "title": "SolarEdge’s stock is shedding a quarter of its value as sales woes trump AI progress",
+    "link": "https://www.marketwatch.com/story/solaredges-stock-is-shedding-a-quarter-of-its-value-as-sales-woes-trump-ai-progress-8ce8159d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T12:25:00+00:00",
-    "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
+    "published": "2026-08-05T18:31:00+00:00",
+    "summary": "The company faces challenges in Europe, which led to a weaker-than-expected revenue forecast.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Retail investors are buying the dip on SpaceX’s stock before more shares flood the market",
+    "link": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T18:30:00+00:00",
+    "summary": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company’s stock sank after it released its first earnings report.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7645
+  },
+  {
+    "title": "Alphabet’s stock drops as Google loses another key AI executive",
+    "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T17:50:00+00:00",
+    "summary": "Jeff Dean, Google’s chief scientist and one of its first employees, is leaving to launch his own company.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
-    "link": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T12:19:00+00:00",
-    "summary": "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8004
-  },
-  {
-    "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
-    "link": "https://www.marketwatch.com/story/walt-disneys-stock-climbs-as-company-cites-toy-story-5-for-earnings-growth-fe0c86c1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T11:42:00+00:00",
-    "summary": "Walt Disney’s stock, which has been struggling all year, rallied on Wednesday as the entertainment giant reported surprisingly strong earnings.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
+    "sentiment_score": -0.3182
   },
   {
     "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
     "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
     "source": "CNBC Finance",
-    "published": "2026-08-05T11:13:46+00:00",
+    "published": "2026-08-05T16:17:55+00:00",
     "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
+  },
+  {
+    "title": "5 things investors should know about the stock market’s latest rapid-fire comeback",
+    "link": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T16:02:00+00:00",
+    "summary": "What a difference a week makes. The S&amp;P 500 has surged more than 6% over the past five days, its biggest gain since last year’s tariff tantrum.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T15:56:00+00:00",
+    "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year. The company is dramatically ramping up AI investments.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T15:51:00+00:00",
+    "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
+    "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T15:01:00+00:00",
+    "summary": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
   },
   {
     "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
@@ -324,59 +373,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-30T13:39:36+00:00",
-    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
-    "link": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
-    "source": "The Guardian Economics",
-    "published": "2026-07-30T13:21:19+00:00",
-    "summary": "<p>Consumer spending remained resilient even as policymakers kept interest rates on hold</p><p>The <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>’s favored measure of <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> grew more slowly last month despite remaining above the central bank’s 2% target.</p><p>The commerce department reported on Thursday that growth in US gross domestic product (GDP) – the nation’s output of goods and services – decelerated from 2.1% in the first three months of 2026 and came in below economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
-    "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
-    "link": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-07-30T12:44:47+00:00",
-    "summary": "<p>Bank’s wariness about inflationary pressures from the conflict lie behind decision to hold steady at 3.75%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>There is a threat of high inflation coming to the UK but only from the conflict in the Middle East, which could keep oil prices high for much longer than was expected when Donald Trump first began attacking Iran.</p><p>It is the war that makes the difference between a benign outlook for inflation and one that puts it back on a rising trajectory, senior UK central bankers believe.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9432
-  },
-  {
-    "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
-    "link": "https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-07-30T08:54:59+00:00",
-    "summary": "<p>Bank’s chair pledges to keep up fight against inflation but decision brings fears of a failure to keep pace</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>US government borrowing costs have hit their highest level since 2007 after the Federal Reserve voted to hold its key interest rate steady, feeding fears that the central bank may not move fast enough to tame a rise in inflation.</p><p>The yield – or interest rate – on the 30-year US Treasury bond rose 14 basis points to nearly 5.24%, a 19-year high, after the Fed announced its decision to <a href=\"https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates\">hold its main rate at between 3.5% and 3.75%</a> for the fifth meeting in a row.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3506
   }
 ]
