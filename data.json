@@ -1,5 +1,66 @@
 [
   {
+    "title": "ADP says businesses add the fewest new jobs in six months. Labor market is still sluggish.",
+    "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T12:25:00+00:00",
+    "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
+    "link": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T12:19:00+00:00",
+    "summary": "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8004
+  },
+  {
+    "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
+    "link": "https://www.marketwatch.com/story/walt-disneys-stock-climbs-as-company-cites-toy-story-5-for-earnings-growth-fe0c86c1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T11:42:00+00:00",
+    "summary": "Walt Disney’s stock, which has been struggling all year, rallied on Wednesday as the entertainment giant reported surprisingly strong earnings.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+    "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-05T11:13:46+00:00",
+    "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
+    "source": "The Guardian Economics",
+    "published": "2026-08-05T10:43:44+00:00",
+    "summary": "<p>More than half of tariff income refunded after supreme court ruled Trump’s levies were illegal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/05/asian-shares-jump-ai-trade-revival-despite-spacex-amd-setbacks-oil-prices-dip-live-updates\">Business live – latest updates</a></p></li></ul><p>The Trump administration has refunded about $100bn from the tariffs it collected before the US supreme court ruled them illegal, according to reports.</p><p>The $100bn (£74bn) figure, which represents 60% of the total $165bn collected from Donald Trump’s “liberation day” tariffs, was reported by customs officials to the US court of international trade (CIT) on Tuesday, according to the Financial Times.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
     "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
     "link": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
     "source": "The Guardian Economics",
@@ -12,30 +73,6 @@
     "sentiment_score": 0.875
   },
   {
-    "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-    "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T22:22:00+00:00",
-    "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-    "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T21:54:00+00:00",
-    "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
     "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
     "source": "CNBC Finance",
@@ -46,31 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4915
-  },
-  {
-    "title": "McDonald’s says its value meals have become too complicated",
-    "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T21:13:00+00:00",
-    "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
-    "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-04T20:26:00+00:00",
-    "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   },
   {
     "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
@@ -366,18 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3506
-  },
-  {
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-30T02:52:30+00:00",
-    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9246
   }
 ]
