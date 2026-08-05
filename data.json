@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
+    "link": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
+    "source": "The Guardian Economics",
+    "published": "2026-08-05T05:00:11+00:00",
+    "summary": "<p>As lenders’ profits soar, calls grow for a levy to help new PM ease cost of living pressures on households</p><p>It has been a stellar week for UK banks. Fuelled by high interest rates and market turbulence rippling out from the US war on Iran, major lenders have revealed soaring half-year profits that allowed bosses to boost bonus pots and give billions of pounds to shareholders.</p><p>Collectively, the UK’s four largest lenders – HSBC, NatWest, Barclays and Lloyds – <a href=\"https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham\">reported £29.2bn in profits</a> over the first six months of the year, with almost half, £13.7bn, pledged to investors through dividends and share buybacks.</p> <a href=\"https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.875
+  },
+  {
     "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
     "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -367,18 +379,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9246
-  },
-  {
-    "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-    "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-29T23:10:46+00:00",
-    "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
   }
 ]
