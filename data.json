@@ -1,5 +1,17 @@
 [
   {
+    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-06T01:33:00+00:00",
+    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
     "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
     "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
     "source": "CNBC Finance",
@@ -71,18 +83,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "Retail investors are buying the dip on SpaceX’s stock before more shares flood the market",
-    "link": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T21:17:00+00:00",
-    "summary": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company’s stock sank after it released its first earnings report.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7645
   },
   {
     "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
