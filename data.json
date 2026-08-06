@@ -1,21 +1,82 @@
 [
   {
-    "title": "SolarEdge’s stock is shedding a quarter of its value as sales woes trump AI progress",
-    "link": "https://www.marketwatch.com/story/solaredges-stock-is-shedding-a-quarter-of-its-value-as-sales-woes-trump-ai-progress-8ce8159d?mod=mw_rss_topstories",
+    "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+    "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-05T22:35:26+00:00",
+    "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
+    "link": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T18:31:00+00:00",
-    "summary": "The company faces challenges in Europe, which led to a weaker-than-expected revenue forecast.",
+    "published": "2026-08-05T22:19:00+00:00",
+    "summary": "“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5859
+  },
+  {
+    "title": "Figma’s stock falls as the company’s AI push requires steep investments",
+    "link": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T22:12:00+00:00",
+    "summary": "While Figma’s consumption-based AI monetization strategy is showing promise, the company’s margins are taking a hit.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T21:26:00+00:00",
+    "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year, as the company is dramatically ramping up AI investments.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T21:22:00+00:00",
+    "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Alphabet’s stock drops as Google loses another key AI executive",
+    "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-05T21:20:00+00:00",
+    "summary": "Jeff Dean, Google’s chief scientist and one of its first employees, is leaving to launch his own company.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   },
   {
     "title": "Retail investors are buying the dip on SpaceX’s stock before more shares flood the market",
     "link": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T18:30:00+00:00",
+    "published": "2026-08-05T21:17:00+00:00",
     "summary": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company’s stock sank after it released its first earnings report.",
     "matched_keywords": [
       "AI"
@@ -24,16 +85,16 @@
     "sentiment_score": 0.7645
   },
   {
-    "title": "Alphabet’s stock drops as Google loses another key AI executive",
-    "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T17:50:00+00:00",
-    "summary": "Jeff Dean, Google’s chief scientist and one of its first employees, is leaving to launch his own company.",
+    "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+    "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-05T20:36:16+00:00",
+    "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
     "matched_keywords": [
-      "AI"
+      "Fed"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
   },
   {
     "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
@@ -46,55 +107,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "5 things investors should know about the stock market’s latest rapid-fire comeback",
-    "link": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T16:02:00+00:00",
-    "summary": "What a difference a week makes. The S&amp;P 500 has surged more than 6% over the past five days, its biggest gain since last year’s tariff tantrum.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T15:56:00+00:00",
-    "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year. The company is dramatically ramping up AI investments.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T15:51:00+00:00",
-    "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
-    "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T15:01:00+00:00",
-    "summary": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   },
   {
     "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
@@ -361,17 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.696
-  },
-  {
-    "title": "Here's what changed in the second Fed statement under Warsh",
-    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-30T13:42:07+00:00",
-    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
