@@ -1,15 +1,39 @@
 [
   {
-    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
+    "link": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-06T01:33:00+00:00",
-    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "published": "2026-08-06T12:17:00+00:00",
+    "summary": "JPMorgan strategists say some big hedge-fund groups took heavy hits in the July tech selloff, and they may be buying far less of those stocks going forward.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "SoftBank earnings exceed expectations, even without an OpenAI boost. This U.S. chip company saved the day.",
+    "link": "https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-06T11:03:00+00:00",
+    "summary": "The Japanese company’s investment in Intel paid off.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1386
+  },
+  {
+    "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
+    "link": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
+    "source": "The Guardian Economics",
+    "published": "2026-08-06T11:00:50+00:00",
+    "summary": "<p>When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security</p><p>Americans may seem increasingly divided on beliefs and values, but in a new survey of more than 30,000 adults from across the country spanning generations and economic classes, a majority of Americans agree there’s a significant barrier to achieving a better life: the rising cost of living.</p><p>When asked to describe what a better life in three to five years would look like, 60% of Americans said they wanted greater financial security, according to a survey that was conducted by the McKinsey Institute for Economic Mobility and the WK Kellogg Foundation in mid-April.</p> <a href=\"https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
+    "sentiment_score": 0.9782
   },
   {
     "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
@@ -22,67 +46,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
-    "link": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T22:19:00+00:00",
-    "summary": "“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
-  },
-  {
-    "title": "Figma’s stock falls as the company’s AI push requires steep investments",
-    "link": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T22:12:00+00:00",
-    "summary": "While Figma’s consumption-based AI monetization strategy is showing promise, the company’s margins are taking a hit.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T21:26:00+00:00",
-    "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year, as the company is dramatically ramping up AI investments.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T21:22:00+00:00",
-    "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "Alphabet’s stock drops as Google loses another key AI executive",
-    "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-05T21:20:00+00:00",
-    "summary": "Jeff Dean, Google’s chief scientist and one of its first employees, is leaving to launch his own company.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   },
   {
     "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
@@ -373,5 +336,43 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.696
+  },
+  {
+    "title": "Here's what changed in the second Fed statement under Warsh",
+    "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-30T13:42:07+00:00",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+    "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-30T13:39:36+00:00",
+    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
+    "link": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
+    "source": "The Guardian Economics",
+    "published": "2026-07-30T13:21:19+00:00",
+    "summary": "<p>Consumer spending remained resilient even as policymakers kept interest rates on hold</p><p>The <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>’s favored measure of <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> grew more slowly last month despite remaining above the central bank’s 2% target.</p><p>The commerce department reported on Thursday that growth in US gross domestic product (GDP) – the nation’s output of goods and services – decelerated from 2.1% in the first three months of 2026 and came in below economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
   }
 ]
