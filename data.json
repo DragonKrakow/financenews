@@ -1,39 +1,52 @@
 [
   {
-    "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
-    "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
+    "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+    "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T11:00:00+00:00",
-    "summary": "What Kevin O’Leary learned from Steve Jobs: You only need to get three things done every day. Just three.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
-    "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T10:56:00+00:00",
-    "summary": "Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "There are good reasons why higher bond yields are here to stay, this strategist says",
-    "link": "https://www.marketwatch.com/story/there-are-good-reasons-why-higher-bond-yields-are-here-to-stay-this-strategist-says-2a89d5ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T10:02:00+00:00",
-    "summary": "Investors are demanding higher rates when they buy long-duration bonds because there is less demand, higher supply and a hot mess of policy uncertainty, strategist explains",
+    "published": "2026-08-07T18:00:00+00:00",
+    "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4779
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?",
+    "link": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-07T15:36:00+00:00",
+    "summary": "While one analyst thinks Doximity has a compelling AI opportunity, another worries that the company could cannibalize its core business of medical networking.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+    "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-07T13:34:44+00:00",
+    "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
+    "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
+    "link": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
+    "source": "The Guardian Economics",
+    "published": "2026-08-07T13:22:43+00:00",
+    "summary": "<p>Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/07/rail-passengers-disruption-power-outage-uk-house-prices-stagnate-us-jobs-unemployment-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated.</p><p>The unemployment rate, however, held steady at 4.1%. Economists had <a href=\"https://www.wsj.com/economy/jobs/private-sector-hiring-missed-expectations-in-july-adp-report-says-31f26993\">projected</a> an unchanged unemployment rate and 83,000 new jobs for the month.</p> <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9442
   },
   {
     "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
@@ -49,18 +62,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8555
-  },
-  {
-    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T02:00:00+00:00",
-    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   },
   {
     "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
