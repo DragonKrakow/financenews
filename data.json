@@ -1,10 +1,22 @@
 [
   {
+    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-07T02:00:00+00:00",
+    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
     "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
     "link": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-08-06T23:14:00+00:00",
-    "summary": "Alphabet is utilizing its balance sheet with a fresh debt issuance as heavy AI investments eat into its free cash flow.",
+    "summary": "The Google parent is utilizing its balance sheet with a fresh debt issuance, as heavy AI investments eat into its free cash flow.",
     "matched_keywords": [
       "AI"
     ],
@@ -35,18 +47,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "Honeywell Aerospace lands in Wall Street’s ‘penalty box’ after gloomy guidance triggers 23% stock selloff",
-    "link": "https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-06T20:41:00+00:00",
-    "summary": "The newly minted Honeywell Aerospace stunned Wall Street only weeks into its life as a standalone company.",
-    "matched_keywords": [
-      "Aerospace"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   },
   {
     "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
