@@ -1,5 +1,17 @@
 [
   {
+    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+    "source": "The Guardian Economics",
+    "published": "2026-08-08T06:00:38+00:00",
+    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
     "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
     "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -26,7 +38,7 @@
     "sentiment_score": -0.1531
   },
   {
-    "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an AI loser",
+    "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
     "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-08-07T20:54:00+00:00",
@@ -35,7 +47,7 @@
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
+    "sentiment_score": 0.8271
   },
   {
     "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
@@ -359,18 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5719
-  },
-  {
-    "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
-    "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T15:31:24+00:00",
-    "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
   }
 ]
