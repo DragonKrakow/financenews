@@ -1,27 +1,53 @@
 [
   {
-    "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-    "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+    "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+    "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T18:00:00+00:00",
-    "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+    "published": "2026-08-07T22:05:00+00:00",
+    "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
   },
   {
-    "title": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?",
-    "link": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
+    "title": "The smart way to invest in gold right now as the dollar slips",
+    "link": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T15:36:00+00:00",
-    "summary": "While one analyst thinks Doximity has a compelling AI opportunity, another worries that the company could cannibalize its core business of medical networking.",
+    "published": "2026-08-07T21:58:00+00:00",
+    "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an AI loser",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-07T20:54:00+00:00",
+    "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-07T20:15:00+00:00",
+    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "Odds the Fed will hike in September tumble following big July jobs miss",
@@ -346,33 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7579
-  },
-  {
-    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T14:35:52+00:00",
-    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-    "link": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
-    "source": "The Guardian Economics",
-    "published": "2026-07-30T15:47:35+00:00",
-    "summary": "<p>Split vote comes as Iran war is rekindled and oil price climbs close to $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Only Middle East crisis is preventing drop in UK interest rates</a></p></li></ul><p>The Bank of England has kept UK interest rates on hold as it warned that a further escalation in the Iran war could drive inflation above 4% next year, adding to cost of living pressures on households.</p><p>Against a volatile backdrop in the Middle East conflict, the Bank’s monetary policy committee (MPC) voted by six to three to keep its key base rate at 3.75%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9274
   }
 ]
