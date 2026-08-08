@@ -1,15 +1,27 @@
 [
   {
-    "title": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
-    "link": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-08T11:00:00+00:00",
-    "summary": "Nvidia could bump SpaceX to “the front of the line” when it comes to its limited supply of chips, according to Bernstein.",
+    "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+    "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-08T15:00:01+00:00",
+    "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
     "matched_keywords": [
-      "Chips"
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-08T13:28:00+00:00",
+    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2815
   },
   {
     "title": "Union calls for robust review of OBR over fears it holds back economic growth",
@@ -22,44 +34,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7579
-  },
-  {
-    "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-    "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T22:05:00+00:00",
-    "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "The smart way to invest in gold right now as the dollar slips",
-    "link": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T21:58:00+00:00",
-    "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
-    "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-07T20:54:00+00:00",
-    "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8271
   },
   {
     "title": "Odds the Fed will hike in September tumble following big July jobs miss",
@@ -371,5 +345,31 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5719
+  },
+  {
+    "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+    "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T15:31:24+00:00",
+    "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-07-31T14:35:52+00:00",
+    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
