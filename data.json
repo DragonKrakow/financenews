@@ -1,15 +1,39 @@
 [
   {
-    "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-    "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+    "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+    "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-08T18:30:00+00:00",
-    "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+    "published": "2026-08-09T14:00:00+00:00",
+    "summary": "Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-09T12:30:00+00:00",
+    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-09T12:30:00+00:00",
+    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
   },
   {
     "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
@@ -345,30 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-    "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T18:46:45+00:00",
-    "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
-    "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T15:31:24+00:00",
-    "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
   }
 ]
