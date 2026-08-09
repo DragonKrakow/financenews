@@ -1,5 +1,17 @@
 [
   {
+    "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+    "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-08T18:30:00+00:00",
+    "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
     "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
     "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
     "source": "CNBC Finance",
@@ -358,18 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7579
-  },
-  {
-    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T14:35:52+00:00",
-    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
