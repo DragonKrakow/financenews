@@ -1,51 +1,53 @@
 [
   {
-    "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+    "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
+    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T03:02:00+00:00",
-    "summary": "U.S. stock-index futures were little changed on Sunday, after new demands from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon and as investors await key inflation data later this week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.197
-  },
-  {
-    "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
-    "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-09T14:00:00+00:00",
-    "summary": "Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
+    "published": "2026-08-10T11:15:00+00:00",
+    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
+    "sentiment_score": 0.872
   },
   {
-    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
+    "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-09T12:30:00+00:00",
-    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "published": "2026-08-10T11:11:00+00:00",
+    "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V.",
     "matched_keywords": [
-      "AI"
+      "Interest Rates",
+      "Fed"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
   },
   {
-    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "title": "Mark Zuckerberg takes on the AI doomers in 6,500-word essay",
+    "link": "https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-09T12:30:00+00:00",
-    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "published": "2026-08-10T10:42:00+00:00",
+    "summary": "Meta Platforms CEO Mark Zuckerberg has a response to the gloom about artificial intelligence coming from both inside and outside the industry: AI will be helpful for both the economy and society.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Elon Musk’s ambitious AI plans for SpaceX should be taken seriously, thanks to Microsoft, these analysts say",
+    "link": "https://www.marketwatch.com/story/these-analysts-say-elon-musks-ambitious-ai-plans-for-spacex-should-be-taken-seriously-thanks-to-microsoft-2c9aa472?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-10T09:26:00+00:00",
+    "summary": "If Elon Musk can expand its compute capacity swiftly, Microsoft could be perfectly positioned to monetize this “one-in-a-generation opportunity”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6908
+    "sentiment_score": 0.9186
   },
   {
     "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
