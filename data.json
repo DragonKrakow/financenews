@@ -1,53 +1,51 @@
 [
   {
+    "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+    "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-10T18:03:17+00:00",
+    "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+    "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-10T17:22:00+00:00",
+    "summary": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-10T15:20:00+00:00",
+    "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
+  },
+  {
     "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
     "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T11:15:00+00:00",
+    "published": "2026-08-10T15:00:00+00:00",
     "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.872
-  },
-  {
-    "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
-    "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T11:11:00+00:00",
-    "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Mark Zuckerberg takes on the AI doomers in 6,500-word essay",
-    "link": "https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T10:42:00+00:00",
-    "summary": "Meta Platforms CEO Mark Zuckerberg has a response to the gloom about artificial intelligence coming from both inside and outside the industry: AI will be helpful for both the economy and society.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "Elon Musk’s ambitious AI plans for SpaceX should be taken seriously, thanks to Microsoft, these analysts say",
-    "link": "https://www.marketwatch.com/story/these-analysts-say-elon-musks-ambitious-ai-plans-for-spacex-should-be-taken-seriously-thanks-to-microsoft-2c9aa472?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T09:26:00+00:00",
-    "summary": "If Elon Musk can expand its compute capacity swiftly, Microsoft could be perfectly positioned to monetize this “one-in-a-generation opportunity”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9186
   },
   {
     "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
