@@ -1,5 +1,17 @@
 [
   {
+    "title": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-09T23:40:00+00:00",
+    "summary": "U.S. stock-index futures were little changed on Sunday, after new demands from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon and as investors await key inflation data later this week.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.197
+  },
+  {
     "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
     "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -357,17 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
-  },
-  {
-    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-    "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T20:19:03+00:00",
-    "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   }
 ]
