@@ -1,88 +1,87 @@
 [
   {
-    "title": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
-    "link": "https://www.marketwatch.com/story/warshs-changes-to-forward-guidance-were-tried-by-one-central-bank-and-heres-what-happened-c7a5c743?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T12:16:00+00:00",
-    "summary": "Canada’s post-2008 playbook shows the volatility risks of Warsh’s no-guidance Fed.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
-    "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T11:18:00+00:00",
-    "summary": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.",
+    "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+    "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-11T18:09:08+00:00",
+    "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "‘I’m dreaming of cocktails at Château Marmont’: I found $100 in my Airbnb’s communal washer. What should I do?",
+    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T17:45:00+00:00",
+    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
+    "link": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T17:17:00+00:00",
+    "summary": "The Chinese company will be the first to market in a wave of new humanoid-robotics IPOs.",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
+    "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T16:11:00+00:00",
+    "summary": "These are the circumstances in which choosing a SpaceX-operated Starlink setup over fiber, cable and 5G may make financial sense.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "If you can answer this one question, you’ll never worry about money again",
+    "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T15:44:00+00:00",
+    "summary": "YNAB founder Jesse Mecham’s new book has a simple system to end the paycheck-to-paycheck struggle.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0274
+  },
+  {
+    "title": "A historically strong stretch for the U.S. stock market is about to begin",
+    "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T15:40:00+00:00",
+    "summary": "Some investors are worried that this AI-powered bull market might be getting a little long in the tooth as it approaches its fourth birthday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
     "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
     "source": "CNBC Finance",
-    "published": "2026-08-11T11:15:16+00:00",
-    "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+    "published": "2026-08-11T14:11:05+00:00",
+    "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "These 11 midcaps are popular right now among investment newsletters but not because of sweet-spot market valuations",
-    "link": "https://www.marketwatch.com/story/these-11-midcaps-are-popular-right-now-among-investment-newsletters-but-not-because-of-their-market-valuations-a0bf0fbb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T10:30:00+00:00",
-    "summary": "Bigger than small caps. Smaller than large caps. Are they, as in the fairytale, “just right”?",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-    "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T10:00:00+00:00",
-    "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "My wife’s Social Security is just $900. Should she claim her spousal benefit at 62 or wait?",
-    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T10:00:00+00:00",
-    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Why copper — ‘the commodity for all seasons’ — is more precious than gold nowadays",
-    "link": "https://www.marketwatch.com/story/why-copper-the-commodity-for-all-seasons-is-more-precious-than-gold-nowadays-4aa3f686?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T09:53:00+00:00",
-    "summary": "Panumre Liberum argue that copper offers gold’s inflation protection, plus an industrial-backed demand growth story, as well as a relative immunity to movements in interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8313
   },
   {
     "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
