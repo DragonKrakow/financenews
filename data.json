@@ -1,21 +1,9 @@
 [
   {
-    "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
-    "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-10T18:03:17+00:00",
-    "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
     "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T17:22:00+00:00",
+    "published": "2026-08-10T22:52:00+00:00",
     "summary": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
     "matched_keywords": [
       "AI"
@@ -24,10 +12,23 @@
     "sentiment_score": -0.1027
   },
   {
+    "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+    "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-10T22:46:00+00:00",
+    "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
     "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
     "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T15:20:00+00:00",
+    "published": "2026-08-10T22:39:00+00:00",
     "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
     "matched_keywords": [
       "AI"
@@ -36,16 +37,40 @@
     "sentiment_score": 0.5023
   },
   {
-    "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
-    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+    "title": "Here’s who stands to gain the most from a Jeff Bezos-Liverpool FC deal",
+    "link": "https://www.marketwatch.com/story/heres-who-stands-to-gain-the-most-from-a-jeff-bezos-liverpool-fc-deal-24db9b94?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T15:00:00+00:00",
-    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
+    "published": "2026-08-10T22:33:00+00:00",
+    "summary": "LeBron James’s Liverpool stake would soar if Bezos completes deal to become part owner of English soccer club",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+    "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-10T22:09:00+00:00",
+    "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+    "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-10T18:36:26+00:00",
+    "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
@@ -345,29 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9254
-  },
-  {
-    "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
-    "link": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
-    "source": "The Guardian Economics",
-    "published": "2026-08-01T04:00:41+00:00",
-    "summary": "<p>Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services</p><p>A senior policymaker at the <a href=\"https://www.theguardian.com/business/european-central-bank\">European Central Bank</a> has said the climate emergency and the breakdown of nature poses a dramatically growing risk to the global economy.</p><p>Frank Elderson, a member of the ECB’s executive board, said the eurozone lender of last resort was stepping up its monitoring of the financial risks linked to the destruction of “ecosystem services”, which are nature-related processes or assets that support human activity.</p> <a href=\"https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9661
-  },
-  {
-    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "source": "CNBC Finance",
-    "published": "2026-07-31T21:49:40+00:00",
-    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   }
 ]
