@@ -1,5 +1,41 @@
 [
   {
+    "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+    "link": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+    "source": "The Guardian Economics",
+    "published": "2026-08-11T06:00:06+00:00",
+    "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live\">Business live – latest updates</a></p></li></ul><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK lifted summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6997
+  },
+  {
+    "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+    "link": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T02:28:00+00:00",
+    "summary": "Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T02:15:00+00:00",
+    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
     "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
     "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -23,30 +59,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
-  },
-  {
-    "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T22:39:00+00:00",
-    "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5023
-  },
-  {
-    "title": "Here’s who stands to gain the most from a Jeff Bezos-Liverpool FC deal",
-    "link": "https://www.marketwatch.com/story/heres-who-stands-to-gain-the-most-from-a-jeff-bezos-liverpool-fc-deal-24db9b94?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-10T22:33:00+00:00",
-    "summary": "LeBron James’s Liverpool stake would soar if Bezos completes deal to become part owner of English soccer club",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
   },
   {
     "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
@@ -357,18 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8225
-  },
-  {
-    "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
-    "link": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
-    "source": "The Guardian Economics",
-    "published": "2026-08-03T06:00:42+00:00",
-    "summary": "<p>The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the US</p><p>Here he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements that he himself signed and almost surely violating federal law. The only difference this time is that he has a new pretext for abusing tariffs: stopping forced labour.</p><p>Of course, the administration is right that too little is being done about forced labour. But its stated concern is a ruse. With the new tariffs closely tracking the ones that Trump imposed on the basis of trade balances, are we supposed to believe that bilateral trade deficits just so happen to be highly correlated with the use of forced labour?</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9254
   }
 ]
