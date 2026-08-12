@@ -1,5 +1,102 @@
 [
   {
+    "title": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
+    "link": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-08-12T12:17:52+00:00",
+    "summary": "<p>The International Energy Agency calls for urgent reopening of the strait of Homuz amid ongoing pressure on global oil supplies</p><p><strong>Opec</strong> has lowered its full-year<strong> forecast for world oil demand growth</strong> for the fourth month in a row.</p><p>The oil producing cartel said it was now expecting oil demand to have grown <strong>to 580,000 barrels per day</strong>, according to a copy of the monthly report seen by Reuters.</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+    "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-12T12:08:39+00:00",
+    "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T11:00:00+00:00",
+    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T10:30:00+00:00",
+    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
+    "link": "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
+    "source": "The Guardian Economics",
+    "published": "2026-08-12T09:36:34+00:00",
+    "summary": "<p>Exclusive: England ‘desperately unprepared’ for effects of crisis including water shortages and heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates\">UK heatwave live – latest updates</a></p></li></ul><p>Just 20 staff are working on climate adaptation within a key government department tasked with protecting the environment and maintaining food security, a freedom of information request has revealed.</p><p>The officials make up 0.3% of staff within the Department for Environment, Food and Rural Affairs.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "AI capex could hit $1.6 trillion next year, says fund manager who sees more echoes of 1998 than the dot-com bust",
+    "link": "https://www.marketwatch.com/story/ai-capex-could-hit-1-6-trillion-next-year-says-fund-manager-who-sees-more-echoes-of-1998-than-the-dot-com-bust-0576b598?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T09:35:00+00:00",
+    "summary": "A T. Rowe Price fund manager thinks the hyperscalers can comfortably fund their investment spending, and moreover, derive high returns on that invested capital with a short payback schedule.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Another AI lab is burning through cash as Tencent earnings rise",
+    "link": "https://www.marketwatch.com/story/another-ai-lab-is-burning-through-cash-as-tencent-earnings-rise-1251b4c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T09:30:00+00:00",
+    "summary": "It’s not just American artificial-intelligence companies burning through cash as they roll out ever-more advanced models.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T09:15:00+00:00",
+    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
     "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
     "link": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
     "source": "The Guardian Economics",
@@ -24,54 +121,6 @@
     "sentiment_score": 0.5267
   },
   {
-    "title": "CoreWeave’s stock soars as earnings show major AI momentum",
-    "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T00:17:00+00:00",
-    "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "Lumentum sees sales more than double as AI demand swells",
-    "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T00:15:00+00:00",
-    "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-    "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T22:30:00+00:00",
-    "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T21:15:00+00:00",
-    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
     "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
     "source": "CNBC Finance",
@@ -83,30 +132,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2732
-  },
-  {
-    "title": "Cava’s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare",
-    "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T20:41:00+00:00",
-    "summary": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
-    "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T20:32:00+00:00",
-    "summary": "A lack of clarity around Oracle’s future AI spending plans is keeping investors on the sidelines, one analyst believes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
   },
   {
     "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
@@ -340,30 +365,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.875
-  },
-  {
-    "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
-    "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-04T21:39:30+00:00",
-    "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4915
-  },
-  {
-    "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-    "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-04T17:49:24+00:00",
-    "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1419
   }
 ]
