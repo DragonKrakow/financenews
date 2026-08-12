@@ -1,5 +1,29 @@
 [
   {
+    "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+    "link": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+    "source": "The Guardian Economics",
+    "published": "2026-08-12T04:00:20+00:00",
+    "summary": "<p>Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down cities</p><p>Repeated debilitating heatwaves this summer are likely to have cost the UK economy more than £4bn in lost economic output by the end of July, new analysis shows.</p><p>Green thinktank Verdant had suggested June’s unseasonally hot weather <a href=\"https://www.theguardian.com/environment/2026/jul/16/how-green-andy-burnham-britain-next-pm-tough-climate-decisions\">had an economic cost of £2.36bn</a>. Updating its assessment to include last month’s high temperatures, it finds a £4.4bn hit to output.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+    "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-12T01:20:13+00:00",
+    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "CoreWeave’s stock soars as earnings show major AI momentum",
     "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -341,29 +365,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1419
-  },
-  {
-    "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-    "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-04T16:14:49+00:00",
-    "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-    "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-04T13:31:19+00:00",
-    "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   }
 ]
