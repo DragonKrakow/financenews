@@ -1,5 +1,102 @@
 [
   {
+    "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+    "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T00:17:00+00:00",
+    "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "Lumentum sees sales more than double as AI demand swells",
+    "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T00:15:00+00:00",
+    "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+    "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T22:30:00+00:00",
+    "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T21:15:00+00:00",
+    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+    "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-11T21:01:13+00:00",
+    "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Cava’s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare",
+    "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T20:41:00+00:00",
+    "summary": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+    "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-11T20:32:00+00:00",
+    "summary": "A lack of clarity around Oracle’s future AI spending plans is keeping investors on the sidelines, one analyst believes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+    "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-11T18:44:16+00:00",
+    "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
     "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
     "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
     "source": "CNBC Finance",
@@ -10,66 +107,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "‘I’m dreaming of cocktails at Château Marmont’: I found $100 in my Airbnb’s communal washer. What should I do?",
-    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T17:45:00+00:00",
-    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
-    "link": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T17:17:00+00:00",
-    "summary": "The Chinese company will be the first to market in a wave of new humanoid-robotics IPOs.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
-    "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T16:11:00+00:00",
-    "summary": "These are the circumstances in which choosing a SpaceX-operated Starlink setup over fiber, cable and 5G may make financial sense.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "If you can answer this one question, you’ll never worry about money again",
-    "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T15:44:00+00:00",
-    "summary": "YNAB founder Jesse Mecham’s new book has a simple system to end the paycheck-to-paycheck struggle.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0274
-  },
-  {
-    "title": "A historically strong stretch for the U.S. stock market is about to begin",
-    "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-11T15:40:00+00:00",
-    "summary": "Some investors are worried that this AI-powered bull market might be getting a little long in the tooth as it approaches its fourth birthday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   },
   {
     "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
@@ -88,7 +125,7 @@
     "link": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
     "source": "The Guardian Economics",
     "published": "2026-08-11T06:00:06+00:00",
-    "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live\">Business live – latest updates</a></p></li></ul><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK raised summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
+    "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK raised summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -328,42 +365,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-    "link": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
-    "source": "The Guardian Economics",
-    "published": "2026-08-04T11:00:48+00:00",
-    "summary": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.</p><p>For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>’s 1981 inaugural speech: “Government is not the solution to our problem; government is the problem.” Solutions, in this view, are delivered by free, unencumbered markets.</p> <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6044
-  },
-  {
-    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-03T19:20:25+00:00",
-    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-03T16:44:25+00:00",
-    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
   }
 ]
