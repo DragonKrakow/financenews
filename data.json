@@ -1,27 +1,115 @@
 [
   {
-    "title": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
+    "title": "Andy Burnham ‘angry’ over water company bill increases – business live",
     "link": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
     "source": "The Guardian Economics",
-    "published": "2026-08-13T06:26:42+00:00",
-    "summary": "<p>Live, rolling coverage of business, economics and financial markets as GDP rises in June despite Iran war after stagnating in May</p><p><strong>Good morning, and welcome to our live, rolling coverage of business, economics and financial markets.</strong></p><p>The UK economy <a href=\"https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026\">grew by 0.4%</a> in the second quarter of 2026, in line with economists’ expectations, but with faster growth than expected in June as the football World Cup and warmer weather helped retailers and leisure sectors.</p><p>The FIFA Football World Cup, which started on 11 June 2026, was cited as a reason for an increase in turnover in June 2026 by businesses in industries such as the manufacture of alcohol, wholesale, food and beverage serving activities, publishing activities, television production and advertising.</p><p>Some positive impacts were cited by some businesses across a range of manufacturing industries, retail, accommodation, and amusement and recreation activities. On the reverse, the warm weather was also cited as having a negative impact in terms of construction activities and also in education where schools were closed because of the heatwave.</p><p><strong>10am BST</strong>: Eurozone industrial production (June; previous: -0.2%; consensus: -0.1%)</p><p><strong>1:30pm BST</strong>: US producer price index inflation (July; prev.: -0.3%; cons.: 0.2%)</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Continue reading...</a>",
+    "published": "2026-08-13T12:12:12+00:00",
+    "summary": "<p>Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentres</p><p>The biggest factor for the <strong>FTSE 100</strong>’s underperformance on Thursday morning relative to other European markets is a big decline in the <strong>mining sector</strong>.</p><p>Chilean miner <strong>Antofagasta</strong> is the biggest faller on London’s benchmark index, down 4.9% after it cut its guidance for future output.</p><p>The London-listed miner cut its 2026 copper output estimate to between 625,000 and 655,000 metric tons, from a previous forecast of 650,000 to 700,000 tons, due to a shutdown at its Los Pelambres mine in July after extreme rains prompted Chile’s government to declare a “state of catastrophe” in the Coquimbo Region.</p><p>While there has been no material impact on key equipment and infrastructure, the miner said it will need to repair some pipeline platforms and water management systems.</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Mining",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "The AI boom is not just driving stocks — it’s also moving the foreign-exchange market",
+    "link": "https://www.marketwatch.com/story/the-ai-boom-is-not-just-driving-stocks-its-also-moving-the-foreign-exchange-market-275d2f74?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T12:11:00+00:00",
+    "summary": "Interest-rate differentials, inflation trends and trade balances are usually thought of as drivers of foreign-exchange movement — but increasingly, the drivers in the currency market are companies looking to expand their offerings in artificial intelligence.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "If you can answer this one question, you’ll never worry about money again",
+    "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T12:04:00+00:00",
+    "summary": "YNAB founder Jesse Mecham’s new book has a simple system to end the paycheck-to-paycheck struggle.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0274
+  },
+  {
+    "title": "Lenovo profits soar past expectations on AI computers, servers and services",
+    "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T11:00:00+00:00",
+    "summary": "Lenovo Group on Thursday became the latest company in the build-out of artificial intelligence to report soaring profits that caught investors by surprise.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.875
+  },
+  {
+    "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
+    "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T10:54:00+00:00",
+    "summary": "Netflix is once again an apple in Bill Ackman’s eye, as the streamer was among six stocks Pershing Square added in the last six months.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9491
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Flying first class is getting cheaper — if you don’t mind giving up some perks",
+    "link": "https://www.marketwatch.com/story/flying-first-class-is-getting-cheaper-if-you-dont-mind-giving-up-some-perks-76035942?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T10:30:00+00:00",
+    "summary": "‘Basic first class’ is here as airlines move to create multiple tiers of their most premium seats.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-08-13T10:26:46+00:00",
+    "summary": "<p>Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">UK economic growth slows down</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>In the spring the <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">International Monetary Fund</a> warned Britain faced the heaviest economic blow from the Iran war among the world’s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be proving the forecasters wrong.</p><p>The latest official figures show the UK maintained its pole position as the fastest growing economy in the G7 in the first half of 2026. Despite the gloomy international backdrop and yet more domestic political uncertainty, consumers have largely continued spending and business investment has boomed.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3094
+  },
+  {
+    "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T10:15:00+00:00",
+    "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
   },
   {
     "title": "UK economic growth slows down as Iran war pushes up energy prices",
     "link": "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
     "source": "The Guardian Economics",
-    "published": "2026-08-13T06:01:19+00:00",
-    "summary": "<p>GDP expanded by 0.4% in three months to June, down from 0.6% in the first quarter, says ONS</p><p>Economic growth slowed in the second quarter of the year, as the disruption unleashed by the Iran war began to take its toll, official figures show.</p><p>The Office for National Statistics (ONS) said GDP expanded by 0.4% in the three months to June, <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">down from 0.6% in the first quarter</a>, in line with City economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">Continue reading...</a>",
+    "published": "2026-08-13T06:59:58+00:00",
+    "summary": "<p>GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">UK economy shows surprising resilience</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>Economic growth slowed in the second quarter of the year, as the disruption unleashed by the Iran war began to take its toll, official figures show.</p><p>The Office for National Statistics (ONS) said GDP expanded by 0.4% in the three months to June, <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">down from 0.6% in the first quarter</a>, in line with City economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
+    "sentiment_score": -0.2144
   },
   {
     "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
@@ -47,66 +135,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5267
-  },
-  {
-    "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
-    "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T01:16:00+00:00",
-    "summary": "An 18% revenue surge and blowout 2027 forecast weren’t enough to sustain Cisco’s stock momentum.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
-    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T01:00:00+00:00",
-    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T00:45:00+00:00",
-    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
-    "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T22:00:00+00:00",
-    "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9555
-  },
-  {
-    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T22:00:00+00:00",
-    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   },
   {
     "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
@@ -339,32 +367,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6369
-  },
-  {
-    "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-    "link": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
-    "source": "The Guardian Economics",
-    "published": "2026-08-07T13:22:43+00:00",
-    "summary": "<p>Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/07/rail-passengers-disruption-power-outage-uk-house-prices-stagnate-us-jobs-unemployment-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated.</p><p>The unemployment rate, however, held steady at 4.1%. Economists had <a href=\"https://www.wsj.com/economy/jobs/private-sector-hiring-missed-expectations-in-july-adp-report-says-31f26993\">projected</a> an unchanged unemployment rate and 83,000 new jobs for the month.</p> <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9442
-  },
-  {
-    "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-    "link": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-    "source": "The Guardian Economics",
-    "published": "2026-08-07T09:11:36+00:00",
-    "summary": "<p>Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer</p><p>Donald Trump has ordered a new 15% <a href=\"https://www.theguardian.com/business/tariffs\">tariff</a> on imported products made of polysilicon, an important ingredient in microchip manufacturing that is primarily produced by China.</p><p>The new tariff, which will take effect on 4 December, is aimed at supporting <a href=\"https://www.theguardian.com/technology/2026/jan/15/trump-tariff-nvidia-ai-chips\">US chip</a> and solar panel supply chains to compete with Beijing on artificial intelligence and energy.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient\">Continue reading...</a>",
-    "matched_keywords": [
-      "Chips",
-      "AI",
-      "Artificial Intelligence",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
   }
 ]
