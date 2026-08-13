@@ -1,15 +1,76 @@
 [
   {
-    "title": "Chili’s has hopped on the chicken-sandwich bandwagon, and it’s driving big sales gains",
-    "link": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
+    "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
+    "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T18:04:00+00:00",
-    "summary": "The number of chicken sandwiches sold at Chili’s locations has increased 175% — and shares of its parent company are now trading at record highs.",
+    "published": "2026-08-12T22:00:00+00:00",
+    "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
+    "sentiment_score": 0.9555
+  },
+  {
+    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T22:00:00+00:00",
+    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "SpaceX’s stock is getting a Grok-fueled boost",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T21:59:00+00:00",
+    "summary": "The company is best known for rocket launches but has big revenue goals for its AI business.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5346
+  },
+  {
+    "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
+    "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T21:55:00+00:00",
+    "summary": "Investors are concerned that Alphabet faces a fresh threat from Nvidia’s plans to help fund the AI buildout alongside major Wall Street players.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
+    "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T21:19:00+00:00",
+    "summary": "An 18% revenue surge and blowout 2027 forecast weren’t enough to sustain Cisco’s stock momentum.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Goldman’s latest deal underscores how ‘boomer candy’ ETFs are now big business on Wall Street",
+    "link": "https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-12T21:12:00+00:00",
+    "summary": "Goldman Sachs announced Wednesday that it has agreed to buy Neos Investments, adding yet another ETF shop to its fast-growing asset-management business.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
@@ -22,66 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9758
-  },
-  {
-    "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-    "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T17:30:00+00:00",
-    "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
-    "title": "SpaceX’s stock is getting a Grok-fueled boost",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T17:26:00+00:00",
-    "summary": "The company is best known for rocket launches but has big revenue goals for its AI business.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5346
-  },
-  {
-    "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
-    "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T16:44:00+00:00",
-    "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9555
-  },
-  {
-    "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
-    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T15:30:00+00:00",
-    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-12T15:00:00+00:00",
-    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
@@ -125,7 +126,7 @@
     "link": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
     "source": "The Guardian Economics",
     "published": "2026-08-12T12:39:46+00:00",
-    "summary": "<p>Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war</p><p>US consumer prices cooled slightly in July as the annualized inflation rate dipped down to 3.4%, though prices still remain higher than levels seen before the war with Iran.</p><p>Though inflation decreased 0.7% in June during a brief ceasefire between the US and Iran that brought energy prices down, consumer prices have remained elevated. Price increases hit a three-year high in May, with annual inflation reaching 4.2%.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/inflation-data-july\">Continue reading...</a>",
+    "summary": "<p>Energy is cheaper than at its peak in late April, but gas is still nearly $1 a gallon more expensive than before the Iran war</p><p>US consumer prices cooled slightly in July as the annualized inflation rate dipped down to 3.4%, though prices still remain higher than levels seen before the war with Iran.</p><p>Though inflation decreased 0.7 percentage points in June during a brief ceasefire between the US and Iran that brought energy prices down, consumer prices have remained elevated. Price increases hit a three-year high in May, with annual inflation reaching 4.2%.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/inflation-data-july\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
