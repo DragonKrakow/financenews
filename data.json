@@ -1,5 +1,30 @@
 [
   {
+    "title": "US long-term borrowing costs hit 25-year high, as inflation fears hit bond sale – business live",
+    "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-08-14T06:22:14+00:00",
+    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><p><strong>Gennadiy</strong> <strong>Goldberg</strong>, head of US rates strategy at <strong>TD</strong> <strong>Securities</strong>, agrees that the rise in US borrowing costs is “problematic” for the Trump Treasury, adding (<a href=\"https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1\">via the FT</a>):</p><p>“They have to fund the government at more expensive levels.”</p><p>“Investors are being asked to absorb a growing supply of government debt globally at a time when deficits remain large, inflation uncertainty persists.”</p><p>“If investors continue demanding greater compensation for inflation and fiscal risks, long-term yields could move higher and away from 5% even if Treasury auctions remain well covered.”</p><p>10am BST: Eurozone flash GDP report for Q2</p><p>1.30pm BST: US retail sales for July</p><p>3pm BST: University of Michigan’s US consumer confidence index</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+    "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-14T01:02:39+00:00",
+    "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
     "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
     "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -341,29 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-08T13:28:00+00:00",
-    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2815
-  },
-  {
-    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
-    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
-    "source": "The Guardian Economics",
-    "published": "2026-08-08T06:00:38+00:00",
-    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
   }
 ]
