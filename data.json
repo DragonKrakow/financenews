@@ -1,16 +1,78 @@
 [
   {
-    "title": "US long-term borrowing costs hit 25-year high, as inflation fears hit bond sale – business live",
+    "title": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
     "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-08-14T06:22:14+00:00",
-    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><p><strong>Gennadiy</strong> <strong>Goldberg</strong>, head of US rates strategy at <strong>TD</strong> <strong>Securities</strong>, agrees that the rise in US borrowing costs is “problematic” for the Trump Treasury, adding (<a href=\"https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1\">via the FT</a>):</p><p>“They have to fund the government at more expensive levels.”</p><p>“Investors are being asked to absorb a growing supply of government debt globally at a time when deficits remain large, inflation uncertainty persists.”</p><p>“If investors continue demanding greater compensation for inflation and fiscal risks, long-term yields could move higher and away from 5% even if Treasury auctions remain well covered.”</p><p>10am BST: Eurozone flash GDP report for Q2</p><p>1.30pm BST: US retail sales for July</p><p>3pm BST: University of Michigan’s US consumer confidence index</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
+    "published": "2026-08-14T12:10:23+00:00",
+    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire\">wildfires near Stourbridge</a> in the West Midlands, but said the fires were “not material” for the company, </strong><em><strong>my colleague Joanna Partridge reports.</strong></em></p><p>Aviva’s chief executive, <strong>Amanda</strong> <strong>Blanc</strong>, told reporters the company had been in contact with its customers “to make sure they’re in alternative accommodation”, adding: “It must be absolutely horrendous for those customers that have had their homes destroyed by fire.”</p><p>“In the longer term, we’re always obviously looking at the pricing models around exposure management, about what more we could do, about how we can actually help customers to prevent some of these events. Are there things that you can build into properties that will actually mitigate some of these events, I’m thinking particularly of flooding. That is an area where we are working on resilience, so we can help our customers be better prepared for when these events happen.”</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.6435
+  },
+  {
+    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T12:00:00+00:00",
+    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "These workers have charisma, confidence — and no fear of AI taking their jobs. They’re the personality hires.",
+    "link": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T11:30:00+00:00",
+    "summary": "Employers are looking for “coachability, curiosity, reliability and comfort asking for clarification.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.814
+  },
+  {
+    "title": "Rates are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
+    "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T10:49:00+00:00",
+    "summary": "The relationship between bond yields and equities has turned negative again, says LPL Financial.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist",
+    "link": "https://www.marketwatch.com/story/batten-down-the-hatches-and-allocate-defensively-because-global-liquidity-has-peaked-argues-veteran-strategist-b68673b0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T10:26:00+00:00",
+    "summary": "In a world of rising interest rates, CrossBorder Capital’s Mike Howell believes investors should maintain a defensive posture, hedge against inflation, buy gold and commodities",
+    "matched_keywords": [
+      "Interest Rates",
+      "Commodities",
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0258
+  },
+  {
+    "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T10:01:00+00:00",
+    "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
   },
   {
     "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
@@ -23,66 +85,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-    "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T22:09:00+00:00",
-    "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-    "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T22:07:00+00:00",
-    "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-    "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T22:05:00+00:00",
-    "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T22:00:00+00:00",
-    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T21:30:00+00:00",
-    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   },
   {
     "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
