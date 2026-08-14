@@ -1,78 +1,39 @@
 [
   {
-    "title": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
+    "title": "Think interest rates are high now? These charts offers a different perspective.",
+    "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T17:51:00+00:00",
+    "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+    "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-14T17:40:00+00:00",
+    "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9584
+  },
+  {
+    "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-08-14T12:10:23+00:00",
-    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire\">wildfires near Stourbridge</a> in the West Midlands, but said the fires were “not material” for the company, </strong><em><strong>my colleague Joanna Partridge reports.</strong></em></p><p>Aviva’s chief executive, <strong>Amanda</strong> <strong>Blanc</strong>, told reporters the company had been in contact with its customers “to make sure they’re in alternative accommodation”, adding: “It must be absolutely horrendous for those customers that have had their homes destroyed by fire.”</p><p>“In the longer term, we’re always obviously looking at the pricing models around exposure management, about what more we could do, about how we can actually help customers to prevent some of these events. Are there things that you can build into properties that will actually mitigate some of these events, I’m thinking particularly of flooding. That is an area where we are working on resilience, so we can help our customers be better prepared for when these events happen.”</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
+    "published": "2026-08-14T15:41:04+00:00",
+    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets\">Andy Burnham looks to cut new EV sales targets</a></p></li></ul><p><br /></p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire\">wildfires near Stourbridge</a> in the West Midlands, but said the fires were “not material” for the company, </strong><em><strong>my colleague Joanna Partridge reports.</strong></em></p><p>Aviva’s chief executive, <strong>Amanda</strong> <strong>Blanc</strong>, told reporters the company had been in contact with its customers “to make sure they’re in alternative accommodation”, adding: “It must be absolutely horrendous for those customers that have had their homes destroyed by fire.”</p><p>“In the longer term, we’re always obviously looking at the pricing models around exposure management, about what more we could do, about how we can actually help customers to prevent some of these events. Are there things that you can build into properties that will actually mitigate some of these events, I’m thinking particularly of flooding. That is an area where we are working on resilience, so we can help our customers be better prepared for when these events happen.”</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6435
-  },
-  {
-    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T12:00:00+00:00",
-    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
-  },
-  {
-    "title": "These workers have charisma, confidence — and no fear of AI taking their jobs. They’re the personality hires.",
-    "link": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T11:30:00+00:00",
-    "summary": "Employers are looking for “coachability, curiosity, reliability and comfort asking for clarification.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.814
-  },
-  {
-    "title": "Rates are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
-    "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T10:49:00+00:00",
-    "summary": "The relationship between bond yields and equities has turned negative again, says LPL Financial.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist",
-    "link": "https://www.marketwatch.com/story/batten-down-the-hatches-and-allocate-defensively-because-global-liquidity-has-peaked-argues-veteran-strategist-b68673b0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T10:26:00+00:00",
-    "summary": "In a world of rising interest rates, CrossBorder Capital’s Mike Howell believes investors should maintain a defensive posture, hedge against inflation, buy gold and commodities",
-    "matched_keywords": [
-      "Interest Rates",
-      "Commodities",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
-  },
-  {
-    "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
-    "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T10:01:00+00:00",
-    "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_score": 0.4689
   },
   {
     "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
@@ -368,5 +329,42 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
+  },
+  {
+    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-08T13:28:00+00:00",
+    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2815
+  },
+  {
+    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+    "source": "The Guardian Economics",
+    "published": "2026-08-08T06:00:38+00:00",
+    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+    "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-07T13:34:44+00:00",
+    "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
   }
 ]
