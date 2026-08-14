@@ -1,15 +1,63 @@
 [
   {
+    "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+    "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T22:09:00+00:00",
+    "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+    "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T22:07:00+00:00",
+    "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
     "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
     "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T16:58:00+00:00",
+    "published": "2026-08-13T22:05:00+00:00",
     "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6486
+  },
+  {
+    "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+    "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T22:00:00+00:00",
+    "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-13T21:30:00+00:00",
+    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
   },
   {
     "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
@@ -24,18 +72,6 @@
     "sentiment_score": -0.5267
   },
   {
-    "title": "These nontech stocks can ride the AI build-out for years",
-    "link": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T15:48:00+00:00",
-    "summary": "Massive spending on data centers and AI infrastructure can benefit “HALO” companies: hard assets, low obsolescence.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
     "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
     "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
     "source": "CNBC Finance",
@@ -47,54 +83,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1779
-  },
-  {
-    "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-    "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T15:08:00+00:00",
-    "summary": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1406
-  },
-  {
-    "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-    "link": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T14:57:00+00:00",
-    "summary": "In some Sun Belt areas, nearly 1 in 5 sellers are asking for less than what they paid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "These workers have charisma, confidence — and no fear of AI taking their jobs. They’re the personality hires.",
-    "link": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T14:49:00+00:00",
-    "summary": "Employers are looking for “coachability, curiosity, reliability and comfort asking for clarification.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.814
-  },
-  {
-    "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-    "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-13T14:08:00+00:00",
-    "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   },
   {
     "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
@@ -365,5 +353,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2815
+  },
+  {
+    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+    "source": "The Guardian Economics",
+    "published": "2026-08-08T06:00:38+00:00",
+    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
   }
 ]
