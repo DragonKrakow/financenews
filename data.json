@@ -1,5 +1,43 @@
 [
   {
+    "title": "A decade of internal AI battles is finally catching up to Google",
+    "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-15T12:00:00+00:00",
+    "summary": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
+    "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-15T11:30:00+00:00",
+    "summary": "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+    "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+    "source": "The Guardian Economics",
+    "published": "2026-08-15T10:00:54+00:00",
+    "summary": "<p>US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich</p><p>After the House passed its version of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s One Big Beautiful Bill Act (OBBBA) last year – <a href=\"https://www.brookings.edu/wp-content/uploads/2026/03/OBBBA_Preliminary_Assessment_2026-03-23-1.pdf\">the one that</a> paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and <a href=\"https://www.theguardian.com/us-news/medicaid\">Medicaid</a> – the House speaker, <a href=\"https://www.theguardian.com/us-news/mike-johnson\">Mike Johnson</a>, explained that “this is not giving tax cuts to the millionaires”. The beneficiaries, he said, were “small business owners” that “provide the jobs in every community in America”.</p><p>Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It’s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires’ interests.</p> <a href=\"https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7229
+  },
+  {
     "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
     "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,30 +73,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7906
-  },
-  {
-    "title": "Think interest rates are high now? These charts offers a different perspective.",
-    "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T17:51:00+00:00",
-    "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
-    "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T17:40:00+00:00",
-    "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9584
   },
   {
     "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
@@ -354,17 +368,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-    "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-08T15:00:01+00:00",
-    "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
