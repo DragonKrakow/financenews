@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XLF",
@@ -45,7 +45,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XLE",
@@ -57,7 +57,7 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "LMT",
@@ -69,19 +69,19 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "GLD",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "NVDA",
@@ -90,10 +90,10 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 27 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories"
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "TSLA",
@@ -105,7 +105,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ITA",
@@ -117,7 +117,7 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XAR",
@@ -129,7 +129,7 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "VANECK_DEFENSE_UCITS",
@@ -141,7 +141,7 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "WTEU_DEFENCE_UCITS",
@@ -153,7 +153,7 @@
       "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
       "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INVESCO_BCOM_UCITS",
@@ -165,7 +165,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "WT_ENH_COMMODITY_UCITS",
@@ -177,7 +177,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ISHR_DIV_COM_SWAP_UCITS",
@@ -189,7 +189,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MSCI_GLBL_METALS_MINING_UCITS",
@@ -201,7 +201,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XME",
@@ -213,31 +213,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "PHYS_GOLD_ETC",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "WT_PHYSICAL_SILVER",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SMH",
@@ -246,10 +246,10 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 27 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories"
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "VVSM",
@@ -258,10 +258,10 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 27 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories"
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SOXX",
@@ -270,10 +270,10 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 27 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories"
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "AMUNDI_SEMI_UCITS",
@@ -285,7 +285,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "VGT",
@@ -297,7 +297,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XLK",
@@ -309,7 +309,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ISHR_WORLD_IT_UCITS",
@@ -321,7 +321,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BOTZ",
@@ -333,7 +333,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RBOT",
@@ -345,7 +345,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "WT_AI_UCITS",
@@ -357,7 +357,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XTRACKERS_AI_BIGDATA",
@@ -369,7 +369,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "VDE",
@@ -381,7 +381,7 @@
       "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INRG",
@@ -393,7 +393,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "LG_CLEAN_ENERGY",
@@ -405,43 +405,43 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "IYT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "XTN",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SUPL",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
+      "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
+      "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "USO",
@@ -453,7 +453,7 @@
       "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "UNG",
@@ -465,7 +465,7 @@
       "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates"
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP1",
@@ -477,7 +477,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP2",
@@ -489,7 +489,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP3",
@@ -501,7 +501,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP4",
@@ -513,7 +513,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP5",
@@ -525,7 +525,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP6",
@@ -537,7 +537,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP7",
@@ -549,7 +549,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP8",
@@ -561,7 +561,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP9",
@@ -573,7 +573,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SAP10",
@@ -585,7 +585,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM1",
@@ -597,7 +597,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM2",
@@ -609,7 +609,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM3",
@@ -621,7 +621,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM4",
@@ -633,7 +633,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM5",
@@ -645,7 +645,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM6",
@@ -657,7 +657,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM7",
@@ -669,7 +669,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM8",
@@ -681,7 +681,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM9",
@@ -693,7 +693,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "SIEM10",
@@ -705,7 +705,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI1",
@@ -717,7 +717,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI2",
@@ -729,7 +729,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI3",
@@ -741,7 +741,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI4",
@@ -753,7 +753,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI5",
@@ -765,7 +765,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI6",
@@ -777,7 +777,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI7",
@@ -789,7 +789,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI8",
@@ -801,7 +801,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI9",
@@ -813,7 +813,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ALLI10",
@@ -825,7 +825,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF1",
@@ -837,7 +837,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF2",
@@ -849,7 +849,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF3",
@@ -861,7 +861,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF4",
@@ -873,7 +873,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF5",
@@ -885,7 +885,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF6",
@@ -897,7 +897,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF7",
@@ -909,7 +909,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF8",
@@ -921,7 +921,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF9",
@@ -933,7 +933,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BASF10",
@@ -945,7 +945,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT1",
@@ -957,7 +957,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT2",
@@ -969,7 +969,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT3",
@@ -981,7 +981,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT4",
@@ -993,7 +993,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT5",
@@ -1005,7 +1005,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT6",
@@ -1017,7 +1017,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT7",
@@ -1029,7 +1029,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT8",
@@ -1041,7 +1041,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT9",
@@ -1053,7 +1053,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "DEUT10",
@@ -1065,7 +1065,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC1",
@@ -1077,7 +1077,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC2",
@@ -1089,7 +1089,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC3",
@@ -1101,7 +1101,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC4",
@@ -1113,7 +1113,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC5",
@@ -1125,7 +1125,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC6",
@@ -1137,7 +1137,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC7",
@@ -1149,7 +1149,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC8",
@@ -1161,7 +1161,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC9",
@@ -1173,7 +1173,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "MERC10",
@@ -1185,7 +1185,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW1",
@@ -1197,7 +1197,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW2",
@@ -1209,7 +1209,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW3",
@@ -1221,7 +1221,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW4",
@@ -1233,7 +1233,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW5",
@@ -1245,7 +1245,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW6",
@@ -1257,7 +1257,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW7",
@@ -1269,7 +1269,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW8",
@@ -1281,7 +1281,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW9",
@@ -1293,7 +1293,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "BMW10",
@@ -1305,7 +1305,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI1",
@@ -1317,7 +1317,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI2",
@@ -1329,7 +1329,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI3",
@@ -1341,7 +1341,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI4",
@@ -1353,7 +1353,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI5",
@@ -1365,7 +1365,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI6",
@@ -1377,7 +1377,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI7",
@@ -1389,7 +1389,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI8",
@@ -1401,7 +1401,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI9",
@@ -1413,7 +1413,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "RHEI10",
@@ -1425,7 +1425,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID1",
@@ -1437,7 +1437,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID2",
@@ -1449,7 +1449,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID3",
@@ -1461,7 +1461,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID4",
@@ -1473,7 +1473,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID5",
@@ -1485,7 +1485,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID6",
@@ -1497,7 +1497,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID7",
@@ -1509,7 +1509,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID8",
@@ -1521,7 +1521,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID9",
@@ -1533,7 +1533,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "ADID10",
@@ -1545,7 +1545,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI1",
@@ -1557,7 +1557,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI2",
@@ -1569,7 +1569,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI3",
@@ -1581,7 +1581,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI4",
@@ -1593,7 +1593,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI5",
@@ -1605,7 +1605,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI6",
@@ -1617,7 +1617,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI7",
@@ -1629,7 +1629,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI8",
@@ -1641,7 +1641,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI9",
@@ -1653,7 +1653,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   },
   {
     "ticker": "INFI10",
@@ -1665,6 +1665,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-15T12:06:59.951129Z"
+    "last_updated": "2026-08-15T18:05:42.647018Z"
   }
 ]

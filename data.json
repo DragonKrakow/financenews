@@ -1,28 +1,15 @@
 [
   {
-    "title": "A decade of internal AI battles is finally catching up to Google",
-    "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
+    "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+    "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-15T12:00:00+00:00",
-    "summary": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
+    "published": "2026-08-15T17:08:00+00:00",
+    "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-    "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-15T11:30:00+00:00",
-    "summary": "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,",
-    "matched_keywords": [
-      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
+    "sentiment_score": 0.8408
   },
   {
     "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
@@ -38,18 +25,6 @@
     "sentiment_score": 0.7229
   },
   {
-    "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-    "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T21:34:00+00:00",
-    "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
     "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
     "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
     "source": "CNBC Finance",
@@ -61,18 +36,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
-    "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-14T19:09:00+00:00",
-    "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
   },
   {
     "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
@@ -368,5 +331,41 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+    "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-08T15:00:01+00:00",
+    "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-08T13:28:00+00:00",
+    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2815
+  },
+  {
+    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+    "source": "The Guardian Economics",
+    "published": "2026-08-08T06:00:38+00:00",
+    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
   }
 ]
