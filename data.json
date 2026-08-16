@@ -1,5 +1,17 @@
 [
   {
+    "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
+    "link": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-08-16T05:00:16+00:00",
+    "summary": "<p>Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout </p><p>British households are facing a renewed cost of living squeeze, with official figures expected to show this week that soaring energy bills drove up inflation in July to close to 3%.</p><p>As the Iran war continues to send shock waves through global energy markets, economists predict the surge in UK gas and electricity bills last month will push Britain’s headline inflation rate to 2.9%.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8834
+  },
+  {
     "title": "Think interest rates are high now? These charts offer a different perspective.",
     "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -355,17 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-    "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-08T13:28:00+00:00",
-    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2815
   }
 ]
