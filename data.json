@@ -1,5 +1,17 @@
 [
   {
+    "title": "Think interest rates are high now? These charts offer a different perspective.",
+    "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-15T19:01:00+00:00",
+    "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
     "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
     "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -355,17 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2815
-  },
-  {
-    "title": "Union calls for robust review of OBR over fears it holds back economic growth",
-    "link": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
-    "source": "The Guardian Economics",
-    "published": "2026-08-08T06:00:38+00:00",
-    "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
   }
 ]
