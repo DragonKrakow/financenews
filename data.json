@@ -1,15 +1,51 @@
 [
   {
+    "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+    "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-16T11:00:00+00:00",
+    "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
+    "source": "The Guardian Economics",
+    "published": "2026-08-16T09:30:05+00:00",
+    "summary": "<p>Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statistician</p><p>The keen new chancellor, John Healey, responded to last week’s better-than-expected economic news by claiming the government was “bringing hope back”. Growth did not plunge as feared after Donald Trump unleashed war on Iran – with GDP <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">expanding at a pretty decent 0.4%</a> in the second quarter.</p><p>But what if we should have held on to a bit more hope all along? A <a href=\"https://cep.lse.ac.uk/pubs/download/occasional/op074.pdf\">new assessment of the UK’s recent productivity</a> suggests this critical measure of the country’s economic strength may have been systematically underestimated.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9332
+  },
+  {
     "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
     "link": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
     "source": "The Guardian Economics",
-    "published": "2026-08-16T05:00:16+00:00",
+    "published": "2026-08-16T08:42:16+00:00",
     "summary": "<p>Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout </p><p>British households are facing a renewed cost of living squeeze, with official figures expected to show this week that soaring energy bills drove up inflation in July to close to 3%.</p><p>As the Iran war continues to send shock waves through global energy markets, economists predict the surge in UK gas and electricity bills last month will push Britain’s headline inflation rate to 2.9%.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8834
+  },
+  {
+    "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+    "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+    "source": "The Guardian Economics",
+    "published": "2026-08-16T08:00:19+00:00",
+    "summary": "<p>Low river levels have stalled German freight traffic and forced closure of nuclear plants in France</p><p>Across Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down.</p><p>Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of <a href=\"https://www.triodos.com/en/articles/2026/hot-summer-economics\">analysis from economists at the Dutch bank Triodos</a>, who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinktank Verdant said this week that the heat had already <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">cost the economy £4.4bn</a> by the end of July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8316
   },
   {
     "title": "Think interest rates are high now? These charts offer a different perspective.",
@@ -331,41 +367,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6997
-  },
-  {
-    "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-    "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-10T22:09:00+00:00",
-    "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
-    "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-10T18:36:26+00:00",
-    "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-    "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-08T15:00:01+00:00",
-    "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
