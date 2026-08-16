@@ -1,5 +1,44 @@
 [
   {
+    "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-16T17:30:00+00:00",
+    "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+    "link": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+    "source": "The Guardian Economics",
+    "published": "2026-08-16T14:00:27+00:00",
+    "summary": "<p>The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">New UK cost of living crisis looms as rising energy bills lift inflation</a></p></li></ul><p>Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on their hands when they should be raising interest rates to subdue inflationary pressures.</p><p>The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022 when inflation soared above 10% in the UK and eurozone, and over 9% in the US.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9565
+  },
+  {
+    "title": "Here’s the real reason oil prices aren’t moving higher",
+    "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-16T13:00:00+00:00",
+    "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7197
+  },
+  {
     "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
     "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -331,41 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2732
-  },
-  {
-    "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-    "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-11T18:44:16+00:00",
-    "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-    "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-11T14:11:05+00:00",
-    "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
-    "link": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
-    "source": "The Guardian Economics",
-    "published": "2026-08-11T06:00:06+00:00",
-    "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK raised summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6997
   }
 ]
