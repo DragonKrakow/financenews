@@ -1,5 +1,19 @@
 [
   {
+    "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T03:02:00+00:00",
+    "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
     "link": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
     "source": "The Guardian Economics",
@@ -11,20 +25,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.91
-  },
-  {
-    "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-16T22:52:00+00:00",
-    "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
   },
   {
     "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
