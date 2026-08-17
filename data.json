@@ -1,5 +1,44 @@
 [
   {
+    "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
+    "link": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
+    "source": "The Guardian Economics",
+    "published": "2026-08-16T23:01:38+00:00",
+    "summary": "<p>Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sector</p><p>The summer job has staged a comeback this year thanks to the hot weather and a packed calendar of events such as the men’s football World Cup, new UK figures show.</p><p>Recent months have seen a significant increase in seasonal hiring in sectors such as hospitality and tourism compared with summer 2025, said the Recruitment and Employment Confederation (REC), which runs a monthly labour market tracker.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.91
+  },
+  {
+    "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+    "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-16T22:52:00+00:00",
+    "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-16T18:15:00+00:00",
+    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
     "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
     "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -97,18 +136,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6124
-  },
-  {
-    "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-    "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-15T17:08:00+00:00",
-    "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8408
   },
   {
     "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
@@ -345,30 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
-  },
-  {
-    "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
-    "link": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-    "source": "The Guardian Economics",
-    "published": "2026-08-12T04:00:20+00:00",
-    "summary": "<p>Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down cities</p><p>Repeated debilitating heatwaves this summer are likely to have cost the UK economy more than £4bn in lost economic output by the end of July, new analysis shows.</p><p>Green thinktank Verdant had suggested June’s unseasonally hot weather <a href=\"https://www.theguardian.com/environment/2026/jul/16/how-green-andy-burnham-britain-next-pm-tough-climate-decisions\">had an economic cost of £2.36bn</a>. Updating its assessment to include last month’s high temperatures, it finds a £4.4bn hit to output.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-    "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-11T21:01:13+00:00",
-    "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
   }
 ]
