@@ -1,9 +1,33 @@
 [
   {
-    "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
+    "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+    "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-17T17:43:40+00:00",
+    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7269
+  },
+  {
+    "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-17T17:10:01+00:00",
+    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
     "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T12:08:00+00:00",
+    "published": "2026-08-17T16:31:00+00:00",
     "summary": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
     "matched_keywords": [
       "AI"
@@ -12,81 +36,52 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
-    "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
+    "title": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+    "link": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T11:33:00+00:00",
-    "summary": "Goldman expects that the Fed will stand pat — barring any dramatic data.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-    "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T10:48:00+00:00",
-    "summary": "So far investors have been focused on artificial-intelligence infrastructure plays rather than productivity beneficiaries, says Goldman Sachs.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8316
-  },
-  {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T09:15:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+    "published": "2026-08-17T16:00:00+00:00",
+    "summary": "A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
+    "sentiment_score": 0.1027
   },
   {
-    "title": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building",
-    "link": "https://www.marketwatch.com/story/neighbors-in-rural-texas-county-are-not-happy-about-elon-musks-plan-to-erect-worlds-largest-building-2183edcb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T09:04:00+00:00",
-    "summary": "The latest project of trillionaire Elon Musk is a semiconductor factory the size of 1,000 Costco stores, and local residents are concerned about the impact.",
+    "title": "China’s economy showing signs that slowdown may be extending",
+    "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+    "source": "The Guardian Economics",
+    "published": "2026-08-17T15:36:25+00:00",
+    "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T15:22:00+00:00",
+    "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9041
+  },
+  {
+    "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+    "link": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+    "source": "The Guardian Economics",
+    "published": "2026-08-17T15:13:40+00:00",
+    "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4585
-  },
-  {
-    "title": "Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
-    "link": "https://www.marketwatch.com/story/former-starbucks-ceohoward-schultz-sells-home-in-hawaii-for-36-million-after-moving-to-florida-fc1de897?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T09:01:00+00:00",
-    "summary": "Former Starbucks CEO Howard Schultz has sold his longtime Hawaii sanctuary for the staggering price of $36 million—just months after he bought a $44 million residence in Florida.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T03:02:00+00:00",
-    "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_score": -0.9578
   },
   {
     "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
@@ -100,18 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.91
-  },
-  {
-    "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-    "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-16T18:15:00+00:00",
-    "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   },
   {
     "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
@@ -374,5 +357,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9118
+  },
+  {
+    "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+    "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-12T12:08:39+00:00",
+    "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
   }
 ]
