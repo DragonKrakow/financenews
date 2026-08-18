@@ -1,5 +1,65 @@
 [
   {
+    "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+    "link": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T21:22:00+00:00",
+    "summary": "We’ve seen three years in a row of double-digit gains. Will there be a fourth?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+    "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T21:15:00+00:00",
+    "summary": "Here’s another factoid that should get the AI bears excited: Stocks in the S&amp;P 500 are increasingly trading in opposite directions on a given day. That means higher volatility than the performance of the index would lead one to believe.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T20:43:00+00:00",
+    "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9041
+  },
+  {
+    "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-17T20:18:00+00:00",
+    "summary": "Some big names saw sizable paper gains on their SpaceX stakes when the stock went public, but trading has been volatile since then.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3919
+  },
+  {
+    "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-17T18:32:54+00:00",
+    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
     "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
     "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
     "source": "CNBC Finance",
@@ -12,42 +72,6 @@
     "sentiment_score": -0.7269
   },
   {
-    "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-17T17:10:01+00:00",
-    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
-    "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T16:31:00+00:00",
-    "summary": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
-    "link": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T16:00:00+00:00",
-    "summary": "A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
     "title": "China’s economy showing signs that slowdown may be extending",
     "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
     "source": "The Guardian Economics",
@@ -58,18 +82,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
-  },
-  {
-    "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-17T15:22:00+00:00",
-    "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9041
   },
   {
     "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
@@ -357,17 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9118
-  },
-  {
-    "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-    "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-12T12:08:39+00:00",
-    "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   }
 ]
