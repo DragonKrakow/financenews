@@ -1,25 +1,74 @@
 [
   {
-    "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
-    "link": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T06:01:13+00:00",
-    "summary": "<p>Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest rates</p><p>UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.</p><p>Underscoring the challenge for Andy Burnham’s government to give “breathing space” to hard-pressed consumers, the Office for National Statistics said inflation rose from 2.6% in June.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">Continue reading...</a>",
+    "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+    "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-19T11:09:33+00:00",
+    "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
     "matched_keywords": [
-      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6329
+  },
+  {
+    "title": "Target’s grocery overhaul is helping it win back customers",
+    "link": "https://www.marketwatch.com/story/targets-grocery-overhaul-is-helping-it-win-back-customers-eb40d5c9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-19T10:35:00+00:00",
+    "summary": "The retailer has added more snacks and changed its presentation as it tries to become a destination for food purchases.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
+  },
+  {
+    "title": "Chinese robotic company’s stock soars over 600% in trading debut",
+    "link": "https://www.marketwatch.com/story/chinese-robotic-companys-stock-soars-over-600-in-trading-debut-e735426d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-19T09:42:00+00:00",
+    "summary": "Unitree is first humanoid robot firm to list in mainland China",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0387
+    "sentiment_score": 0.0
   },
   {
-    "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-    "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-19T00:00:00+00:00",
-    "summary": "Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.",
+    "title": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
+    "link": "https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge",
+    "source": "The Guardian Economics",
+    "published": "2026-08-19T08:40:35+00:00",
+    "summary": "<p>PM’s plan to shield households from more pressure risks being overwhelmed by wider price rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">UK inflation rises to 2.9%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>July’s increase in inflation, <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">to 2.9%</a>, is likely to be the first of several, underlining the challenge facing Andy Burnham in shielding consumers from a fresh cost of living squeeze this autumn.</p><p>Rising energy bills, as an increase in Ofgem’s quarterly price cap came into force, were the main driver of the jump in inflation, from 2.6% in June. That was partly offset by cheaper fuel prices – the knock-on effect of hostilities easing in the Middle East, after Donald Trump hailed his “memorandum of understanding” with Iran in June.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Continue reading...</a>",
     "matched_keywords": [
-      "Chips",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5759
+  },
+  {
+    "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
+    "link": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-08-19T07:25:26+00:00",
+    "summary": "<p>Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Analysis: Rising inflation underlines scale of Burnham’s cost of living challenge</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.</p><p>The <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/july2026\">Office for National Statistics</a> said inflation rose from a 15-month low of 2.6% in June, driven by the rising price of gas and electricity. Matching City economists’ forecasts, it was the first rise in the annual rate as measured by the consumer prices index since March.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7717
+  },
+  {
+    "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+    "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-19T06:55:57+00:00",
+    "summary": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
+    "matched_keywords": [
+      "Gold",
       "AI"
     ],
     "sentiment_label": "Neutral",
@@ -36,30 +85,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0772
-  },
-  {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-18T23:15:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
-  },
-  {
-    "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-    "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-18T21:08:00+00:00",
-    "summary": "Analysts note high expectations, concerns about elevated Treasury yields and a potential letdown surrounding Anthropic’s financial progress,",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
   },
   {
     "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
@@ -347,30 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2144
-  },
-  {
-    "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-    "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-13T02:59:50+00:00",
-    "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
-    "matched_keywords": [
-      "Chips",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
-    "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-    "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-13T01:31:12+00:00",
-    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
   }
 ]
