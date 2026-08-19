@@ -1,5 +1,54 @@
 [
   {
+    "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-19T00:00:00+00:00",
+    "summary": "Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-18T23:58:09+00:00",
+    "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-18T23:15:00+00:00",
+    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0945
+  },
+  {
+    "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
+    "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-18T21:08:00+00:00",
+    "summary": "Analysts note high expectations, concerns about elevated Treasury yields and a potential letdown surrounding Anthropic’s financial progress,",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
     "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
     "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
     "source": "CNBC Finance",
@@ -10,42 +59,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
-  },
-  {
-    "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-    "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-18T16:45:00+00:00",
-    "summary": "Analysts note high expectations, concerns about elevated Treasury yields and a potential letdown surrounding Anthropic’s financial progress,",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a ‘retaliatory campaign’ against ABC.",
-    "link": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-18T15:59:00+00:00",
-    "summary": "Disney says the Trump administration “has attacked ABC’s speech — the stories its journalists report and the viewpoints its network programs air.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8442
-  },
-  {
-    "title": "Is SpaceX an AI play or a space stock? Two months after the IPO, investors still can’t decide.",
-    "link": "https://www.marketwatch.com/story/is-spacex-an-ai-play-or-a-space-stock-two-months-after-the-ipo-investors-still-cant-decide-eaf5fa92?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-18T15:44:00+00:00",
-    "summary": "Shares don’t trade like the “Big Tech” stocks, and their correlation to the space sector is “mixed,” according to a new analysis.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   },
   {
     "title": "Cooling UK labour market ‘questions need’ for Bank of England rate hikes; grocery inflation slows to two-year low – as it happened",
@@ -358,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9758
-  },
-  {
-    "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
-    "link": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
-    "source": "The Guardian Economics",
-    "published": "2026-08-12T14:58:36+00:00",
-    "summary": "<p>Mortgage and student loan balances saw ‘small decline’ with increases elsewhere, says post alongside Fed report</p><p>Credit card debt in the United States is growing close to a record high, having crept up from $54bn to $1.26tn between April and June compared with the same period last year, according to a <a href=\"https://www.newyorkfed.org/microeconomics/hhdc\">report</a> by the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> Bank of New York.</p><p>That figure is just shy of <a href=\"https://www.theguardian.com/business/2025/feb/11/us-credit-card-debt\">last year</a>’s <a href=\"https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2025q4.pdf\">record high</a> of $1.28tn.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   }
 ]
