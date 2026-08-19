@@ -1,5 +1,18 @@
 [
   {
+    "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
+    "link": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-08-19T06:01:13+00:00",
+    "summary": "<p>Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest rates</p><p>UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.</p><p>Underscoring the challenge for Andy Burnham’s government to give “breathing space” to hard-pressed consumers, the Office for National Statistics said inflation rose from 2.6% in June.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0387
+  },
+  {
     "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
     "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,17 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5267
-  },
-  {
-    "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
-    "source": "The Guardian Economics",
-    "published": "2026-08-12T17:39:46+00:00",
-    "summary": "<p>A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful</p><p>Japan’s yen has slid back towards 160 to the dollar, despite last month’s <a href=\"https://www.axios.com/2026/08/11/yen-treasury-intervention-yields\">extraordinary</a> US-Japanese intervention. Traders are betting that its role as a cheap&nbsp;funding pipeline for global finance will continue.&nbsp;Earlier this month the Trump administration&nbsp;stepped in to help Tokyo stabilise its currency. “Japan’s been very good to us, with the exception, of course, of Pearl Harbor,” Donald Trump <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">explained</a>. More help is likely to be on its way.</p><p>But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan’s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and&nbsp;investment. Japan’s “carry trade” is one of the reasons Wall Street can lever hundreds of billions into AI. Research <a href=\"https://arxiv.org/abs/2607.12156\">suggests</a> AI sucks up more than 1% of US GDP.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9758
   }
 ]
