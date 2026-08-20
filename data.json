@@ -1,5 +1,80 @@
 [
   {
+    "title": "‘Republicans ran up the tab’: Democrats outraged over $40tn national debt – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-08-20T11:57:39+00:00",
+    "summary": "<p>US national deficit has doubled over the past decade with spending growing under Trump and Biden</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion\">US gross national debt tops $40tn for first time</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the US Breaking News email</a></p></li></ul><p>As the third leg of NBC’s Sunday Night Football crew alongside play-by-play man Al Michaels and the tart-tongued analyst Cris Collinsworth, <strong>Michele Tafoya</strong> was a paragon of deference and neutrality for 11 years as an NFL sideline reporter, dutifully relating boilerplate tactics, talking points and injury updates when she wasn’t nodding along to softball interviews or fumbling through <a href=\"https://deadspin.com/nbc-made-michele-tafoya-talk-about-memes-1787342671/\">hammy production gimmicks</a> for viewers who might have been too offline to get the bit.</p><p>She was almost pathologically committed to not doing anything to draw attention to herself or her gender in an era when sideline reporting was a fast track to national celebrity. Even her football takes hewed to the middle. (“New Orleans doesn’t want to lose to Atlanta <a href=\"https://www.youtube.com/watch?v=jMKJ1OTKIFo&amp;themeRefresh=1\">twice in a season</a> …”) Anyone who says they saw the 61-year-old emerging as a <strong>rightwing firebrand</strong> was watching a different game.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9265
+  },
+  {
+    "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
+    "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-20T11:37:00+00:00",
+    "summary": "The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Oil prices jump after Trump declares economic war on Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-20T11:06:00+00:00",
+    "summary": "President Donald Trump said in a post on Truth Social that any country supporting Iran’s economy would face “tremendous economic consequences.”",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
+    "link": "https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-20T11:00:00+00:00",
+    "summary": "AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Why Bessent’s Treasury operations have breathed life back into the gold trade",
+    "link": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-20T10:19:00+00:00",
+    "summary": "Gold is the reciprocal of the dollar and consensus among strategists is that Bessent’s yield curve control will have a detrimental impact on the U.S. currency",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Sales of trainers dive at JD Sports as cost of living pressures bite",
+    "link": "https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports",
+    "source": "The Guardian Economics",
+    "published": "2026-08-20T09:03:50+00:00",
+    "summary": "<p>Inflation deterring shoppers from spending, especially in the US, says high street chain</p><p>The sports fashion retailer JD has cut its profit forecasts as cost of living pressures, fuelled by the US war on Iran, weighed on sales of trainers.</p><p>JD Sports, which sells brands including Nike and Adidas, said widespread <a href=\"https://www.theguardian.com/business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices\">inflation had hit shoppers’ wallets,</a> resulting in a drop in sales across important markets such as the US, where it struggled to shift trainers and other footwear.</p> <a href=\"https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8555
+  },
+  {
     "title": "China is defying the global bond yield surge, boosting its diversification appeal",
     "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
     "source": "CNBC Finance",
@@ -10,30 +85,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0772
-  },
-  {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-19T23:30:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
-  },
-  {
-    "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
-    "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-19T21:50:00+00:00",
-    "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
   },
   {
     "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
@@ -321,55 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8834
-  },
-  {
-    "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
-    "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
-    "source": "The Guardian Economics",
-    "published": "2026-08-16T08:00:19+00:00",
-    "summary": "<p>Low river levels have stalled German freight traffic and forced closure of nuclear plants in France</p><p>Across Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down.</p><p>Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of <a href=\"https://www.triodos.com/en/articles/2026/hot-summer-economics\">analysis from economists at the Dutch bank Triodos</a>, who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinktank Verdant said this week that the heat had already <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">cost the economy £4.4bn</a> by the end of July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
-  },
-  {
-    "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-    "link": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-    "source": "The Guardian Economics",
-    "published": "2026-08-15T10:00:54+00:00",
-    "summary": "<p>US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich</p><p>After the House passed its version of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s One Big Beautiful Bill Act (OBBBA) last year – <a href=\"https://www.brookings.edu/wp-content/uploads/2026/03/OBBBA_Preliminary_Assessment_2026-03-23-1.pdf\">the one that</a> paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and <a href=\"https://www.theguardian.com/us-news/medicaid\">Medicaid</a> – the House speaker, <a href=\"https://www.theguardian.com/us-news/mike-johnson\">Mike Johnson</a>, explained that “this is not giving tax cuts to the millionaires”. The beneficiaries, he said, were “small business owners” that “provide the jobs in every community in America”.</p><p>Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It’s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires’ interests.</p> <a href=\"https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7229
-  },
-  {
-    "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-    "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-14T20:05:57+00:00",
-    "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-08-14T15:41:04+00:00",
-    "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets\">Andy Burnham looks to cut new EV sales targets</a></p></li></ul><p><br /></p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire\">wildfires near Stourbridge</a> in the West Midlands, but said the fires were “not material” for the company, </strong><em><strong>my colleague Joanna Partridge reports.</strong></em></p><p>Aviva’s chief executive, <strong>Amanda</strong> <strong>Blanc</strong>, told reporters the company had been in contact with its customers “to make sure they’re in alternative accommodation”, adding: “It must be absolutely horrendous for those customers that have had their homes destroyed by fire.”</p><p>“In the longer term, we’re always obviously looking at the pricing models around exposure management, about what more we could do, about how we can actually help customers to prevent some of these events. Are there things that you can build into properties that will actually mitigate some of these events, I’m thinking particularly of flooding. That is an area where we are working on resilience, so we can help our customers be better prepared for when these events happen.”</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4689
   }
 ]
