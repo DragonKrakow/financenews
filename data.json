@@ -1,40 +1,63 @@
 [
   {
-    "title": "Fed minutes reveal growing support for rate hikes",
-    "link": "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
+    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-19T18:04:00+00:00",
-    "summary": "The minutes make clear that Federal Reserve officials remained divided over the inflation outlook.",
+    "published": "2026-08-19T23:30:00+00:00",
+    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
     "matched_keywords": [
-      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0945
+  },
+  {
+    "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+    "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-19T21:50:00+00:00",
+    "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
+    "sentiment_score": 0.6705
   },
   {
-    "title": "Can Andy Burnham tame the power of the Treasury to boost growth?",
-    "link": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T18:04:00+00:00",
-    "summary": "<p>PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy</p><p>Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury.</p><p>Boris Johnson <a href=\"https://www.theguardian.com/politics/2020/feb/13/sajid-javid-resigns-as-chancellor-amid-boris-johnson-reshuffle\">all but forced the resignation of Sajid Javid</a> by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth\">Continue reading...</a>",
+    "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+    "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-19T21:05:31+00:00",
+    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.8847
+    "sentiment_score": -0.3182
   },
   {
-    "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
-    "link": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-19T17:39:00+00:00",
-    "summary": "While other “Magnificent Seven” companies spend big on AI, Apple’s more conservative strategy has turned the stock into a valuable portfolio hedge against volatility.",
+    "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+    "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-19T18:54:50+00:00",
+    "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2411
+  },
+  {
+    "title": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
+    "link": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
+    "source": "The Guardian Economics",
+    "published": "2026-08-19T18:46:22+00:00",
+    "summary": "<p>PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy</p><p>Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury.</p><p>Boris Johnson <a href=\"https://www.theguardian.com/politics/2020/feb/13/sajid-javid-resigns-as-chancellor-amid-boris-johnson-reshuffle\">all but forced the resignation of Sajid Javid</a> by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; and Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8945
   },
   {
     "title": "Is the US actually too chicken to take on China for trade?",
@@ -49,16 +72,18 @@
     "sentiment_score": -0.1027
   },
   {
-    "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-    "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-19T16:08:58+00:00",
-    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+    "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
+    "link": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
+    "source": "The Guardian Economics",
+    "published": "2026-08-19T14:57:21+00:00",
+    "summary": "<p>Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% target</p><p>The US treasury is doubling its buyback of government debt in an effort to balance out the bond market as officials at the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> remain divided over how to deal with high inflation.</p><p>The yield rate on 10-year, 20-year and 30-year treasury notes all hit 20-year highs this week, with the 30-year treasury yield <a href=\"https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump\">rising</a> to its highest rate since 2007. The rapid rise was concerning news for borrowers as major loans, including mortgages, are backed by treasuries.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market\">Continue reading...</a>",
     "matched_keywords": [
+      "Interest Rates",
+      "Fed",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
+    "sentiment_score": -0.3612
   },
   {
     "title": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
@@ -346,30 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-    "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-13T16:38:06+00:00",
-    "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-    "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-13T15:16:00+00:00",
-    "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   }
 ]
