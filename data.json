@@ -1,5 +1,17 @@
 [
   {
+    "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+    "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-20T02:39:14+00:00",
+    "summary": "Chinese government bond yields have remained low amid a global surge.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
     "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
     "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4689
-  },
-  {
-    "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-    "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-14T01:02:39+00:00",
-    "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   }
 ]
