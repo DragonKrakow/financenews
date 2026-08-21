@@ -1,5 +1,79 @@
 [
   {
+    "title": "American consumers are delivering a retail reality check as they laser in on bargains",
+    "link": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-21T12:00:00+00:00",
+    "summary": "Recent earnings results suggest that the typical shopper is ‘employed, still spending, and increasingly disciplined about it.’",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
+    "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-21T11:22:00+00:00",
+    "summary": "Doctors and patients are excited about the possible breakthrough, but some analysts believe there’s too much hype.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+    "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-21T10:54:00+00:00",
+    "summary": "Shares of Jensen Huang’s company have struggled to make headway since its previous results day.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup",
+    "link": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-21T09:11:00+00:00",
+    "summary": "Hedge funds entered the second quarter all-in on the AI trade, but have begun to diversify their portfolios lately. They’re dipping into healthcare, energy and financials.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3919
+  },
+  {
+    "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+    "link": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
+    "source": "The Guardian Economics",
+    "published": "2026-08-21T08:58:10+00:00",
+    "summary": "<p>Volume of goods sold in stores and online dropped 0.5% in July, ONS says</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates\">Business live – latest updates</a></p></li></ul><p>Retail sales across Great Britain weakened last month despite the men’s football World Cup and record temperatures boosting the demand for food and drink.</p><p>The Office for National Statistics said the volume of goods sold in stores and online fell 0.5% in July. That is down from 0.7% rise in June – revised down from <a href=\"https://www.theguardian.com/business/2026/jul/24/heatwave-and-online-shopping-drive-up-retail-sales-in-great-britain\">initial estimates of 1%</a> – and a 1.3% rise in May.</p> <a href=\"https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8074
+  },
+  {
+    "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+    "link": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-08-21T06:34:11+00:00",
+    "summary": "<p>July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlier</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK government ran a larger-than-expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget.</p><p>City economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7251
+  },
+  {
     "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
     "source": "The Guardian Economics",
@@ -35,18 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
-    "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-20T19:01:00+00:00",
-    "summary": "Doctors and patients are excited about the possible breakthrough, but some analysts believe there’s too much hype.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   },
   {
     "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
@@ -310,68 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7269
-  },
-  {
-    "title": "China’s economy showing signs that slowdown may be extending",
-    "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "source": "The Guardian Economics",
-    "published": "2026-08-17T15:36:25+00:00",
-    "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
-    "link": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
-    "source": "The Guardian Economics",
-    "published": "2026-08-17T15:13:40+00:00",
-    "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9578
-  },
-  {
-    "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
-    "link": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
-    "source": "The Guardian Economics",
-    "published": "2026-08-16T23:01:38+00:00",
-    "summary": "<p>Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sector</p><p>The summer job has staged a comeback this year thanks to the hot weather and a packed calendar of events such as the men’s football World Cup, new UK figures show.</p><p>Recent months have seen a significant increase in seasonal hiring in sectors such as hospitality and tourism compared with summer 2025, said the Recruitment and Employment Confederation (REC), which runs a monthly labour market tracker.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.91
-  },
-  {
-    "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
-    "link": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
-    "source": "The Guardian Economics",
-    "published": "2026-08-16T14:00:27+00:00",
-    "summary": "<p>The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">New UK cost of living crisis looms as rising energy bills lift inflation</a></p></li></ul><p>As the Middle East crisis drags on into its sixth month, central banks sit in a tricky position. Oil prices remain at elevated levels, stoking inflationary pressures while also threatening to weigh on growth.</p><p>The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022, when inflation soared above 10% in the UK and eurozone and over 9% in the US.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9816
-  },
-  {
-    "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
-    "source": "The Guardian Economics",
-    "published": "2026-08-16T09:30:05+00:00",
-    "summary": "<p>Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statistician</p><p>The keen new chancellor, John Healey, responded to last week’s better-than-expected economic news by claiming the government was “bringing hope back”. Growth did not plunge as feared after Donald Trump unleashed war on Iran – with GDP <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">expanding at a pretty decent 0.4%</a> in the second quarter.</p><p>But what if we should have held on to a bit more hope all along? A <a href=\"https://cep.lse.ac.uk/pubs/download/occasional/op074.pdf\">new assessment of the UK’s recent productivity</a> suggests this critical measure of the country’s economic strength may have been systematically underestimated.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9332
   }
 ]
