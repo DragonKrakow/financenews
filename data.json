@@ -1,51 +1,51 @@
 [
   {
-    "title": "American consumers are delivering a retail reality check as they laser in on bargains",
-    "link": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
+    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T12:00:00+00:00",
-    "summary": "Recent earnings results suggest that the typical shopper is ‘employed, still spending, and increasingly disciplined about it.’",
+    "published": "2026-08-21T18:00:00+00:00",
+    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": 0.0945
   },
   {
-    "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
-    "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
+    "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
+    "link": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T11:22:00+00:00",
-    "summary": "Doctors and patients are excited about the possible breakthrough, but some analysts believe there’s too much hype.",
+    "published": "2026-08-21T16:38:00+00:00",
+    "summary": "U.S. and Canadian officials were engaged in additional talks on Friday. Details about what’s in their new trade deal have trickled out.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_score": 0.1531
   },
   {
-    "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
-    "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+    "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst",
+    "link": "https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T10:54:00+00:00",
-    "summary": "Shares of Jensen Huang’s company have struggled to make headway since its previous results day.",
+    "published": "2026-08-21T16:27:00+00:00",
+    "summary": "An Evercore ISI analyst sees strong growth ahead for storage makers, networking providers and Apple.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.7096
   },
   {
-    "title": "Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup",
-    "link": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T09:11:00+00:00",
-    "summary": "Hedge funds entered the second quarter all-in on the AI trade, but have begun to diversify their portfolios lately. They’re dipping into healthcare, energy and financials.",
+    "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-21T15:10:31+00:00",
+    "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3919
+    "sentiment_score": 0.6249
   },
   {
     "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
@@ -85,30 +85,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
-  },
-  {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-20T23:00:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
-  },
-  {
-    "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-    "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-20T22:45:00+00:00",
-    "summary": "“There is a lot of legal and financial power in my hands.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   },
   {
     "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
@@ -372,5 +348,29 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7269
+  },
+  {
+    "title": "China’s economy showing signs that slowdown may be extending",
+    "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+    "source": "The Guardian Economics",
+    "published": "2026-08-17T15:36:25+00:00",
+    "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+    "link": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+    "source": "The Guardian Economics",
+    "published": "2026-08-17T15:13:40+00:00",
+    "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9578
   }
 ]
