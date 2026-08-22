@@ -1,39 +1,40 @@
 [
   {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+    "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
+    "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T18:00:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+    "published": "2026-08-21T20:11:00+00:00",
+    "summary": "“I do believe very much in delayed gratification.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
+    "sentiment_score": 0.027
   },
   {
-    "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
-    "link": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
+    "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+    "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T16:38:00+00:00",
-    "summary": "U.S. and Canadian officials were engaged in additional talks on Friday. Details about what’s in their new trade deal have trickled out.",
+    "published": "2026-08-21T20:11:00+00:00",
+    "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   },
   {
-    "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst",
-    "link": "https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories",
+    "title": "Former JPMorgan exec takes on Social Security advisory role",
+    "link": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T16:27:00+00:00",
-    "summary": "An Evercore ISI analyst sees strong growth ahead for storage makers, networking providers and Apple.",
+    "published": "2026-08-21T19:11:00+00:00",
+    "summary": "Matt Zames will take on an unpaid adviser position at the Social Security Administration, according to reports.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
+    "sentiment_score": 0.5859
   },
   {
     "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
