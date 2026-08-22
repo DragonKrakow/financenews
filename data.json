@@ -1,40 +1,39 @@
 [
   {
-    "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
-    "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
+    "title": "Here’s some surprisingly good news for the stock market this midterm election year",
+    "link": "https://www.marketwatch.com/story/heres-some-surprisingly-good-news-for-the-stock-market-this-midterm-election-year-d492d3a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T20:11:00+00:00",
-    "summary": "“I do believe very much in delayed gratification.”",
+    "published": "2026-08-22T12:00:00+00:00",
+    "summary": "There is a strong historical pattern of postmidterm strength.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.891
+  },
+  {
+    "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-22T10:16:00+00:00",
+    "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.027
+    "sentiment_score": 0.1154
   },
   {
-    "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
-    "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+    "title": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
+    "link": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T20:11:00+00:00",
-    "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "Former JPMorgan exec takes on Social Security advisory role",
-    "link": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-21T19:11:00+00:00",
-    "summary": "Matt Zames will take on an unpaid adviser position at the Social Security Administration, according to reports.",
+    "published": "2026-08-22T10:00:00+00:00",
+    "summary": "Home prices in America have changed dramatically over the last century — but the Midwest has remained a bastion of affordability through it all.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
