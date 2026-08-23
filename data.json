@@ -3,13 +3,37 @@
     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-22T20:15:00+00:00",
+    "published": "2026-08-23T11:00:00+00:00",
     "summary": "“The cost is absolutely ridiculous.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
+  },
+  {
+    "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+    "source": "The Guardian Economics",
+    "published": "2026-08-23T10:53:53+00:00",
+    "summary": "<p>Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength</p><p>“Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly last week, as the country’s debt mountain surpassed another bleak record.</p><p>Yet Bessent’s decision to intervene in government bond markets in an effort to combat soaring yields belied his studied calm in TV interviews – and reignited fears the US may be on the road to a debt crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9287
+  },
+  {
+    "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
+    "link": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
+    "source": "The Guardian Economics",
+    "published": "2026-08-23T09:00:28+00:00",
+    "summary": "<p>New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel</p><p>At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle.</p><p>There aren’t enough orders to keep them running all the time, the company says, because of a surge of <a href=\"https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal\">cheap steel coming from Asian countries</a> that is threatening the viability of several UK sites that make similar products, and risk hundreds of jobs.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
   },
   {
     "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
@@ -22,20 +46,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-    "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-22T13:00:00+00:00",
-    "summary": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
-    "matched_keywords": [
-      "Gold",
-      "Metals",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
   },
   {
     "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
@@ -362,17 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
-  },
-  {
-    "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
-    "link": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
-    "source": "The Guardian Economics",
-    "published": "2026-08-17T15:13:40+00:00",
-    "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9578
   }
 ]
