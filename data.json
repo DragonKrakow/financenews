@@ -1,15 +1,40 @@
 [
   {
+    "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+    "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+    "source": "The Guardian Economics",
+    "published": "2026-08-23T17:24:46+00:00",
+    "summary": "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war</a></p></li></ul><p>The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile.</p><p>Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: “No matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7249
+  },
+  {
     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-23T11:00:00+00:00",
+    "published": "2026-08-23T16:45:00+00:00",
     "summary": "“The cost is absolutely ridiculous.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
+  },
+  {
+    "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+    "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-23T13:00:00+00:00",
+    "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.875
   },
   {
     "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
@@ -348,29 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-    "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-17T17:43:40+00:00",
-    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
-  },
-  {
-    "title": "China’s economy showing signs that slowdown may be extending",
-    "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "source": "The Guardian Economics",
-    "published": "2026-08-17T15:36:25+00:00",
-    "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
   }
 ]
