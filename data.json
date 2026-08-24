@@ -1,5 +1,29 @@
 [
   {
+    "title": "Stock futures inch higher as U.S. and Canada appear headed for trade war",
+    "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T00:00:00+00:00",
+    "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+    "matched_keywords": [
+      "Trade War"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8316
+  },
+  {
+    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-23T19:30:00+00:00",
+    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0945
+  },
+  {
     "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
     "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
     "source": "The Guardian Economics",
@@ -59,18 +83,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5423
-  },
-  {
-    "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-    "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-22T17:00:00+00:00",
-    "summary": "“There is a lot of legal and financial power in my hands.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   },
   {
     "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
@@ -361,17 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.235
-  },
-  {
-    "title": "Credit card issuer Synchrony announces partnership with OpenAI",
-    "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-18T02:48:33+00:00",
-    "summary": "The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   }
 ]
