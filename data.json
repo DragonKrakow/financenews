@@ -1,34 +1,106 @@
 [
   {
-    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
-    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T05:00:52+00:00",
-    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
+    "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T11:59:00+00:00",
+    "summary": "Bond yields are driven by the market’s estimate of the average federal funds rate over the next 10 years, plus some compensation for the risks associated with predicting that. Barclays finds bonds at fair value but not cheap yet.",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2516
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0
   },
   {
-    "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-    "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T03:02:00+00:00",
-    "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
+    "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+    "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T11:53:10+00:00",
+    "summary": "<p>Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible</p><p>Tehran has vowed to retaliate against any country that cooperates with the US <a href=\"https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei\">attempt to impose fresh sanctions against Iran</a> in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.</p><p>In advance of the US announcement, the United Arab Emirates, Iran’s single biggest trading partner in the Middle East, announced it was ending all trade with Iran, a move Tehran believes was coordinated between Washington and the UAE.</p> <a href=\"https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions\">Continue reading...</a>",
     "matched_keywords": [
-      "Trade War"
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T11:15:00+00:00",
+    "summary": "“The cost is absolutely ridiculous.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
+    "link": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T10:25:00+00:00",
+    "summary": "The fast-fashion giant is aiming to list shares in Hong Kong on Sept. 1. It’s been trying to go public for four years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T10:15:00+00:00",
+    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1331
+  },
+  {
+    "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T10:00:30+00:00",
+    "summary": "<p>The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working</p><p>The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Bessent, announced that the government would <a href=\"https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market\">sharply ramp</a> up its purchase of treasury bonds, in an effort to raise their price and thus push down their yield, which amounts to the interest rate the government pays on its debt.</p><p>It didn’t quite work as planned. Yields on treasurys fell after Bessent’s bond market intervention but soon bounced back. By Friday afternoon, the yield on the 10-year treasury was back near <a href=\"https://www.cnbc.com/quotes/US10Y\">where it was</a> before the secretary’s announcement. The yield on the 30-year bond was again trading around its <a href=\"https://www.cnbc.com/quotes/US30Y\">highest level</a> in 20 years or more.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8176
+  },
+  {
+    "title": "The post-World War II market shift is here — and bond yields could have higher to go, says Morgan Stanley",
+    "link": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T09:54:00+00:00",
+    "summary": "Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&amp;P 500.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
+    "link": "https://www.marketwatch.com/story/alibaba-shares-tumble-as-investors-question-whether-ai-spending-splurge-is-justified-6989038b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T09:13:00+00:00",
+    "summary": "The  market’s negative reaction to Alibaba’s announcement of a major share issue illustrates a broader skepticism among global investors about the eventual payback on present AI spending",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1761
   },
   {
     "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
     "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
     "source": "CNBC Finance",
-    "published": "2026-08-24T02:55:22+00:00",
+    "published": "2026-08-24T08:21:17+00:00",
     "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
     "matched_keywords": [
       "AI"
@@ -37,16 +109,42 @@
     "sentiment_score": 0.743
   },
   {
-    "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-23T19:30:00+00:00",
-    "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+    "title": "UK graduate job vacancies plunge to lowest in a decade",
+    "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T06:55:31+00:00",
+    "summary": "<p>Just 8,383 jobs for people leaving university were advertised in July, says recruitment website Adzuna</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Graduate job vacancies in the UK have sunk to their lowest level since they started being tracked a decade ago, according to a recruiting website.</p><p>Just 8,383 jobs for people leaving university were advertised in July, Adzuna reported on Monday, down 45% compared with the same point last year and the lowest since the company started gathering the data in 2016.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna\">Continue reading...</a>",
     "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7783
+  },
+  {
+    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T05:00:52+00:00",
+    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0945
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2516
+  },
+  {
+    "title": "UK productivity growing faster than official figures suggest, thinktank finds",
+    "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
+    "source": "The Guardian Economics",
+    "published": "2026-08-23T23:01:45+00:00",
+    "summary": "<p>Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.</p><p>The thinktank suggests the chancellor, John Healey, may have inherited an economy finally starting to emerge from the long shadow of the 2008 global financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7178
   },
   {
     "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
@@ -60,30 +158,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7249
-  },
-  {
-    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-23T16:45:00+00:00",
-    "summary": "“The cost is absolutely ridiculous.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-    "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-23T13:00:00+00:00",
-    "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.875
   },
   {
     "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
@@ -297,82 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6329
-  },
-  {
-    "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
-    "link": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T07:25:26+00:00",
-    "summary": "<p>Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Analysis: Rising inflation underlines scale of Burnham’s cost of living challenge</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.</p><p>The <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/july2026\">Office for National Statistics</a> said inflation rose from a 15-month low of 2.6% in June, driven by the rising price of gas and electricity. Matching City economists’ forecasts, it was the first rise in the annual rate as measured by the consumer prices index since March.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
-  },
-  {
-    "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-    "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-19T06:55:57+00:00",
-    "summary": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
-    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-18T23:58:09+00:00",
-    "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
-    "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-    "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-18T16:48:00+00:00",
-    "summary": "A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a political problem.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
-  },
-  {
-    "title": "Cooling UK labour market ‘questions need’ for Bank of England rate hikes; grocery inflation slows to two-year low – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-08-18T15:10:55+00:00",
-    "summary": "<p>Youth unemployment down to 16.2% but remains at high level; Brent crude climbs above $91 a barrel as US-Iran ceasefire ends</p><p>The retail billionaire <strong>Mike Ashley</strong> has given the latest indication that his summer shopping spree may be far from over, after he increased his stake in luxury giant <strong>Hugo Boss</strong> to nearly half.<br /><br />\n Ashley’s <strong>Frasers Group</strong>, which<a href=\"https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain\"> last week bought </a><strong><a href=\"https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain\">Harvey Nichols</a></strong><a href=\"https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain\"> department stores</a> for a reported £40m, increased its shareholding in the German fashion house to 48%, falling just short of taking full control. <br /><br />\n In June, the British billionaire made a nearly €2bn (£1.73bn) takeover offer for the luxury group, but its board rejected Frasers’ bid as “inadequate” and urged shareholders not to accept Ashley’s offer.<br /><br />\n The new, higher stake comes after 17.6% of shareholders accepted Ashley’s offer of €38 per share. That bid reflected only a 4% premium to Hugo Boss’s shares when it was tabled.<br /><br />\n Despite this, <strong>Axel Rudolph</strong>, an analyst at investing platform IG, said it was “another major step towards gaining control” of the German company. Ashley’s new shareholding puts Frasers “firmly in the driving seat as it looks to increase its influence,” he added.<br /><br />\n Ashley bought Harvey Nichols out of administration last week after the upmarket chain, which has 13 stores and 1,200 employees, warned it could run out of money if it did not find new funding. He also<a href=\"https://www.theguardian.com/business/2026/jun/15/mike-ashley-frasers-hugo-boss-australias-accent-takeover\"> launched a bid to snap up the Australian footwear business Accent Group</a> earlier this summer.</p><p>A 0.2% rise in UK foodservice inflation for July is the “calm before a potential storm”, experts in the sector have said as they brace for price hikes due to poor harvests.</p><p>July’s marginal 0.2% increase feels like the calm before a potential storm. With UK drought conditions actively threatening domestic vegetable yields, and global grain markets reacting to renewed geopolitical stress in the Black Sea, operators cannot afford to be complacent. The transition from summer to autumn will be a critical period for supply availability, making proactive, data-led procurement absolutely essential.</p><p>Broadly flat prices in July disguise significant volatility in the foodservice supply chain, and buyers face a very uncertain autumn and winter. While high temperatures can work to the advantage of many hospitality businesses in sales terms, extreme climate issues are likely to have seismic impacts on their operations in the years to come. Mitigating inflation is an urgent priority for venues seeking to retain guests and protect margins.</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4789
-  },
-  {
-    "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
-    "link": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-08-18T10:54:43+00:00",
-    "summary": "<p>Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates\">Business live – latest updates</a></p></li></ul><p>Government borrowing costs in several advanced economies continued to rise to levels not seen in decades on Tuesday, as hopes of an end to the US-Iran war faded.</p><p>Concerns about the inflation outlook worsened after <a href=\"https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace\">the ceasefire between Washington DC and Tehran ended on Monday night without an agreement</a>, with no progress on the reopening of the strait of Hormuz.</p> <a href=\"https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5903
   }
 ]
