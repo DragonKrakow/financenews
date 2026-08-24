@@ -9,7 +9,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "QQQ",
@@ -21,7 +21,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "TLT",
@@ -33,7 +33,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XLF",
@@ -45,43 +45,43 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XLE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 14 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 14 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
+      "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "LMT",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "GLD",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 10 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "NVDA",
@@ -90,70 +90,70 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
-      "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
+      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+      "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "TSLA",
     "signal": "Bearish",
     "confidence": "High",
-    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 4 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Trade frictions can pressure globally exposed growth and supply-chain-dependent companies. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
     "top_related_headline": {
-      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
-      "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis"
+      "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+      "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ITA",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XAR",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "VANECK_DEFENSE_UCITS",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "WTEU_DEFENCE_UCITS",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INVESCO_BCOM_UCITS",
@@ -165,7 +165,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "WT_ENH_COMMODITY_UCITS",
@@ -177,7 +177,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ISHR_DIV_COM_SWAP_UCITS",
@@ -189,7 +189,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MSCI_GLBL_METALS_MINING_UCITS",
@@ -201,7 +201,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XME",
@@ -213,31 +213,31 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "PHYS_GOLD_ETC",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "WT_PHYSICAL_SILVER",
     "signal": "Bullish",
     "confidence": "Medium",
-    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SMH",
@@ -246,22 +246,22 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
-      "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
+      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+      "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "VVSM",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 25 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 24 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
-      "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
+      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+      "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SOXX",
@@ -270,10 +270,10 @@
     "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
-      "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
+      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+      "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "AMUNDI_SEMI_UCITS",
@@ -285,7 +285,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "VGT",
@@ -297,7 +297,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XLK",
@@ -309,7 +309,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ISHR_WORLD_IT_UCITS",
@@ -321,7 +321,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BOTZ",
@@ -333,7 +333,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RBOT",
@@ -345,7 +345,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "WT_AI_UCITS",
@@ -357,7 +357,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XTRACKERS_AI_BIGDATA",
@@ -369,19 +369,19 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "VDE",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
+      "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INRG",
@@ -393,7 +393,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "LG_CLEAN_ENERGY",
@@ -405,7 +405,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "IYT",
@@ -417,7 +417,7 @@
       "title": "UK graduate job vacancies plunge to lowest in a decade",
       "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "XTN",
@@ -429,7 +429,7 @@
       "title": "UK graduate job vacancies plunge to lowest in a decade",
       "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SUPL",
@@ -441,19 +441,19 @@
       "title": "UK graduate job vacancies plunge to lowest in a decade",
       "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "USO",
     "signal": "Bullish",
     "confidence": "High",
-    "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only.",
+    "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
     "suggested_research_action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
     "top_related_headline": {
-      "title": "UK graduate job vacancies plunge to lowest in a decade",
-      "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna"
+      "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
+      "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories"
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "UNG",
@@ -465,7 +465,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP1",
@@ -477,7 +477,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP2",
@@ -489,7 +489,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP3",
@@ -501,7 +501,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP4",
@@ -513,7 +513,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP5",
@@ -525,7 +525,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP6",
@@ -537,7 +537,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP7",
@@ -549,7 +549,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP8",
@@ -561,7 +561,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP9",
@@ -573,7 +573,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SAP10",
@@ -585,7 +585,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM1",
@@ -597,7 +597,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM2",
@@ -609,7 +609,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM3",
@@ -621,7 +621,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM4",
@@ -633,7 +633,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM5",
@@ -645,7 +645,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM6",
@@ -657,7 +657,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM7",
@@ -669,7 +669,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM8",
@@ -681,7 +681,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM9",
@@ -693,7 +693,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "SIEM10",
@@ -705,7 +705,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI1",
@@ -717,7 +717,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI2",
@@ -729,7 +729,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI3",
@@ -741,7 +741,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI4",
@@ -753,7 +753,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI5",
@@ -765,7 +765,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI6",
@@ -777,7 +777,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI7",
@@ -789,7 +789,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI8",
@@ -801,7 +801,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI9",
@@ -813,7 +813,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ALLI10",
@@ -825,7 +825,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF1",
@@ -837,7 +837,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF2",
@@ -849,7 +849,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF3",
@@ -861,7 +861,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF4",
@@ -873,7 +873,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF5",
@@ -885,7 +885,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF6",
@@ -897,7 +897,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF7",
@@ -909,7 +909,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF8",
@@ -921,7 +921,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF9",
@@ -933,7 +933,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BASF10",
@@ -945,7 +945,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT1",
@@ -957,7 +957,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT2",
@@ -969,7 +969,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT3",
@@ -981,7 +981,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT4",
@@ -993,7 +993,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT5",
@@ -1005,7 +1005,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT6",
@@ -1017,7 +1017,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT7",
@@ -1029,7 +1029,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT8",
@@ -1041,7 +1041,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT9",
@@ -1053,7 +1053,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "DEUT10",
@@ -1065,7 +1065,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC1",
@@ -1077,7 +1077,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC2",
@@ -1089,7 +1089,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC3",
@@ -1101,7 +1101,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC4",
@@ -1113,7 +1113,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC5",
@@ -1125,7 +1125,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC6",
@@ -1137,7 +1137,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC7",
@@ -1149,7 +1149,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC8",
@@ -1161,7 +1161,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC9",
@@ -1173,7 +1173,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "MERC10",
@@ -1185,7 +1185,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW1",
@@ -1197,7 +1197,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW2",
@@ -1209,7 +1209,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW3",
@@ -1221,7 +1221,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW4",
@@ -1233,7 +1233,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW5",
@@ -1245,7 +1245,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW6",
@@ -1257,7 +1257,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW7",
@@ -1269,7 +1269,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW8",
@@ -1281,7 +1281,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW9",
@@ -1293,7 +1293,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "BMW10",
@@ -1305,7 +1305,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI1",
@@ -1317,7 +1317,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI2",
@@ -1329,7 +1329,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI3",
@@ -1341,7 +1341,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI4",
@@ -1353,7 +1353,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI5",
@@ -1365,7 +1365,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI6",
@@ -1377,7 +1377,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI7",
@@ -1389,7 +1389,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI8",
@@ -1401,7 +1401,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI9",
@@ -1413,7 +1413,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "RHEI10",
@@ -1425,7 +1425,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID1",
@@ -1437,7 +1437,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID2",
@@ -1449,7 +1449,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID3",
@@ -1461,7 +1461,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID4",
@@ -1473,7 +1473,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID5",
@@ -1485,7 +1485,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID6",
@@ -1497,7 +1497,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID7",
@@ -1509,7 +1509,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID8",
@@ -1521,7 +1521,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID9",
@@ -1533,7 +1533,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "ADID10",
@@ -1545,7 +1545,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI1",
@@ -1557,7 +1557,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI2",
@@ -1569,7 +1569,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI3",
@@ -1581,7 +1581,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI4",
@@ -1593,7 +1593,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI5",
@@ -1605,7 +1605,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI6",
@@ -1617,7 +1617,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI7",
@@ -1629,7 +1629,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI8",
@@ -1641,7 +1641,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI9",
@@ -1653,7 +1653,7 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   },
   {
     "ticker": "INFI10",
@@ -1665,6 +1665,6 @@
       "title": "No direct trigger in latest run",
       "link": ""
     },
-    "last_updated": "2026-08-24T12:11:08.289187Z"
+    "last_updated": "2026-08-24T18:10:55.335421Z"
   }
 ]

@@ -1,16 +1,113 @@
 [
   {
-    "title": "They’re the highest they’ve been in years but are bonds cheap enough to buy here? Two strategists disagree",
-    "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
+    "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+    "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T11:59:00+00:00",
-    "summary": "Bond yields are driven by the market’s estimate of the average federal funds rate over the next 10 years, plus some compensation for the risks associated with predicting that. Barclays finds bonds at fair value but not cheap yet.",
+    "published": "2026-08-24T17:55:00+00:00",
+    "summary": "A state-based financing system would introduce a new layer of uncertainty",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.743
+  },
+  {
+    "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+    "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T17:44:00+00:00",
+    "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T17:15:00+00:00",
+    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1331
+  },
+  {
+    "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
+    "link": "https://www.marketwatch.com/story/bessent-tapping-treasurys-rainy-day-fund-for-buybacks-isnt-a-bazooka-to-get-markets-to-move-his-way-705ca356?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T16:52:00+00:00",
+    "summary": "Bessent’s move “does not change anything. It just reduces the cash that Treasury has on deposit,” one analyst says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Make these 7 money moves before taking out a private student loan",
+    "link": "https://www.marketwatch.com/story/make-these-7-money-moves-before-taking-out-a-private-student-loan-09cf3e08?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T16:28:00+00:00",
+    "summary": "After the federal government put new limits on certain types of student-loan borrowing this summer, lending experts expect more students to turn to private loans to help cover tuition costs.",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
+    "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-24T16:03:00+00:00",
+    "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.",
+    "matched_keywords": [
+      "Oil"
+    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+    "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-24T15:50:50+00:00",
+    "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7876
+  },
+  {
+    "title": "Crypto extends gains after biggest 3-day rally since 2023",
+    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-24T14:02:54+00:00",
+    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
+    "link": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T12:49:17+00:00",
+    "summary": "<p>Research shows firms are branded as beauty and convenience but apparently operate in money-laundering and terrorist financing sectors</p><p>Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty and convenience stores but apparently operating in the money-laundering and terrorist financing sectors, a new analysis sets out.</p><p>The companies – listed as hairdressers, barber shops and salons, on the one hand, or mini-marts and corner shops on the other – show “remarkably similar lifespans” of about six months despite their seemingly different purposes.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
   },
   {
     "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
@@ -25,42 +122,6 @@
     "sentiment_score": 0.6597
   },
   {
-    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T11:15:00+00:00",
-    "summary": "“The cost is absolutely ridiculous.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
-    "link": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T10:25:00+00:00",
-    "summary": "The fast-fashion giant is aiming to list shares in Hong Kong on Sept. 1. It’s been trying to go public for four years.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T10:15:00+00:00",
-    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1331
-  },
-  {
     "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
     "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
     "source": "The Guardian Economics",
@@ -71,30 +132,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8176
-  },
-  {
-    "title": "The post-World War II market shift is here — and bond yields could have higher to go, says Morgan Stanley",
-    "link": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T09:54:00+00:00",
-    "summary": "Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&amp;P 500.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
-    "link": "https://www.marketwatch.com/story/alibaba-shares-tumble-as-investors-question-whether-ai-spending-splurge-is-justified-6989038b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T09:13:00+00:00",
-    "summary": "The  market’s negative reaction to Alibaba’s announcement of a major share issue illustrates a broader skepticism among global investors about the eventual payback on present AI spending",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1761
   },
   {
     "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
@@ -125,10 +162,9 @@
     "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
     "source": "The Guardian Economics",
     "published": "2026-08-24T05:00:52+00:00",
-    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
@@ -332,44 +368,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
-  },
-  {
-    "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
-    "link": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T14:57:21+00:00",
-    "summary": "<p>Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% target</p><p>The US treasury is doubling its buyback of government debt in an effort to balance out the bond market as officials at the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> remain divided over how to deal with high inflation.</p><p>The yield rate on 10-year, 20-year and 30-year treasury notes all hit 20-year highs this week, with the 30-year treasury yield <a href=\"https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump\">rising</a> to its highest rate since 2007. The rapid rise was concerning news for borrowers as major loans, including mortgages, are backed by treasuries.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
-    "link": "https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T12:27:00+00:00",
-    "summary": "<p>PM’s plan to shield households from more pressure risks being overwhelmed by wider price rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">UK inflation rises to 2.9%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>July’s increase in inflation, <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">to 2.9%</a>, is likely to be the first of several, underlining the challenge facing Andy Burnham in shielding consumers from a fresh cost of living squeeze this autumn.</p><p>Rising energy bills, as an increase in Ofgem’s quarterly price cap came into force, were the main driver of the jump in inflation, from 2.6% in June. That was partly offset by cheaper fuel prices – the knock-on effect of hostilities easing in the Middle East, after Donald Trump hailed his “memorandum of understanding” with Iran in June.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5759
-  },
-  {
-    "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
-    "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-19T11:09:33+00:00",
-    "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6329
   }
 ]
