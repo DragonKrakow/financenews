@@ -1,15 +1,40 @@
 [
   {
-    "title": "Stock futures inch higher as U.S. and Canada appear headed for trade war",
+    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T05:00:52+00:00",
+    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2516
+  },
+  {
+    "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
     "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T00:00:00+00:00",
-    "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+    "published": "2026-08-24T03:02:00+00:00",
+    "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
     "matched_keywords": [
       "Trade War"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8316
+  },
+  {
+    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-24T02:55:22+00:00",
+    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.743
   },
   {
     "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -349,29 +374,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5903
-  },
-  {
-    "title": "‘Picky bits’ on the menu as British shoppers snap up picnic food in heatwave",
-    "link": "https://www.theguardian.com/business/2026/aug/18/picky-bits-british-shoppers-picnic-food-supermarket-deals-grocery-price-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-08-18T10:29:58+00:00",
-    "summary": "<p>Consumers also turn to supermarket deals to save money, helping slow grocery price inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates\">Business live – latest updates</a></p></li></ul><p>Shopping baskets took on a decidedly summery complexion during last month’s heatwaves as consumers filled up on <a href=\"https://www.theguardian.com/tv-and-radio/2025/dec/16/tv-tonight-behind-the-scenes-with-marks-and-spencers-yuletide-boffins\">a British picnic staple: picky bits</a>, and grocery inflation slowed.</p><p>Spending rose on foods such as potato salad, olives and coleslaw, while ice-cream sales also increased, according to new data from Worldpanel by Numerator, a market research company.</p> <a href=\"https://www.theguardian.com/business/2026/aug/18/picky-bits-british-shoppers-picnic-food-supermarket-deals-grocery-price-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
-  },
-  {
-    "title": "UK pay growth slows as job vacancies hit five-year low",
-    "link": "https://www.theguardian.com/business/2026/aug/18/uk-pay-growth-ons-iran-war-cost-of-living-unemployment-rate",
-    "source": "The Guardian Economics",
-    "published": "2026-08-18T10:09:55+00:00",
-    "summary": "<p>Iran war prompts cost of living squeeze for workers as ONS reports unemployment rate stays at 4.9%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates\">Business live – latest updates</a></p></li></ul><p>Wage growth in the UK slowed in June and vacancies hit a five-year low as workers came under pressure from a renewed cost of living squeeze amid the economic impact from the Iran war.</p><p>Figures from the Office for National Statistics show average growth in total earnings, including bonuses, fell to 4.1% in the three months to June, down from 4.4% in the three months to May.</p> <a href=\"https://www.theguardian.com/business/2026/aug/18/uk-pay-growth-ons-iran-war-cost-of-living-unemployment-rate\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.235
   }
 ]
