@@ -1,21 +1,46 @@
 [
   {
-    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+    "title": "Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says",
+    "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T00:15:00+00:00",
-    "summary": "“The cost is absolutely ridiculous.”",
+    "published": "2026-08-25T11:43:00+00:00",
+    "summary": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
     "matched_keywords": [
-      "AI"
+      "Interest Rates"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.8479
+  },
+  {
+    "title": "The debt-fueled AI build-out may already be too big to fail",
+    "link": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-25T11:12:00+00:00",
+    "summary": "The Federal Reserve’s pandemic corporate credit facilities have capped downside risks and remain part of its tool kit, says BofA Global",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ for Iran",
+    "link": "https://www.marketwatch.com/story/oil-prices-decline-as-investors-brush-aside-bessents-economic-d-day-for-iran-f318b614?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-25T10:45:00+00:00",
+    "summary": "West Texas Intermediate and Brent crude’s contracts for October delivery both declined by about 3%.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
     "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T23:45:00+00:00",
+    "published": "2026-08-25T10:01:00+00:00",
     "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
     "matched_keywords": [
       "AI"
@@ -24,40 +49,40 @@
     "sentiment_score": -0.1331
   },
   {
-    "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
-    "link": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T21:26:00+00:00",
-    "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
+    "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+    "link": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+    "source": "The Guardian Economics",
+    "published": "2026-08-25T09:59:16+00:00",
+    "summary": "<p>Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller</p><p>Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.</p><p>The billionaire investor Stanley Druckenmiller, who worked with Bessent at George Soros’s fund management firm in the 1990s, has warned that his former pupil is courting danger by trying to suppress US bond yields.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7506
+  },
+  {
+    "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.",
+    "link": "https://www.marketwatch.com/story/one-wall-street-measure-of-market-fragility-just-hit-its-highest-possible-level-the-last-time-it-did-volatility-spiked-c5441009?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-25T09:49:00+00:00",
+    "summary": "The market turbulence indicator hit 1 on Aug. 19 for the first time since December 2024 following the presidential election.",
+    "matched_keywords": [
+      "Election"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
   },
   {
-    "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
+    "title": "Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.",
     "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T20:53:00+00:00",
-    "summary": "Bitcoin was rising Monday near the $80,000 level that it last touched in May, after the cryptocurrency surged last week on the Treasury Department’s plans to buy back longer-dated Treasurys.",
+    "published": "2026-08-25T08:00:00+00:00",
+    "summary": "Bitcoin was hovering around the $80,000 level Tuesday after the cryptocurrency surged last week on the Treasury Department’s plans to double its buy back of longer-dated Treasurys.",
     "matched_keywords": [
       "Gold"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
-    "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T20:22:00+00:00",
-    "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   },
   {
     "title": "Crypto extends gains after biggest 3-day rally since 2023",
@@ -70,19 +95,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.128
-  },
-  {
-    "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-    "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T19:40:00+00:00",
-    "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
   },
   {
     "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
@@ -356,17 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8945
-  },
-  {
-    "title": "Is the US actually too chicken to take on China for trade?",
-    "link": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T16:42:08+00:00",
-    "summary": "<p>A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports</p><p>Since <a href=\"https://www.theguardian.com/world/china\">China</a> offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day.</p><p>But the US hasn’t won this battle – and there’s strong evidence to show it’s too chicken to really try.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
   }
 ]
