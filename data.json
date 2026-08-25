@@ -1,5 +1,17 @@
 [
   {
+    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-25T00:15:00+00:00",
+    "summary": "“The cost is absolutely ridiculous.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
     "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -71,19 +83,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1027
-  },
-  {
-    "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
-    "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-24T19:03:00+00:00",
-    "summary": "That’s good for gold, stocks and long bonds. Eventually.",
-    "matched_keywords": [
-      "Trade War",
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
