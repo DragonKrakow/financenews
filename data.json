@@ -1,35 +1,58 @@
 [
   {
-    "title": "Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says",
-    "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+    "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+    "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T11:43:00+00:00",
-    "summary": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
+    "published": "2026-08-25T17:32:00+00:00",
+    "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
     "matched_keywords": [
-      "Interest Rates"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8479
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "The debt-fueled AI build-out may already be too big to fail",
-    "link": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
+    "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+    "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T11:12:00+00:00",
-    "summary": "The Federal Reserve’s pandemic corporate credit facilities have capped downside risks and remain part of its tool kit, says BofA Global",
+    "published": "2026-08-25T16:59:00+00:00",
+    "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
+    "sentiment_score": -0.4939
   },
   {
-    "title": "Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ for Iran",
-    "link": "https://www.marketwatch.com/story/oil-prices-decline-as-investors-brush-aside-bessents-economic-d-day-for-iran-f318b614?mod=mw_rss_topstories",
+    "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
+    "link": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+    "source": "The Guardian Economics",
+    "published": "2026-08-25T16:39:26+00:00",
+    "summary": "<p>Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar'</p> <a href=\"https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T10:45:00+00:00",
-    "summary": "West Texas Intermediate and Brent crude’s contracts for October delivery both declined by about 3%.",
+    "published": "2026-08-25T16:32:00+00:00",
+    "summary": "“The property is very old and requires significant ongoing maintenance.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Are older Americans spoiling the economy for everyone else?",
+    "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-25T16:31:00+00:00",
+    "summary": "How to get seniors to spend $12 trillion in home equity.",
     "matched_keywords": [
       "Oil"
     ],
@@ -37,16 +60,52 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-25T16:00:40+00:00",
+    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T10:01:00+00:00",
-    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "published": "2026-08-25T16:00:00+00:00",
+    "summary": "“The cost is absolutely ridiculous.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
+    "link": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
+    "source": "The Guardian Economics",
+    "published": "2026-08-25T15:56:15+00:00",
+    "summary": "<p>Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflation</p><p>Americans’ confidence in the economy declined again this month as <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">the ongoing conflict in Iran</a> continued to push US gasoline prices above $4 per gallon.</p><p>The Conference Board said on Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July. That was the lowest level in seven months but was essentially within the same lukewarm range it has been in since the beginning of the year. In late 2024 and early 2025, readings were consistently above 100.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "Crypto extends gains after biggest 3-day rally since 2023",
+    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-25T13:53:13+00:00",
+    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1331
+    "sentiment_score": 0.128
   },
   {
     "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
@@ -59,42 +118,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
-  },
-  {
-    "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.",
-    "link": "https://www.marketwatch.com/story/one-wall-street-measure-of-market-fragility-just-hit-its-highest-possible-level-the-last-time-it-did-volatility-spiked-c5441009?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T09:49:00+00:00",
-    "summary": "The market turbulence indicator hit 1 on Aug. 19 for the first time since December 2024 following the presidential election.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.",
-    "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T08:00:00+00:00",
-    "summary": "Bitcoin was hovering around the $80,000 level Tuesday after the cryptocurrency surged last week on the Treasury Department’s plans to double its buy back of longer-dated Treasurys.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
-  },
-  {
-    "title": "Crypto extends gains after biggest 3-day rally since 2023",
-    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-24T20:02:22+00:00",
-    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
   },
   {
     "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
@@ -344,29 +367,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3182
-  },
-  {
-    "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-    "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-19T18:54:50+00:00",
-    "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2411
-  },
-  {
-    "title": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
-    "link": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-08-19T18:46:22+00:00",
-    "summary": "<p>PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy</p><p>Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury.</p><p>Boris Johnson <a href=\"https://www.theguardian.com/politics/2020/feb/13/sajid-javid-resigns-as-chancellor-amid-boris-johnson-reshuffle\">all but forced the resignation of Sajid Javid</a> by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; and Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8945
   }
 ]
