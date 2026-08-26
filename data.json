@@ -1,5 +1,31 @@
 [
   {
+    "title": "Is the Trump Treasury panicking over the level of US debt?",
+    "link": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
+    "source": "The Guardian Economics",
+    "published": "2026-08-26T05:00:34+00:00",
+    "summary": "<p>With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precarious</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Bessent ‘will lose’ battle with bond markets, ex-mentor warns</a></p></li></ul><p>Are we seeing the first signs of panic in Donald Trump’s Treasury? The US is by far the world’s biggest debtor, and the steady rise in global long-term interest rates – which I have <a href=\"https://www.aeaweb.org/articles?id=10.1257/aer.20221352\">long argued</a> was inevitable – is starting to cause real pain.</p><p>Until now, the Treasury secretary, Scott Bessent, has dismissed concerns about US debt, which recently <a href=\"https://www.reuters.com/world/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-biden-2026-08-19/\">surpassed $40tn</a>, as a big nothingburger. Growth, in his telling, will be so spectacular the US will easily be able to meet its interest obligations without any significant tax rises or spending cuts, while the rest of the world will happily keep feeding it money. But if Bessent really believes that, why is he trying to strong-arm the bond market by <a href=\"https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html\">fiddling with the maturity structure</a> of government debt?</p> <a href=\"https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4322
+  },
+  {
+    "title": "Are older Americans spoiling the economy for everyone else?",
+    "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-26T01:41:00+00:00",
+    "summary": "How to get seniors to spend $12 trillion in home equity.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
     "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -58,18 +84,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8625
-  },
-  {
-    "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-    "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-25T20:56:00+00:00",
-    "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
@@ -355,17 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9153
-  },
-  {
-    "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-    "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-20T02:39:14+00:00",
-    "summary": "Chinese government bond yields have remained low amid a global surge.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   }
 ]
