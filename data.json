@@ -1,39 +1,52 @@
 [
   {
-    "title": "Two-thirds of parents are failing at this vital safety measure for their children",
-    "link": "https://www.marketwatch.com/story/two-thirds-of-parents-dont-have-this-vital-document-they-need-in-case-of-emergency-7c54efb3?mod=mw_rss_topstories",
+    "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+    "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-26T17:37:00+00:00",
-    "summary": "Here’s why most parents balk at this legal task.",
+    "published": "2026-08-27T00:43:00+00:00",
+    "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+    "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T00:14:00+00:00",
+    "summary": "Cook’s lawyer says she made an inadvertent error listing her apartment in Atlanta as a primary residence",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8807
+  },
+  {
+    "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+    "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-26T22:50:00+00:00",
+    "summary": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3237
+    "sentiment_score": 0.4767
   },
   {
-    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+    "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+    "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-26T17:30:00+00:00",
-    "summary": "“The property is very old and requires significant ongoing maintenance.”",
+    "published": "2026-08-26T20:15:00+00:00",
+    "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "The ugly math on interest expenses, yields and the $40 trillion U.S. national debt",
-    "link": "https://www.marketwatch.com/story/the-ugly-math-on-interest-expenses-yields-and-the-40-trillion-u-s-national-debt-cb72be3b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-26T16:55:00+00:00",
-    "summary": "“The interest payments are starting to snowball,” said Joe Boyle at Hartford Funds.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3326
   },
   {
     "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
@@ -357,17 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9153
-  },
-  {
-    "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-    "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-20T02:39:14+00:00",
-    "summary": "Chinese government bond yields have remained low amid a global surge.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
   }
 ]
