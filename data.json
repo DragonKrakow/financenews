@@ -1,22 +1,21 @@
 [
   {
-    "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-    "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-27T05:34:13+00:00",
-    "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+    "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
+    "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T15:36:00+00:00",
+    "summary": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
     "matched_keywords": [
-      "Chips",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
   },
   {
     "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
     "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T03:17:00+00:00",
+    "published": "2026-08-27T14:48:00+00:00",
     "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
     "matched_keywords": [
       "AI"
@@ -28,7 +27,7 @@
     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
     "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T02:41:00+00:00",
+    "published": "2026-08-27T14:45:00+00:00",
     "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
     "matched_keywords": [
       "AI"
@@ -37,41 +36,41 @@
     "sentiment_score": -0.1331
   },
   {
-    "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
-    "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T00:43:00+00:00",
-    "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
-    "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T00:14:00+00:00",
-    "summary": "Cook’s lawyer says she made an inadvertent error listing her apartment in Atlanta as a primary residence",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8807
-  },
-  {
-    "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
-    "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-26T22:50:00+00:00",
-    "summary": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic.",
+    "title": "Andy Burnham’s autumn of pain– podcast",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast",
+    "source": "The Guardian Economics",
+    "published": "2026-08-27T14:31:09+00:00",
+    "summary": "<p>It’s been a month since Andy Burnham became prime minister. And while polls have shown a ‘Burnham bounce’, the coming months will force the new PM into making some tough – and potentially unpopular – decisions that will reveal how serious he is about delivering the changes he believes the country needs. Kiran Stacey and Peter Walker look at the choices facing Burnham</p><p>Please keep sending your comments and questions to Pippa and Kiran at <a href=\"mailto:politicsweeklyuk@theguardian.com\">politicsweeklyuk@theguardian.com</a>.</p><p>Listen back to Kiran’s interview with Bridget Phillipson <a href=\"https://www.theguardian.com/politics/audio/2026/aug/20/i-worry-about-our-daughters-bridget-phillipson-on-online-misogyny-podcast\">here</a></p><p>And, read Kiran’s article about possible changes to Insolvency Law <a href=\"https://www.theguardian.com/business/2026/aug/25/burnham-mulls-insolvency-law-shake-up-to-help-bring-utilities-under-public-control\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+    "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-27T14:11:29+00:00",
+    "summary": "The policymaker stopped just short of calling for an interest rate hike.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+    "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-27T05:34:13+00:00",
+    "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.34
   },
   {
     "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
