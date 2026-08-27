@@ -1,39 +1,65 @@
 [
   {
-    "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
-    "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T15:36:00+00:00",
-    "summary": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
+    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-27T21:03:08+00:00",
+    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
-    "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T14:48:00+00:00",
-    "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
-    "matched_keywords": [
+      "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
   },
   {
-    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "title": "20 stocks likely to lose money even if the bull market continues",
+    "link": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T14:45:00+00:00",
-    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "published": "2026-08-27T20:48:00+00:00",
+    "summary": "Certain stocks are such poor bets that they are likely to lose ground even in bull markets.",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7506
+  },
+  {
+    "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+    "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T19:55:00+00:00",
+    "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8689
+  },
+  {
+    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T19:00:00+00:00",
+    "summary": "“The cost is absolutely ridiculous.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us.",
+    "link": "https://www.marketwatch.com/story/how-will-stocks-perform-when-the-fed-chair-speaks-at-jackson-hole-heres-what-history-tells-us-1f9466d0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T18:31:00+00:00",
+    "summary": "Kevin Warsh is due to deliver his first Jackson Hole speech since taking the helm at the Federal Reserve. Here’s what to expect from markets.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.1331
+    "sentiment_score": 0.0
   },
   {
     "title": "Andy Burnham’s autumn of pain– podcast",
@@ -342,30 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7251
-  },
-  {
-    "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-08-21T01:51:26+00:00",
-    "summary": "<p>Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praise. This blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance\">Trump administration faces questions over top aide Natalie Harp’s security clearance</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the US Breaking News email</a></p></li></ul><p>An FBI team seized electronic devices from <strong>former US representative Eric Swalwell</strong> at the San Francisco airport on Saturday, then raided his home in Washington, DC, the next day, CNN <a href=\"https://www.cnn.com/2026/08/20/politics/eric-swalwell-fbi-raid-sexual-assault-claims-invs\">reported</a> Thursday.</p><p>The raid is part of a federal investigation into the sexual assault allegations which ultimately drove the Bay Area Democrat to resign from office in April, sources familiar with the investigation told CNN. The Manhattan District Attorney’s Office and the Los Angeles Sheriff’s Department subsequently opened criminal investigations on Swalwell.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-    "source": "The Guardian Economics",
-    "published": "2026-08-20T16:14:59+00:00",
-    "summary": "<p>As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans\"><strong>‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending</strong></a></p></li></ul><p></p><p>Government borrowing costs around the world have surged to the highest levels in decades amid growing fears over US bond market turmoil.</p><p>Anxiety about Donald Trump’s handling of the US economy, and concern that the US president’s war with Iran is driving up inflation, are causing a sell-off in the US bond market.</p> <a href=\"https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8205
   }
 ]
