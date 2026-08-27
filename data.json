@@ -1,5 +1,42 @@
 [
   {
+    "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+    "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-27T05:34:13+00:00",
+    "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
+    "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T03:17:00+00:00",
+    "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T02:41:00+00:00",
+    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1331
+  },
+  {
     "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
     "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,18 +72,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4767
-  },
-  {
-    "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
-    "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-26T20:15:00+00:00",
-    "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3326
   },
   {
     "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
@@ -343,32 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8205
-  },
-  {
-    "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-    "link": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-    "source": "The Guardian Economics",
-    "published": "2026-08-20T15:21:38+00:00",
-    "summary": "<p>The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide\">Why is the Trump administration causing turmoil in the bond markets?</a></p></li></ul><p></p><p>You could pin the US’s staggering <a href=\"https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion\">$40tn in government debt</a> to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme court, forcing the government to return tens of billions of dollars to importers. Elon Musk’s “department of government efficiency” (Doge), ostensibly created to stop wasteful government spending, decimated federal programs and probably killed <a href=\"https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola\">millions of children</a>, but <a href=\"https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0\">did nothing</a> to close the budget deficit. The burst of inflation following Trump’s misguided adventure in Iran sharply raised the cost of serving the government’s obligations.</p><p>Yet as the federal debt hits an all-time high, up from about $35tn when Trump took office less than two years ago, it is worth noting that the US’s gargantuan indebtedness is in fact the product of a longstanding Republican strategy that took shape well before Trump could even dream about gold-plating the White House. It was called “starve the beast”.</p> <a href=\"https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5345
-  },
-  {
-    "title": "JD Sports cuts £50m from profit forecast as cost of living pressures hit trainer sales",
-    "link": "https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports",
-    "source": "The Guardian Economics",
-    "published": "2026-08-20T09:03:50+00:00",
-    "summary": "<p>Inflation fuelled by Iran conflict deterring shoppers, especially in the US, says high street chain</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/20/jd-sports-boss-is-still-struggling-to-turn-up-the-heat-amid-tepid-trainer-market\">JD Sports boss is still struggling to turn up the heat</a></p></li></ul><p>The sports fashion retailer JD has cut £50m from its profit forecast as cost of living pressures, fuelled by the US war on Iran, weighed on sales of trainers.</p><p>JD Sports, which sells brands including Nike and Adidas, said widespread <a href=\"https://www.theguardian.com/business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices\">inflation had hit shoppers’ wallets,</a> particularly its core young shoppers, resulting in a drop in sales across important markets such as the US, where it struggled to shift trainers and other footwear.</p> <a href=\"https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9153
   }
 ]
