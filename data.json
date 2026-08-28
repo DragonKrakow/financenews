@@ -1,9 +1,33 @@
 [
   {
+    "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+    "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T01:35:13+00:00",
+    "summary": "U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
+    "link": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T00:02:00+00:00",
+    "summary": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
     "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
     "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
     "source": "CNBC Finance",
-    "published": "2026-08-27T21:03:08+00:00",
+    "published": "2026-08-27T22:58:01+00:00",
     "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
     "matched_keywords": [
       "Fed",
@@ -11,6 +35,54 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
+  },
+  {
+    "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
+    "link": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T22:53:00+00:00",
+    "summary": "A number of Wall Street banks, including Jefferies, raised their price targets for the cybersecurity’s stock following its record-breaking results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
+  },
+  {
+    "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
+    "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T22:51:00+00:00",
+    "summary": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+    "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T22:17:00+00:00",
+    "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8689
+  },
+  {
+    "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-27T22:12:00+00:00",
+    "summary": "Options bets and volatility are sending buy signals, which sets up the stock market for a potential upside breakout.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
   },
   {
     "title": "20 stocks likely to lose money even if the bull market continues",
@@ -23,43 +95,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
-  },
-  {
-    "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
-    "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T19:55:00+00:00",
-    "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8689
-  },
-  {
-    "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-    "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T19:00:00+00:00",
-    "summary": "“The cost is absolutely ridiculous.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us.",
-    "link": "https://www.marketwatch.com/story/how-will-stocks-perform-when-the-fed-chair-speaks-at-jackson-hole-heres-what-history-tells-us-1f9466d0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T18:31:00+00:00",
-    "summary": "Kevin Warsh is due to deliver his first Jackson Hole speech since taking the helm at the Federal Reserve. Here’s what to expect from markets.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Andy Burnham’s autumn of pain– podcast",
@@ -330,43 +365,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5423
-  },
-  {
-    "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-21T15:10:31+00:00",
-    "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
-    "link": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
-    "source": "The Guardian Economics",
-    "published": "2026-08-21T08:58:10+00:00",
-    "summary": "<p>Volume of goods sold in stores and online dropped 0.5% in July, ONS says</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates\">Business live – latest updates</a></p></li></ul><p>Retail sales across Great Britain weakened last month despite the men’s football World Cup and record temperatures boosting the demand for food and drink.</p><p>The Office for National Statistics said the volume of goods sold in stores and online fell 0.5% in July. That is down from 0.7% rise in June – revised down from <a href=\"https://www.theguardian.com/business/2026/jul/24/heatwave-and-online-shopping-drive-up-retail-sales-in-great-britain\">initial estimates of 1%</a> – and a 1.3% rise in May.</p> <a href=\"https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8074
-  },
-  {
-    "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
-    "link": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-08-21T06:34:11+00:00",
-    "summary": "<p>July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlier</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK government ran a larger-than-expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget.</p><p>City economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7251
   }
 ]
