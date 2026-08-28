@@ -1,5 +1,31 @@
 [
   {
+    "title": "How did Trump get so rich? – podcast",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
+    "source": "The Guardian Economics",
+    "published": "2026-08-28T04:00:47+00:00",
+    "summary": "<p>In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an ‘economic D-day’ against Iran and watched the US national debt surpass $40tn. Meanwhile, Donald Trump has personally made billions of dollars since returning to office.</p><p>Jonathan Freedland speaks to Dan Alexander of Forbes about how Trump has amassed his fortune – and what his economic record could mean for voters in the midterms</p><p>Watch Jonathan Freedland on our new <a href=\"https://www.youtube.com/@politicsweekly\">Politics Weekly YouTube channel</a></p><p>Send your questions and feedback to <a href=\"mailto:podcasts@theguardian.com\">politicsweeklyamerica@theguardian.com</a></p><p>Subscribe to <a href=\"https://www.theguardian.com/technology/series/blackbox\">The Guardian Investigates podcast</a> before the launch of season 2 of Black Box, coming next week</p><p>Buy a copy of Dan Alexander’s book White House, Inc <a href=\"https://www.penguinrandomhouse.com/books/623950/white-house-inc-by-dan-alexander/\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5836
+  },
+  {
+    "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
+    "link": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T03:16:00+00:00",
+    "summary": "The Trump administration violated Anthropic’s First Amendment rights when it blacklisted the AI company earlier this year, a federal judge ruled late Thursday.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7906
+  },
+  {
     "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
     "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
     "source": "CNBC Finance",
@@ -83,18 +109,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.34
-  },
-  {
-    "title": "20 stocks likely to lose money even if the bull market continues",
-    "link": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T20:48:00+00:00",
-    "summary": "Certain stocks are such poor bets that they are likely to lose ground even in bull markets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
   },
   {
     "title": "Andy Burnham’s autumn of pain– podcast",
@@ -353,17 +367,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9287
-  },
-  {
-    "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
-    "link": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
-    "source": "The Guardian Economics",
-    "published": "2026-08-23T09:00:28+00:00",
-    "summary": "<p>New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel</p><p>At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle.</p><p>There aren’t enough orders to keep them running all the time, the company says, because of a surge of <a href=\"https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal\">cheap steel coming from Asian countries</a> that is threatening the viability of several UK sites that make similar products, and risk hundreds of jobs.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   }
 ]
