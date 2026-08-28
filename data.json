@@ -1,5 +1,118 @@
 [
   {
+    "title": "Why you shouldn’t use AI to pick a Medicare plan",
+    "link": "https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T15:53:00+00:00",
+    "summary": "Using artificial-intelligence tools to help navigate Medicare’s open-enrollment season might seem like an easy way to simplify what can be an overwhelming decision.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
+    "link": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-08-28T15:48:57+00:00",
+    "summary": "<p>However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn</p><p>The <a href=\"https://www.theguardian.com/business/federal-reserve\">US Federal Reserve</a> is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”.</p><p>Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, who has aggressively called for rates to be cut.</p> <a href=\"https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.237
+  },
+  {
+    "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+    "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T15:28:00+00:00",
+    "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male golfer shoving a female golfer to the ground after she attempts to use his driver.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8689
+  },
+  {
+    "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+    "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T15:22:10+00:00",
+    "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+    "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T15:00:00+00:00",
+    "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3326
+  },
+  {
+    "title": "PayPal’s stock slides as a takeover bid is said to fall through. What’s next for the company?",
+    "link": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T15:00:00+00:00",
+    "summary": "Reports of a takeover offer have propped up PayPal’s stock in recent months, but now the company may have to execute a turnaround on its own.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The bull market for stocks is defying everything, but Bank of America warns that an autumn reality check is coming",
+    "link": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T14:39:00+00:00",
+    "summary": "The midterm elections and a potential end to the Iran war could present challenges to this bullish stock market, Bank of America strategists said.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T11:39:47+00:00",
+    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+    "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+    "source": "The Guardian Economics",
+    "published": "2026-08-28T11:00:56+00:00",
+    "summary": "<p>Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races</p><p>Every day <a href=\"https://www.cbc.ca/lite/story/9.7281466\">$1bn</a> worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.</p><p>News this week of Donald Trump’s <a href=\"https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto\">escalating trade spat</a> with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9313
+  },
+  {
     "title": "How did Trump get so rich? – podcast",
     "link": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
     "source": "The Guardian Economics",
@@ -13,19 +126,6 @@
     "sentiment_score": -0.5836
   },
   {
-    "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
-    "link": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-28T03:16:00+00:00",
-    "summary": "The Trump administration violated Anthropic’s First Amendment rights when it blacklisted the AI company earlier this year, a federal judge ruled late Thursday.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7906
-  },
-  {
     "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
     "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
     "source": "CNBC Finance",
@@ -36,79 +136,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
-    "link": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-28T00:02:00+00:00",
-    "summary": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-27T22:58:01+00:00",
-    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
-    "link": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T22:53:00+00:00",
-    "summary": "A number of Wall Street banks, including Jefferies, raised their price targets for the cybersecurity’s stock following its record-breaking results.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0772
-  },
-  {
-    "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
-    "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T22:51:00+00:00",
-    "summary": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
-    "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T22:17:00+00:00",
-    "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8689
-  },
-  {
-    "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-27T22:12:00+00:00",
-    "summary": "Options bets and volatility are sending buy signals, which sets up the stock market for a potential upside breakout.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
   },
   {
     "title": "Andy Burnham’s autumn of pain– podcast",
@@ -342,30 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7178
-  },
-  {
-    "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
-    "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-    "source": "The Guardian Economics",
-    "published": "2026-08-23T17:24:46+00:00",
-    "summary": "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war</a></p></li></ul><p>The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile.</p><p>Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: “No matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7249
-  },
-  {
-    "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
-    "source": "The Guardian Economics",
-    "published": "2026-08-23T10:53:53+00:00",
-    "summary": "<p>Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength</p><p>“Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly last week, as the country’s debt mountain surpassed another bleak record.</p><p>Yet Bessent’s decision to intervene in government bond markets in an effort to combat soaring yields belied his studied calm in TV interviews – and reignited fears the US may be on the road to a debt crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9287
   }
 ]
