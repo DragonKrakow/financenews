@@ -1,5 +1,17 @@
 [
   {
+    "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
+    "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-29T12:30:00+00:00",
+    "summary": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
     "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
     "link": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
     "source": "The Guardian Economics",
@@ -48,30 +60,6 @@
     "sentiment_score": 0.5106
   },
   {
-    "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-29T11:00:00+00:00",
-    "summary": "Investors’ intense focus on AI is at times adding to the might of a small club of Big Tech stocks with mega market values  to potentially make or break a single trading session for the S&amp;P 500.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-29T10:16:00+00:00",
-    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1331
-  },
-  {
     "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
     "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
     "source": "CNBC Finance",
@@ -82,18 +70,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4519
-  },
-  {
-    "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-    "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-28T21:34:00+00:00",
-    "summary": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
   },
   {
     "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
@@ -367,5 +343,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.743
+  },
+  {
+    "title": "UK graduate job vacancies plunge to lowest in a decade",
+    "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T06:55:31+00:00",
+    "summary": "<p>Just 8,383 jobs for people leaving university were advertised in July, says recruitment website Adzuna</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Graduate job vacancies in the UK have sunk to their lowest level since they started being tracked a decade ago, according to a recruiting website.</p><p>Just 8,383 jobs for people leaving university were advertised in July, Adzuna reported on Monday, down 45% compared with the same point last year and the lowest since the company started gathering the data in 2016.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7783
+  },
+  {
+    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T05:00:52+00:00",
+    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2516
   }
 ]
