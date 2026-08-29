@@ -1,5 +1,29 @@
 [
   {
+    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T21:57:47+00:00",
+    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4519
+  },
+  {
+    "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
+    "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-28T21:34:00+00:00",
+    "summary": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
     "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
     "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,18 +59,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8689
-  },
-  {
-    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-28T19:32:48+00:00",
-    "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4519
   },
   {
     "title": "Meet Generation Renter — young Americans who don’t expect to ever own a home",
@@ -357,17 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2516
-  },
-  {
-    "title": "UK productivity growing faster than official figures suggest, thinktank finds",
-    "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-    "source": "The Guardian Economics",
-    "published": "2026-08-23T23:01:45+00:00",
-    "summary": "<p>Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.</p><p>The thinktank suggests the chancellor, John Healey, may have inherited an economy finally starting to emerge from the long shadow of the 2008 global financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7178
   }
 ]
