@@ -1,5 +1,17 @@
 [
   {
+    "title": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October",
+    "link": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-30T12:00:00+00:00",
+    "summary": "Months of panic that AI would replace subscription software are easing after a strong week of software earnings.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
     "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
     "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -355,18 +367,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7783
-  },
-  {
-    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
-    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T05:00:52+00:00",
-    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2516
   }
 ]
