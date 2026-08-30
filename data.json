@@ -1,5 +1,17 @@
 [
   {
+    "title": "These charts show how leverage-happy investors are transforming the stock market",
+    "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-30T13:00:00+00:00",
+    "summary": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October",
     "link": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +22,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
-    "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-29T12:30:00+00:00",
-    "summary": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   },
   {
     "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
@@ -46,30 +46,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7146
-  },
-  {
-    "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
-    "link": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-29T12:00:00+00:00",
-    "summary": "The U.S. labor market seemed to be on upswing after a surge in new employment early this year — but a summer slowdown in hiring and fewer help-wanted ads suggest it won’t get any easier to find a job.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
-    "link": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-29T11:30:00+00:00",
-    "summary": "The recent blistering pace of earnings growth is unsustainable.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
   },
   {
     "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
@@ -367,5 +343,30 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7783
+  },
+  {
+    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+    "source": "The Guardian Economics",
+    "published": "2026-08-24T05:00:52+00:00",
+    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2516
+  },
+  {
+    "title": "UK productivity growing faster than official figures suggest, thinktank finds",
+    "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
+    "source": "The Guardian Economics",
+    "published": "2026-08-23T23:01:45+00:00",
+    "summary": "<p>Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.</p><p>The thinktank suggests the chancellor, John Healey, may have inherited an economy finally starting to emerge from the long shadow of the 2008 global financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7178
   }
 ]
