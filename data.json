@@ -1,5 +1,31 @@
 [
   {
+    "title": "Advanced AI threatens global financial stability, says Bank of England boss",
+    "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+    "source": "The Guardian Economics",
+    "published": "2026-08-31T06:00:17+00:00",
+    "summary": "<p>Andrew Bailey warns G20 members about risk of cyber-disruption spreading ‘across jurisdictions’</p><p>The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.</p><p>In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”.</p> <a href=\"https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3306
+  },
+  {
+    "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+    "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-31T03:47:28+00:00",
+    "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
     "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
     "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -343,30 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.743
-  },
-  {
-    "title": "UK graduate job vacancies plunge to lowest in a decade",
-    "link": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T06:55:31+00:00",
-    "summary": "<p>Just 8,383 jobs for people leaving university were advertised in July, says recruitment website Adzuna</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Graduate job vacancies in the UK have sunk to their lowest level since they started being tracked a decade ago, according to a recruiting website.</p><p>Just 8,383 jobs for people leaving university were advertised in July, Adzuna reported on Monday, down 45% compared with the same point last year and the lowest since the company started gathering the data in 2016.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
-  },
-  {
-    "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
-    "link": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T05:00:52+00:00",
-    "summary": "<p>Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety</p><p>The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.</p><p>As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2516
   }
 ]
