@@ -1,5 +1,29 @@
 [
   {
+    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-30T22:31:00+00:00",
+    "summary": "“The property is very old and requires significant ongoing maintenance.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-30T22:15:00+00:00",
+    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1331
+  },
+  {
     "title": "These charts show how leverage-happy investors are transforming the stock market",
     "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +34,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October",
-    "link": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-30T12:00:00+00:00",
-    "summary": "Months of panic that AI would replace subscription software are easing after a strong week of software earnings.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
@@ -356,17 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2516
-  },
-  {
-    "title": "UK productivity growing faster than official figures suggest, thinktank finds",
-    "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-    "source": "The Guardian Economics",
-    "published": "2026-08-23T23:01:45+00:00",
-    "summary": "<p>Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates\">Business live – latest updates</a></p></li></ul><p>Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.</p><p>The thinktank suggests the chancellor, John Healey, may have inherited an economy finally starting to emerge from the long shadow of the 2008 global financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7178
   }
 ]
