@@ -1,22 +1,45 @@
 [
   {
-    "title": "Advanced AI threatens global financial stability, says Bank of England boss",
-    "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T06:00:17+00:00",
-    "summary": "<p>Andrew Bailey warns G20 members about risk of cyber-disruption spreading ‘across jurisdictions’</p><p>The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.</p><p>In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”.</p> <a href=\"https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20\">Continue reading...</a>",
+    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-31T12:17:54+00:00",
+    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
     "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3306
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2363
   },
   {
-    "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+    "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+    "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T12:00:00+00:00",
+    "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1154
+  },
+  {
+    "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+    "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T11:45:00+00:00",
+    "summary": "“I paid a significant amount into Social Security.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
     "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
     "source": "CNBC Finance",
-    "published": "2026-08-31T03:47:28+00:00",
+    "published": "2026-08-31T11:28:03+00:00",
     "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
     "matched_keywords": [
       "Fed",
@@ -24,6 +47,94 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
+  },
+  {
+    "title": "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
+    "link": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T11:21:00+00:00",
+    "summary": "The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9091
+  },
+  {
+    "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
+    "source": "The Guardian Economics",
+    "published": "2026-08-31T10:00:23+00:00",
+    "summary": "<p>US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles</p><p>Having reportedly <a href=\"https://www.nytimes.com/2026/02/16/business/economy/jamieson-greer-trump-trade.html\">read</a> Victor Hugo’s Les Misérables, in French, during a military tour of duty in Iraq, Jamieson Greer considered himself an unlikely target for accusations of francophobia.</p><p>But Donald Trump’s US trade representative, hitherto one of the president’s less high-profile cabinet members, found himself in that uncomfortable position amid the acrimonious collapse of bilateral trade talks with Canada that now threatens to degenerate into an all-out trade war between the two close trading partners whose economies are tightly intertwined.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9771
+  },
+  {
+    "title": "AI could cause global economic downturn, Bank of England governor tells G20",
+    "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+    "source": "The Guardian Economics",
+    "published": "2026-08-31T09:00:47+00:00",
+    "summary": "<p>Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system</p><p>The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.</p><p>In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”.</p> <a href=\"https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6068
+  },
+  {
+    "title": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
+    "link": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
+    "source": "The Guardian Economics",
+    "published": "2026-08-31T09:00:22+00:00",
+    "summary": "<p>With traditional goals such as stability and homeownership feeling out of reach, young people are focused on the present</p><p>By now, we all know the shape of financial nihilism: the throw-your-money-at-anything reaction to the dissolution of the slow, linear path to wealth; the <a href=\"https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling\">prediction markets</a>, <a href=\"https://www.theguardian.com/business/2025/jul/26/meme-stock-craze\">meme stocks</a>, <a href=\"https://www.theguardian.com/business/2026/may/02/gen-z-investors-crypto-boom\">cryptocurrencies</a> and <a href=\"https://www.theguardian.com/business/2022/oct/14/lipstick-effect-britons--luxuries-cost-of-living-crisis\">microluxuries</a> growing in its place. We’re left in an economic no man’s land. But financial nihilism only describes where we put our money. What about how we earn it in the first place?</p><p>The modern economy has long relied on our need for stable employment – to pay the mortgage, to keep our kids fed, or, for some, to chase prestige and power – to generate the work ethic that keeps the wheel of production turning. None of this is going well for young people. Our jobs are <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai\">insecure</a>, we can’t afford houses, we’re deferring having kids (if we have them at all), and only 6% of us <a href=\"https://www.deloitte.com/content/dam/assets-shared/docs/campaigns/2026/2026-genz-millennial-survey.pdf\">say</a> a leadership position is our primary career goal. Hope is one of the economy’s most productive inputs, <a href=\"https://download.ssrn.com/2025/11/19/5770722.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCG%2BFjvJTdyZSNyoe4hweLWasy4YIQjl94k6wHnOJBKkQIgUtEY%2F9e5Jo47S9E1XemJ9Rv%2FvNeoEiJzpWBLbpX9neYqvgUIYhAEGgwzMDg0NzUzMDEyNTciDJJVbT5brLANdGCWdyqbBXHEhIF8aPqXhfm3vvhrCB2AFBq9m2vhG%2Fw7mMk9TkGtuM4WAGFc9kDDeEqJ19oDsffoEiwNOL%2BmztosGQb7DEMJlt%2FaXWTc1VZgPwVKNlnr40pfiuej1n4LCEkIb9ly6vqSjSbtmZmGl%2BsaUiBPoDJjqkvohIq56A2hjEK3CT53m%2FA%2F9LOgqU7rwS6SrdXKr270swFMVmZdQWvrw6ogkaSmTxBxDGCrmDpfXWTIYxiPH1cVVGeqRHH4Z%2FajbtRbT9YyvkmdA12VNrKH5BlNC9PUVRd2i6nF6bozoE3o%2FxiS0y5f4fkemIcKjUbMZv4%2BZyWF60ZMFYE7Z8%2BQzH7NZS2Q%2BkAbWeYQQO8Y3nsHoHwguhQ6HFMfjbFcgu0UMfnzW%2Bsn8%2FGfAOgjwjbsGX4NtFg8rRaqvnmbQZtWCjBvcbnR5jOX3DaKWc%2Bo21lHaUXYl7j1Rp%2FHvk9pNtw%2FLlX4xTDWavWF7L5d1oNISPp87%2FEsYOthQt1H5%2BgR308eFepQQ8mxuQ5NZJjmm%2F5FhzVZnwBqo7nouAqyUsx7ZwOW7p2eZoxS0jkiOHEAvdAhOWvSg%2FvLWvfSy08Ajl8toInJQbeo0twEFGm5I3qlJJDWgTmygL6nUWbkRdoEOyGD5D%2FMavBdKwZmf4exiMHN0T1gA6r5crdAVvnqp3fntOvWNcfVeyC6U746i2U4N%2BL1oRzMuQ7tFvUSZNjut031d%2Bi7xFc2nK2pzTHoKqRx%2B9tIxzg9fNjWn5MNIsm95vQLnfeWJy5zTGx7uIBC6vHmPpkWIxmHCpxjdPb5oVpj0s6aqzD61B9yttTvt%2FVXbOs2bOuFFAcWuKugb6OBQj7M13%2Bnzw4O%2BTMLm3DWEulMAdqL0I1aDYGGkRuO1p4QqwAwjv340QY6sQFCK6va637VenyCEdIJiXCNwWz7dYjw8XMZsWssjEsHUN7%2BjO3Q%2Fi%2BjtgMemYkfHQc9Y22bXzFadR73C%2BfhwBhnTOu%2B0iYEice2xPtia%2FxI9cgx3bHAAKAH8RJA8bQhMxSs252KZRVL51UDwntl%2Fg6uGr%2BUq4RCYmngEGnQXcORUAD6xyi0do1MmIdSfSconO5Q2nfoo8vf74dwJvPYYQaXFYHBkAf0ctfGwg%2BYQUsdtLo%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260626T093457Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAUPUUPRWETEQUTGEK%2F20260626%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=b3f742dae986f60bf8ca197e7946b667320853eff96c9abc6a7615aedc7bc504&amp;abstractId=5770722\">powering</a> our willingness to endure long hours. When the production function of income – the mechanism that turns hard work into a stable salary, then a mortgage, then a pension – breaks down, so does our relationship with the input. I call this production nihilism: my generation’s growing indifference to the kinds of work we’re willing to participate in, and where we’re willing to earn.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9254
+  },
+  {
+    "title": "Here’s what Prince Harry and Meghan Markle’s California mansion could really be worth, and how much it costs to keep it up",
+    "link": "https://www.marketwatch.com/story/heres-what-prince-harry-and-meghan-markles-california-mansion-could-really-be-worth-and-how-much-it-costs-to-keep-it-up-93a3c5fa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T08:59:00+00:00",
+    "summary": "The couple’s decision to move back to the U.K. has raised a host of questions about what they plan to do with the opulent home in California, where they have been residing for the past six years.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2911
+  },
+  {
+    "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+    "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T08:55:00+00:00",
+    "summary": "Oil prices jumped on Monday after the U.S. and Iran exchanged fire for the first time in a month.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Trump’s trade war with Canada gets nasty – podcast",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
+    "source": "The Guardian Economics",
+    "published": "2026-08-31T07:07:24+00:00",
+    "summary": "<p>In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an ‘economic D-day’ against Iran and watched the US national debt surpass $40tn. Meanwhile, Donald Trump has personally made billions of dollars since returning to office.</p><p>Jonathan Freedland speaks to Dan Alexander of Forbes about how Trump has amassed his fortune – and what his economic record could mean for voters in the midterms</p><p>Watch Jonathan Freedland on our new <a href=\"https://www.youtube.com/@politicsweekly\">Politics Weekly YouTube channel</a></p><p>Send your questions and feedback to <a href=\"mailto:podcasts@theguardian.com\">politicsweeklyamerica@theguardian.com</a></p><p>Subscribe to <a href=\"https://www.theguardian.com/technology/series/blackbox\">The Guardian Investigates podcast</a> before the launch of season 2 of Black Box, coming next week</p><p>Buy a copy of Dan Alexander’s book White House, Inc <a href=\"https://www.penguinrandomhouse.com/books/623950/white-house-inc-by-dan-alexander/\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9509
   },
   {
     "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
@@ -48,18 +159,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1331
-  },
-  {
-    "title": "These charts show how leverage-happy investors are transforming the stock market",
-    "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-30T13:00:00+00:00",
-    "summary": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
@@ -148,19 +247,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9313
-  },
-  {
-    "title": "How did Trump get so rich? – podcast",
-    "link": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
-    "source": "The Guardian Economics",
-    "published": "2026-08-28T04:00:47+00:00",
-    "summary": "<p>In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an ‘economic D-day’ against Iran and watched the US national debt surpass $40tn. Meanwhile, Donald Trump has personally made billions of dollars since returning to office.</p><p>Jonathan Freedland speaks to Dan Alexander of Forbes about how Trump has amassed his fortune – and what his economic record could mean for voters in the midterms</p><p>Watch Jonathan Freedland on our new <a href=\"https://www.youtube.com/@politicsweekly\">Politics Weekly YouTube channel</a></p><p>Send your questions and feedback to <a href=\"mailto:podcasts@theguardian.com\">politicsweeklyamerica@theguardian.com</a></p><p>Subscribe to <a href=\"https://www.theguardian.com/technology/series/blackbox\">The Guardian Investigates podcast</a> before the launch of season 2 of Black Box, coming next week</p><p>Buy a copy of Dan Alexander’s book White House, Inc <a href=\"https://www.penguinrandomhouse.com/books/623950/white-house-inc-by-dan-alexander/\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5836
   },
   {
     "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
@@ -284,90 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2382
-  },
-  {
-    "title": "Crypto extends gains after biggest 3-day rally since 2023",
-    "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-25T13:53:13+00:00",
-    "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
-    "link": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-    "source": "The Guardian Economics",
-    "published": "2026-08-25T09:59:16+00:00",
-    "summary": "<p>Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller</p><p>Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.</p><p>The billionaire investor Stanley Druckenmiller, who worked with Bessent at George Soros’s fund management firm in the 1990s, has warned that his former pupil is courting danger by trying to suppress US bond yields.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
-  },
-  {
-    "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-    "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-24T15:50:50+00:00",
-    "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7876
-  },
-  {
-    "title": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
-    "link": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T12:49:17+00:00",
-    "summary": "<p>Research shows firms are branded as beauty and convenience but apparently operate in money-laundering and terrorist financing sectors</p><p>Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty and convenience stores but apparently operating in the money-laundering and terrorist financing sectors, a new analysis sets out.</p><p>The companies – listed as hairdressers, barber shops and salons, on the one hand, or mini-marts and corner shops on the other – show “remarkably similar lifespans” of about six months despite their seemingly different purposes.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-    "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T11:53:10+00:00",
-    "summary": "<p>Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible</p><p>Tehran has vowed to retaliate against any country that cooperates with the US <a href=\"https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei\">attempt to impose fresh sanctions against Iran</a> in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.</p><p>In advance of the US announcement, the United Arab Emirates, Iran’s single biggest trading partner in the Middle East, announced it was ending all trade with Iran, a move Tehran believes was coordinated between Washington and the UAE.</p> <a href=\"https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-    "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-    "source": "The Guardian Economics",
-    "published": "2026-08-24T10:00:30+00:00",
-    "summary": "<p>The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working</p><p>The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Bessent, announced that the government would <a href=\"https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market\">sharply ramp</a> up its purchase of treasury bonds, in an effort to raise their price and thus push down their yield, which amounts to the interest rate the government pays on its debt.</p><p>It didn’t quite work as planned. Yields on treasurys fell after Bessent’s bond market intervention but soon bounced back. By Friday afternoon, the yield on the 10-year treasury was back near <a href=\"https://www.cnbc.com/quotes/US10Y\">where it was</a> before the secretary’s announcement. The yield on the 30-year bond was again trading around its <a href=\"https://www.cnbc.com/quotes/US30Y\">highest level</a> in 20 years or more.</p> <a href=\"https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-    "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-24T08:21:17+00:00",
-    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
   }
 ]
