@@ -1,78 +1,64 @@
 [
   {
-    "title": "The 10-year Treasury yield is breaking out and 5% could be just the beginning. Here’s why that matters.",
-    "link": "https://www.marketwatch.com/story/the-10-year-treasury-yield-is-breaking-out-and-5-could-be-just-the-beginning-heres-why-that-matters-3906b83e?mod=mw_rss_topstories",
+    "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
+    "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T17:38:00+00:00",
-    "summary": "There’s a lot more to the rising trend in interest rates than just the Federal Reserve’s fight against stubborn inflation.",
+    "published": "2026-08-31T22:24:00+00:00",
+    "summary": "Regulators claim Amazon artificially bumped up floor prices during peak shopping periods, adding surcharges to merchants’ ad spending.",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+    "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T22:00:00+00:00",
+    "summary": "“I paid a significant amount into Social Security.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Tesla’s stock among S&P 500’s top gainers as investors prepare for a Cybercab launch",
+    "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T21:01:00+00:00",
+    "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "This maneuver is boosting oil shipments through the Strait of Hormuz",
+    "link": "https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-08-31T20:56:00+00:00",
+    "summary": "Middle East oil producers are finding more ways to evade Iranian threats and push more of their product to market.",
+    "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
   },
   {
-    "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-    "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T17:30:00+00:00",
-    "summary": "“The property is very old and requires significant ongoing maintenance.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Bessent now says debt-reduction plan could be months away. It will face hurdles when it arrives.",
-    "link": "https://www.marketwatch.com/story/bessent-now-says-debt-reduction-plan-could-be-months-away-it-will-face-hurdles-when-it-arrives-d87b6f7a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T17:02:00+00:00",
-    "summary": "Top officials in the Trump administration have taken the wraps off a plan for tackling the federal government’s persistent deficits.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "This near-7% rule looks better for retirees than the 4% rule",
-    "link": "https://www.marketwatch.com/story/this-near-7-rule-looks-better-for-retirees-than-the-4-rule-43b03d2d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T16:53:00+00:00",
-    "summary": "The recent bad news from the turmoil in the bond market — which has seen long-term interest rates rising to multidecade highs — is also good news for those nearing or in retirement.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Should bond investors worry with Warsh running the Fed?",
+    "title": "With Warsh running the Fed, should bond investors be worried?",
     "link": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T16:46:00+00:00",
-    "summary": "The formerly drama-free investment vehicle, U.S. government debt, is now causing some concern.",
+    "published": "2026-08-31T20:55:00+00:00",
+    "summary": "The usually drama-free investment vehicle, U.S. government debt, is now causing some concern.",
     "matched_keywords": [
       "Fed"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Trump to meet with oil execs about cutting gas prices, as his Venezuelan SPR plan faces skepticism",
-    "link": "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-08-31T16:44:00+00:00",
-    "summary": "The president and his fellow Republicans look set to focus on affordability as the midterms near.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
+    "sentiment_score": -0.5719
   },
   {
     "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
@@ -372,5 +358,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
+  },
+  {
+    "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
+    "link": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
+    "source": "The Guardian Economics",
+    "published": "2026-08-25T15:56:15+00:00",
+    "summary": "<p>Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflation</p><p>Americans’ confidence in the economy declined again this month as <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">the ongoing conflict in Iran</a> continued to push US gasoline prices above $4 per gallon.</p><p>The Conference Board said on Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July. That was the lowest level in seven months but was essentially within the same lukewarm range it has been in since the beginning of the year. In late 2024 and early 2025, readings were consistently above 100.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
   }
 ]
