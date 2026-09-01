@@ -1,5 +1,30 @@
 [
   {
+    "title": "Price rises gather pace in UK shops amid higher energy costs",
+    "link": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
+    "source": "The Guardian Economics",
+    "published": "2026-09-01T05:00:46+00:00",
+    "summary": "<p>In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail Consortium</p><p>The pace of price rises in UK shops rose to its highest level in two years in August, a trade body index shows, with higher energy costs pushing up the price of food and AI chip demand <a href=\"https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips\">making technology more expensive</a>.</p><p>In-store inflation stepped up to 1.5% year on year in August, up from 0.9% in July, led by prices for tinned and packaged food which increased by 2.5% against 1.1% in the prior month, according to data from the research company NIQ for the British Retail Consortium.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
+    "link": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
+    "source": "The Guardian Economics",
+    "published": "2026-09-01T04:00:46+00:00",
+    "summary": "<p>While many young people have found jobs and built careers, some have struggled to complete their courses</p><p></p><p>The crisis in the youth employment market, with <a href=\"https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june\">almost a million young people not in education, employment or training (Neet)</a> across the UK, has placed fresh emphasis on ways of getting employees into the workforce.</p><p>The government hopes to increase focus on technical and vocational learning in England from the age of 14. In parallel, there is an ambition to create thousands more apprenticeships.</p> <a href=\"https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
     "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
     "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -346,29 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4588
-  },
-  {
-    "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-25T16:00:40+00:00",
-    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
-    "link": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
-    "source": "The Guardian Economics",
-    "published": "2026-08-25T15:56:15+00:00",
-    "summary": "<p>Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflation</p><p>Americans’ confidence in the economy declined again this month as <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">the ongoing conflict in Iran</a> continued to push US gasoline prices above $4 per gallon.</p><p>The Conference Board said on Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July. That was the lowest level in seven months but was essentially within the same lukewarm range it has been in since the beginning of the year. In late 2024 and early 2025, readings were consistently above 100.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
   }
 ]
