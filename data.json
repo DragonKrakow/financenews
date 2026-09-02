@@ -1,41 +1,114 @@
 [
   {
-    "title": "Markets slide as inflation fears trigger global bond sell-off – business live",
+    "title": "Bond market sell-off calms as oil price drops, and Burnham pledges ‘fiscal responsibility’ – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-02T06:23:35+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note\">The Guardian view on the global bond shock: Andy Burnham should take note</a></p></li></ul><p><strong>The head of the IMF has warned that the rise in bond yields among advanced economies threatens to cause economic pain for developing nations.</strong></p><p><strong>Kristalina Georgieva, </strong>managing director of the <strong>IMF, </strong>told the gathering of G20 finance ministers and central bank governors in North Carolina that the rise in global borrowing costs was a “particular concern”.</p><p>The sovereign debt landscape for emerging and low-income countries has gradually improved in recent years, thanks to domestic policy efforts and international cooperation. But progress has been uneven, and persistent risks and uncertainty in the global economy, including spillovers from the significant increase in yields in advanced economies, call for policy discipline and underscore the importance of building buffers.</p><p>The increase in global interest rates is of particular concern. As key advanced economy yields rise to multi-year highs, they lift most of the world’s yield curves up with them. In some emerging markets this more than fully offsets hard-won spread compression.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-02T12:12:46+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears\"><strong>Global bond sell-off intensifies as US-Iran tensions stoke inflation fears</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news\"><strong>Politics Live: Andy Burnham pressed on borrowing costs and spending at first PMQs</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note\">The Guardian view on the global bond shock: Andy Burnham should take note</a></p></li></ul><p><strong>Newsflash: UK government borrowing costs have jumped at the start of trading, as the bond market sell-off continues.</strong></p><p>The yield, or interest rate, on UK 10-year bonds jumped by 4 basis points (0.04 of a percentage point) to 5.268%. That’s the highest since June 2008 (<em>Reuters reports</em>).</p><p>“The dominant theme as markets open is the renewed escalation between the US and Iran, with attacks on Iranian military and tanker targets raising concerns over further disruption in the Strait of Hormuz.</p><p>Oil has extended to a six-week high, amplifying inflation concerns and driving another sharp rise in global bond yields</p><p>“The market rout stepped up a year yesterday and shows no sign of stopping.</p><p>Governments around the world are feeling the pressure from bond markets, but the situation is particularly acute for the UK, where Andy Burnham’s grand promises about reforming the economy are about to meet the cold reality of high debt levels and rocketing borrowing costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates",
       "Oil",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9306
-  },
-  {
-    "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-    "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T00:19:00+00:00",
-    "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
-    "matched_keywords": [
-      "AI"
-    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
+    "sentiment_score": 0.128
   },
   {
-    "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+    "title": "Andy Burnham pressed on borrowing costs and spending at first PMQs – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+    "source": "The Guardian Economics",
+    "published": "2026-09-02T12:11:10+00:00",
+    "summary": "<p>Burnham faced questions from Kemi Badenoch and other MPs amid speculation over budget</p><p>In the news release to mark the first anniversary of his election as the Green party’s leader, <strong>Zack Polanski</strong> highlighted what he described as 10 achievements during his first year in charge. For the record, this is how he sees his record.</p><p>-Won the Greens’ first ever parliamentary byelection in Gorton and Denton</p><p>-More than tripled the party membership from 68,500 to over 230,000</p><p>Zack Polanski in Holborn and St Pancras sounds like a done deal from the hints the party is dropping over the past 24 hours. Needs the formality of local party sign-off.</p><p>Our budget for day-to-day spending next year will be lower in real terms than this year. Our capital budget will fall in real terms every year until the end of the decade.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "Europe’s largest airline warns of jet-fuel prices hitting $140 this winter as it cuts capacity",
+    "link": "https://www.marketwatch.com/story/europes-largest-airline-warns-of-jet-fuel-prices-at-140-this-winter-as-it-cuts-capacity-ba7821a9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T00:18:00+00:00",
-    "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
+    "published": "2026-09-02T11:31:00+00:00",
+    "summary": "Ryanair on Wednesday reduced its winter capacity to mitigate its exposure to unhedged jet fuel prices of $140 per barrel, illustrating a major economic impact of the energy crisis.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3184
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+    "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T11:09:15+00:00",
+    "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.323
+  },
+  {
+    "title": "Chevron outlines $7 billion plan to expand in Venezuela",
+    "link": "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T11:07:00+00:00",
+    "summary": "Chevron says it will expand its operations in Venezuela, following the Trump administration’s move for a Pentagon-backed plan to develop the country’s oil reserves.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T09:23:18+00:00",
+    "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "Dell shares rise as demand jumps for AI servers — and here’s what Wall Street analysts are saying happens next",
+    "link": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T09:03:00+00:00",
+    "summary": "Morgan Stanley, Goldman Sachs and Citigroup all raised their price targets for the technology company.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
+    "link": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
+    "source": "The Guardian Economics",
+    "published": "2026-09-02T08:54:52+00:00",
+    "summary": "<p>UK borrowing costs driven up, adding to challenges facing John Healey as he prepares for first budget</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global government bond sell-off resumed on Wednesday, driving up the UK’s borrowing costs and exacerbating the challenges facing John Healey as he prepares his first budget.</p><p>The yield – effectively the interest rate – on 10-year UK government bonds, or gilts, jumped to just below 5.3% in early trading: its highest level since mid-2008.</p> <a href=\"https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
+    "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T06:36:00+00:00",
+    "summary": "The accounting giant says the buildout of artificial intelligence differs from the development of railways and the internet because of its scale and spending growth.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
   },
   {
     "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -48,56 +121,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-    "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T00:00:00+00:00",
-    "summary": "“I paid a significant amount into Social Security.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-01T23:15:00+00:00",
-    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
-  },
-  {
-    "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-    "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-01T21:02:00+00:00",
-    "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3919
-  },
-  {
-    "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
-    "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-01T20:13:00+00:00",
-    "summary": "Oil prices on Tuesday settled at their highest levels in nearly six weeks, after the U.S. military said it struck Iranian targets in the Strait of Hormuz in response to Tehran’s overnight attacks on ships transiting the vital waterway.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6369
   },
   {
     "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
@@ -350,30 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-    "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-    "source": "The Guardian Economics",
-    "published": "2026-08-28T11:00:56+00:00",
-    "summary": "<p>Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races</p><p>Every day <a href=\"https://www.cbc.ca/lite/story/9.7281466\">$1bn</a> worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.</p><p>News this week of Donald Trump’s <a href=\"https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto\">escalating trade spat</a> with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9313
-  },
-  {
-    "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-    "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-28T01:35:13+00:00",
-    "summary": "U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   }
 ]
