@@ -1,5 +1,19 @@
 [
   {
+    "title": "Markets slide as inflation fears trigger global bond sell-off – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-02T06:23:35+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note\">The Guardian view on the global bond shock: Andy Burnham should take note</a></p></li></ul><p><strong>The head of the IMF has warned that the rise in bond yields among advanced economies threatens to cause economic pain for developing nations.</strong></p><p><strong>Kristalina Georgieva, </strong>managing director of the <strong>IMF, </strong>told the gathering of G20 finance ministers and central bank governors in North Carolina that the rise in global borrowing costs was a “particular concern”.</p><p>The sovereign debt landscape for emerging and low-income countries has gradually improved in recent years, thanks to domestic policy efforts and international cooperation. But progress has been uneven, and persistent risks and uncertainty in the global economy, including spillovers from the significant increase in yields in advanced economies, call for policy discipline and underscore the importance of building buffers.</p><p>The increase in global interest rates is of particular concern. As key advanced economy yields rise to multi-year highs, they lift most of the world’s yield curves up with them. In some emerging markets this more than fully offsets hard-won spread compression.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9306
+  },
+  {
     "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
     "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -361,17 +375,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "Andy Burnham’s autumn of pain– podcast",
-    "link": "https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast",
-    "source": "The Guardian Economics",
-    "published": "2026-08-27T14:31:09+00:00",
-    "summary": "<p>It’s been a month since Andy Burnham became prime minister. And while polls have shown a ‘Burnham bounce’, the coming months will force the new PM into making some tough – and potentially unpopular – decisions that will reveal how serious he is about delivering the changes he believes the country needs. Kiran Stacey and Peter Walker look at the choices facing Burnham</p><p>Please keep sending your comments and questions to Pippa and Kiran at <a href=\"mailto:politicsweeklyuk@theguardian.com\">politicsweeklyuk@theguardian.com</a>.</p><p>Listen back to Kiran’s interview with Bridget Phillipson <a href=\"https://www.theguardian.com/politics/audio/2026/aug/20/i-worry-about-our-daughters-bridget-phillipson-on-online-misogyny-podcast\">here</a></p><p>And, read Kiran’s article about possible changes to Insolvency Law <a href=\"https://www.theguardian.com/business/2026/aug/25/burnham-mulls-insolvency-law-shake-up-to-help-bring-utilities-under-public-control\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
