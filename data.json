@@ -1,9 +1,33 @@
 [
   {
+    "title": "Bond market turmoil eases across Europe; UK service sector growth jumps – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T12:13:02+00:00",
+    "summary": "<p>Rolling coverage of the latet economic and financial news</p><p><strong>Other European government borrowing costs are dipping this morning too.</strong></p><p>The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
+    "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T11:50:00+00:00",
+    "summary": "Some stocks will face very different environments depending on how Americans vote in November.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
     "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
     "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T04:01:00+00:00",
+    "published": "2026-09-03T11:39:00+00:00",
     "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
     "matched_keywords": [
       "AI"
@@ -12,28 +36,79 @@
     "sentiment_score": 0.5744
   },
   {
-    "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
-    "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T00:23:00+00:00",
-    "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
+    "title": "Yen soars as Bank of Japan tipped to raise interest rates",
+    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T11:28:45+00:00",
+    "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 1.7% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.85, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>",
     "matched_keywords": [
+      "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
+    "sentiment_score": 0.7184
   },
   {
-    "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
-    "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T00:22:00+00:00",
-    "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
+    "published": "2026-09-03T11:16:00+00:00",
+    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+    "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T11:00:00+00:00",
+    "summary": "Buying AI hardware outright is becoming more economical than renting AI power through the cloud.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
+    "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T09:59:00+00:00",
+    "summary": "There are more important things for investors to be worried about.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4391
+  },
+  {
+    "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
+    "link": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T08:25:18+00:00",
+    "summary": "<p>Swap rates rise to three-year high as increase in oil prices leads to fears of higher inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Homeowners in the UK are braced for a jump in mortgage rates, driven by higher inflation and interest rate increase expectations amid turmoil in the global bond markets.</p><p>UK swap rates, which lenders use to price mortgages, have risen to a three-year high, as this week’s global bond market sell-off ripples through the economy.</p> <a href=\"https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T07:00:47+00:00",
+    "summary": "<p>Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson</p><p>Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country wallowing in debt. The <a href=\"https://www.cfr.org/articles/does-evergrandes-collapse-threaten-chinas-economy\">collapse of the property market</a>. Political repression. The demand for democracy from a growing middle class. All have been put forward as reasons for the inevitable terminal crisis.</p><p>Even those impressed by the country’s rapid growth took comfort from the notion that the west would continue to dominate advanced manufacturing while China would be stuck assembling TVs. And while the wait for its much-predicted demise has gone on and on, China has become the workshop of the world.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
+    "sentiment_score": 0.7506
   },
   {
     "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
@@ -47,42 +122,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.27
-  },
-  {
-    "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T21:38:00+00:00",
-    "summary": "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5563
-  },
-  {
-    "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
-    "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T21:12:00+00:00",
-    "summary": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-    "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T21:11:00+00:00",
-    "summary": "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
@@ -333,43 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T10:00:23+00:00",
-    "summary": "<p>US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key roles</p><p>Having reportedly <a href=\"https://www.nytimes.com/2026/02/16/business/economy/jamieson-greer-trump-trade.html\">read</a> Victor Hugo’s Les Misérables, in French, during a military tour of duty in Iraq, Jamieson Greer considered himself an unlikely target for accusations of francophobia.</p><p>But Donald Trump’s US trade representative, hitherto one of the president’s less high-profile cabinet members, found himself in that uncomfortable position amid the acrimonious collapse of bilateral trade talks with Canada that now threatens to degenerate into an all-out trade war between the two close trading partners whose economies are tightly intertwined.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9771
-  },
-  {
-    "title": "AI could cause global economic downturn, Bank of England governor tells G20",
-    "link": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T09:00:47+00:00",
-    "summary": "<p>Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system</p><p>The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.</p><p>In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”.</p> <a href=\"https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6068
-  },
-  {
-    "title": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T09:00:22+00:00",
-    "summary": "<p>With traditional goals such as stability and home ownership feeling out of reach, young people are focused on the present</p><p>By now, we all know the shape of financial nihilism: the throw-your-money-at-anything reaction to the dissolution of the slow, linear path to wealth; the <a href=\"https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling\">prediction markets</a>, <a href=\"https://www.theguardian.com/business/2025/jul/26/meme-stock-craze\">meme stocks</a>, <a href=\"https://www.theguardian.com/business/2026/may/02/gen-z-investors-crypto-boom\">cryptocurrencies</a> and <a href=\"https://www.theguardian.com/business/2022/oct/14/lipstick-effect-britons--luxuries-cost-of-living-crisis\">microluxuries</a> growing in its place. We’re left in an economic no man’s land. But financial nihilism only describes where we put our money. What about how we earn it in the first place?</p><p>The modern economy has long relied on our need for stable employment – to pay the mortgage, to keep our kids fed, or, for some, to chase prestige and power – to generate the work ethic that keeps the wheel of production turning. None of this is going well for young people. Our jobs are <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai\">insecure</a>, we can’t afford houses, we’re deferring having kids (if we have them at all), and only 6% of us <a href=\"https://www.deloitte.com/content/dam/assets-shared/docs/campaigns/2026/2026-genz-millennial-survey.pdf\">say</a> a leadership position is our primary career goal. Hope is one of the economy’s most productive inputs, <a href=\"https://download.ssrn.com/2025/11/19/5770722.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCG%2BFjvJTdyZSNyoe4hweLWasy4YIQjl94k6wHnOJBKkQIgUtEY%2F9e5Jo47S9E1XemJ9Rv%2FvNeoEiJzpWBLbpX9neYqvgUIYhAEGgwzMDg0NzUzMDEyNTciDJJVbT5brLANdGCWdyqbBXHEhIF8aPqXhfm3vvhrCB2AFBq9m2vhG%2Fw7mMk9TkGtuM4WAGFc9kDDeEqJ19oDsffoEiwNOL%2BmztosGQb7DEMJlt%2FaXWTc1VZgPwVKNlnr40pfiuej1n4LCEkIb9ly6vqSjSbtmZmGl%2BsaUiBPoDJjqkvohIq56A2hjEK3CT53m%2FA%2F9LOgqU7rwS6SrdXKr270swFMVmZdQWvrw6ogkaSmTxBxDGCrmDpfXWTIYxiPH1cVVGeqRHH4Z%2FajbtRbT9YyvkmdA12VNrKH5BlNC9PUVRd2i6nF6bozoE3o%2FxiS0y5f4fkemIcKjUbMZv4%2BZyWF60ZMFYE7Z8%2BQzH7NZS2Q%2BkAbWeYQQO8Y3nsHoHwguhQ6HFMfjbFcgu0UMfnzW%2Bsn8%2FGfAOgjwjbsGX4NtFg8rRaqvnmbQZtWCjBvcbnR5jOX3DaKWc%2Bo21lHaUXYl7j1Rp%2FHvk9pNtw%2FLlX4xTDWavWF7L5d1oNISPp87%2FEsYOthQt1H5%2BgR308eFepQQ8mxuQ5NZJjmm%2F5FhzVZnwBqo7nouAqyUsx7ZwOW7p2eZoxS0jkiOHEAvdAhOWvSg%2FvLWvfSy08Ajl8toInJQbeo0twEFGm5I3qlJJDWgTmygL6nUWbkRdoEOyGD5D%2FMavBdKwZmf4exiMHN0T1gA6r5crdAVvnqp3fntOvWNcfVeyC6U746i2U4N%2BL1oRzMuQ7tFvUSZNjut031d%2Bi7xFc2nK2pzTHoKqRx%2B9tIxzg9fNjWn5MNIsm95vQLnfeWJy5zTGx7uIBC6vHmPpkWIxmHCpxjdPb5oVpj0s6aqzD61B9yttTvt%2FVXbOs2bOuFFAcWuKugb6OBQj7M13%2Bnzw4O%2BTMLm3DWEulMAdqL0I1aDYGGkRuO1p4QqwAwjv340QY6sQFCK6va637VenyCEdIJiXCNwWz7dYjw8XMZsWssjEsHUN7%2BjO3Q%2Fi%2BjtgMemYkfHQc9Y22bXzFadR73C%2BfhwBhnTOu%2B0iYEice2xPtia%2FxI9cgx3bHAAKAH8RJA8bQhMxSs252KZRVL51UDwntl%2Fg6uGr%2BUq4RCYmngEGnQXcORUAD6xyi0do1MmIdSfSconO5Q2nfoo8vf74dwJvPYYQaXFYHBkAf0ctfGwg%2BYQUsdtLo%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260626T093457Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAUPUUPRWETEQUTGEK%2F20260626%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=b3f742dae986f60bf8ca197e7946b667320853eff96c9abc6a7615aedc7bc504&amp;abstractId=5770722\">powering</a> our willingness to endure long hours. When the production function of income – the mechanism that turns hard work into a stable salary, then a mortgage, then a pension – breaks down, so does our relationship with the input. I call this production nihilism: my generation’s growing indifference to the kinds of work we’re willing to participate in, and where we’re willing to earn.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9254
   }
 ]
