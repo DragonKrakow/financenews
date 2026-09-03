@@ -1,41 +1,88 @@
 [
   {
-    "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-    "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+    "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+    "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T18:00:00+00:00",
-    "summary": "“My offer was cocktails.”",
+    "published": "2026-09-03T00:23:00+00:00",
+    "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
+    "sentiment_score": 0.7003
   },
   {
-    "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks",
-    "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
+    "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+    "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T17:44:00+00:00",
-    "summary": "Fed watchers say the upcoming jobs report and inflation data are key after seeing signs that Fed Chairman Kevin Warsh would be willing to see interest rates rise.",
+    "published": "2026-09-03T00:22:00+00:00",
+    "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
     "matched_keywords": [
-      "Interest Rates",
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
+    "sentiment_score": 0.7003
   },
   {
-    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+    "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+    "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+    "source": "The Guardian Economics",
+    "published": "2026-09-02T23:47:15+00:00",
+    "summary": "<p>Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’</p><p>The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.</p><p>De Nederlandsche Bank (DNB) said gold reserves held in London could be traded more easily than those held in New York and Ottawa.</p> <a href=\"https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.27
+  },
+  {
+    "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T17:30:00+00:00",
-    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+    "published": "2026-09-02T21:38:00+00:00",
+    "summary": "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5563
+  },
+  {
+    "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
+    "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T21:12:00+00:00",
+    "summary": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
+    "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T21:11:00+00:00",
+    "summary": "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "SpaceX’s big AI advantage is why this analyst thinks the stock could double",
+    "link": "https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-02T19:45:00+00:00",
+    "summary": "The company is adding computing infrastructure quickly, an Oppenheimer analyst notes. SpaceX is also getting large technology players to pay handsomely for its computing power.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
     "title": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
@@ -89,23 +136,11 @@
     "sentiment_score": 0.8126
   },
   {
-    "title": "Raising Social Security’s full retirement age is political dynamite because it could make this group of people poorer",
-    "link": "https://www.marketwatch.com/story/raising-social-securitys-full-retirement-age-is-political-dynamite-because-it-could-make-this-group-of-people-poorer-184793a8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T15:29:00+00:00",
-    "summary": "Changes to the full retirement age would have to be quick and steep to make a dent in the program’s shortfall.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "We’re purchasing EVs instead of holidaying in Europe – and what else we learned from Australia’s national accounts",
+    "title": "Australians are buying EVs instead of holidaying in Europe – and other things we learned from the national accounts",
     "link": "https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays",
     "source": "The Guardian Economics",
     "published": "2026-09-02T15:00:27+00:00",
-    "summary": "<p>ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter, and what’s happening under the hood.</p><p>Here are the three things you need to know.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays\">Continue reading...</a>",
+    "summary": "<p>ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter and what’s happening under the hood.</p><p>Here are the three things you need to know.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -160,18 +195,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5574
-  },
-  {
-    "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
-    "link": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
-    "source": "The Guardian Economics",
-    "published": "2026-09-02T08:54:52+00:00",
-    "summary": "<p>UK borrowing costs driven up, adding to challenges facing John Healey as he prepares for first budget</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global government bond sell-off resumed on Wednesday, driving up the UK’s borrowing costs and exacerbating the challenges facing John Healey as he prepares his first budget.</p><p>The yield – effectively the interest rate – on 10-year UK government bonds, or gilts, jumped to just below 5.3% in early trading: its highest level since mid-2008.</p> <a href=\"https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -348,30 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9254
-  },
-  {
-    "title": "Trump’s trade war with Canada gets nasty – podcast",
-    "link": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T07:07:24+00:00",
-    "summary": "<p>In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an ‘economic D-day’ against Iran and watched the US national debt surpass $40tn. Meanwhile, Donald Trump has personally made billions of dollars since returning to office.</p><p>Jonathan Freedland speaks to Dan Alexander of Forbes about how Trump has amassed his fortune – and what his economic record could mean for voters in the midterms</p><p>Watch Jonathan Freedland on our new <a href=\"https://www.youtube.com/@politicsweekly\">Politics Weekly YouTube channel</a></p><p>Send your questions and feedback to <a href=\"mailto:podcasts@theguardian.com\">politicsweeklyamerica@theguardian.com</a></p><p>Subscribe to <a href=\"https://www.theguardian.com/technology/series/blackbox\">The Guardian Investigates podcast</a> before the launch of season 2 of Black Box, coming next week</p><p>Buy a copy of Dan Alexander’s book White House, Inc <a href=\"https://www.penguinrandomhouse.com/books/623950/white-house-inc-by-dan-alexander/\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9509
-  },
-  {
-    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-29T02:23:52+00:00",
-    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4519
   }
 ]
