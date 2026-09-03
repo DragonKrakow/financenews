@@ -1,5 +1,17 @@
 [
   {
+    "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+    "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T04:01:00+00:00",
+    "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5744
+  },
+  {
     "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
     "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -73,29 +85,17 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "SpaceX’s big AI advantage is why this analyst thinks the stock could double",
-    "link": "https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-02T19:45:00+00:00",
-    "summary": "The company is adding computing infrastructure quickly, an Oppenheimer analyst notes. SpaceX is also getting large technology players to pay handsomely for its computing power.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
     "title": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone",
     "source": "The Guardian Economics",
     "published": "2026-09-02T17:29:43+00:00",
-    "summary": "<p>The Conservative leader’s choice of a new shadow chancellor shows a lack of insight into the reasons why the party was defeated at the last election</p><p>To outlast a prime minister always counts as some kind of achievement for an opposition leader, although Kemi&nbsp;Badenoch cannot claim credit for Sir Keir Starmer’s <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\">downfall</a>. Sir Keir’s wounds were mostly self-inflicted. To the extent that opposition pressure was involved, it was <a href=\"https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales\">electoral threats </a>from Reform UK and the Green party that stoked Labour party frustration to a regicidal pitch. The Tory leader’s role was largely as a spectator.</p><p>Mrs Badenoch still hopes to use regime change to her advantage. She thinks the economy, and fiscal discipline in particular, will be her most fruitful line of attack. In their first confrontation at <a href=\"https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable\">prime minister’s questions</a> on Wednesday, the Conservative leader called Mr Burnham a “spendthrift” and “people pleaser” who will dodge the tough decisions required to prove Britain’s creditworthiness on international markets. She expects him to yield to Labour MPs’ demands for budget increases, which will then have to be financed&nbsp;with tax rises.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone\">Continue reading...</a>",
+    "summary": "<p>The Conservative leader’s choice of a new shadow chancellor shows a lack of insight into the reasons why the party was defeated at the last election</p><p>To outlast a prime minister always counts as some kind of achievement for an opposition leader, although Kemi&nbsp;Badenoch cannot claim credit for Sir Keir Starmer’s <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\">downfall</a>. Sir Keir’s wounds were mostly self-inflicted. To the extent that opposition pressure was involved, it was <a href=\"https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales\">electoral threats </a>from Reform UK and the Green party that stoked Labour party frustration to a regicidal pitch. The Tory leader’s role was largely as a spectator.</p><p>Mrs Badenoch still hopes to use regime change to her advantage. She thinks the economy, and fiscal discipline in particular, will be her most fruitful line of attack. In their first confrontation at <a href=\"https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable\">prime minister’s questions</a> on Wednesday, the Conservative leader called Mr Burnham a “spendthrift” and “people pleaser” who will dodge the tough decisions required to prove Britain’s creditworthiness on international markets. She expects him to yield to Labour MPs’ demands for budget increases, which will then have to be financed&nbsp;with tax rises.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6467
+    "sentiment_score": -0.2129
   },
   {
     "title": "New York Fed's Williams says yield surge due to strong economic prospects",
