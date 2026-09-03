@@ -1,102 +1,100 @@
 [
   {
-    "title": "Bond market turmoil eases across Europe; UK service sector growth jumps – business live",
-    "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T12:13:02+00:00",
-    "summary": "<p>Rolling coverage of the latet economic and financial news</p><p><strong>Other European government borrowing costs are dipping this morning too.</strong></p><p>The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
-    "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+    "title": "This presidential-election bet offers ‘free money’",
+    "link": "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T11:50:00+00:00",
-    "summary": "Some stocks will face very different environments depending on how Americans vote in November.",
+    "published": "2026-09-03T17:54:00+00:00",
+    "summary": "Quick arbitrage opportunity shows prediction markets are still inefficient.",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-    "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T11:39:00+00:00",
-    "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5744
-  },
-  {
-    "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T11:28:45+00:00",
-    "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 1.7% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.85, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
-    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T11:16:00+00:00",
-    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
-  },
-  {
-    "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
-    "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T11:00:00+00:00",
-    "summary": "Buying AI hardware outright is becoming more economical than renting AI power through the cloud.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
-    "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T09:59:00+00:00",
-    "summary": "There are more important things for investors to be worried about.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4391
+    "sentiment_score": 0.4215
   },
   {
     "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
     "link": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
     "source": "The Guardian Economics",
-    "published": "2026-09-03T08:25:18+00:00",
+    "published": "2026-09-03T17:21:57+00:00",
     "summary": "<p>Swap rates rise to three-year high as increase in oil prices leads to fears of higher inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Homeowners in the UK are braced for a jump in mortgage rates, driven by higher inflation and interest rate increase expectations amid turmoil in the global bond markets.</p><p>UK swap rates, which lenders use to price mortgages, have risen to a three-year high, as this week’s global bond market sell-off ripples through the economy.</p> <a href=\"https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off\">Continue reading...</a>",
     "matched_keywords": [
       "Oil"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
+  },
+  {
+    "title": "Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study",
+    "link": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T17:00:43+00:00",
+    "summary": "<p>We round up this year’s winners at awards for achievements that ‘first make people laugh and then make them think’</p><p>It’s that time of year again: a select group of scientists have been summoned to a ceremony to receive coveted prizes, be showered in paper planes, and leave with a 10tn dollar bill, albeit in the form of a phased-out note from Zimbabwe. It is, of course, the annual Ig Nobel awards.</p><p>Not to be confused with the more prestigious and career-changing Nobel prizes that will be announced in Scandinavia next month, the satirical <a href=\"https://www.theguardian.com/science/ig-nobel-prizes\">Ig Nobels</a> are awarded for achievements that “first make people laugh and then make them think”.</p> <a href=\"https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9714
+  },
+  {
+    "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
+    "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T16:26:00+00:00",
+    "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7574
+  },
+  {
+    "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T16:21:16+00:00",
+    "summary": "<p>Rolling coverage of the latet economic and financial news</p><p><strong>Other European government borrowing costs are dipping this morning too.</strong></p><p>The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+    "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T15:39:00+00:00",
+    "summary": "“My offer was cocktails.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
+  },
+  {
+    "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+    "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T15:20:00+00:00",
+    "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "Yen soars as Bank of Japan tipped to raise interest rates",
+    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-03T14:33:58+00:00",
+    "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 2% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.57, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7184
   },
   {
     "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
