@@ -1,53 +1,30 @@
 [
   {
-    "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-    "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+    "title": "Potential midterm-election chaos can roil markets. Here’s one trader’s play.",
+    "link": "https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-04T00:35:00+00:00",
-    "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+    "published": "2026-09-04T11:21:00+00:00",
+    "summary": "Buying portfolio insurance to protect against falls in the market — if the outcome of the midterm elections is disputed — is so obvious to Kevin Muir, he regards it as a “chip shot.”",
     "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Shares in Falklands oil explorers plunge as Argentina threatens sanctions; heatwave drives up food prices – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-04T11:20:07+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>It’s official, UK car sales jumped last month.</strong></p><p>New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported.</p><p>Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
-    "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T23:45:00+00:00",
-    "summary": "Elon Musk’s electric-vehicle company is holding a launch event for the Cybercab autonomous vehicle on Thursday, but details have been sparse.",
-    "matched_keywords": [
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
-    "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T21:54:00+00:00",
-    "summary": "Campbell’s plans to introduce gluten-free, whole-grain and protein-packed versions of Goldfish to meet growing demand for healthy alternatives and combat rising competition.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
-    "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T21:49:00+00:00",
-    "summary": "The offering is part of a trend that pairs wearable technology with ‘preventative healthcare’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
+    "sentiment_score": 0.7351
   },
   {
     "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
@@ -349,18 +326,6 @@
     "sentiment_score": 0.2732
   },
   {
-    "title": "Iran’s economy in crisis as US launches new sanctions campaign",
-    "link": "https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-08-31T13:00:26+00:00",
-    "summary": "<p>Trump’s Operation Economic Outcast is expected to push many Iranians into deeper poverty as food inflation soars</p><p>For many Iranians, the new US sanctions campaign, called Operation Economic Outcast, seems superfluous given the grim economic situation in their country.</p><p>Iranians are facing runaway food inflation, closed petrol stations and a seemingly never-ending depreciation of the nation’s currency caused by a lack of foreign exchange reserves.</p> <a href=\"https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9246
-  },
-  {
     "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
     "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
     "source": "CNBC Finance",
@@ -372,5 +337,42 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
+  },
+  {
+    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-29T02:23:52+00:00",
+    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4519
+  },
+  {
+    "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+    "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T15:22:10+00:00",
+    "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-28T11:39:47+00:00",
+    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
   }
 ]
