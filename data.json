@@ -1,5 +1,17 @@
 [
   {
+    "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+    "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-04T00:35:00+00:00",
+    "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
     "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
     "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -36,18 +48,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-    "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T21:34:00+00:00",
-    "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7574
   },
   {
     "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
