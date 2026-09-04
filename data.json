@@ -1,30 +1,101 @@
 [
   {
-    "title": "Potential midterm-election chaos can roil markets. Here’s one trader’s play.",
-    "link": "https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories",
+    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-04T11:21:00+00:00",
-    "summary": "Buying portfolio insurance to protect against falls in the market — if the outcome of the midterm elections is disputed — is so obvious to Kevin Muir, he regards it as a “chip shot.”",
+    "published": "2026-09-04T18:00:00+00:00",
+    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
     "matched_keywords": [
-      "Election",
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.6249
   },
   {
-    "title": "Shares in Falklands oil explorers plunge as Argentina threatens sanctions; heatwave drives up food prices – business live",
+    "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+    "link": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+    "source": "The Guardian Economics",
+    "published": "2026-09-04T16:49:28+00:00",
+    "summary": "<p>From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences</p><p>When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”</p><p>Perhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7905
+  },
+  {
+    "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
+    "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-04T16:19:00+00:00",
+    "summary": "As long as open-source AI models dominate, Nvidia’s custom chip competitors won’t be able to take over its share of the market, an analyst says",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-04T11:20:07+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>It’s official, UK car sales jumped last month.</strong></p><p>New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported.</p><p>Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-04T15:48:30+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">US added 162,000 jobs in August, with unemployment rate holding steady</a></p></li></ul><p><br /></p><p><strong>It’s official, UK car sales jumped last month.</strong></p><p>New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported.</p><p>Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "Rising interest rates pose a major threat to stock prices and other assets",
+    "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-04T15:05:00+00:00",
+    "summary": "How “Bondmageddon” may reset financial markets.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0018
+  },
+  {
+    "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+    "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-04T14:36:48+00:00",
+    "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "Populism poses serious challenge to independent central banks, Bailey says",
+    "link": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
+    "source": "The Guardian Economics",
+    "published": "2026-09-04T13:44:00+00:00",
+    "summary": "<p>Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’</p><p>The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks.</p><p>As Nigel Farage’s Reform UK <a href=\"https://www.theguardian.com/politics/brexit-party\">gathered for its annual conference</a> in Birmingham, Andrew Bailey said central bankers must be prepared to explain their decisions to the public or risk being attacked as an “unrepresentative elite”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+    "link": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+    "source": "The Guardian Economics",
+    "published": "2026-09-04T12:40:44+00:00",
+    "summary": "<p>Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August</p><p>The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market.</p><p>The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stability of the unemployment rate, the number of new jobs added to the economy has been fluctuating, going from 214,000 in March down to a 21,000 gain in July and then back up in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7717
   },
   {
     "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
@@ -251,19 +322,6 @@
     "sentiment_score": -0.93
   },
   {
-    "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
-    "link": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-    "source": "The Guardian Economics",
-    "published": "2026-09-01T14:25:53+00:00",
-    "summary": "<p>Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey faces</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The chancellor’s headroom against Labour’s fiscal rules could be almost halved at his first budget if the current global bond sell-off persists into the autumn, economists say.</p><p>The UK’s long-term borrowing costs jumped to their highest level since early 1998 on Tuesday as investors dumped government bonds, betting on higher inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
     "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
     "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
     "source": "CNBC Finance",
@@ -275,31 +333,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1803
-  },
-  {
-    "title": "Price rises gather pace in UK shops amid higher energy costs",
-    "link": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-09-01T05:00:46+00:00",
-    "summary": "<p>In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail Consortium</p><p>The pace of price rises in UK shops rose to its highest level in two years in August, a trade body index shows, with higher energy costs pushing up the price of food and AI chip demand <a href=\"https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips\">making technology more expensive</a>.</p><p>In-store inflation stepped up to 1.5% year on year in August, up from 0.9% in July, led by prices for tinned and packaged food which increased by 2.5% against 1.1% in the prior month, according to data from the research company NIQ for the British Retail Consortium.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
-    "link": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
-    "source": "The Guardian Economics",
-    "published": "2026-09-01T04:00:46+00:00",
-    "summary": "<p>While many young people have found jobs and built careers, some have struggled to complete their courses</p><p></p><p>The crisis in the youth employment market, with <a href=\"https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june\">almost a million young people not in education, employment or training (Neet)</a> across the UK, has placed fresh emphasis on ways of getting employees into the workforce.</p><p>The government hopes to increase focus on technical and vocational learning in England from the age of 14. In parallel, there is an ambition to create thousands more apprenticeships.</p> <a href=\"https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
   },
   {
     "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
@@ -337,42 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-29T02:23:52+00:00",
-    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4519
-  },
-  {
-    "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
-    "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-28T15:22:10+00:00",
-    "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-28T11:39:47+00:00",
-    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
   }
 ]
