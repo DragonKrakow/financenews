@@ -1,15 +1,53 @@
 [
   {
-    "title": "This presidential-election bet offers ‘free money’",
-    "link": "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409?mod=mw_rss_topstories",
+    "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
+    "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T17:54:00+00:00",
-    "summary": "Quick arbitrage opportunity shows prediction markets are still inefficient.",
+    "published": "2026-09-03T23:45:00+00:00",
+    "summary": "Elon Musk’s electric-vehicle company is holding a launch event for the Cybercab autonomous vehicle on Thursday, but details have been sparse.",
     "matched_keywords": [
-      "Election"
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
+    "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T21:54:00+00:00",
+    "summary": "Campbell’s plans to introduce gluten-free, whole-grain and protein-packed versions of Goldfish to meet growing demand for healthy alternatives and combat rising competition.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
+    "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T21:49:00+00:00",
+    "summary": "The offering is part of a trend that pairs wearable technology with ‘preventative healthcare’",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
+  },
+  {
+    "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
+    "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-03T21:34:00+00:00",
+    "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7574
   },
   {
     "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
@@ -36,18 +74,6 @@
     "sentiment_score": 0.9714
   },
   {
-    "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-    "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T16:26:00+00:00",
-    "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7574
-  },
-  {
     "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
     "source": "The Guardian Economics",
@@ -58,30 +84,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-    "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T15:39:00+00:00",
-    "summary": "“My offer was cocktails.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-    "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-03T15:20:00+00:00",
-    "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
   },
   {
     "title": "Yen soars as Bank of Japan tipped to raise interest rates",
