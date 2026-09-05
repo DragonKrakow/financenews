@@ -1,15 +1,40 @@
 [
   {
-    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+    "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+    "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-04T18:00:00+00:00",
-    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+    "published": "2026-09-04T20:12:00+00:00",
+    "summary": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3167
+  },
+  {
+    "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+    "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-04T20:00:00+00:00",
+    "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1154
+  },
+  {
+    "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+    "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-04T19:52:00+00:00",
+    "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5744
   },
   {
     "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
@@ -25,18 +50,6 @@
     "sentiment_score": -0.7905
   },
   {
-    "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
-    "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-04T16:19:00+00:00",
-    "summary": "As long as open-source AI models dominate, Nvidia’s custom chip competitors won’t be able to take over its share of the market, an analyst says",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
     "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
     "source": "The Guardian Economics",
@@ -48,18 +61,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5106
-  },
-  {
-    "title": "Rising interest rates pose a major threat to stock prices and other assets",
-    "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-04T15:05:00+00:00",
-    "summary": "How “Bondmageddon” may reset financial markets.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0018
   },
   {
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
