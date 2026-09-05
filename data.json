@@ -1,5 +1,29 @@
 [
   {
+    "title": "Humanoid robots could upend life as we know it — if only they had better brains",
+    "link": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-05T12:00:00+00:00",
+    "summary": "Humanoids need to get better at retaining information and learning from their mistakes. Memory technology will be key to future breakthroughs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
+    "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
+    "link": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-09-05T11:26:50+00:00",
+    "summary": "<p>Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high</p><p>The chancellor has indicated that the UK will face a <a href=\"https://www.theguardian.com/business/2026/sep/02/burnham-tries-to-calm-bond-market-fears-as-sell-off-threatens-budget\">tough budget next month</a> due to Trump’s war in the Middle East.</p><p>In an interview <a href=\"https://www.ft.com/content/6d43b599-3d7c-471c-88c2-0f056475a840?syn-25a6b1a6=1\">with the Financial Times</a>, John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8658
+  },
+  {
     "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
     "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -310,19 +334,6 @@
     "sentiment_score": 0.3109
   },
   {
-    "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-    "source": "The Guardian Economics",
-    "published": "2026-09-01T15:48:27+00:00",
-    "summary": "<p>Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada.</p><p>Days before Canada is due to retaliate against Trump’s sweeping tariffs with its own duties on US goods, the Canadian prime minister criticized US officials for insulting his country. “It is beneath their office,” he said.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.93
-  },
-  {
     "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
     "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
     "source": "CNBC Finance",
@@ -358,18 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2732
-  },
-  {
-    "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
-    "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-31T11:28:03+00:00",
-    "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   }
 ]
