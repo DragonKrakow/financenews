@@ -12,18 +12,6 @@
     "sentiment_score": 0.5744
   },
   {
-    "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-    "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-05T15:37:00+00:00",
-    "summary": "“My offer was cocktails.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
     "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
     "link": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
     "source": "The Guardian Economics",
@@ -368,5 +356,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
+  },
+  {
+    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-29T02:23:52+00:00",
+    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4519
   }
 ]
