@@ -1,5 +1,29 @@
 [
   {
+    "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
+    "link": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
+    "source": "The Guardian Economics",
+    "published": "2026-09-06T11:00:03+00:00",
+    "summary": "<p>Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis</p><p>The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame the challenge as a problem of excess consumption. This motivates calls to <a href=\"https://degrowth.info/international-degrowth-network\">“degrow”</a> the economy and to <a href=\"https://www.biologicaldiversity.org/programs/population_and_sustainability/population/\">curb the population</a>. The claim is that humans consume too many resources, which in the context of climate change means too much energy.</p><p>Nowhere has the tension between this proposition and reality become more palpable during this sweltering summer than in the conversation over <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5854721/\">air conditioning.</a></p> <a href=\"https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1356
+  },
+  {
+    "title": "Burnham talks of radical change, but Treasury mood music says otherwise",
+    "link": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
+    "source": "The Guardian Economics",
+    "published": "2026-09-06T09:48:54+00:00",
+    "summary": "<p>Bond market volatility means John Healey will have to take tough decisions, soon, if he wants to meet spending pledges</p><p>In John Healey’s bright Treasury office, overlooking St James’s Park, the artwork has not changed since his predecessor, Rachel Reeves, selected a row of Bridget Riley prints <a href=\"https://www.theguardian.com/politics/2024/sep/18/rachel-reeves-to-replace-no-11-paintings-with-art-by-women\">in her feminist rehang</a>. Judging by the signals emerging from No 11 about the chancellor’s 28 October budget, not much else has changed either.</p><p>Voters listening to <a href=\"https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm\">Andy Burnham’s promises to overthrow 40 years of neoliberalism</a> and vanquish the ghost of Margaret Thatcher would be excused for expecting a radical policy reset. Early signs suggest they may be disappointed.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.631
+  },
+  {
     "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
     "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -260,18 +284,6 @@
     "sentiment_score": 0.128
   },
   {
-    "title": "Taxing the banks: what Europe’s windfall levies brought in as Burnham eyes his next move",
-    "link": "https://www.theguardian.com/business/2026/sep/02/british-banks-pressure-burnham-tax-profits-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-09-02T12:38:28+00:00",
-    "summary": "<p>Ahead of a crucial budget, four countries’ experiments offer a mixed verdict on how to tax bumper profits </p><p></p><p>The countdown is on. Two months out from Andy Burnham’s inaugural autumn budget, bank executives are wringing their hands over whether the government will target their bumper profits with fresh taxes.</p><p>The chancellor, John Healey, is reportedly considering a windfall tax on both banks and oil companies in the late October Westminster setpiece.</p> <a href=\"https://www.theguardian.com/business/2026/sep/02/british-banks-pressure-burnham-tax-profits-john-healey\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8271
-  },
-  {
     "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
     "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
     "source": "CNBC Finance",
@@ -356,17 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-    "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-29T02:23:52+00:00",
-    "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4519
   }
 ]
