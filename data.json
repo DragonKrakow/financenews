@@ -1,5 +1,17 @@
 [
   {
+    "title": "First annual fall in UK house prices since November 2023, in ‘subdued’ market – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-07T06:28:18+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Lloyds also reports that prices fell more sharply in the South of England in August, but rose in the North, and in Wales, Scotland and Northern Ireland.</strong></p><p>Prices fell in the South because of the “greater affordability challenge caused by higher average prices”, the bank reports.</p><p>The <strong>South East</strong> saw the largest decline, with prices down -1.6% year-on-year to £381,729.</p><p>In <strong>Greater London</strong>, where prices fell -1.5% to £534,177.</p><p>The <strong>South West</strong> and <strong>Eastern England</strong> both recorded annual declines of -1.2%.</p><p><strong>Northern Ireland</strong> continues to record the strongest annual growth, with prices up +6.9% year-on-year.</p><p>Prices in <strong>Scotland</strong> rose by +3.5% over the past year.</p><p>In <strong>Wales</strong>, annual growth stands at +0.6%.</p><p>In the <strong>North East of England,</strong> prices rose by 2.7% on an annual basis.</p><p>In the <strong>North West, </strong>prices were 2% higher than a year ago.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9022
+  },
+  {
     "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
     "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -294,18 +306,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2101
-  },
-  {
-    "title": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-    "source": "The Guardian Economics",
-    "published": "2026-09-02T16:36:41+00:00",
-    "summary": "<p>Burnham faced questions from Kemi Badenoch and other MPs amid speculation over budget</p><p>In the news release to mark the first anniversary of his election as the Green party’s leader, <strong>Zack Polanski</strong> highlighted what he described as 10 achievements during his first year in charge. For the record, this is how he sees his record.</p><p>-Won the Greens’ first ever parliamentary byelection in Gorton and Denton</p><p>-More than tripled the party membership from 68,500 to over 230,000</p><p>Zack Polanski in Holborn and St Pancras sounds like a done deal from the hints the party is dropping over the past 24 hours. Needs the formality of local party sign-off.</p><p>Our budget for day-to-day spending next year will be lower in real terms than this year. Our capital budget will fall in real terms every year until the end of the decade.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8126
   },
   {
     "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
