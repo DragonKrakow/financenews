@@ -1,15 +1,77 @@
 [
   {
-    "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T03:09:00+00:00",
-    "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+    "title": "UK pays highest borrowing rate since 1998 as pressure builds on public finances – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-08T12:08:04+00:00",
+    "summary": "<p>Saudi authorities said operations at some energy facilities have been attacked ‌by Yemen’s Iran-aligned Houthis </p><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil"
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6705
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T11:45:00+00:00",
+    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+    "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-08T11:30:01+00:00",
+    "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
+    "link": "https://www.marketwatch.com/story/u-s-oil-prices-reach-highest-level-in-over-three-months-after-saudi-arabia-says-civilian-and-energy-sites-struck-b28ae417?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T10:54:00+00:00",
+    "summary": "A spokesman for the Saudi-led coalition fighting in Yemen said 73 people were injured in attacks by the Houthi rebels.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8271
+  },
+  {
+    "title": "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
+    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T10:30:00+00:00",
+    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+    "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-08T08:16:11+00:00",
+    "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
   },
   {
     "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
@@ -49,30 +111,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9672
-  },
-  {
-    "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
-    "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-07T11:36:00+00:00",
-    "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
-    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-07T11:16:00+00:00",
-    "summary": "Here’s how trading hours and other services are affected by the Labor Day holiday on Monday, Sept. 7.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3527
   },
   {
     "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
@@ -271,31 +309,6 @@
     "sentiment_score": 0.7184
   },
   {
-    "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T07:00:47+00:00",
-    "summary": "<p>Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson</p><p>Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country wallowing in debt. The <a href=\"https://www.cfr.org/articles/does-evergrandes-collapse-threaten-chinas-economy\">collapse of the property market</a>. Political repression. The demand for democracy from a growing middle class. All have been put forward as reasons for the inevitable terminal crisis.</p><p>Even those impressed by the country’s rapid growth took comfort from the notion that the west would continue to dominate advanced manufacturing while China would be stuck assembling TVs. And while the wait for its much-predicted demise has gone on and on, China has become the workshop of the world.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
-  },
-  {
-    "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-    "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-    "source": "The Guardian Economics",
-    "published": "2026-09-02T23:47:15+00:00",
-    "summary": "<p>Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’</p><p>The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.</p><p>De Nederlandsche Bank (DNB) said gold reserves held in London could be traded more easily than those held in New York and Ottawa.</p> <a href=\"https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest\">Continue reading...</a>",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.27
-  },
-  {
     "title": "New York Fed's Williams says yield surge due to strong economic prospects",
     "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
     "source": "CNBC Finance",
@@ -356,17 +369,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1803
-  },
-  {
-    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-31T15:22:43+00:00",
-    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2363
   }
 ]
