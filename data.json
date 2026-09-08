@@ -1,28 +1,78 @@
 [
   {
-    "title": "UK pays highest borrowing rate since 1998 as pressure builds on public finances – business live",
+    "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-08T12:08:04+00:00",
-    "summary": "<p>Saudi authorities said operations at some energy facilities have been attacked ‌by Yemen’s Iran-aligned Houthis </p><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-08T18:08:11+00:00",
+    "summary": "<p>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Air traffic control issue causes flight delays and disruption across UK</a></p></li></ul><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
+    "sentiment_score": -0.4767
   },
   {
-    "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-    "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+    "title": "UK government pays highest interest rate on 30-year bond since 1998",
+    "link": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
+    "source": "The Guardian Economics",
+    "published": "2026-09-08T17:47:30+00:00",
+    "summary": "<p>High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget</p><p>The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey.</p><p>Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "A contrarian case for stock-market gains through the midterm election",
+    "link": "https://www.marketwatch.com/story/a-contrarian-case-for-further-stock-market-gains-through-the-midterm-election-6f1bf8a9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T11:45:00+00:00",
-    "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+    "published": "2026-09-08T17:29:00+00:00",
+    "summary": "Yet another lease on life for the bull market, observes Mark Hulbert.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T16:39:00+00:00",
+    "summary": "Failing to successfully scale the Starship rocket would make SpaceX’s plans a lot more difficult.",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.024
+  },
+  {
+    "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
+    "link": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T16:04:00+00:00",
+    "summary": "Adobe tops a list of software companies ranked by cash generation, while sector heavyweights Microsoft and Oracle are at the bottom.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.743
+  },
+  {
+    "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+    "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T15:44:00+00:00",
+    "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today.",
+    "matched_keywords": [
+      "Trade War"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_score": -0.7579
   },
   {
     "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
@@ -35,31 +85,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
-    "link": "https://www.marketwatch.com/story/u-s-oil-prices-reach-highest-level-in-over-three-months-after-saudi-arabia-says-civilian-and-energy-sites-struck-b28ae417?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T10:54:00+00:00",
-    "summary": "A spokesman for the Saudi-led coalition fighting in Yemen said 73 people were injured in attacks by the Houthi rebels.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8271
-  },
-  {
-    "title": "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
-    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T10:30:00+00:00",
-    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   },
   {
     "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
@@ -296,19 +321,6 @@
     "sentiment_score": -0.25
   },
   {
-    "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-    "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T14:33:58+00:00",
-    "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 2% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.57, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
     "title": "New York Fed's Williams says yield surge due to strong economic prospects",
     "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
     "source": "CNBC Finance",
@@ -356,18 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-01T14:01:27+00:00",
-    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1803
   }
 ]
