@@ -1,9 +1,21 @@
 [
   {
-    "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – UK politics live",
+    "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-08T00:23:00+00:00",
+    "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6705
+  },
+  {
+    "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
     "link": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-07T17:52:04+00:00",
+    "published": "2026-09-07T18:49:04+00:00",
     "summary": "<p>Sarah Jones tells MPs ‘those responsible should expect to face the consequences’</p><p><strong>Healey</strong> says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong</p><p>The fundamentals of our economy [were] hollowed out through a series of past policy decisions, political power was centralised, weakening the relationships between the people, the businesses and the institutions who can make things happen beyond Whitehall. The economic enablers were privatised and outsourced, leaving accountability to a thicket of arm’s length bodies and regulators, too often without the predictability or the pace that underpins a thriving market economy. And our country was deindustrialised as the cost to make anything, to build anything here soared, and our dependence on unreliable sources grew, including in areas critical to our national security and sovereignty.</p><p>Let me be clear, I recognise that the costs of business, its energy bills, regulation, burdens, planning constraints, labour costs, have grown since Covid and I want to draw the line.</p><p>And whether it is the cost of business or the cost of living, the only way we deal with these in the long term is growth.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Regulation",
@@ -31,28 +43,15 @@
     "link": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
     "source": "The Guardian Economics",
     "published": "2026-09-07T12:54:05+00:00",
-    "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates\">Politics live – latest updates</a></p></li></ul><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
+    "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9672
   },
   {
-    "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-07T11:54:00+00:00",
-    "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6705
-  },
-  {
-    "title": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade",
+    "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
     "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published": "2026-09-07T11:36:00+00:00",
