@@ -1,9 +1,71 @@
 [
   {
+    "title": "The global causes of UK bond market blues | Letter",
+    "link": "https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues",
+    "source": "The Guardian Economics",
+    "published": "2026-09-09T17:01:15+00:00",
+    "summary": "<p>Most media outlets portray current economic pressures as a specifically British problem. That’s not the case, writes <strong>Neil Kinnock</strong></p><p>I recall that from the Cameron/Osborne government, and for years afterwards, we were repeatedly told that the economic pressures afflicting the UK were due to “global factors”, despite the reality that many of the difficulties were exacerbated by the depressive effects of the ruinous squeeze euphemised as “austerity”.</p><p>Now, destabilising pressures on the economy are without doubt due in substantial part to “global factors”, especially the Trumpkrieg against Iran that is hitting every developed economy.<strong> </strong></p> <a href=\"https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9215
+  },
+  {
+    "title": "US treasury to buy back $6bn in government debt to alleviate bond market",
+    "link": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+    "source": "The Guardian Economics",
+    "published": "2026-09-09T16:41:06+00:00",
+    "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>The US treasury will buy back $6bn worth of government debt in an effort to alleviate a sell-off in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a>, the treasury secretary, Scott Bessent, announced on Wednesday.</p><p>Rising inflation and uncertainty from the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war in Iran</a> have spooked investors from US bonds, what has historically been known to be one of the safest investment vehicles. Treasury yields have been rising, with the yield for the 30-year treasury bond hitting about 5.2% – the highest yield since the 2008 financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+    "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T16:19:00+00:00",
+    "summary": "Energy and resource stocks have zigged while the market has zagged.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+    "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T16:18:00+00:00",
+    "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+    "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T16:09:00+00:00",
+    "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
     "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
     "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T11:01:00+00:00",
+    "published": "2026-09-09T16:00:00+00:00",
     "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
     "matched_keywords": [
       "Fed"
@@ -12,11 +74,36 @@
     "sentiment_score": 0.0
   },
   {
+    "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+    "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T15:53:00+00:00",
+    "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+    "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T15:14:00+00:00",
+    "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
     "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
     "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
     "source": "The Guardian Economics",
     "published": "2026-09-09T11:00:07+00:00",
-    "summary": "<p>AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts</p><p>The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.</p><p>An analysis by the AFL-CIO Tech Institute of the label manufacturers’ own marketing materials found the universal adoption of electronic shelf labels, which are marketed to retailers as a cost-cutting measure, could cost workers between $1.6bn to $6.9bn in lost wages annually and affect between 44,223 and 191,633 jobs.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery\">Continue reading...</a>",
+    "summary": "<p>AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts</p><p>The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.</p><p>An analysis by the AFL-CIO Tech Institute of the label manufacturers’ own marketing materials found the universal adoption of electronic shelf labels, which are marketed to retailers as a cost-cutting measure, could cost workers between $1.6bn and $6.9bn in lost wages annually and affect between 44,223 and 191,633 jobs.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -46,6 +133,19 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
+  },
+  {
+    "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+    "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+    "source": "The Guardian Economics",
+    "published": "2026-09-08T23:59:37+00:00",
+    "summary": "<p>Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad</p><p>The US is banning dairy products, most alcoholic beverages and motorcycles from <a href=\"https://www.theguardian.com/world/canada\">Canada</a>, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.</p><p>The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier on Tuesday.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9201
   },
   {
     "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
@@ -247,19 +347,6 @@
     "sentiment_score": -0.7905
   },
   {
-    "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-04T15:48:30+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">US added 162,000 jobs in August, with unemployment rate holding steady</a></p></li></ul><p><br /></p><p><strong>It’s official, UK car sales jumped last month.</strong></p><p>New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported.</p><p>Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
     "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
     "source": "CNBC Finance",
@@ -270,30 +357,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7506
-  },
-  {
-    "title": "Populism poses serious challenge to independent central banks, Bailey says",
-    "link": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-    "source": "The Guardian Economics",
-    "published": "2026-09-04T13:44:00+00:00",
-    "summary": "<p>Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’</p><p>The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks.</p><p>As Nigel Farage’s Reform UK <a href=\"https://www.theguardian.com/politics/brexit-party\">gathered for its annual conference</a> in Birmingham, Andrew Bailey said central bankers must be prepared to explain their decisions to the public or risk being attacked as an “unrepresentative elite”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
-    "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-    "link": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
-    "source": "The Guardian Economics",
-    "published": "2026-09-04T12:40:44+00:00",
-    "summary": "<p>Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August</p><p>The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market.</p><p>The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stability of the unemployment rate, the number of new jobs added to the economy has been fluctuating, going from 214,000 in March down to a 21,000 gain in July and then back up in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7717
   },
   {
     "title": "New York Fed's Williams says yield surge due to strong economic prospects",
@@ -307,66 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9118
-  },
-  {
-    "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
-    "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-02T11:09:15+00:00",
-    "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.323
-  },
-  {
-    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
-    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-02T09:23:18+00:00",
-    "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
-    "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-    "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-02T00:11:14+00:00",
-    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-01T14:01:27+00:00",
-    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1803
-  },
-  {
-    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-    "source": "CNBC Finance",
-    "published": "2026-08-31T15:22:43+00:00",
-    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2363
   }
 ]
