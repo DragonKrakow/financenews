@@ -1,5 +1,17 @@
 [
   {
+    "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+    "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-09T04:12:51+00:00",
+    "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
     "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
     "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.323
-  },
-  {
-    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
-    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-02T09:23:18+00:00",
-    "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
   }
 ]
