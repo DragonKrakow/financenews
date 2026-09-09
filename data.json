@@ -1,5 +1,41 @@
 [
   {
+    "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T11:01:00+00:00",
+    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
+    "link": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
+    "source": "The Guardian Economics",
+    "published": "2026-09-09T11:00:07+00:00",
+    "summary": "<p>AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts</p><p>The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.</p><p>An analysis by the AFL-CIO Tech Institute of the label manufacturers’ own marketing materials found the universal adoption of electronic shelf labels, which are marketed to retailers as a cost-cutting measure, could cost workers between $1.6bn to $6.9bn in lost wages annually and affect between 44,223 and 191,633 jobs.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
+  },
+  {
+    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-09T06:26:59+00:00",
+    "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "China's EV makers shift gears to focus on humanoids as car market slows",
     "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
     "source": "CNBC Finance",
@@ -12,19 +48,6 @@
     "sentiment_score": 0.296
   },
   {
-    "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
-    "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T00:17:00+00:00",
-    "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S.",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8779
-  },
-  {
     "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
     "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
     "source": "CNBC Finance",
@@ -35,45 +58,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5106
-  },
-  {
-    "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
-    "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T21:51:00+00:00",
-    "summary": "Semiconductor industry revenue is expected to reach $1.5 trillion this year, driven mostly by memory chips.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-    "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T21:38:00+00:00",
-    "summary": "“It looks like OpenAI is turning things around,” and that’s seen as good news for Oracle, which has a lot riding on the ChatGPT creator’s success.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.926
-  },
-  {
-    "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-    "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-08T21:30:00+00:00",
-    "summary": "The chip maker is reportedly set to further lift prices on its PC chips as costs rise across the supply chain.",
-    "matched_keywords": [
-      "Chips",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   },
   {
     "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
@@ -312,42 +296,6 @@
     "sentiment_score": -0.7717
   },
   {
-    "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
-    "link": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T17:21:57+00:00",
-    "summary": "<p>Swap rates rise to three-year high as increase in oil prices leads to fears of higher inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Homeowners in the UK are braced for a jump in mortgage rates, driven by higher inflation and interest rate increase expectations amid turmoil in the global bond markets.</p><p>UK swap rates, which lenders use to price mortgages, have risen to a three-year high, as this week’s global bond market sell-off ripples through the economy.</p> <a href=\"https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study",
-    "link": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T17:00:43+00:00",
-    "summary": "<p>We round up this year’s winners at awards for achievements that ‘first make people laugh and then make them think’</p><p>It’s that time of year again: a select group of scientists have been summoned to a ceremony to receive coveted prizes, be showered in paper planes, and leave with a 10tn dollar bill, albeit in the form of a phased-out note from Zimbabwe. It is, of course, the annual Ig Nobel awards.</p><p>Not to be confused with the more prestigious and career-changing Nobel prizes that will be announced in Scandinavia next month, the satirical <a href=\"https://www.theguardian.com/science/ig-nobel-prizes\">Ig Nobels</a> are awarded for achievements that “first make people laugh and then make them think”.</p> <a href=\"https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9714
-  },
-  {
-    "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-03T16:21:16+00:00",
-    "summary": "<p>Rolling coverage of the latet economic and financial news</p><p><strong>Other European government borrowing costs are dipping this morning too.</strong></p><p>The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
-  },
-  {
     "title": "New York Fed's Williams says yield surge due to strong economic prospects",
     "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
     "source": "CNBC Finance",
@@ -371,5 +319,54 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.323
+  },
+  {
+    "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+    "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T09:23:18+00:00",
+    "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+    "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T00:11:14+00:00",
+    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+    "matched_keywords": [
+      "Robotics"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-01T14:01:27+00:00",
+    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1803
+  },
+  {
+    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+    "source": "CNBC Finance",
+    "published": "2026-08-31T15:22:43+00:00",
+    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2363
   }
 ]
