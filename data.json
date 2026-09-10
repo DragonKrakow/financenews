@@ -1,5 +1,92 @@
 [
   {
+    "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+    "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T00:00:33+00:00",
+    "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours",
+    "link": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
+    "source": "The Guardian Economics",
+    "published": "2026-09-09T23:01:08+00:00",
+    "summary": "<p>Critics say threshold pushes higher-paid staff to cut back on work and often mothers to stop working to avoid losing entitlement</p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8689
+  },
+  {
+    "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+    "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T22:51:00+00:00",
+    "summary": "The most important price in America is one most drivers never pay — and it reaches the CPI, the Fed and the European Central Bank in the same week.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1413
+  },
+  {
+    "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T22:30:00+00:00",
+    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+    "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T20:36:00+00:00",
+    "summary": "A prolonged oil shock could keep consumer prices elevated and complicate the path for central banks already navigating a difficult policy environment.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
+    "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-09T20:27:00+00:00",
+    "summary": "Energy and resource stocks have zigged while the market has zagged.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
+    "link": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+    "source": "The Guardian Economics",
+    "published": "2026-09-09T19:56:30+00:00",
+    "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market.</p><p>Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a> that has put pressure on interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
     "title": "The global causes of UK bond market blues | Letter",
     "link": "https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues",
     "source": "The Guardian Economics",
@@ -10,93 +97,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9215
-  },
-  {
-    "title": "US treasury to buy back $6bn in government debt to alleviate bond market",
-    "link": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
-    "source": "The Guardian Economics",
-    "published": "2026-09-09T16:41:06+00:00",
-    "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>The US treasury will buy back $6bn worth of government debt in an effort to alleviate a sell-off in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a>, the treasury secretary, Scott Bessent, announced on Wednesday.</p><p>Rising inflation and uncertainty from the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war in Iran</a> have spooked investors from US bonds, what has historically been known to be one of the safest investment vehicles. Treasury yields have been rising, with the yield for the 30-year treasury bond hitting about 5.2% – the highest yield since the 2008 financial crisis.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
-    "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T16:19:00+00:00",
-    "summary": "Energy and resource stocks have zigged while the market has zagged.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-    "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T16:18:00+00:00",
-    "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
-    "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T16:09:00+00:00",
-    "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T16:00:00+00:00",
-    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
-    "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T15:53:00+00:00",
-    "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-    "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-09T15:14:00+00:00",
-    "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
@@ -334,19 +334,6 @@
     "sentiment_score": -0.8658
   },
   {
-    "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-    "link": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-    "source": "The Guardian Economics",
-    "published": "2026-09-04T16:49:28+00:00",
-    "summary": "<p>From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences</p><p>When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”</p><p>Perhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7905
-  },
-  {
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
     "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
     "source": "CNBC Finance",
@@ -370,5 +357,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9118
+  },
+  {
+    "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+    "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T11:09:15+00:00",
+    "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.323
   }
 ]
