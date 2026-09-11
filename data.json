@@ -1,6 +1,79 @@
 [
   {
-    "title": "Global bond selloff resumes as surging oil prices stoke fears about inflation",
+    "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+    "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-11T00:19:54+00:00",
+    "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+    "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T00:19:00+00:00",
+    "summary": "The company saw its backlog grow even more in the latest quarter.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
+    "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-10T20:40:00+00:00",
+    "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
+    "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-10T20:24:00+00:00",
+    "summary": "The Treasury market’s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent’s first beefed-up buyback operation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T19:02:58+00:00",
+    "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
+    "source": "The Guardian Economics",
+    "published": "2026-09-10T18:27:10+00:00",
+    "summary": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
     "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
     "source": "The Guardian Economics",
     "published": "2026-09-10T18:05:15+00:00",
@@ -10,90 +83,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9468
-  },
-  {
-    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-10T18:01:08+00:00",
-    "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Investors should be eating up these 9 restaurant stocks, analysts say",
-    "link": "https://www.marketwatch.com/story/investors-should-be-eating-up-these-9-restaurant-stocks-analysts-say-b308b238?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T17:35:00+00:00",
-    "summary": "Contrarian investors have opportunities for double-digit percentage gains in inflation-battered stocks, if gas prices come down.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "My mother, 87, wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-    "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T17:15:00+00:00",
-    "summary": "“Over the years, my mother and I have supplemented his income.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
-    "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T16:20:00+00:00",
-    "summary": "Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
-  },
-  {
-    "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
-    "link": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T15:25:00+00:00",
-    "summary": "If you looking for high income in the bond market, without paying taxes, here’s how you figure out how much interest you’re actually being paid.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.875
-  },
-  {
-    "title": "Meta is winning over Wall Street with its new Muse AI agent",
-    "link": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T15:23:00+00:00",
-    "summary": "A J.P. Morgan analyst recommends Meta’s stock following signs of progress on consumer-focused AI applications.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
-  },
-  {
-    "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
-    "link": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-10T15:13:00+00:00",
-    "summary": "Proprietary measures of risk and investor anxiety — alongside historical perspective — persuade the bank that euphoria surrounding the AI trade has not reached bubble proportions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2273
   },
   {
     "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
@@ -346,18 +335,6 @@
     "sentiment_score": -0.8037
   },
   {
-    "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
-    "link": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
-    "source": "The Guardian Economics",
-    "published": "2026-09-06T11:00:03+00:00",
-    "summary": "<p>Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis</p><p>The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame the challenge as a problem of excess consumption. This motivates calls to <a href=\"https://degrowth.info/international-degrowth-network\">“degrow”</a> the economy and to <a href=\"https://www.biologicaldiversity.org/programs/population_and_sustainability/population/\">curb the population</a>. The claim is that humans consume too many resources, which in the context of climate change means too much energy.</p><p>Nowhere has the tension between this proposition and reality become more palpable during this sweltering summer than in the conversation over <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5854721/\">air conditioning.</a></p> <a href=\"https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1356
-  },
-  {
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
     "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
     "source": "CNBC Finance",
@@ -368,5 +345,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7506
+  },
+  {
+    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T17:21:59+00:00",
+    "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9118
+  },
+  {
+    "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+    "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-02T11:09:15+00:00",
+    "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.323
   }
 ]
