@@ -1,9 +1,48 @@
 [
   {
+    "title": "UK economy beats expectations in July amid AI boom, heatwave and World Cup – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-11T06:14:04+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>England’s sensational run to the third-fouth playoff in the Men’s football world cup, and the heatwave, both affected the UK economy in July, the ONS says</strong>.</p><p>But computer programming was a major factor behind July’s growth, as the AI boom pushed up activity.</p><p>“Growth remained relatively robust in the latest three months, as ongoing strength in the services sector was only partially offset by falls in both production and construction.</p><p>“Within services, computer programming was the largest contributor, continuing the strong growth seen throughout the year, with evidence that businesses involved with AI and related technologies helped to boost this sector.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9349
+  },
+  {
+    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-11T06:02:40+00:00",
+    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "matched_keywords": [
+      "AI",
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
+    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
+    "source": "The Guardian Economics",
+    "published": "2026-09-11T05:50:18+00:00",
+    "summary": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others says it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Renewables"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8807
+  },
+  {
     "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
     "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
     "source": "CNBC Finance",
-    "published": "2026-09-11T00:19:54+00:00",
+    "published": "2026-09-11T02:05:24+00:00",
     "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
     "matched_keywords": [
       "AI"
@@ -296,43 +335,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9299
-  },
-  {
-    "title": "John Healey backs growth but says Labour must be honest on spending",
-    "link": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
-    "source": "The Guardian Economics",
-    "published": "2026-09-07T12:54:05+00:00",
-    "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9672
-  },
-  {
-    "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-    "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-    "source": "The Guardian Economics",
-    "published": "2026-09-06T15:16:43+00:00",
-    "summary": "<p>Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves</p><p>China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.</p><p>A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry of finance and even the company that runs the country’s tobacco monopoly.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
-  },
-  {
-    "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
-    "source": "The Guardian Economics",
-    "published": "2026-09-06T15:00:08+00:00",
-    "summary": "<p>It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Depending on your politics, the monsters are everywhere. Perhaps you see them in the form of tech billionaires and the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> they’re developing. Perhaps you see them in the bin fire of <a href=\"https://www.theguardian.com/media/social-media\">social media</a> they bequeathed us before that, or the legacy media that refuse to tell you “the truth”. You might see them in the manosphere, or the institutions teaching our kids gender fluidity. Maybe you see them in the migrant youth wielding machetes in the suburbs, or the refugee attempting to behead someone on a Belfast street. Or perhaps you see them in the violent anti-immigrant mobs that torched houses in response. If so, you’ll likely see them in the March for Australia or the Unite the Kingdom rallies, organised by far-right groups but attended by many more besides. You’ll almost certainly see them in at least one of Hamas, Israel or those local advocates at each other’s throats over the Middle East. I suspect you’ll see them in Russia but that can no longer be assumed. And I’d guess that you’d see them in at least one political party with a significant share of the vote.</p><p>Something in that paragraph probably outraged you. In which case, you’re probably seeing monsters in whoever sees different monsters from you. It would be easy here to make a point about polarisation. But I want to look at the deep disquiet that lies underneath.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8037
   },
   {
     "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
