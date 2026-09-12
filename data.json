@@ -3,7 +3,7 @@
     "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
     "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-11T18:09:00+00:00",
+    "published": "2026-09-11T23:54:00+00:00",
     "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
     "matched_keywords": [
       "Interest Rates",
@@ -14,10 +14,34 @@
     "sentiment_score": 0.4588
   },
   {
+    "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+    "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T22:06:00+00:00",
+    "summary": "There’s a safe haven hiding in plain sight.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5574
+  },
+  {
+    "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+    "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T21:16:00+00:00",
+    "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7961
+  },
+  {
     "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
     "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-11T17:41:00+00:00",
+    "published": "2026-09-11T20:49:00+00:00",
     "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
     "matched_keywords": [
       "AI"
@@ -26,16 +50,52 @@
     "sentiment_score": 0.6249
   },
   {
-    "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-    "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+    "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+    "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-11T16:45:00+00:00",
-    "summary": "There’s a safe haven hiding in plain sight.",
+    "published": "2026-09-11T20:45:00+00:00",
+    "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6187
+  },
+  {
+    "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+    "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T20:44:00+00:00",
+    "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+    "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T20:30:00+00:00",
+    "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5927
+  },
+  {
+    "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-11T20:30:00+00:00",
+    "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -60,18 +120,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9831
-  },
-  {
-    "title": "Forget the Fed. The Bank of Japan could deliver next week’s market shock.",
-    "link": "https://www.marketwatch.com/story/forget-the-fed-the-bank-of-japan-could-deliver-next-weeks-market-shock-bd8d56d7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-11T15:23:00+00:00",
-    "summary": "U.S. stock investors should look to the other side of the world for guidance next week.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   },
   {
     "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
@@ -321,55 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-    "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-08T08:16:11+00:00",
-    "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-07T18:49:04+00:00",
-    "summary": "<p>Sarah Jones tells MPs ‘those responsible should expect to face the consequences’</p><p><strong>Healey</strong> says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong</p><p>The fundamentals of our economy [were] hollowed out through a series of past policy decisions, political power was centralised, weakening the relationships between the people, the businesses and the institutions who can make things happen beyond Whitehall. The economic enablers were privatised and outsourced, leaving accountability to a thicket of arm’s length bodies and regulators, too often without the predictability or the pace that underpins a thriving market economy. And our country was deindustrialised as the cost to make anything, to build anything here soared, and our dependence on unreliable sources grew, including in areas critical to our national security and sovereignty.</p><p>Let me be clear, I recognise that the costs of business, its energy bills, regulation, burdens, planning constraints, labour costs, have grown since Covid and I want to draw the line.</p><p>And whether it is the cost of business or the cost of living, the only way we deal with these in the long term is growth.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
-    "link": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-04T14:36:48+00:00",
-    "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
-  },
-  {
-    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-    "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-02T17:21:59+00:00",
-    "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9118
   }
 ]
