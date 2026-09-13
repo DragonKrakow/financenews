@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+    "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-12T21:50:00+00:00",
+    "summary": "Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
+    "source": "The Guardian Economics",
+    "published": "2026-09-12T20:00:43+00:00",
+    "summary": "<p>Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.</p><p>Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7941
+  },
+  {
     "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
     "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -84,18 +108,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-    "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-11T20:45:00+00:00",
-    "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6187
   },
   {
     "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -357,17 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-    "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-08T11:30:01+00:00",
-    "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
