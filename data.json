@@ -1,5 +1,53 @@
 [
   {
+    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-13T11:52:33+00:00",
+    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "AI will transform capitalism – but how?",
+    "link": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+    "source": "The Guardian Economics",
+    "published": "2026-09-13T11:00:02+00:00",
+    "summary": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every tool could perform its own work when ordered, or by seeing what to do in advance … if thus shuttles wove and quills played harps of themselves, master-craftsmen would have no need of assistants and masters no need of slaves.”</p><p>The dream that automation could inaugurate a classless society is also present in the writings of Karl Marx. In 1858 he imagined the replacement of intellectual property with “socialised knowledge”, which would merge into a “general intellect”, blowing the foundations of capitalism sky high.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+    "link": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+    "source": "The Guardian Economics",
+    "published": "2026-09-13T10:48:04+00:00",
+    "summary": "<p>Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’</p><p>The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.</p><p>Osborne, who resigned as chancellor after being part of David Cameron’s cabinet at the time of the referendum, said it was important to rebuild links with the EU.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1406
+  },
+  {
+    "title": "The perilous economic conditions facing the UK can be traced back to Trump | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump",
+    "source": "The Guardian Economics",
+    "published": "2026-09-13T09:27:45+00:00",
+    "summary": "<p>As John Healey drafts his autumn budget, the US president’s policies continue to inflate debt servicing costs</p><p>Britain is not entirely in control of its own destiny, from the rising cost of the weekly shop, to the vaulting cost of government borrowing. What is said and done in Westminster matters. But the global backdrop is making life tough, not least in the deeds and words of one man: Donald Trump.</p><p>As John Healey drafts his plan for next month’s autumn budget, the perilous economic conditions the chancellor must navigate can be traced back to the door of the US president.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3506
+  },
+  {
     "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
     "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -318,56 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-    "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-    "source": "The Guardian Economics",
-    "published": "2026-09-08T23:59:37+00:00",
-    "summary": "<p>Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad</p><p>The US is banning dairy products, most alcoholic beverages and motorcycles from <a href=\"https://www.theguardian.com/world/canada\">Canada</a>, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.</p><p>The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier on Tuesday.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9201
-  },
-  {
-    "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-    "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-08T21:59:13+00:00",
-    "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-08T18:08:11+00:00",
-    "summary": "<p>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Air traffic control issue causes flight delays and disruption across UK</a></p></li></ul><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "UK government pays highest interest rate on 30-year bond since 1998",
-    "link": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
-    "source": "The Guardian Economics",
-    "published": "2026-09-08T17:47:30+00:00",
-    "summary": "<p>High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget</p><p>The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey.</p><p>Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
   }
 ]
