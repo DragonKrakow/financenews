@@ -1,15 +1,112 @@
 [
   {
-    "title": "AI-linked stocks fall after call for development slowdown worries investors – business live",
+    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-14T12:16:52+00:00",
+    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-14T06:29:34+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>For markets, the key question is whether this is the first sign that the extraordinary AI investment cycle might eventually moderate, says strategist Jim Reid of Deutsche Bank.</strong></p><p>He feels this is unlikely, though, telling clients:</p><p><strong>The competitive race between companies and countries remains intense, and it’s difficult to imagine firms voluntarily stepping back while rivals continue to push ahead</strong>. It is hard to see China standing still. Indeed, that’s something President Trump said yesterday in response to the weekend news. He didn’t seem in favour of any kind of pause.</p><p>I suppose another way of looking at it is that if leading executives are openly discussing the risks of increasingly powerful systems, it could be them trying to get across how transformative they believe the technology may become and help advertise the power of their product. So rather than signalling less spending, it could simply be that a greater share of AI investment is directed towards safety, monitoring and governance alongside the continued build-out of compute infrastructure. The debate may therefore alter the composition of AI capex more than its overall scale.</p><p>“I can tell you when the last time a CEO or an industry at large asked to be regulated: never. That’s what makes Dario’s letter so striking – it’s an admission that we’re driving down a dark, winding road on wet pavement with the headlights off.</p><p>And where’s President Trump? Looks like he nodded off again.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-14T12:14:04+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2942
+  },
+  {
+    "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+    "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T12:11:00+00:00",
+    "summary": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
+    "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T11:59:00+00:00",
+    "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9313
+  },
+  {
+    "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+    "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T10:35:00+00:00",
+    "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+    "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-14T09:36:27+00:00",
+    "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
+    "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T09:29:00+00:00",
+    "summary": "The investor response to the calls by Anthropic CEO Dario Amodei to slow down frontier artificial-intelligence development was greeted negatively, albeit not catastrophically, by investors on Monday.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9615
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter",
+    "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T09:04:00+00:00",
+    "summary": "A published report that pioneering artificial-intelligence lab Anthropic was profitable for a second quarter in a row includes a very important caveat.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8313
+  },
+  {
+    "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+    "source": "The Guardian Economics",
+    "published": "2026-09-14T08:03:40+00:00",
+    "summary": "<p>Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\"><strong>Business news – live updates</strong></a></p></li></ul><p>Oil prices have climbed above $108 a barrel after a <a href=\"https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq\">series of drone attacks</a> forced Saudi Arabia to close its east-west crude pipeline.</p><p>Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25% increase on the day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9118
   },
   {
     "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
@@ -36,30 +133,6 @@
     "sentiment_score": 0.2846
   },
   {
-    "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-    "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-13T19:55:00+00:00",
-    "summary": "There’s a safe haven hiding in plain sight.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-    "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-13T19:00:00+00:00",
-    "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
     "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
     "source": "The Guardian Economics",
@@ -84,18 +157,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-13T11:52:33+00:00",
-    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "AI will transform capitalism – but how?",
@@ -305,66 +366,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8442
-  },
-  {
-    "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
-    "link": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
-    "source": "The Guardian Economics",
-    "published": "2026-09-09T19:56:30+00:00",
-    "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><p>The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market.</p><p>Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a> that has put pressure on interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-09T06:26:59+00:00",
-    "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-    "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-09T04:12:51+00:00",
-    "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-    "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-08T21:59:13+00:00",
-    "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
-  },
-  {
-    "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-    "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-08T11:30:01+00:00",
-    "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   }
 ]
