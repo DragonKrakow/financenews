@@ -1,69 +1,97 @@
 [
   {
-    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-14T12:16:52+00:00",
-    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+    "title": "AI companies say they want to slow down. Here’s how Washington might help apply the brakes.",
+    "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T18:08:00+00:00",
+    "summary": "Washington is likely to move slowly, but there are catalysts that could make it act faster than expected",
     "matched_keywords": [
-      "Election"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.25
   },
   {
-    "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
-    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-14T12:14:04+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
+    "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+    "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-14T17:26:21+00:00",
+    "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
+    "link": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T17:22:00+00:00",
+    "summary": "The risks of disaster are real. But who wants to give up those massive stock valuations?",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2942
+    "sentiment_score": -0.8519
   },
   {
-    "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-    "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T12:11:00+00:00",
-    "summary": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
-    "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T11:59:00+00:00",
-    "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
+    "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+    "source": "The Guardian Economics",
+    "published": "2026-09-14T16:48:34+00:00",
+    "summary": "<p>Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears  </p><p>US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.</p><p>The yield – in effect the interest rate – on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached $108 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
     "matched_keywords": [
       "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9313
+    "sentiment_score": -0.7003
   },
   {
-    "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-    "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T10:35:00+00:00",
-    "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
+    "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-14T16:41:41+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2244
+  },
+  {
+    "title": "Prediction market traders think gas prices will hit new highs for the year",
+    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-14T15:49:39+00:00",
+    "summary": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
+    "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-14T15:40:00+00:00",
+    "summary": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, with oil prices marching higher, jitters about artificial intelligence growing and investors looking elsewhere for safety.",
+    "matched_keywords": [
+      "Oil",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.91
   },
   {
     "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
     "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
     "source": "CNBC Finance",
-    "published": "2026-09-14T09:36:27+00:00",
+    "published": "2026-09-14T13:18:23+00:00",
     "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
     "matched_keywords": [
       "AI"
@@ -72,50 +100,13 @@
     "sentiment_score": -0.3818
   },
   {
-    "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
-    "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T09:29:00+00:00",
-    "summary": "The investor response to the calls by Anthropic CEO Dario Amodei to slow down frontier artificial-intelligence development was greeted negatively, albeit not catastrophically, by investors on Monday.",
+    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-14T12:16:52+00:00",
+    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
-  },
-  {
-    "title": "Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter",
-    "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T09:04:00+00:00",
-    "summary": "A published report that pioneering artificial-intelligence lab Anthropic was profitable for a second quarter in a row includes a very important caveat.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8313
-  },
-  {
-    "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-    "source": "The Guardian Economics",
-    "published": "2026-09-14T08:03:40+00:00",
-    "summary": "<p>Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\"><strong>Business news – live updates</strong></a></p></li></ul><p>Oil prices have climbed above $108 a barrel after a <a href=\"https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq\">series of drone attacks</a> forced Saudi Arabia to close its east-west crude pipeline.</p><p>Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25% increase on the day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9118
-  },
-  {
-    "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-    "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T01:30:00+00:00",
-    "summary": "“Over the years, my mother and I have supplemented his income.”",
-    "matched_keywords": [
-      "AI"
+      "Election"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2263
@@ -360,11 +351,23 @@
     "link": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
     "source": "The Guardian Economics",
     "published": "2026-09-09T23:01:08+00:00",
-    "summary": "<p>Threshold pushes some to reduce hours or stop working to avoid losing entitlement, report warns </p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
+    "summary": "<p>Threshold pushes some to reduce hours or stop working to avoid losing entitlement, report warns </p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in England in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8442
+  },
+  {
+    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-09T06:26:59+00:00",
+    "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
   }
 ]
