@@ -1,9 +1,23 @@
 [
   {
+    "title": "UK state pension set to top £13,000 a year as wage growth slows to 3.9%",
+    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T10:47:00+00:00",
+    "summary": "<p>Workers face inflation squeeze fuelled by Iran war, as Bank of England prepares for interest rates decision</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Wage growth in the UK has slowed as workers come under pressure from a renewed cost of living squeeze fuelled by the Iran war, highlighting the challenge for the Bank of England as it prepares to set interest rates.</p><p>Data from the <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026?utm_source=twitter&amp;utm_medium=social&amp;utm_term=&amp;utm_content=&amp;utm_campaign=e2d856af-1421-49f9-ab71-869aa5fce5ec\">Office for National Statistics</a> (ONS) shows average growth in total earnings, including bonuses, eased to 3.9% in the three months to July, down from 4.1% in the three months to June, matching the forecasts of City economists.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8739
+  },
+  {
     "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
     "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
     "source": "CNBC Finance",
-    "published": "2026-09-15T05:41:14+00:00",
+    "published": "2026-09-15T09:46:14+00:00",
     "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
     "matched_keywords": [
       "AI"
@@ -15,7 +29,7 @@
     "title": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
     "link": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
     "source": "The Guardian Economics",
-    "published": "2026-09-15T04:00:26+00:00",
+    "published": "2026-09-15T06:51:23+00:00",
     "summary": "<p>Economists urge John Healey to press Bank to change policy that is costing the exchequer billions of pounds</p><p>Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.</p><p>The Bank’s monetary policy committee (MPC) meets this week to not only <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">decide the level of interest rates</a> but also whether they should freeze or slow the sale of government bonds, known as gilts, bought as part of the rescue operation after the 2008 banking crash.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates"
@@ -332,19 +346,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
-  },
-  {
-    "title": "John Lewis losses widen to £124m as shopper confidence dips",
-    "link": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
-    "source": "The Guardian Economics",
-    "published": "2026-09-10T11:13:17+00:00",
-    "summary": "<p>Retailer says first half was a tougher market than it expected, though Waitrose grew sales</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updates</a></p></li></ul><p>Losses at the owner of John Lewis and Waitrose widened by more than 40% in the first half of the year as it struggled with higher costs and shoppers feeling less confident about their money.</p><p>The John Lewis Partnership, which operates 36 department stores and more than 300 Waitrose supermarkets, said its pre-tax loss for the six months to 1 August climbed to £124m, compared with £88m in the same period in 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2516
   },
   {
     "title": "Ant International partners with Visa, Mastercard on developing AI payments",
