@@ -1,17 +1,105 @@
 [
   {
-    "title": "UK state pension set to top £13,000 a year as wage growth slows to 3.9%",
-    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+    "title": "The Guardian view on the Bank of England’s £120bn bill: power without accountability | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
     "source": "The Guardian Economics",
-    "published": "2026-09-15T10:47:00+00:00",
-    "summary": "<p>Workers face inflation squeeze fuelled by Iran war, as Bank of England prepares for interest rates decision</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Wage growth in the UK has slowed as workers come under pressure from a renewed cost of living squeeze fuelled by the Iran war, highlighting the challenge for the Bank of England as it prepares to set interest rates.</p><p>Data from the <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026?utm_source=twitter&amp;utm_medium=social&amp;utm_term=&amp;utm_content=&amp;utm_campaign=e2d856af-1421-49f9-ab71-869aa5fce5ec\">Office for National Statistics</a> (ONS) shows average growth in total earnings, including bonuses, eased to 3.9% in the three months to July, down from 4.1% in the three months to June, matching the forecasts of City economists.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
+    "published": "2026-09-15T17:58:15+00:00",
+    "summary": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.106
+  },
+  {
+    "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+    "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T17:18:00+00:00",
+    "summary": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
+    "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T17:09:00+00:00",
+    "summary": "Hedge-fund founder Alec Litowitz says investor should make their identity about being adaptive, rather than trying to be right.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Is the two-decade era of low interest rates over? The Fed has to decide.",
+    "link": "https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T17:08:00+00:00",
+    "summary": "High bond yields could be the result of temporary shocks — or something much longer-lasting.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
+    "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T16:26:00+00:00",
+    "summary": "A potential AI slowdown has injected uncertainty into tech stocks, but some analysts believe the fears are overblown",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Gold is starting to move on something a lot bigger than inflation",
+    "link": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T16:21:00+00:00",
+    "summary": "Gold is weighing the Federal Reserve’s credibility against the traditional price driver of inflation and interest rates.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8739
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
+    "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T16:16:00+00:00",
+    "summary": "A world where AI companies slow their development isn’t necessarily bad for chip makers or great for software vendors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
+    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T15:43:42+00:00",
+    "summary": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p></p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1788
   },
   {
     "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
@@ -277,94 +365,6 @@
     "source": "The Guardian Economics",
     "published": "2026-09-11T08:10:36+00:00",
     "summary": "<p>Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout </p><p>The UK economy grew in July as the rapid expansion of AI appeared to outweigh the economic damage from the Iran war, in a welcome boost for John Healey.</p><p>Figures from the Office for National Statistics (ONS) showed a surprise 0.4% increase in gross domestic product (GDP), compared with 0.3% growth in June. City economists had forecast zero growth.</p> <a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-11T06:02:40+00:00",
-    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
-    "matched_keywords": [
-      "AI",
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
-    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
-    "source": "The Guardian Economics",
-    "published": "2026-09-11T05:50:18+00:00",
-    "summary": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Renewables"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8807
-  },
-  {
-    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-    "source": "The Guardian Economics",
-    "published": "2026-09-10T18:27:10+00:00",
-    "summary": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-    "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-    "source": "The Guardian Economics",
-    "published": "2026-09-10T18:05:15+00:00",
-    "summary": "<p>Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing</p><p>Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p>The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us\">advances by Houthi rebels</a> along the Red Sea coast in Yemen could choke off Saudi crude exports.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9468
-  },
-  {
-    "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-10T14:00:11+00:00",
-    "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
-    "matched_keywords": [
-      "Gold",
-      "Silver"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-    "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-10T01:53:50+00:00",
-    "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-09T06:26:59+00:00",
-    "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
     "matched_keywords": [
       "AI"
     ],
