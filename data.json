@@ -1,63 +1,40 @@
 [
   {
-    "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-    "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T23:19:00+00:00",
-    "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-15T05:41:14+00:00",
+    "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9381
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
   },
   {
-    "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-    "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T21:57:00+00:00",
-    "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
+    "title": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
+    "link": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T04:00:26+00:00",
+    "summary": "<p>Economists urge John Healey to press Bank to change policy that is costing the exchequer billions of pounds</p><p>Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.</p><p>The Bank’s monetary policy committee (MPC) meets this week to not only <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">decide the level of interest rates</a> but also whether they should freeze or slow the sale of government bonds, known as gilts, bought as part of the rescue operation after the 2008 banking crash.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Continue reading...</a>",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5659
-  },
-  {
-    "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-    "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T21:31:00+00:00",
-    "summary": "Oil buyers are paying much more to get a barrel of crude oil immediately as the Iran conflict threatens global supplies.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.875
-  },
-  {
-    "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-    "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T21:11:00+00:00",
-    "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-    "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T21:11:00+00:00",
-    "summary": "A slowdown in the pace of AI development wouldn’t necessary dent spending, but there are other reasons semiconductor investors may want to take a measured approach.",
-    "matched_keywords": [
-      "AI"
+      "Interest Rates"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+    "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T02:43:18+00:00",
+    "summary": "<p>Latest daily reductions will further choke one of the world’s most important shipping lanes</p><p>The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.</p><p>The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because it usually reduces cost and transit times, especially for companies trading between China, Asia and the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Shipping"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8694
   },
   {
     "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -72,18 +49,6 @@
     "sentiment_score": -0.3818
   },
   {
-    "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-    "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T20:56:00+00:00",
-    "summary": "Analysts don’t expect the push for more responsible AI development to derail data-center spending.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.101
-  },
-  {
     "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
     "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
     "source": "CNBC Finance",
@@ -96,19 +61,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6808
-  },
-  {
-    "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
-    "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-14T20:47:00+00:00",
-    "summary": "The key “affordability” rate briefly touched its highest level since 2007 on Monday.",
-    "matched_keywords": [
-      "Fed",
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
   },
   {
     "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
@@ -367,5 +319,55 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9468
+  },
+  {
+    "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T14:00:11+00:00",
+    "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+    "matched_keywords": [
+      "Gold",
+      "Silver"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "John Lewis losses widen to £124m as shopper confidence dips",
+    "link": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
+    "source": "The Guardian Economics",
+    "published": "2026-09-10T11:13:17+00:00",
+    "summary": "<p>Retailer says first half was a tougher market than it expected, though Waitrose grew sales</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updates</a></p></li></ul><p>Losses at the owner of John Lewis and Waitrose widened by more than 40% in the first half of the year as it struggled with higher costs and shoppers feeling less confident about their money.</p><p>The John Lewis Partnership, which operates 36 department stores and more than 300 Waitrose supermarkets, said its pre-tax loss for the six months to 1 August climbed to £124m, compared with £88m in the same period in 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2516
+  },
+  {
+    "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+    "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T01:53:50+00:00",
+    "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-09T06:26:59+00:00",
+    "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
   }
 ]
