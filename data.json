@@ -1,5 +1,17 @@
 [
   {
+    "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+    "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T19:08:37+00:00",
+    "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8689
+  },
+  {
     "title": "The Guardian view on the Bank of England’s £120bn bill: power without accountability | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
     "source": "The Guardian Economics",
@@ -13,88 +25,11 @@
     "sentiment_score": -0.106
   },
   {
-    "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-    "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T17:18:00+00:00",
-    "summary": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
-    "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T17:09:00+00:00",
-    "summary": "Hedge-fund founder Alec Litowitz says investor should make their identity about being adaptive, rather than trying to be right.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Is the two-decade era of low interest rates over? The Fed has to decide.",
-    "link": "https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T17:08:00+00:00",
-    "summary": "High bond yields could be the result of temporary shocks — or something much longer-lasting.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
-    "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
-    "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T16:26:00+00:00",
-    "summary": "A potential AI slowdown has injected uncertainty into tech stocks, but some analysts believe the fears are overblown",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Gold is starting to move on something a lot bigger than inflation",
-    "link": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T16:21:00+00:00",
-    "summary": "Gold is weighing the Federal Reserve’s credibility against the traditional price driver of inflation and interest rates.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
-    "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-15T16:16:00+00:00",
-    "summary": "A world where AI companies slow their development isn’t necessarily bad for chip makers or great for software vendors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
     "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
     "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
     "source": "The Guardian Economics",
     "published": "2026-09-15T15:43:42+00:00",
-    "summary": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p></p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
+    "summary": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
     "matched_keywords": [
       "Oil"
     ],
@@ -126,17 +61,17 @@
     "sentiment_score": 0.7351
   },
   {
-    "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+    "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
     "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
     "source": "The Guardian Economics",
     "published": "2026-09-15T02:43:18+00:00",
-    "summary": "<p>Latest daily reductions will further choke one of the world’s most important shipping lanes</p><p>The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.</p><p>The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because it usually reduces cost and transit times, especially for companies trading between China, Asia and the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino\">Continue reading...</a>",
+    "summary": "<p>Planned daily reductions will further choke one of the world’s most important shipping lanes</p><p>The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.</p><p>The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because it usually reduces cost and transit times, especially for companies trading between China, Asia and the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino\">Continue reading...</a>",
     "matched_keywords": [
       "AI",
       "Shipping"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.8694
+    "sentiment_score": -0.8724
   },
   {
     "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -370,5 +305,69 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5267
+  },
+  {
+    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-11T06:02:40+00:00",
+    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "matched_keywords": [
+      "AI",
+      "Robotics"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
+    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
+    "source": "The Guardian Economics",
+    "published": "2026-09-11T05:50:18+00:00",
+    "summary": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI",
+      "Renewables"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8807
+  },
+  {
+    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
+    "source": "The Guardian Economics",
+    "published": "2026-09-10T18:27:10+00:00",
+    "summary": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T14:00:11+00:00",
+    "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+    "matched_keywords": [
+      "Gold",
+      "Silver"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+    "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-10T01:53:50+00:00",
+    "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
