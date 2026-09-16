@@ -1,5 +1,128 @@
 [
   {
+    "title": "UK inflation rises to 3.1%, as motor fuel costs surge – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-09-16T06:22:28+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Worryingly, the cost of goods produced by UK factories rose at a faster rate in August too.</strong></p><p>Producer output prices – or the cost of goods at the ‘factory gate’ - rose by 3.7% in the year to August, up from 3.3% in July.</p><p>“Rising crude oil and petrol prices increased both the annual cost of raw materials and the price of goods leaving factories respectively.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "UK inflation rises to 3.1%, piling more pressure on households",
+    "link": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-16T06:01:53+00:00",
+    "summary": "<p>Annual increase in August comes as Bank of England prepares for decision on interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Business live – latest updates</a></p></li></ul><p>UK inflation has returned above 3% as soaring energy prices fuelled by the Iran war heap renewed pressure on British households.</p><p>Figures from the Office for National Statistics show inflation as measured by the consumer prices index rose from 2.9% in July to 3.1% in August. City economists had forecast a rise to 3.1%.</p> <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2944
+  },
+  {
+    "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+    "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-16T04:01:59+00:00",
+    "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+    "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T23:09:00+00:00",
+    "summary": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack of readiness, according to a lawsuit seeking information about the program.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T22:00:00+00:00",
+    "summary": "“They had been married for over 30 years when she passed.”",
+    "matched_keywords": [
+      "Silver",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+    "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T21:40:00+00:00",
+    "summary": "A BofA analyst expects the semiconductor market to reach $3.2 trillion by the end of the decade, shrugging off fears of an AI slowdown.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+    "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T21:34:00+00:00",
+    "summary": "Oil is increasingly calling the tune in global markets as rising energy prices make investors nervous.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
+  },
+  {
+    "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+    "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T21:15:00+00:00",
+    "summary": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+    "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T20:47:00+00:00",
+    "summary": "There may be better savings yields, but beware rising credit-card rates",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+    "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-15T20:31:00+00:00",
+    "summary": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3291
+  },
+  {
     "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
     "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
     "source": "The Guardian Economics",
@@ -16,13 +139,13 @@
     "link": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
     "source": "The Guardian Economics",
     "published": "2026-09-15T17:58:15+00:00",
-    "summary": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
+    "summary": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.106
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7308
   },
   {
     "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
@@ -245,129 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7941
-  },
-  {
-    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-12T12:49:15+00:00",
-    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-    "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-11T16:06:31+00:00",
-    "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-11T15:58:06+00:00",
-    "summary": "<p>US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a little</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\"><strong>UK economy unexpectedly grows 0.4% in July boosted by AI</strong></a></p></li></ul><p><br /></p><p><strong>Digging into today’s GDP report a little, we can see that the UK services sector had a decent July, with growth in 11 of its 14 subsectors.</strong></p><p>According to the ONS, the fastest growth was recorded in:</p><p><strong>professional</strong>, <strong>scientific</strong> <strong>and</strong> <strong>technical</strong> <strong>activities</strong> (up 2.1%), driven by growths in scientific research and development (up 7.0%), legal activities (up 3.1%), and advertising and market research (up 3.4%)</p><p><strong>information</strong> <strong>and</strong> <strong>communication</strong> (up 2.5%), which was mainly driven by a growth of 4.4% in computer programming, consultancy and related activities</p><p><strong>administrative and support service activities</strong> (up 1.3%), driven by growths of 6.1% in rental and leasing activities, and of 2.8% in services to buildings and landscape activities</p><p>The 0.4% rise in U.K. GDP in the second quarter was slightly stronger than we expected and suggests the economy has remained resilient to the surge in energy prices.</p><p>Adding to the positive news, growth was driven by solid gains in household consumption and business investment, and included a healthy 0.3% monthly rise in output in June, suggesting momentum was sustained as the quarter progressed.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9831
-  },
-  {
-    "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-    "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-11T14:30:29+00:00",
-    "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
-    "link": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-    "source": "The Guardian Economics",
-    "published": "2026-09-11T08:10:36+00:00",
-    "summary": "<p>Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout </p><p>The UK economy grew in July as the rapid expansion of AI appeared to outweigh the economic damage from the Iran war, in a welcome boost for John Healey.</p><p>Figures from the Office for National Statistics (ONS) showed a surprise 0.4% increase in gross domestic product (GDP), compared with 0.3% growth in June. City economists had forecast zero growth.</p> <a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-11T06:02:40+00:00",
-    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
-    "matched_keywords": [
-      "AI",
-      "Robotics"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
-    "link": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
-    "source": "The Guardian Economics",
-    "published": "2026-09-11T05:50:18+00:00",
-    "summary": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI",
-      "Renewables"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8807
-  },
-  {
-    "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-    "link": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-    "source": "The Guardian Economics",
-    "published": "2026-09-10T18:27:10+00:00",
-    "summary": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
-  },
-  {
-    "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-10T14:00:11+00:00",
-    "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
-    "matched_keywords": [
-      "Gold",
-      "Silver"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-    "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-10T01:53:50+00:00",
-    "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
