@@ -1,6 +1,19 @@
 [
   {
-    "title": "IMF urges Australian governments to cut spending as another interest rate hike looms",
+    "title": "Bank of England expected to slow bond-buying programme and hold interest rates today – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T06:22:13+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Although the Bank of England may not raise rates today, money market pricing suggests borrowing costs are going to increase over the next year or so.</strong></p><p>As of last night, investors were pricing in four quarter-point increases by the end of 2027, which would lift Bank rate from 3.75% to 4.75%.</p><p>The labour market is weak, payrolled employment is falling, wage growth is negative in real terms and job vacancies are also at a multi-year low.</p><p>July growth was stronger than expected, however, this was driven by AI Capex spend, and construction and manufacturing contracted last month.</p><p>“The plain fact is that [US] inflation is too high, and has been for too long.</p><p>“This summer’s inflation readings do not tell me that underlying trends have meaningfully improved.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
     "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
     "source": "The Guardian Economics",
     "published": "2026-09-17T00:20:26+00:00",
@@ -357,17 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7941
-  },
-  {
-    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-12T12:49:15+00:00",
-    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
   }
 ]
