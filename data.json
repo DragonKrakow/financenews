@@ -1,16 +1,53 @@
 [
   {
-    "title": "Bank of England expected to slow bond-buying programme and hold interest rates today – business live",
+    "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-17T06:22:13+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Although the Bank of England may not raise rates today, money market pricing suggests borrowing costs are going to increase over the next year or so.</strong></p><p>As of last night, investors were pricing in four quarter-point increases by the end of 2027, which would lift Bank rate from 3.75% to 4.75%.</p><p>The labour market is weak, payrolled employment is falling, wage growth is negative in real terms and job vacancies are also at a multi-year low.</p><p>July growth was stronger than expected, however, this was driven by AI Capex spend, and construction and manufacturing contracted last month.</p><p>“The plain fact is that [US] inflation is too high, and has been for too long.</p><p>“This summer’s inflation readings do not tell me that underlying trends have meaningfully improved.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-17T12:09:37+00:00",
+    "summary": "<p>BoE lays out proposal to sell UK bonds back to the government, and end the asset purchase scheme launched after the GFC</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Newsflash: Britain’s economy has been more productive since Tony Blair’s first election win than previously thought.</strong></p><p>A new measure of measuring productivity, just released by the Office for National Statistics, shows that annual productivity growth since 1997 has been stronger than it had estimated in the past.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.872
+  },
+  {
+    "title": "Bank of England holds interest rates at 3.75% but warns war could force future rises",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T12:04:07+00:00",
+    "summary": "<p>Central bank announces surprise plan to sell billions of pounds in government bonds back to the Treasury</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham has to sell Bank rate rises as ‘breathing space’ – good luck with that</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.</p><p>It also announced a surprise plan to sell billions of pounds in UK government bonds back to the Treasury to avoid fuelling turbulence in the gilt market, a decision that could have significant consequences for the public finances before next month’s budget.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Burnham has to sell Bank rate rises as ‘breathing space’ – good luck with that",
+    "link": "https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T11:54:08+00:00",
+    "summary": "<p>PM’s push to cut cost of living is threatened by rising inflation and higher government borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Good luck to Andy Burnham convincing voters he is giving them “breathing space,” if the Bank of England ratchets up interest rates in the coming months.</p><p>That was the prospect opened up by Thursday’s minutes of the Bank’s monetary policy committee (MPC) meeting, which <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">left rates unchanged at 3.75%</a> – for now – but suggested policymakers may be unlikely to hold out much longer.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
+    "sentiment_score": 0.8201
+  },
+  {
+    "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+    "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-17T09:00:01+00:00",
+    "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
   },
   {
     "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
@@ -334,41 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0772
-  },
-  {
-    "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
-    "link": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T10:48:04+00:00",
-    "summary": "<p>Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’</p><p>The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.</p><p>Osborne, who was sacked as chancellor by Theresa May after being part of David Cameron’s cabinet at the time of the referendum, said it was important to rebuild links with the EU.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4678
-  },
-  {
-    "title": "The perilous economic conditions facing the UK can be traced back to Trump | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T09:27:45+00:00",
-    "summary": "<p>As John Healey drafts his autumn budget, the US president’s policies continue to inflate debt servicing costs</p><p>Britain is not entirely in control of its own destiny, from the rising cost of the weekly shop, to the vaulting cost of government borrowing. What is said and done in Westminster matters. But the global backdrop is making life tough, not least in the deeds and words of one man: Donald Trump.</p><p>As John Healey drafts his plan for next month’s autumn budget, the perilous economic conditions the chancellor must navigate can be traced back to the door of the US president.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3506
-  },
-  {
-    "title": "‘Small price to pay’: the young homeowners welcoming falling house prices even as it hurts them",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
-    "source": "The Guardian Economics",
-    "published": "2026-09-12T20:00:43+00:00",
-    "summary": "<p>Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.</p><p>Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7941
   }
 ]
