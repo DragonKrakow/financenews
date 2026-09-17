@@ -1,9 +1,35 @@
 [
   {
+    "title": "IMF urges Australian governments to cut spending as another interest rate hike looms",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T00:20:26+00:00",
+    "summary": "<p>Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The International Monetary Fund has called on Australia’s federal and state governments to cut spending as it warns the Reserve Bank may have to hike interest rates further to get price pressures back under control.</p><p>More disciplined budgets would rein in rising debt burdens and help solve Australia’s <a href=\"https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation\">long-running inflation problem</a>, the IMF said in a new report, as it downgraded its forecast for Australia’s economic growth in 2027.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.264
+  },
+  {
+    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-16T21:23:51+00:00",
+    "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
     "title": "Fed approves interest rate hike, signals one more to come this year",
     "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
     "source": "CNBC Finance",
-    "published": "2026-09-16T18:14:46+00:00",
+    "published": "2026-09-16T21:07:51+00:00",
     "summary": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
     "matched_keywords": [
       "Fed"
@@ -15,7 +41,7 @@
     "title": "Here is what changed in the new Fed statement under Warsh",
     "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
     "source": "CNBC Finance",
-    "published": "2026-09-16T18:10:19+00:00",
+    "published": "2026-09-16T18:18:54+00:00",
     "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
     "matched_keywords": [
       "Fed"
@@ -49,18 +75,6 @@
     "sentiment_score": -0.8625
   },
   {
-    "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-    "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-16T14:18:00+00:00",
-    "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8126
-  },
-  {
     "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
     "source": "The Guardian Economics",
@@ -71,31 +85,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3818
-  },
-  {
-    "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-    "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-16T14:01:00+00:00",
-    "summary": "There may be better savings yields, but beware rising credit-card rates",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
-  },
-  {
-    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-16T14:00:00+00:00",
-    "summary": "“They had been married for over 30 years when she passed.”",
-    "matched_keywords": [
-      "Silver",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
   },
   {
     "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
@@ -368,5 +357,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7941
+  },
+  {
+    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-12T12:49:15+00:00",
+    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5719
   }
 ]
