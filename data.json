@@ -1,10 +1,95 @@
 [
   {
-    "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – business live",
+    "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+    "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-17T17:59:51+00:00",
+    "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+    "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-17T17:42:00+00:00",
+    "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
+    "link": "https://www.marketwatch.com/story/ai-was-supposed-to-kill-google-search-these-numbers-show-the-opposite-analyst-says-a3be9495?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-17T17:31:00+00:00",
+    "summary": "Google’s lead in search has strengthened and AI is leading to new growth, an Evercore ISI analyst notes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T15:46:15+00:00",
+    "summary": "<p>Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.</p><p>Politicians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.</p> <a href=\"https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9349
+  },
+  {
+    "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T15:45:45+00:00",
+    "summary": "<p>This blog is now closed</p><p><strong>Andrew Griffith</strong> has delivered his speech, and he is now taking questions.</p><p><em>Q: You want the government to pause the <a href=\"https://www.gov.uk/government/collections/making-tax-digital-for-income-tax\">making tax digital programme</a>. Is that an admission that the last government got this wrong when it introduced it?</em></p><p>It is an admission that despite [good] intentions, the execution of that has left a lot to be desired.</p><p>In fact, coming to parliament from business, I can confess the law that we pass the most often is the law of unintended consequences. And I think making tax digital is a good example of that.</p><p>The truth is that Burnham and Miliband ignored the advice they were given – which was that if they were determined to sanction Israel, they should not do so before the Israeli election on 27 October.</p><p>It may not be surprising that this was the message from the Israeli foreign minister, Gideon Sa’ar, when Miliband called him on 11 August to warn sanctions were imminent. ‘He said postpone it until after the elections,’ a diplomatic source confirms. It was also the message the Israeli embassy in London – and its new chargé d’affaires Chris Cantor – was relaying to the Foreign Office. ‘Their message was clear: why do it now? Wait until after the elections, because something might change,’ a senior Labour figure says.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.613
+  },
+  {
+    "title": "The Bank of England is shaking up its bond sales – why does it matter?",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T15:45:42+00:00",
+    "summary": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9061
+  },
+  {
+    "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+    "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-17T15:22:00+00:00",
+    "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-17T12:09:37+00:00",
-    "summary": "<p>BoE lays out proposal to sell UK bonds back to the government, and end the asset purchase scheme launched after the GFC</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Newsflash: Britain’s economy has been more productive since Tony Blair’s first election win than previously thought.</strong></p><p>A new measure of measuring productivity, just released by the Office for National Statistics, shows that annual productivity growth since 1997 has been stronger than it had estimated in the past.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-17T14:57:52+00:00",
+    "summary": "<p>BoE lays out proposal to sell UK bonds back to the government, and wind up the asset purchase scheme launched after the GFC</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Bank of England urged to slow or halt bond-selling to slash UK borrowing costs</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">The Guardian view on the Bank of England’s £120bn bill: power without accountability</a></p></li></ul><p><strong>Newsflash: Britain’s economy has been more productive since Tony Blair’s first election win than previously thought.</strong></p><p>A new measure of measuring productivity, just released by the Office for National Statistics, shows that annual productivity growth since 1997 has been stronger than it had estimated in the past.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
@@ -13,29 +98,66 @@
     "sentiment_score": 0.872
   },
   {
-    "title": "Bank of England holds interest rates at 3.75% but warns war could force future rises",
-    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+    "title": "Money in people’s pockets is the key to economic recovery | Letter",
+    "link": "https://www.theguardian.com/politics/2026/sep/17/money-in-peoples-pockets-is-the-key-to-economic-recovery",
     "source": "The Guardian Economics",
-    "published": "2026-09-17T12:04:07+00:00",
-    "summary": "<p>Central bank announces surprise plan to sell billions of pounds in government bonds back to the Treasury</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham has to sell Bank rate rises as ‘breathing space’ – good luck with that</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.</p><p>It also announced a surprise plan to sell billions of pounds in UK government bonds back to the Treasury to avoid fuelling turbulence in the gilt market, a decision that could have significant consequences for the public finances before next month’s budget.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Continue reading...</a>",
+    "published": "2026-09-17T14:50:43+00:00",
+    "summary": "<p><strong>David Redshaw </strong>responds to a letter on the bond markets and economic pressures afflicting the UK</p><p>Neil Kinnock’s timely letter (<a href=\"https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues\">9 September</a>) reminds us that we are not alone in suffering high gilt yields and borrowing costs. We are still feeling the fallout from Covid, and it needs mentioning that our national debt is similar to America’s and much less than Japan’s, and it never gets mentioned that Italy routinely runs 100% of GDP debt. But as Kinnock observes, the policies of several Conservative governments (including Brexit) have made things worse, and the problem for us is not so much the actual debt but our direction of travel. The aforementioned will make the bond markets view us with a more jaundiced eye.</p><p>It was predictable that Jamie Dimon would pop up at this point (<a href=\"https://www.theguardian.com/business/2026/sep/09/jp-morgan-boss-jamie-dimon-to-warn-uk-chancellor-against-bank-tax-hike\">JP Morgan boss meets Burnham and Healey to warn against bank tax rise, 10 September</a>). He talks about potential lack of investment by the banks. What investment? We aren’t even a nation of shopkeepers any longer; we’re a nation of pizza deliverers.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/17/money-in-peoples-pockets-is-the-key-to-economic-recovery\">Continue reading...</a>",
     "matched_keywords": [
-      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9456
+  },
+  {
+    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-17T14:30:25+00:00",
+    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+    "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
+    "sentiment_score": 0.0
   },
   {
-    "title": "Burnham has to sell Bank rate rises as ‘breathing space’ – good luck with that",
+    "title": "The smartest money moves to make now that interest rates are going up",
+    "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-17T14:04:00+00:00",
+    "summary": "The Fed’s quarter-point interest-rate hike will ‘bite’ consumers. Here’s how to prep your money.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
+    "title": "Burnham’s talk of ‘breathing space’ at odds with reality of future Bank rate rises",
     "link": "https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation",
     "source": "The Guardian Economics",
-    "published": "2026-09-17T11:54:08+00:00",
-    "summary": "<p>PM’s push to cut cost of living is threatened by rising inflation and higher government borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Good luck to Andy Burnham convincing voters he is giving them “breathing space,” if the Bank of England ratchets up interest rates in the coming months.</p><p>That was the prospect opened up by Thursday’s minutes of the Bank’s monetary policy committee (MPC) meeting, which <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">left rates unchanged at 3.75%</a> – for now – but suggested policymakers may be unlikely to hold out much longer.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Continue reading...</a>",
+    "published": "2026-09-17T13:25:15+00:00",
+    "summary": "<p>PM’s push to cut cost of living threatened by rising inflation and government borrowing costs as geopolitics hit home</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">The Bank is shaking up its bond sales – why does it matter?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Good luck to Andy Burnham convincing voters he is giving them “breathing space”, if the Bank of England ratchets up interest rates in the coming months.</p><p>That was the prospect opened up by Thursday’s minutes of the Bank’s monetary policy committee (MPC) meeting, which <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">left rates unchanged at 3.75%</a> – for now – but suggested policymakers may be unlikely to hold out much longer.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8201
+    "sentiment_score": 0.6428
+  },
+  {
+    "title": "Bank of England holds interest rates at 3.75% but warns war could force future rises",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T12:04:07+00:00",
+    "summary": "<p>Central bank announces surprise plan to sell billions of pounds in government bonds back to the Treasury</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">The Bank is shaking up its bond sales – why does it matter?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.</p><p>It also announced a surprise plan to sell billions of pounds in UK government bonds back to the Treasury to avoid fuelling turbulence in the gilt market, a decision that could have consequences for the public finances before next month’s budget.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9118
   },
   {
     "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
@@ -246,130 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3818
-  },
-  {
-    "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-    "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-14T20:49:03+00:00",
-    "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-    "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-14T20:34:23+00:00",
-    "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4877
-  },
-  {
-    "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-    "link": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-    "source": "The Guardian Economics",
-    "published": "2026-09-14T16:48:34+00:00",
-    "summary": "<p>Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears  </p><p>US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.</p><p>The yield – in effect the interest rate – on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached $108 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-14T16:41:41+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2244
-  },
-  {
-    "title": "Prediction market traders think gas prices will hit new highs for the year",
-    "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-14T15:49:39+00:00",
-    "summary": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-14T12:16:52+00:00",
-    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
-    "link": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T21:30:13+00:00",
-    "summary": "<p>Prime minister vows to ‘reindustrialise Britain’ through new partnership with business </p><p>The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to pitch his government as a “partner for growth” that can offer a stable platform for investment and jobs in the UK.</p><p>Ahead of the event, Andy Burnham said the country had “everything it needs to succeed”, including talented people and world-class universities, but requires “a culture shift in how Britain does business” if it is to unlock its full potential.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2846
-  },
-  {
-    "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T16:30:07+00:00",
-    "summary": "<p>A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong direction</p><p>The question of what corporations are for is deeply political. In a 1970 article for the New York Times, Milton&nbsp;Friedman argued that the “social responsibility of business is to increase its profits”. The idea that CEOs should worry about providing good jobs was “pure and unadulterated socialism”, he wrote. Friedman and his fellow neoliberals saw companies as vehicles for enforcing their politics. Their ideas endured: UK bosses are now paid <a href=\"https://highpaycentre.org/gap-between-the-pay-of-ftse-100-ceos-and-uk-workers-the-widest-for-8-years/\">130 times</a> more than average workers.</p><p>Despite Andy Burnham’s pledge to end neoliberalism, a 12-week <a href=\"https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul\">consultation</a> recently launched by his government risks entrenching it. The consultation was first announced as part of the Starmer government’s crusade against “red tape”. The average annual report for some businesses now runs to 98,000 words, and no doubt there are areas that could be simplified. But the consultation <a href=\"https://assets.publishing.service.gov.uk/media/6a9fc4d66beb520655555633/modernising-corporate-reporting-consultation-document.pdf\">proposes</a> removing vital information and presumes that company reports primarily serve shareholders, rather than other stakeholders. Both are steps in the wrong direction.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1889
-  },
-  {
-    "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-    "link": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T12:33:16+00:00",
-    "summary": "<p>Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Economics viewpoint: perilous UK economic conditions trace back to Trump</a></p></li></ul><p>Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.</p><p>Policymakers in all three countries will set rates in the next seven days against the backdrop of <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">turbulent global bond markets</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "AI will transform capitalism – but how?",
-    "link": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-    "source": "The Guardian Economics",
-    "published": "2026-09-13T11:00:02+00:00",
-    "summary": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every tool could perform its own work when ordered, or by seeing what to do in advance … if thus shuttles wove and quills played harps of themselves, master-craftsmen would have no need of assistants and masters no need of slaves.”</p><p>The dream that automation could inaugurate a classless society is also present in the writings of Karl Marx. In 1858 he imagined the replacement of intellectual property with “socialised knowledge”, which would merge into a “general intellect”, blowing the foundations of capitalism sky high.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
   }
 ]
