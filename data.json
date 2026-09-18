@@ -1,5 +1,30 @@
 [
   {
+    "title": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T06:20:11+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Despite the inflationary squeeze on households, retail sales across Great Britain have risen over the summer.</strong></p><p>The heatwave, a pick-up in web shopping, and the joys (and <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">pain </a>and <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">disappointment</a>!) of the men’s football World Cup, helped to lift spending over the three months to August, new data shows.</p><p>“Retail sales increased in the latest three months, with a particularly strong June for online outlets helping to boost their sales across the period. Food store sales also rose, with supermarkets doing well in July and August.</p><p>“Meanwhile, retailers selling alcohol and beverages performed well across all three months, which they attributed to promotions, the hot weather and the World Cup.”</p><p>So although the central bank reiterated that it will continue raising rates if economic and inflation conditions evolve as projected, the market has reacted to the two high profile dissenters. <strong>The Yen is -0.72% lower at 157.10, having been at around 153.40 at the start of the week and the JGB curve has steepened, with 2yrs -2.2bps and 30yrs +3.2bps</strong></p><p>7am BST: Retail sales data across Great Britain for August</p><p>10am BST: Eurozone construction output for July</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9814
+  },
+  {
+    "title": "Global leaders urged to join initiative to fight extreme inequality",
+    "link": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T06:00:11+00:00",
+    "summary": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
     "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
     "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -343,30 +368,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
-    "link": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T06:51:23+00:00",
-    "summary": "<p>Economists urge John Healey to press Bank to change policy that is costing the exchequer billions of pounds</p><p>Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.</p><p>The Bank’s monetary policy committee (MPC) meets this week to not only <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">decide the level of interest rates</a> but also whether they should freeze or slow the sale of government bonds, known as gilts, bought as part of the rescue operation after the 2008 banking crash.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
-  },
-  {
-    "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
-    "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T02:43:18+00:00",
-    "summary": "<p>Planned daily reductions will further choke one of the world’s most important shipping lanes</p><p>The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.</p><p>The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because it usually reduces cost and transit times, especially for companies trading between China, Asia and the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Shipping"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8724
   }
 ]
