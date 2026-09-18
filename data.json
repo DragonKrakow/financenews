@@ -1,16 +1,140 @@
 [
   {
+    "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+    "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-18T12:04:02+00:00",
+    "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6705
+  },
+  {
     "title": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-18T06:20:11+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Despite the inflationary squeeze on households, retail sales across Great Britain have risen over the summer.</strong></p><p>The heatwave, a pick-up in web shopping, and the joys (and <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">pain </a>and <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">disappointment</a>!) of the men’s football World Cup, helped to lift spending over the three months to August, new data shows.</p><p>“Retail sales increased in the latest three months, with a particularly strong June for online outlets helping to boost their sales across the period. Food store sales also rose, with supermarkets doing well in July and August.</p><p>“Meanwhile, retailers selling alcohol and beverages performed well across all three months, which they attributed to promotions, the hot weather and the World Cup.”</p><p>So although the central bank reiterated that it will continue raising rates if economic and inflation conditions evolve as projected, the market has reacted to the two high profile dissenters. <strong>The Yen is -0.72% lower at 157.10, having been at around 153.40 at the start of the week and the JGB curve has steepened, with 2yrs -2.2bps and 30yrs +3.2bps</strong></p><p>7am BST: Retail sales data across Great Britain for August</p><p>10am BST: Eurozone construction output for July</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-18T12:02:08+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Britons are increasingly worried about the climate emergency, and job security.</strong></p><p>New data from the Office for National Statistics shows:</p><p>The proportion of adults reporting climate change and the environment as an important issue (62%) has increased since June 2026 (53%). This is currently the highest it has been since late 2024.</p><p>The proportion of adults reporting employment as an important issue has been increasing over time. Between 5 to 30 August 2026, just over half (54%) of adults reported employment as an important issue. This was higher when compared with similar periods in 2025 and 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9814
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+    "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T11:51:00+00:00",
+    "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8705
+  },
+  {
+    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+    "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T11:00:17+00:00",
+    "summary": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+    "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T10:55:00+00:00",
+    "summary": "Warren Buffett, the investing legend that turned Berkshire Hathaway into an massive conglomerate, has officially stepped aside as chairman after leaving as CEO at the beginning of the year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+    "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T10:08:00+00:00",
+    "summary": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1819
+  },
+  {
+    "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+    "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T10:08:00+00:00",
+    "summary": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
+    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T09:15:00+00:00",
+    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-18T08:41:11+00:00",
+    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
+    "link": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T08:24:39+00:00",
+    "summary": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8442
+  },
+  {
+    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T07:14:13+00:00",
+    "summary": "<p>Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.</p><p>The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
   },
   {
     "title": "Global leaders urged to join initiative to fight extreme inequality",
@@ -37,43 +161,6 @@
     "sentiment_score": 0.128
   },
   {
-    "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-    "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-17T21:09:00+00:00",
-    "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8705
-  },
-  {
-    "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-    "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-17T19:52:00+00:00",
-    "summary": "With its East-West pipeline shut down, the Straight of Hormuz is the best avenue available and its spigot has recently opened up. Will it last?",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-    "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-17T18:46:00+00:00",
-    "summary": "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
     "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
     "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
     "source": "CNBC Finance",
@@ -84,18 +171,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
-  },
-  {
-    "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-    "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-17T17:42:00+00:00",
-    "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   },
   {
     "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
@@ -158,18 +233,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9456
-  },
-  {
-    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-17T14:30:25+00:00",
-    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Burnham’s talk of ‘breathing space’ at odds with reality of future Bank rate rises",
@@ -307,66 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.872
-  },
-  {
-    "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-    "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-16T04:01:59+00:00",
-    "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-    "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T19:08:37+00:00",
-    "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8689
-  },
-  {
-    "title": "The Guardian view on the Bank of England’s £120bn bill: power without accountability | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T17:58:15+00:00",
-    "summary": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7308
-  },
-  {
-    "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
-    "link": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T15:43:42+00:00",
-    "summary": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1788
-  },
-  {
-    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-15T09:46:14+00:00",
-    "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
