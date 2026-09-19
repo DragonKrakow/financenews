@@ -1,5 +1,30 @@
 [
   {
+    "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
+    "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-19T12:00:00+00:00",
+    "summary": "The implication is a belief among insiders that the stocks are going higher from here, not lower.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3425
+  },
+  {
+    "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+    "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-19T11:00:00+00:00",
+    "summary": "Tech giants are attempting to unite on AI safety, but they’re clashing over how an actual slowdown would work",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6956
+  },
+  {
     "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
     "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,55 +35,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.802
-  },
-  {
-    "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-    "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T21:14:00+00:00",
-    "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4201
-  },
-  {
-    "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-    "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T20:48:00+00:00",
-    "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
-  },
-  {
-    "title": "Most of what you know about data centers is wrong",
-    "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T20:15:00+00:00",
-    "summary": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T20:01:00+00:00",
-    "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6956
   },
   {
     "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
@@ -370,5 +346,29 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.872
+  },
+  {
+    "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+    "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-16T04:01:59+00:00",
+    "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+    "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+    "source": "The Guardian Economics",
+    "published": "2026-09-15T19:08:37+00:00",
+    "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8689
   }
 ]
