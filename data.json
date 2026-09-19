@@ -1,40 +1,52 @@
 [
   {
-    "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-    "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+    "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+    "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-19T12:00:00+00:00",
-    "summary": "The implication is a belief among insiders that the stocks are going higher from here, not lower.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3425
-  },
-  {
-    "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
-    "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-19T11:00:00+00:00",
-    "summary": "Tech giants are attempting to unite on AI safety, but they’re clashing over how an actual slowdown would work",
+    "published": "2026-09-19T16:45:00+00:00",
+    "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6956
+    "sentiment_score": 0.8126
   },
   {
-    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+    "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+    "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T23:30:00+00:00",
-    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+    "published": "2026-09-19T16:19:00+00:00",
+    "summary": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-19T16:15:00+00:00",
+    "summary": "“They had been married for over 30 years when she passed.”",
+    "matched_keywords": [
+      "Silver",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+    "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-19T15:20:00+00:00",
+    "summary": "Research shows job seekers could get an edge in this labor market by actually writing their own resumes.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
+    "sentiment_score": -0.2878
   },
   {
     "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
@@ -358,17 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5106
-  },
-  {
-    "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-    "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-    "source": "The Guardian Economics",
-    "published": "2026-09-15T19:08:37+00:00",
-    "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8689
   }
 ]
