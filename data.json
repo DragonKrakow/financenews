@@ -1,46 +1,70 @@
 [
   {
-    "title": "Two signs investors don’t have to fear an AI slowdown",
-    "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T17:02:00+00:00",
-    "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
+    "published": "2026-09-18T23:30:00+00:00",
+    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
     "matched_keywords": [
-      "Chips",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
   },
   {
-    "title": "What’s really driving inflation and rising interest rates",
-    "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+    "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+    "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T16:50:00+00:00",
-    "summary": "Also in Weekend Reads: The housing market, retirement planning with an age gap, and a combination of warnings and opportunities in the stock market.",
+    "published": "2026-09-18T21:14:00+00:00",
+    "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
     "matched_keywords": [
-      "Interest Rates"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_score": 0.4201
   },
   {
-    "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-    "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+    "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+    "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T16:39:00+00:00",
-    "summary": "Even when rates are higher, stocks should still beat bonds",
+    "published": "2026-09-18T20:48:00+00:00",
+    "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "Most of what you know about data centers is wrong",
+    "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T20:15:00+00:00",
+    "summary": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-18T20:01:00+00:00",
+    "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6956
   },
   {
     "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
     "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
     "source": "CNBC Finance",
-    "published": "2026-09-18T16:33:43+00:00",
+    "published": "2026-09-18T18:28:31+00:00",
     "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
     "matched_keywords": [
       "Interest Rates",
@@ -49,30 +73,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-    "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T16:23:00+00:00",
-    "summary": "“We see breakout hits as a must for the stock to work again,” Wells Fargo analysts said as they cut their rating on shares of the streaming platform.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3169
-  },
-  {
-    "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-    "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T16:11:00+00:00",
-    "summary": "So-called autocallable ETFs pay coupons like bonds but are linked to equity risk.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0
   },
   {
     "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
@@ -85,30 +85,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.946
-  },
-  {
-    "title": "A happier retirement contains these 3 elements",
-    "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T15:35:00+00:00",
-    "summary": "Boosting your postwork satisfaction isn’t about luck. Here is what experts say actually drives fulfillment in your next chapter.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8934
-  },
-  {
-    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-18T13:39:00+00:00",
-    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
   },
   {
     "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
@@ -369,5 +345,30 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8625
+  },
+  {
+    "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-09-16T14:04:20+00:00",
+    "summary": "<p>Soaring motor fuel costs have pushed UK inflation to a five-month high in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Full story: <strong>UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter</strong></a></p></li></ul><p><strong>Worryingly, the cost of goods produced by UK factories rose at a faster rate in August too.</strong></p><p>Producer output prices – or the cost of goods at the ‘factory gate’ - rose by 3.7% in the year to August, up from 3.3% in July.</p><p>“Rising crude oil and petrol prices increased both the annual cost of raw materials and the price of goods leaving factories respectively.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
+    "link": "https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain",
+    "source": "The Guardian Economics",
+    "published": "2026-09-16T13:40:59+00:00",
+    "summary": "<p>Centre for a Better Britain will urge abolishing inheritance tax and phasing out capital gains tax, report says</p><p>A thinktank linked to Nigel Farage’s Reform UK is preparing an influential policy plan that is reportedly going to call for substantial tax cuts for the rich.</p><p>The <a href=\"https://www.cfabb.uk/how-we-work\">Centre for a Better Britain (CFABB) </a>is due to publish the 200-page document next week, giving insight into the economic and financial policies that are likely to form part of Reform UK’s platform before the next election.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.872
   }
 ]
