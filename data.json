@@ -1,22 +1,60 @@
 [
   {
-    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+    "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-20T12:15:00+00:00",
-    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+    "published": "2026-09-20T16:30:00+00:00",
+    "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1331
+  },
+  {
+    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-20T15:00:00+00:00",
+    "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6956
+  },
+  {
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-20T13:16:00+00:00",
+    "summary": "“They had been married for over 30 years when she passed.”",
+    "matched_keywords": [
+      "Silver",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Record diesel prices are exposing pain points in the stock market and economy",
+    "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-20T13:00:00+00:00",
+    "summary": "A major risks now is that diesel prices stay high — and continue to put upward pressure on inflation.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
+    "sentiment_score": -0.8399
   },
   {
     "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
     "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
     "source": "CNBC Finance",
-    "published": "2026-09-20T12:00:01+00:00",
-    "summary": "Tariffs, soaring fuel prices and higher interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+    "published": "2026-09-20T12:47:23+00:00",
+    "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
     "matched_keywords": [
       "Interest Rates",
       "AI",
@@ -49,18 +87,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9637
-  },
-  {
-    "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-    "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-19T16:45:00+00:00",
-    "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8126
   },
   {
     "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
@@ -347,30 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8625
-  },
-  {
-    "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
-    "source": "The Guardian Economics",
-    "published": "2026-09-16T14:04:20+00:00",
-    "summary": "<p>Soaring motor fuel costs have pushed UK inflation to a five-month high in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Full story: <strong>UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter</strong></a></p></li></ul><p><strong>Worryingly, the cost of goods produced by UK factories rose at a faster rate in August too.</strong></p><p>Producer output prices – or the cost of goods at the ‘factory gate’ - rose by 3.7% in the year to August, up from 3.3% in July.</p><p>“Rising crude oil and petrol prices increased both the annual cost of raw materials and the price of goods leaving factories respectively.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
-    "link": "https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain",
-    "source": "The Guardian Economics",
-    "published": "2026-09-16T13:40:59+00:00",
-    "summary": "<p>Centre for a Better Britain will urge abolishing inheritance tax and phasing out capital gains tax, report says</p><p>A thinktank linked to Nigel Farage’s Reform UK is preparing an influential policy plan that is reportedly going to call for substantial tax cuts for the rich.</p><p>The <a href=\"https://www.cfabb.uk/how-we-work\">Centre for a Better Britain (CFABB) </a>is due to publish the 200-page document next week, giving insight into the economic and financial policies that are likely to form part of Reform UK’s platform before the next election.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
   }
 ]
