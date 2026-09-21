@@ -1,5 +1,17 @@
 [
   {
+    "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+    "link": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-09-21T04:00:35+00:00",
+    "summary": "<p>Unions, thinktanks and others say overhaul could provide investment Britain needs</p><p>Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy.</p><p>Lower energy bills, the revitalisation of the UK’s industrial heartlands and the provision of more high-quality jobs could all be unlocked by scaling up the NWF, according to a statement from organisations including the TUC, Greenpeace, WWF and the New Economics Foundation.</p><p>Turbocharging the retrofitting of homes and buildings.</p><p>Giving the public a bigger stake in critical infrastructure through taking part-ownership stakes in key projects.</p><p>Launching a targeted investment programme to bring new green industries to communities hit hardest by deindustrialisation.</p><p>Supporting a network of regional banks to funnel money into the small businesses that hold up local economies.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.926
+  },
+  {
     "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
     "link": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
     "source": "The Guardian Economics",
@@ -360,18 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8402
-  },
-  {
-    "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
-    "link": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-16T15:17:49+00:00",
-    "summary": "<p>PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decision</p><p>Andy Burnham has said “difficult decisions” will need to be taken in next month’s budget after a rise in energy prices triggered by the Iran war drove UK inflation above 3%.</p><p>In a fresh blow for living standards amid the worsening damage to the global economy from the Middle East conflict, official figures showed soaring fuel prices pushed inflation from 2.9% in July to 3.1% in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8625
   }
 ]
