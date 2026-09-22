@@ -1,5 +1,29 @@
 [
   {
+    "title": "UK government borrowing jumps over forecast to £18.3bn in August as ‘fiscal straightjacket’ tightens – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-22T06:17:19+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Self-assessed (SA) Income Tax receipts over the last two months jumped notably, today’s public finances show.</strong></p><p>SA income tax payments in July and August were £18.6bn in total, which is £1.9bn more than in the same period last year.</p><p>“Borrowing in the financial year so far was lower than over the same period last year. However, it was higher than the official forecast, largely because central government borrowed more than anticipated.</p><p>“On the month, borrowing was up by almost a fifth on last August, as spending increased more than government income partly reflecting the impacts of inflation.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0935
+  },
+  {
+    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-22T01:30:01+00:00",
+    "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
     "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
     "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,18 +58,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0516
-  },
-  {
-    "title": "AMD hits a major milestone as AI stocks blaze higher",
-    "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T20:19:00+00:00",
-    "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   },
   {
     "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Fed approves interest rate hike, signals one more to come this year",
-    "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-16T21:07:51+00:00",
-    "summary": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8885
   }
 ]
