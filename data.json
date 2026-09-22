@@ -1,15 +1,89 @@
 [
   {
-    "title": "UK government borrowing jumps over forecast to £18.3bn in August as ‘fiscal straightjacket’ tightens – business live",
+    "title": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-22T06:17:19+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Self-assessed (SA) Income Tax receipts over the last two months jumped notably, today’s public finances show.</strong></p><p>SA income tax payments in July and August were £18.6bn in total, which is £1.9bn more than in the same period last year.</p><p>“Borrowing in the financial year so far was lower than over the same period last year. However, it was higher than the official forecast, largely because central government borrowed more than anticipated.</p><p>“On the month, borrowing was up by almost a fifth on last August, as spending increased more than government income partly reflecting the impacts of inflation.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-22T12:17:16+00:00",
+    "summary": "<p>The rising cost of servicing the UK national debt pushed up borrowing last month</p><p><strong>How much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules?</strong></p><p>That’s the question dogging Westminster and the City.</p><p>“The chancellor has probably lost about half the headroom he inherited, leaving it between £10bn to £15bn. As long as the headroom is in double figures, he will probably be able to avoid topping it up, but the drop in headroom means any additional day-to-day spending, such as on defence or cost of living, will have to be paid for by higher taxes.</p><p>“What’s more, if the recent rise in energy prices is sustained through the next few months, household energy bills could rise by another 25% in January, which would take them above the level that the previous government capped them at. That would only further increase the pressure to act on cost of living by temporarily subsiding energy bills.</p><p>“The PM and chancellor will be feeling quite claustrophobic today as the walls close in around them. Borrowing costs keep climbing, while borrowing itself is outpacing the teeny rise in tax receipts.</p><p>Everyone can diagnose the problem, but it’s far from clear that a PM who swept to power promising good things for all is capable of holding a fractious Labour party together to carry out the tough work needed.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9535
+  },
+  {
+    "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+    "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T12:02:00+00:00",
+    "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9618
+  },
+  {
+    "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+    "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T11:55:00+00:00",
+    "summary": "An exchange-traded fund that is rebalanced quarterly is doing a better job of keeping up with the artificial-intelligence trade than the broader index.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "EU spends three times more on imports from China than bloc exports there",
+    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+    "source": "The Guardian Economics",
+    "published": "2026-09-22T11:54:08+00:00",
+    "summary": "<p>Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6597
+  },
+  {
+    "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
+    "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T11:26:00+00:00",
+    "summary": "If disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude  could spike above $150 a barrel, strategists at the bank said.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T09:15:00+00:00",
+    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
+    "link": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-09-22T07:16:22+00:00",
+    "summary": "<p>Higher-than-expected figure will make chancellor’s aim of calming jittery bond markets more difficult</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The UK government borrowed a higher-than-expected £18.3bn last month, increasing the pressure on John Healey as he attempts to calm jittery bond markets before next month’s budget.</p><p>Official figures released by the Office for National Statistics on Tuesday said public sector net borrowing – the difference between government spending and income – was £2.9bn higher last month than in August 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0935
+    "sentiment_score": 0.1531
   },
   {
     "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
@@ -22,42 +96,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0258
-  },
-  {
-    "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-    "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T22:01:00+00:00",
-    "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9618
-  },
-  {
-    "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
-    "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T20:23:00+00:00",
-    "summary": "The drugmaker, best known for developing weight-loss and diabetes drugs, failed to excite investors hoping for a turnaround.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
-  },
-  {
-    "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
-    "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T20:22:00+00:00",
-    "summary": "While Amazon is shutting out Meta’s Muse, Shopify is partnering on payment technology with the buzzy AI assistant.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
   },
   {
     "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -322,19 +360,6 @@
     "sentiment_score": 0.6428
   },
   {
-    "title": "Bank of England holds interest rates at 3.75% but warns war could force future rises",
-    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-09-17T12:04:07+00:00",
-    "summary": "<p>Central bank announces surprise plan to sell billions of pounds in government bonds back to the Treasury</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">The Bank is shaking up its bond sales – why does it matter?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.</p><p>It also announced a surprise plan to sell billions of pounds in UK government bonds back to the Treasury to avoid fuelling turbulence in the gilt market, a decision that could have consequences for the public finances before next month’s budget.</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9118
-  },
-  {
     "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
     "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
     "source": "CNBC Finance",
@@ -345,31 +370,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5106
-  },
-  {
-    "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
-    "source": "The Guardian Economics",
-    "published": "2026-09-17T00:20:26+00:00",
-    "summary": "<p>Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The International Monetary Fund has called on Australia’s federal and state governments to cut spending as it warns the Reserve Bank may have to hike interest rates further to get price pressures back under control.</p><p>More disciplined budgets would rein in rising debt burdens and help solve Australia’s <a href=\"https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation\">long-running inflation problem</a>, the IMF said in a new report, as it downgraded its forecast for Australia’s economic growth in 2027.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.264
-  },
-  {
-    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
-    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-16T21:23:51+00:00",
-    "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
