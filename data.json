@@ -3,7 +3,7 @@
     "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
     "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T17:45:00+00:00",
+    "published": "2026-09-21T22:01:00+00:00",
     "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
     "matched_keywords": [
       "AI"
@@ -12,40 +12,40 @@
     "sentiment_score": 0.9618
   },
   {
-    "title": "A happier retirement contains these 3 elements",
-    "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
+    "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+    "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T17:12:00+00:00",
-    "summary": "Boosting your postwork satisfaction isn’t about luck. Here is what experts say actually drives fulfillment in your next chapter.",
+    "published": "2026-09-21T20:23:00+00:00",
+    "summary": "The drugmaker, best known for developing weight-loss and diabetes drugs, failed to excite investors hoping for a turnaround.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8934
+    "sentiment_score": 0.6808
+  },
+  {
+    "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+    "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-21T20:22:00+00:00",
+    "summary": "While Amazon is shutting out Meta’s Muse, Shopify is partnering on payment technology with the buzzy AI assistant.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
   },
   {
     "title": "AMD hits a major milestone as AI stocks blaze higher",
     "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T15:58:00+00:00",
+    "published": "2026-09-21T20:19:00+00:00",
     "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2023
-  },
-  {
-    "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-21T15:30:00+00:00",
-    "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
   },
   {
     "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -66,9 +66,8 @@
     "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
     "source": "The Guardian Economics",
     "published": "2026-09-21T12:00:11+00:00",
-    "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
+    "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
