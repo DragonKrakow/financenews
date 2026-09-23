@@ -1,45 +1,45 @@
 [
   {
-    "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
-    "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
+    "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+    "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T17:52:00+00:00",
-    "summary": "A rogue state or terrorist organization has little reason to observe an AI slowdown.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
-  },
-  {
-    "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
-    "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T17:42:00+00:00",
-    "summary": "This week’s Quantum World Congress could trigger a ‘sentiment reversal’ for quantum stocks after a rough summer, an analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
-  },
-  {
-    "title": "Want to retire with more money? Leave the country for work early in your career.",
-    "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T16:40:00+00:00",
-    "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+    "published": "2026-09-22T21:44:00+00:00",
+    "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6151
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+    "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T21:30:00+00:00",
+    "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+    "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T21:27:00+00:00",
+    "summary": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5719
   },
   {
     "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
     "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T16:24:00+00:00",
+    "published": "2026-09-22T21:26:00+00:00",
     "summary": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
     "matched_keywords": [
       "AI"
@@ -48,16 +48,40 @@
     "sentiment_score": 0.0772
   },
   {
-    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+    "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+    "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T16:15:00+00:00",
-    "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+    "published": "2026-09-22T20:54:00+00:00",
+    "summary": "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_score": 0.5994
+  },
+  {
+    "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+    "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T20:46:00+00:00",
+    "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6151
+  },
+  {
+    "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
+    "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-22T20:27:00+00:00",
+    "summary": "Viking Therapeutics is developing VK2735, a GLP-1/GIP drug that could compete with Eli Lilly’s Zepbound. Its stock soared.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   },
   {
     "title": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
@@ -71,42 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9535
-  },
-  {
-    "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-    "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T15:48:00+00:00",
-    "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-    "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T15:46:00+00:00",
-    "summary": "Viking Therapeutics is developing VK2735, a GLP-1/GIP drug that could compete with Eli Lilly’s Zepbound. Its stock is soaring.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
-  },
-  {
-    "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-22T15:45:00+00:00",
-    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
   },
   {
     "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
@@ -368,5 +356,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.613
+  },
+  {
+    "title": "The Bank of England is shaking up its bond sales – why does it matter?",
+    "link": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
+    "source": "The Guardian Economics",
+    "published": "2026-09-17T15:45:42+00:00",
+    "summary": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9061
   }
 ]
