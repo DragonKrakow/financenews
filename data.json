@@ -1,45 +1,85 @@
 [
   {
-    "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
-    "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+    "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+    "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T12:10:00+00:00",
-    "summary": "Clocktower’s Eric Wallerstein believes stocks are headed for trouble next year, and safety-seeking investors could drive gold to $6,000 an ounce.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "The next phase of AI is here. Pay attention to this profound technological shift.",
-    "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T12:00:00+00:00",
-    "summary": "Meta’s Muse keeps working after users close the app, pointing to a potential growth opportunity for makers of server processors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "Global bond sell-off piles new pressure on UK borrowing costs before budget",
-    "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T11:41:08+00:00",
-    "summary": "<p>Rising cost of 10-year gilt to near 19-year high hikes upfront cost of government investment and limits chancellor’s room for manoeuvre</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p><p></p></li></ul><p>A global sell-off in government bonds has put fresh upward pressure on UK borrowing costs, before a tough budget for John Healey next month.</p><p>The yield – effectively the interest rate – on 10-year UK bonds, known as gilts, had risen to 5.38% by mid-morning on Thursday, approaching the 19-year high set last week.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
+    "published": "2026-09-24T17:47:00+00:00",
+    "summary": "A new bill calling for lowering Social Security’s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered system among workers, retirement experts said.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
+    "sentiment_score": -0.0258
   },
   {
-    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – business live",
+    "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+    "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-24T17:12:04+00:00",
+    "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Do this one thing to help prevent your parents from being scammed",
+    "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T16:36:00+00:00",
+    "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "US mortgage rates top 7% for first time in 20 months",
+    "link": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T16:31:58+00:00",
+    "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US Federal Reserve <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7579
+  },
+  {
+    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T16:30:00+00:00",
+    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "The S&P 500’s newest tech stock is now its best performer",
+    "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T16:23:00+00:00",
+    "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-24T11:29:15+00:00",
+    "published": "2026-09-24T16:03:32+00:00",
     "summary": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
@@ -50,22 +90,10 @@
     "sentiment_score": 0.2023
   },
   {
-    "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
-    "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T11:01:00+00:00",
-    "summary": "Easing tensions over Taiwan could ripple through the chip stocks powering the AI boom",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
     "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
     "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
     "source": "CNBC Finance",
-    "published": "2026-09-24T10:18:19+00:00",
+    "published": "2026-09-24T14:16:27+00:00",
     "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
     "matched_keywords": [
       "AI"
@@ -74,16 +102,31 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
-    "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T09:12:00+00:00",
-    "summary": "Meta Platforms, whose new Muse AI agent has driven the tech sector’s stock prices this week, saw a price-target boost after showcasing products at its Connect conference on Wednesday night.",
+    "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+    "link": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T13:00:18+00:00",
+    "summary": "<p>A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answer</p><p>Once hailed as the “energy heart of South America”, <a href=\"https://www.theguardian.com/world/bolivia\">Bolivia</a>’s economy was buoyed up by a fossil gas boom from 2006 to 2014. At its height, then-president Evo Morales commissioned a <a href=\"https://www.theguardian.com/world/2018/aug/16/bolivian-president-evo-morales-new-residence-is-as-imposing-as-it-is-divisive-la-paz\">gleaming presidential skyscraper</a> and installed the world’s longest urban <a href=\"https://www.theguardian.com/cities/2016/feb/10/la-paz-cable-difference-city-subway-sky\">cable car network</a> in La Paz, the seat of government.</p><p>Flush with cash, the country <a href=\"https://www.imf.org/en/news/articles/2018/12/06/pr18453-imf-executive-board-concludes-2018-article-iv-consultation-with-bolivia\">grew its GDP</a>, expanded <a href=\"https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia\">social programmes</a> and <a href=\"https://www.npr.org/sections/goatsandsoda/2019/11/26/781199250/how-evo-morales-made-bolivia-a-better-place-before-he-was-forced-to-flee\">halved poverty rates</a>. But then commodity prices plummeted and gas reserves <a href=\"https://www.bloomberg.com/news/features/2024-10-09/bolivia-natural-gas-shortage-sends-economy-teetering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjMzOTQwMiwiZXhwIjoxNzg2OTQ0MjAyLCJhcnRpY2xlSWQiOiJTTDM1OFNUMEFGQjQwMCIsImJjb25uZWN0SWQiOiJGQ0Y1MzVDRTU5QUI0RUY4QkU3NTEwNEM2NEFCNzcwMSJ9.GaXAfxQvvucJBB2MOcQ6bai-tCWm4MkudrmGPmANVgc\">started to dry up</a>, bringing Bolivia’s “<a href=\"https://www.reuters.com/world/americas/bolivias-creaking-big-state-model-rings-warning-bell-south-america-2023-06-27/\">economic miracle</a>” crashing down. Inflation – once the <a href=\"https://apnews.com/article/bolivia-elections-president-morales-bread-socialism-mas-subsidies-protests-fd1f696aa8036647f7d023a79c272c8a\">region’s lowest</a> – has soared.</p> <a href=\"https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation\">Continue reading...</a>",
     "matched_keywords": [
+      "Election",
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2406
+  },
+  {
+    "title": "Oil price rise creates more pressure on UK policymakers before budget",
+    "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T11:41:08+00:00",
+    "summary": "<p>Treasury sources concede ‘less room’ for manoeuvre as global bond selloff also hikes government’s borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p></li></ul><p>Oil prices lurched upwards again on Thursday, creating a growing headache for UK policymakers ahead of John Healey’s budget next month.</p><p>While Healey has been keen to present an upbeat picture of the UK’s economic prospects, Treasury sources concede the sharp jump in oil and gas prices means they have “less room” than a month ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
+    "sentiment_score": 0.6258
   },
   {
     "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
@@ -332,43 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6705
-  },
-  {
-    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-    "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-    "source": "The Guardian Economics",
-    "published": "2026-09-18T11:00:17+00:00",
-    "summary": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
-  },
-  {
-    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-18T08:41:11+00:00",
-    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-09-18T07:14:13+00:00",
-    "summary": "<p>Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.</p><p>The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   }
 ]
