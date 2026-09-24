@@ -1,57 +1,21 @@
 [
   {
-    "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-    "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T18:15:00+00:00",
-    "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
+    "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-23T23:59:39+00:00",
+    "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1822
-  },
-  {
-    "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
-    "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T18:06:00+00:00",
-    "summary": "Expensive gas, higher inflation, a stalemate with Iran and rising interest rates — no matter. The U.S. economy appears to have sped up in the early fall.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0706
-  },
-  {
-    "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-    "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T18:02:00+00:00",
-    "summary": "Investors aren’t sold on plans to introduce new McNugget flavors, and an analyst recently noted that McDonald’s has struggled to break through on chicken-related innovation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
-    "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T17:52:00+00:00",
-    "summary": "Stocks fall, with the Nasdaq and S&amp;P 500 retreating from record territory as bond yields suddenly jump.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
   },
   {
     "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
     "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T17:15:00+00:00",
+    "published": "2026-09-23T23:15:00+00:00",
     "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
     "matched_keywords": [
       "AI"
@@ -63,7 +27,7 @@
     "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
     "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T17:00:00+00:00",
+    "published": "2026-09-23T22:15:00+00:00",
     "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
     "matched_keywords": [
       "AI"
@@ -72,16 +36,52 @@
     "sentiment_score": 0.5423
   },
   {
-    "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
-    "link": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
+    "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+    "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T16:58:00+00:00",
-    "summary": "A Stifel analyst is taking a more upbeat view of the tech giant’s ability to cash in on its troves of computing power.",
+    "published": "2026-09-23T21:59:00+00:00",
+    "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1822
+  },
+  {
+    "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+    "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-23T21:51:00+00:00",
+    "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6115
+    "sentiment_score": 0.5642
+  },
+  {
+    "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+    "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-23T21:27:00+00:00",
+    "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-23T21:08:00+00:00",
+    "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
   },
   {
     "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
