@@ -1,25 +1,108 @@
 [
   {
-    "title": "Global bond sell-off deepens amid fears US economy may be running too hot – business live",
+    "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T12:10:00+00:00",
+    "summary": "Clocktower’s Eric Wallerstein believes stocks are headed for trouble next year, and safety-seeking investors could drive gold to $6,000 an ounce.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "The next phase of AI is here. Pay attention to this profound technological shift.",
+    "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T12:00:00+00:00",
+    "summary": "Meta’s Muse keeps working after users close the app, pointing to a potential growth opportunity for makers of server processors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Global bond sell-off piles new pressure on UK borrowing costs before budget",
+    "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T11:41:08+00:00",
+    "summary": "<p>Rising cost of 10-year gilt to near 19-year high hikes upfront cost of government investment and limits chancellor’s room for manoeuvre</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p><p></p></li></ul><p>A global sell-off in government bonds has put fresh upward pressure on UK borrowing costs, before a tough budget for John Healey next month.</p><p>The yield – effectively the interest rate – on 10-year UK bonds, known as gilts, had risen to 5.38% by mid-morning on Thursday, approaching the 19-year high set last week.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-24T06:22:25+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Financial markets are now much more confident that the US Federal Reserve will raise interest rates rates at least one more time this year.</strong></p><p>According to <strong><a href=\"https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html\">CME Fedwatch</a></strong>, there’s now a 55% chance that US rates are half a percentage point higher by the end of December – implying two quarter-point rate rises (or one beefy hike!). That’s on top of the Fed’s hike earlier this month.</p><p>The main story is still the huge global bond selloff, with yesterday seeing the biggest jump in the <strong>10yr Treasury yield (+15.2bps) since the market turmoil around Liberation Day in April 2025</strong>.</p><p>The main driver was a strong batch of PMIs, along with a rebound in oil prices, which both led to mounting speculation about faster rate hikes. Indeed, <strong>futures this morning are pricing a 71% chance of a Fed rate hike at the next meeting in October</strong>.</p><p>With unemployment at 4.1% and growth running above trend, the US economy is showing signs of modest overheating. The Federal Reserve will therefore be firmly on notice.</p><p>If the next inflation readings continue to print hot, policymakers may conclude that aggregate demand needs to be brought lower through the blunt tool of higher interest rates.</p><p>In the US, flash PMI figures for September showed <strong>activity expanding at the fastest pace in more than five years</strong>. New orders grew at the fastest pace since April 2022, while manufacturing hiring was the strongest since February 2021.</p><p><strong>Massive AI investment and resilient consumer spending outweighed energy-price-led worries</strong>, though supplier delivery times stretched, according to the same data, while input costs remained elevated due to high energy prices and supply-chain pressures.</p><p>11am BST: CBI distributive trades survey of UK retailers</p><p>8.30am BST: Swiss National Bank’s interest rate decision</p><p>1.30pm BST: US jobless claims data</p><p>3pm BST: Bank of England’s Clare Lombardelli speech on “Macroeconomic Policy in a Heterogeneous and Imperfectly Rational World”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-24T11:29:15+00:00",
+    "summary": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Fed",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9622
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+    "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T11:01:00+00:00",
+    "summary": "Easing tensions over Taiwan could ripple through the chip stocks powering the AI boom",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+    "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-24T10:18:19+00:00",
+    "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+    "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T09:12:00+00:00",
+    "summary": "Meta Platforms, whose new Muse AI agent has driven the tech sector’s stock prices this week, saw a price-target boost after showcasing products at its Connect conference on Wednesday night.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+    "link": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T08:48:11+00:00",
+    "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.875
   },
   {
     "title": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
     "link": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
     "source": "The Guardian Economics",
     "published": "2026-09-24T06:12:45+00:00",
-    "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to it’s highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
+    "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to its highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -33,90 +116,6 @@
     "source": "CNBC Finance",
     "published": "2026-09-24T04:55:59+00:00",
     "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "UK losing up to £6.5bn a year in EU trade due to mismatched product rules",
-    "link": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T04:00:10+00:00",
-    "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9118
-  },
-  {
-    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T23:15:00+00:00",
-    "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T22:15:00+00:00",
-    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-    "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T21:59:00+00:00",
-    "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1822
-  },
-  {
-    "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-    "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T21:51:00+00:00",
-    "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5642
-  },
-  {
-    "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
-    "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T21:27:00+00:00",
-    "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
-    "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-23T21:08:00+00:00",
-    "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
     "matched_keywords": [
       "AI"
     ],
