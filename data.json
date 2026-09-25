@@ -1,15 +1,27 @@
 [
   {
-    "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
-    "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+    "title": "The S&P 500’s newest tech stock is now its best performer",
+    "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T17:47:00+00:00",
-    "summary": "A new bill calling for lowering Social Security’s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered system among workers, retirement experts said.",
+    "published": "2026-09-24T23:26:00+00:00",
+    "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0258
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+    "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-24T20:50:00+00:00",
+    "summary": "There’s still room for AI hardware stocks to rise,  but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
   },
   {
     "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
@@ -26,23 +38,11 @@
     "sentiment_score": 0.4588
   },
   {
-    "title": "Do this one thing to help prevent your parents from being scammed",
-    "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T16:36:00+00:00",
-    "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
     "title": "US mortgage rates top 7% for first time in 20 months",
     "link": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
     "source": "The Guardian Economics",
     "published": "2026-09-24T16:31:58+00:00",
-    "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US Federal Reserve <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
+    "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Fed",
@@ -50,30 +50,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7579
-  },
-  {
-    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T16:30:00+00:00",
-    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "The S&P 500’s newest tech stock is now its best performer",
-    "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T16:23:00+00:00",
-    "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
   },
   {
     "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
@@ -375,5 +351,29 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6705
+  },
+  {
+    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+    "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+    "source": "The Guardian Economics",
+    "published": "2026-09-18T11:00:17+00:00",
+    "summary": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-18T08:41:11+00:00",
+    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
