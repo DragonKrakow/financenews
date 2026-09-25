@@ -1,21 +1,70 @@
 [
   {
-    "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
-    "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
+    "title": "This is why you might see 8% mortgage rates soon",
+    "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T12:05:00+00:00",
-    "summary": "Jamie Wilhelm and Sunit Gogia of Fort Washington Investment Advisors expect the AI wave to continue, but describe leading indicators of an eventual downturn.",
+    "published": "2026-09-25T17:20:00+00:00",
+    "summary": "Also in Weekend Reads: The bond market selloff’s consequences for AI, a threat to the buy-and-hold investment style and advice from the Moneyist.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+    "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T17:11:00+00:00",
+    "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
+    "source": "The Guardian Economics",
+    "published": "2026-09-25T16:53:49+00:00",
+    "summary": "<p>The Chinese leader’s visit to Washington appears to have done nothing to shift the stalemate in bilateral relations </p><p>Within days, two high-profile Chinese visitors will arrive in the US – envoys of friendship, as Xi Jinping described them when he met Donald Trump at the White House this week. The giant pandas, Ping Ping and Fu Shuang, will be hosted at Atlanta zoo. Beijing dispatched the first panda pair to the US in 1972 following President Richard Nixon’s landmark visit to China. It uses the animals to&nbsp;indicate satisfaction or displeasure with other nations. But it also charges heftily for their lease: reportedly, <a href=\"https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/\">around $1m a year</a> per pair. <a href=\"https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/\">Americans’ views</a> of China have warmed from a pandemic nadir, but are unlikely to be shifted much by two animals, however charming.&nbsp;These days they are more of a token gesture&nbsp;than a striking symbol.</p><p>It is telling that the announcement was one of the <a href=\"https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment\">main takeaways</a> of Mr Xi’s <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit\">visit to Washington</a>. Expectations were low after May’s stalemate summit in Beijing, but this meeting still struggled to meet them. The US president gave Mr Xi a lavish welcome –&nbsp;unusually, travelling to meet the “strong, vibrant and&nbsp;fit” Chinese leader off the plane. He insisted that they had “never gotten along better”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0644
+    "sentiment_score": 0.0129
   },
   {
-    "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – business live",
+    "title": "Healey appoints Labour manifesto writer, adding to election speculation",
+    "link": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
+    "source": "The Guardian Economics",
+    "published": "2026-09-25T16:34:13+00:00",
+    "summary": "<p>Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint Global</p><p>Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an adviser to John Healey, in a move likely to fuel speculation about an early general election.</p><p>The chancellor is keen to strengthen his team before the critical budget on 28 October, as the economy is buffeted by <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">high oil prices</a> and rising government <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">borrowing costs</a>.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+    "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T15:53:00+00:00",
+    "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
+  },
+  {
+    "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-25T11:54:55+00:00",
+    "published": "2026-09-25T14:46:27+00:00",
     "summary": "<p>Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike\"><strong>Capital gains tax: how it works, and the pros and cons of another rise</strong></a></p></li></ul><p><br /></p><p><strong>TalkTalk is scrambling to secure its future amid the threat of administration, closing in on deals to sell its consumer and broadband arms as it seeks to save 900 jobs.</strong></p><p>The telecoms company said on Friday it is in the final stages of sealing deals to sell its consumer business as well as its wholesale operation, PXC.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
@@ -24,43 +73,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
-  },
-  {
-    "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed",
-    "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T11:02:00+00:00",
-    "summary": "U.S. stocks are facing hurdles and investors may need to consider looking elsewhere. Goldman Sachs’ global head of hedge fund coverage says Japan may be the answer.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-    "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T10:46:00+00:00",
-    "summary": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Akamai’s stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
-    "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T08:42:00+00:00",
-    "summary": "Akamai has agreed to supply cloud-computing services to Anthropic.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
   },
   {
     "title": "China's Xi urges U.S. to cooperate on AI",
@@ -366,17 +378,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-18T15:56:23+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham\"><strong>UK airport disruption: what are your rights if you have been affected?</strong></a></p></li></ul><p><br /></p><p><strong>Britons are increasingly worried about the climate emergency, and job security.</strong></p><p>New data from the Office for National Statistics shows:</p><p>The proportion of adults reporting climate change and the environment as an important issue (62%) has increased since June 2026 (53%). This is currently the highest it has been since late 2024.</p><p>The proportion of adults reporting employment as an important issue has been increasing over time. Between 5 to 30 August 2026, just over half (54%) of adults reported employment as an important issue. This was higher when compared with similar periods in 2025 and 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.946
   }
 ]
