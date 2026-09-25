@@ -1,5 +1,29 @@
 [
   {
+    "title": "UK consumer confidence hits two-year high, but ‘Burnham bounce’ may be fading – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-25T06:19:43+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>Here’s a breakdown of today’s UK consumer confidence report, showing how four of the five measures that feed into the index rose this month.</p><p><strong>Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.</strong></p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.891
+  },
+  {
+    "title": "China's Xi urges U.S. to cooperate on AI",
+    "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-25T01:22:17+00:00",
+    "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "The S&P 500’s newest tech stock is now its best performer",
     "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -351,29 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6705
-  },
-  {
-    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-    "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-    "source": "The Guardian Economics",
-    "published": "2026-09-18T11:00:17+00:00",
-    "summary": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7579
-  },
-  {
-    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-18T08:41:11+00:00",
-    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
