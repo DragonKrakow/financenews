@@ -1,15 +1,66 @@
 [
   {
-    "title": "UK consumer confidence hits two-year high, but ‘Burnham bounce’ may be fading – business live",
+    "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
+    "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T12:05:00+00:00",
+    "summary": "Jamie Wilhelm and Sunit Gogia of Fort Washington Investment Advisors expect the AI wave to continue, but describe leading indicators of an eventual downturn.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0644
+  },
+  {
+    "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-25T06:19:43+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>Here’s a breakdown of today’s UK consumer confidence report, showing how four of the five measures that feed into the index rose this month.</p><p><strong>Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.</strong></p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-25T11:54:55+00:00",
+    "summary": "<p>Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike\"><strong>Capital gains tax: how it works, and the pros and cons of another rise</strong></a></p></li></ul><p><br /></p><p><strong>TalkTalk is scrambling to secure its future amid the threat of administration, closing in on deals to sell its consumer and broadband arms as it seeks to save 900 jobs.</strong></p><p>The telecoms company said on Friday it is in the final stages of sealing deals to sell its consumer business as well as its wholesale operation, PXC.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil"
+      "Interest Rates",
+      "Oil",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.891
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed",
+    "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T11:02:00+00:00",
+    "summary": "U.S. stocks are facing hurdles and investors may need to consider looking elsewhere. Goldman Sachs’ global head of hedge fund coverage says Japan may be the answer.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+    "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T10:46:00+00:00",
+    "summary": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Akamai’s stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+    "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T08:42:00+00:00",
+    "summary": "Akamai has agreed to supply cloud-computing services to Anthropic.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
   },
   {
     "title": "China's Xi urges U.S. to cooperate on AI",
@@ -22,30 +73,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "The S&P 500’s newest tech stock is now its best performer",
-    "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T23:26:00+00:00",
-    "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
-  },
-  {
-    "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-    "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-24T20:50:00+00:00",
-    "summary": "There’s still room for AI hardware stocks to rise,  but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
   },
   {
     "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
@@ -351,29 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.946
-  },
-  {
-    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-    "link": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-    "source": "The Guardian Economics",
-    "published": "2026-09-18T12:38:28+00:00",
-    "summary": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8442
-  },
-  {
-    "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-    "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-18T12:04:02+00:00",
-    "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
   }
 ]
