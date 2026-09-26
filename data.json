@@ -1,27 +1,51 @@
 [
   {
-    "title": "This is why you might see 8% mortgage rates soon",
-    "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+    "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T17:20:00+00:00",
-    "summary": "Also in Weekend Reads: The bond market selloff’s consequences for AI, a threat to the buy-and-hold investment style and advice from the Moneyist.",
+    "published": "2026-09-25T23:30:00+00:00",
+    "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
   },
   {
-    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-    "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+    "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+    "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T17:11:00+00:00",
-    "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+    "published": "2026-09-25T21:04:00+00:00",
+    "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
+  },
+  {
+    "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+    "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T20:34:00+00:00",
+    "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5023
+  },
+  {
+    "title": "A 10% risk-free yield? For some, yes.",
+    "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-25T20:32:00+00:00",
+    "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
     "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
@@ -47,18 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-    "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T15:53:00+00:00",
-    "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5023
   },
   {
     "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
@@ -364,19 +376,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9637
-  },
-  {
-    "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-    "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-18T18:28:31+00:00",
-    "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
