@@ -1,5 +1,78 @@
 [
   {
+    "title": "A 10% risk-free yield? For some, yes.",
+    "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-26T16:51:00+00:00",
+    "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+    "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-26T16:22:00+00:00",
+    "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+    "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-26T15:30:00+00:00",
+    "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5859
+  },
+  {
+    "title": "Do this one thing to help prevent your parents from being scammed",
+    "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-26T15:04:00+00:00",
+    "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-26T15:00:01+00:00",
+    "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+    "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-26T13:30:06+00:00",
+    "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
     "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
     "source": "The Guardian Economics",
@@ -11,42 +84,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
-  },
-  {
-    "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
-    "link": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-26T11:00:00+00:00",
-    "summary": "Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-    "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T23:30:00+00:00",
-    "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-    "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-25T21:04:00+00:00",
-    "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5023
   },
   {
     "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
@@ -340,42 +377,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6858
-  },
-  {
-    "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
-    "link": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-09-21T04:00:35+00:00",
-    "summary": "<p>Unions, thinktanks and others say overhaul could provide investment Britain needs</p><p>Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy.</p><p>Lower energy bills, the revitalisation of the UK’s industrial heartlands and the provision of more high-quality jobs could all be unlocked by scaling up the NWF, according to a statement from organisations including the TUC, Greenpeace, WWF and the New Economics Foundation.</p><p>Turbocharging the retrofitting of homes and buildings.</p><p>Giving the public a bigger stake in critical infrastructure through taking part-ownership stakes in key projects.</p><p>Launching a targeted investment programme to bring new green industries to communities hit hardest by deindustrialisation.</p><p>Supporting a network of regional banks to funnel money into the small businesses that hold up local economies.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.926
-  },
-  {
-    "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-    "link": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-    "source": "The Guardian Economics",
-    "published": "2026-09-20T19:36:29+00:00",
-    "summary": "<p>Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UN</p><p>Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.</p><p>Burnham is <a href=\"https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly\">expected to meet Trump</a> early next week at the UN general assembly summit in New York, the pair having previously spoken twice by phone since Burnham entered No 10.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9538
-  },
-  {
-    "title": "Are global stock markets heading for a crash?",
-    "link": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-    "source": "The Guardian Economics",
-    "published": "2026-09-20T05:00:07+00:00",
-    "summary": "<p>Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm</p><p>At the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI revolution</a>, the US stock market had rallied to a <a href=\"https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease\">fresh all-time high</a>, as investors bet the multitrillion-dollar investment spree would overshadow the hit from the Iran war.</p><p>Now the warning lights are flashing red. As the fighting in the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Middle East</a> intensifies without clear sign of a resolution, financial markets have been thrown into renewed turmoil. A slowdown looms in the AI arms race, and tinderbox conditions in the market for government debt are fuelling alarm.</p> <a href=\"https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9637
   }
 ]
