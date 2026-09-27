@@ -1,15 +1,65 @@
 [
   {
+    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-27T16:45:00+00:00",
+    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-27T16:00:00+00:00",
+    "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
     "title": "Debt-hungry AI companies face increased risk as bond yields spike",
     "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
     "source": "CNBC Finance",
-    "published": "2026-09-27T11:00:01+00:00",
+    "published": "2026-09-27T15:35:34+00:00",
     "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
+  },
+  {
+    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+    "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-27T15:15:00+00:00",
+    "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Look closer, and Wall Street’s rally is showing cracks",
+    "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-27T13:00:00+00:00",
+    "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
     "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
@@ -24,43 +74,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "A 10% risk-free yield? For some, yes.",
-    "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-26T16:51:00+00:00",
-    "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-    "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-26T16:22:00+00:00",
-    "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-    "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-26T15:30:00+00:00",
-    "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
   },
   {
     "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
@@ -366,17 +379,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7184
-  },
-  {
-    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-    "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-09-21T12:00:11+00:00",
-    "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
   }
 ]
