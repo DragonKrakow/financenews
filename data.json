@@ -1,5 +1,31 @@
 [
   {
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-27T11:00:01+00:00",
+    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+    "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-27T11:00:00+00:00",
+    "summary": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
     "title": "A 10% risk-free yield? For some, yes.",
     "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -35,18 +61,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5859
-  },
-  {
-    "title": "Do this one thing to help prevent your parents from being scammed",
-    "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-26T15:04:00+00:00",
-    "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   },
   {
     "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
@@ -364,18 +378,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5994
-  },
-  {
-    "title": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
-    "source": "The Guardian Economics",
-    "published": "2026-09-21T07:00:38+00:00",
-    "summary": "<p>War, AI disruption and markets in turmoil: the warnings are all there. But lessons from the 2008 crash could help us</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6858
   }
 ]
