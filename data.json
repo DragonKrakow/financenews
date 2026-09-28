@@ -1,27 +1,56 @@
 [
   {
-    "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-    "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-27T16:45:00+00:00",
-    "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+    "title": "Gouged: why Americans are being ripped off – and what to do about it",
+    "link": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-09-28T11:00:32+00:00",
+    "summary": "<p>How can we fix our pricing crisis? Economic sociologist Lindsay Owens urges tough new rules – and a consumer uprising</p><p>“Repeat after me: it’s not my fault, it’s not my fault, it’s not my fault.” That’s the message to frustrated US shoppers in Gouged: The End of a Fair Price – and What That Means for Your Wallet by Lindsay Owens, economic sociologist and head of the Groundwork Collaborative, a progressive Washington thinktank.</p><p>Consumer rage is rising and no wonder – we are all living through the “reinvention of the rip-off”, Owens told the Guardian, an experience that is undermining Americans’ trust in the economy. Nothing short of a consumer uprising and a slate of tough new rules is going to fix the problem, she believes.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy\">Continue reading...</a>",
     "matched_keywords": [
+      "Mining",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8856
   },
   {
-    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+    "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
+    "link": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
+    "source": "The Guardian Economics",
+    "published": "2026-09-28T11:00:32+00:00",
+    "summary": "<p>Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’</p><p>Donald Trump has taken to repeating a familiar boast: “<a href=\"https://www.presidency.ucsb.edu/documents/pool-reports-september-16-2026\">We have the greatest economy</a> in history,” Trump said recently at a White House press gaggle. The boast comes even though inflation is higher and economic growth lower than when Joe Biden left office, even though <a href=\"https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523\">gas prices have jumped around 50%</a> since the war against Iran started, and even though <a href=\"https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html\">73% of Americans think the economy</a> is in fair or poor shape (48% say it’s in poor shape). What’s more, the Federal Reserve is so worried about inflation that it just raised interest rates.</p><p>“It’s bluster, it’s gaslighting for him to say the economy is the greatest ever,” said Darrick Hamilton, chief economist for the AFL-CIO, the nation’s main union federation. “The economy is trending down by many measures. A lot of that has been caused by Trump’s unforced errors.”</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Election",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7935
+  },
+  {
+    "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
+    "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-27T16:00:00+00:00",
-    "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+    "published": "2026-09-28T10:47:00+00:00",
+    "summary": "The note was brief, but the implications are big: The chief economist of private-equity giant Apollo Global Management thinks agentic AI could spark a bank run.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+    "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T09:32:00+00:00",
+    "summary": "Strategists at Goldman Sachs see potential restrictions on U.S. diesel exports adding $0.30 per gallon to domestic retail gasoline prices",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
   },
   {
     "title": "Debt-hungry AI companies face increased risk as bond yields spike",
@@ -34,32 +63,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
-  },
-  {
-    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-    "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-27T15:15:00+00:00",
-    "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Look closer, and Wall Street’s rally is showing cracks",
-    "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-27T13:00:00+00:00",
-    "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
-    "matched_keywords": [
-      "Fed",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   },
   {
     "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
