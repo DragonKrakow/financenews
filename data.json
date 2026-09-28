@@ -62,20 +62,6 @@
     "sentiment_score": -0.128
   },
   {
-    "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
-    "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-27T11:00:00+00:00",
-    "summary": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
     "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
     "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
     "source": "CNBC Finance",
@@ -379,5 +365,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7184
+  },
+  {
+    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
+    "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-09-21T12:00:11+00:00",
+    "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
   }
 ]
