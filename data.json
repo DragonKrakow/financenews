@@ -1,5 +1,101 @@
 [
   {
+    "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
+    "link": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T18:15:00+00:00",
+    "summary": "There were no major breakthroughs on big issues including AI, Iran and Taiwan.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
+    "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T17:21:00+00:00",
+    "summary": "SpaceX cut the flight short after initially aiming to send it on a nearly 10-hour mission.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3919
+  },
+  {
+    "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+    "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T17:10:00+00:00",
+    "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
+    "title": "Micron has a chance to set the record straight with its earnings report",
+    "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T16:58:00+00:00",
+    "summary": "Micron is no longer the company it was before the AI boom, and one analyst says it’s time that investors fully appreciate that.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5709
+  },
+  {
+    "title": "Nvidia is right: Its stock is a bargain by this measure",
+    "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-28T16:33:00+00:00",
+    "summary": "Nvidia’s stock has gotten cheaper even as the company has sustained robust levels of growth.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
+    "link": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
+    "source": "The Guardian Economics",
+    "published": "2026-09-28T14:02:28+00:00",
+    "summary": "<p>World’s biggest economies release lists of products in latest move away from trade war – but no strategic goods are included</p><p>The US and China have released reciprocal lists of goods worth about $30bn each on which they plan to cut tariffs, ranging from consumer electronics and agricultural products to artificial flowers and live dolphins.</p><p>The announcements are the latest tack away from the intense trade war between the world’s two largest economies that dominated much of last year, though major strategic products are not included and no timeline has yet been given for the reductions.</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Trade War"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8647
+  },
+  {
+    "title": "Healey offers upbeat vision but sheds little light on how it will be paid for",
+    "link": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
+    "source": "The Guardian Economics",
+    "published": "2026-09-28T13:46:18+00:00",
+    "summary": "<p>With the budget a month away, chancellor gives little indication in conference speech of where money will come from to reindustrialise Britain</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Healey vows to stick to fiscal rules in budget</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates\">UK politics live – latest updates</a><br /><br /></p></li></ul><p>John Healey cheered the Labour faithful with his <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">first conference speech</a> as chancellor, offering an upbeat vision of a reindustrialised Britain with fresh opportunities for young people, but he gave little sense of how he intends to pay for Andy Burnham’s radical plans.</p><p>Healey’s budget next month is widely seen both inside and outside Labour as the moment when the prime minister’s radical rhetoric about ditching 40 years of neoliberal orthodoxy risks crashing into fiscal reality.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9371
+  },
+  {
+    "title": "Healey signals welfare reform push and new apprenticeships scheme",
+    "link": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
+    "source": "The Guardian Economics",
+    "published": "2026-09-28T12:25:29+00:00",
+    "summary": "<p>Chancellor sets out measures to support jobs and growth in conference speech but vows fiscal discipline in budget</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Analysis: Healey offers upbeat vision but little light on how to pay for it</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high\">Average price of diesel on UK forecourts reaches all-time high</a></p></li></ul><p>John Healey has signalled Labour will stage a fresh attempt at welfare reform as he pledged to put fiscal discipline at the core of next month’s budget, alongside measures to inject hope into Britain’s economy.</p><p>In his first speech as chancellor to the <a href=\"https://www.theguardian.com/politics/labourconference\">Labour conference</a>, Healey warned that next month’s highly anticipated tax-and-spending event would need to take into account a challenging global backdrop.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.872
+  },
+  {
     "title": "Gouged: why Americans are being ripped off – and what to do about it",
     "link": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
     "source": "The Guardian Economics",
@@ -17,7 +113,7 @@
     "link": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
     "source": "The Guardian Economics",
     "published": "2026-09-28T11:00:32+00:00",
-    "summary": "<p>Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’</p><p>Donald Trump has taken to repeating a familiar boast: “<a href=\"https://www.presidency.ucsb.edu/documents/pool-reports-september-16-2026\">We have the greatest economy</a> in history,” Trump said recently at a White House press gaggle. The boast comes even though inflation is higher and economic growth lower than when Joe Biden left office, even though <a href=\"https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523\">gas prices have jumped around 50%</a> since the war against Iran started, and even though <a href=\"https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html\">73% of Americans think the economy</a> is in fair or poor shape (48% say it’s in poor shape). What’s more, the Federal Reserve is so worried about inflation that it just raised interest rates.</p><p>“It’s bluster, it’s gaslighting for him to say the economy is the greatest ever,” said Darrick Hamilton, chief economist for the AFL-CIO, the nation’s main union federation. “The economy is trending down by many measures. A lot of that has been caused by Trump’s unforced errors.”</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections\">Continue reading...</a>",
+    "summary": "<p>Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for The Stakes 2026: your weekly guide to the US midterms</a></p></li></ul><p>Donald Trump has taken to repeating a familiar boast: “<a href=\"https://www.presidency.ucsb.edu/documents/pool-reports-september-16-2026\">We have the greatest economy</a> in history,” Trump said recently at a White House press gaggle. The boast comes even though inflation is higher and economic growth lower than when Joe Biden left office, even though <a href=\"https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523\">gas prices have jumped about 50%</a> since the war against Iran started, and even though <a href=\"https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html\">73% of Americans think the economy</a> is in fair or poor shape (48% say it’s in poor shape). What’s more, the Federal Reserve is so worried about inflation that it just raised interest rates.</p><p>“It’s bluster, it’s gaslighting for him to say the economy is the greatest ever,” said Darrick Hamilton, chief economist for the AFL-CIO, the nation’s main union federation. “The economy is trending down by many measures. A lot of that has been caused by Trump’s unforced errors.”</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Election",
@@ -26,31 +122,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7935
-  },
-  {
-    "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
-    "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T10:47:00+00:00",
-    "summary": "The note was brief, but the implications are big: The chief economist of private-equity giant Apollo Global Management thinks agentic AI could spark a bank run.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
-    "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T09:32:00+00:00",
-    "summary": "Strategists at Goldman Sachs see potential restrictions on U.S. diesel exports adding $0.30 per gallon to domestic retail gasoline prices",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
   },
   {
     "title": "Debt-hungry AI companies face increased risk as bond yields spike",
@@ -306,79 +377,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9535
-  },
-  {
-    "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
-    "link": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-    "source": "The Guardian Economics",
-    "published": "2026-09-22T14:04:46+00:00",
-    "summary": "<p>Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next month</p><p>The UK government borrowed a higher-than-expected £18.3bn last month, increasing the pressure on John Healey as he attempts to calm jittery bond markets before next month’s budget.</p><p>Some economists said it was “inevitable” that the chancellor would need to raise taxes on 28 October if he is to meet demands for extra spending on defence without further borrowing from investors on international money markets.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
-    "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-    "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-22T12:28:51+00:00",
-    "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "EU spends three times more on imports from China than bloc exports there",
-    "link": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-09-22T11:54:08+00:00",
-    "summary": "<p>Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in July</p><p>Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown.</p><p>Customs data showed the gap between the EU’s imports from <a href=\"https://www.theguardian.com/world/china\">China</a> and exports to China, the trade deficit, ran at more than €1bn (£860m) a day in July.</p> <a href=\"https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-22T01:30:01+00:00",
-    "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-21T15:04:04+00:00",
-    "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI",
-      "Transport"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
-  },
-  {
-    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-    "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-09-21T12:00:11+00:00",
-    "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
   }
 ]
