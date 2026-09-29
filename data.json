@@ -1,5 +1,42 @@
 [
   {
+    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-29T05:13:03+00:00",
+    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it affects you",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+    "source": "The Guardian Economics",
+    "published": "2026-09-29T04:42:57+00:00",
+    "summary": "<p>Reserve Bank announces fourth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February, March and May.</p><p>The central bank raised the cash rate to 4.6%, from 4.35%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7476
+  },
+  {
+    "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+    "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T01:31:00+00:00",
+    "summary": "Anthropic’s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
     "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
     "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -340,42 +377,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8658
-  },
-  {
-    "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
-    "link": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
-    "source": "The Guardian Economics",
-    "published": "2026-09-23T05:00:16+00:00",
-    "summary": "<p>Treasury committee rejects calls for fundamental reform of independent watchdog the Office for Budget Responsibility</p><p>Attacks on the government’s independent economic forecaster from left and right of the political spectrum are akin to “shooting the messenger”, according to an influential group of MPs.</p><p>The Treasury committee rejected “siren calls to fundamentally reform” the Office for Budget Responsibility (OBR) and said it should not be blamed when policymakers had to make tough decisions because of tight public finances.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.449
-  },
-  {
-    "title": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-22T16:07:06+00:00",
-    "summary": "<p>The rising cost of servicing the UK national debt pushed up borrowing last month, while oil is dropping, and M&amp;G holds Bond Vigilantes Forum in London</p><p><strong>How much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules?</strong></p><p>That’s the question dogging Westminster and the City.</p><p>“The chancellor has probably lost about half the headroom he inherited, leaving it between £10bn to £15bn. As long as the headroom is in double figures, he will probably be able to avoid topping it up, but the drop in headroom means any additional day-to-day spending, such as on defence or cost of living, will have to be paid for by higher taxes.</p><p>“What’s more, if the recent rise in energy prices is sustained through the next few months, household energy bills could rise by another 25% in January, which would take them above the level that the previous government capped them at. That would only further increase the pressure to act on cost of living by temporarily subsiding energy bills.</p><p>“The PM and chancellor will be feeling quite claustrophobic today as the walls close in around them. Borrowing costs keep climbing, while borrowing itself is outpacing the teeny rise in tax receipts.</p><p>Everyone can diagnose the problem, but it’s far from clear that a PM who swept to power promising good things for all is capable of holding a fractious Labour party together to carry out the tough work needed.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9535
-  },
-  {
-    "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-    "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-22T12:28:51+00:00",
-    "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
   }
 ]
