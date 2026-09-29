@@ -1,33 +1,33 @@
 [
   {
-    "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
-    "link": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
+    "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+    "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T18:15:00+00:00",
-    "summary": "There were no major breakthroughs on big issues including AI, Iran and Taiwan.",
+    "published": "2026-09-29T00:03:00+00:00",
+    "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_score": 0.0
   },
   {
-    "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
-    "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+    "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
+    "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T17:21:00+00:00",
-    "summary": "SpaceX cut the flight short after initially aiming to send it on a nearly 10-hour mission.",
+    "published": "2026-09-28T22:03:00+00:00",
+    "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3919
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7992
   },
   {
     "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
     "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T17:10:00+00:00",
+    "published": "2026-09-28T21:23:00+00:00",
     "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
     "matched_keywords": [
       "AI"
@@ -36,28 +36,16 @@
     "sentiment_score": 0.6124
   },
   {
-    "title": "Micron has a chance to set the record straight with its earnings report",
-    "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+    "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
+    "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T16:58:00+00:00",
-    "summary": "Micron is no longer the company it was before the AI boom, and one analyst says it’s time that investors fully appreciate that.",
+    "published": "2026-09-28T21:19:00+00:00",
+    "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5709
-  },
-  {
-    "title": "Nvidia is right: Its stock is a bargain by this measure",
-    "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T16:33:00+00:00",
-    "summary": "Nvidia’s stock has gotten cheaper even as the company has sustained robust levels of growth.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
+    "sentiment_score": 0.6705
   },
   {
     "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
@@ -377,5 +365,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9535
+  },
+  {
+    "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+    "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-22T12:28:51+00:00",
+    "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
   }
 ]
