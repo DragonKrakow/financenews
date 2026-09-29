@@ -1,15 +1,63 @@
 [
   {
-    "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
-    "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+    "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+    "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T12:03:00+00:00",
-    "summary": "Some research suggests that GLP-1 drugs may raise the risk of a rare eye disease that causes full or partial vision loss.",
+    "published": "2026-09-29T16:45:00+00:00",
+    "summary": "Netflix investors are too worried about the U.S. and are overlooking gains abroad, Deutsche Bank argues.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
+    "sentiment_score": -0.7096
+  },
+  {
+    "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+    "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T16:44:00+00:00",
+    "summary": "Author and FT correspondent Robin Wigglesworth tells MarketWatch about how bonds build the modern financial system, and what they are currently saying about and inflation, government debt and the financial markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T15:45:00+00:00",
+    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-29T15:07:56+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-29T14:37:07+00:00",
+    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
   },
   {
     "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
@@ -24,18 +72,6 @@
     "sentiment_score": 0.7351
   },
   {
-    "title": "UK mortgage approvals lowest since December 2023; diesel hits new record high near £2 a litre – business live",
-    "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-29T11:44:44+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
     "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
     "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
     "source": "The Guardian Economics",
@@ -46,55 +82,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9091
-  },
-  {
-    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T10:00:01+00:00",
-    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
-  },
-  {
-    "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
-    "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T09:26:00+00:00",
-    "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chip maker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
-    "matched_keywords": [
-      "Semiconductors",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T09:16:00+00:00",
-    "summary": "“I could rent the property and generate $800 a month in positive cash flow.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
-    "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T09:12:00+00:00",
-    "summary": "At least about $4.2 trillion of  the estimated yearly costs needed to fund the artificial-intelligence build-out is not being covered, according to a consulting firm.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
@@ -377,5 +364,18 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.875
+  },
+  {
+    "title": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
+    "link": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
+    "source": "The Guardian Economics",
+    "published": "2026-09-24T06:12:45+00:00",
+    "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to its highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8645
   }
 ]
