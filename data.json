@@ -1,9 +1,106 @@
 [
   {
+    "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+    "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T12:03:00+00:00",
+    "summary": "Some research suggests that GLP-1 drugs may raise the risk of a rare eye disease that causes full or partial vision loss.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+    "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-29T12:00:33+00:00",
+    "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "UK mortgage approvals lowest since December 2023; diesel hits new record high near £2 a litre – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-29T11:44:44+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
+    "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
+    "source": "The Guardian Economics",
+    "published": "2026-09-29T11:43:16+00:00",
+    "summary": "<p>PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Business live – latest updates</a></p></li></ul><p>A year ago Andy Burnham had a tough business reception at Labour’s party conference. The then mayor of Greater Manchester, with clear ambitions to replace Keir Starmer, had rattled the City of London with his comment that <a href=\"https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders\">Britain should be less “in hock” to bond markets</a>.</p><p>Returning to the annual gathering in Liverpool a year later as prime minister, the mood is different. Labour is pushing to repair relations with corporate Britain and reassure City bond traders against a jittery backdrop amid the Middle East war.</p> <a href=\"https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9091
+  },
+  {
+    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-29T10:00:01+00:00",
+    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+    "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T09:26:00+00:00",
+    "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chip maker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
+    "matched_keywords": [
+      "Semiconductors",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T09:16:00+00:00",
+    "summary": "“I could rent the property and generate $800 a month in positive cash flow.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
+    "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-29T09:12:00+00:00",
+    "summary": "At least about $4.2 trillion of  the estimated yearly costs needed to fund the artificial-intelligence build-out is not being covered, according to a consulting firm.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
     "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
     "source": "CNBC Finance",
-    "published": "2026-09-29T05:13:03+00:00",
+    "published": "2026-09-29T07:19:38+00:00",
     "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
     "matched_keywords": [
       "AI"
@@ -23,66 +120,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7476
-  },
-  {
-    "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
-    "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T01:31:00+00:00",
-    "summary": "Anthropic’s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
-    "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-    "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T00:03:00+00:00",
-    "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-    "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T22:03:00+00:00",
-    "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7992
-  },
-  {
-    "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-    "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T21:23:00+00:00",
-    "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
-  },
-  {
-    "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-    "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-28T21:19:00+00:00",
-    "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
   },
   {
     "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
@@ -340,42 +377,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.875
-  },
-  {
-    "title": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
-    "link": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T06:12:45+00:00",
-    "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to its highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8645
-  },
-  {
-    "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-    "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-24T04:55:59+00:00",
-    "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
-    "link": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
-    "source": "The Guardian Economics",
-    "published": "2026-09-23T09:27:52+00:00",
-    "summary": "<p>IIF highlights challenges facing US, France, UK and Japan, while OECD and IMF also voice global concerns</p><p>Three heavyweight international bodies have issued stark warnings about the risks of rising debt levels and soaring borrowing costs across large economies.</p><p>The Paris-based Organisation for Economic Co-operation and Development (OECD), the International Monetary Fund (IMF) and the International Institute of Finance (IIF), the voice of global banking, on Wednesday highlighted the dangers of soaring interest rates on $365tn (£275tn) in global borrowing.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8658
   }
 ]
