@@ -1,29 +1,106 @@
 [
   {
-    "title": "UK economy ‘slightly larger’ than previously estimated after April-June growth revised up – business live",
+    "title": "He’s been badmouthing Treasury bonds since 2020, but ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+    "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T12:07:00+00:00",
+    "summary": "Investors have become accustomed to returns distorted by artificially low interest rates.  5% on bonds and 6% on stocks are more realistic and Bianco finds value in U.S. Treasury notes now.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "UK economic growth revised higher; diesel on brink of £2 a litre for first time – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-30T06:23:36+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Britons also put more money aside for a rainy day in April-June.</strong></p><p>The household saving ratio increased by 0.2 percentage points to 8.8% in Quarter 2 2026, driven by a rise in the contribution of non-pension saving, the ONS says.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-30T11:58:24+00:00",
+    "summary": "<p>UK cements its place as fastest-growing G7 country so far this year</p><p><strong>This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later.</strong></p><p><strong>Chris</strong> <strong>Beauchamp</strong>, chief market analyst at <strong>IG</strong>, says:</p><p>“Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister.</p><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates?page=with%3Ablock-6abcb3808f08d2f5d21fe794#block-6abcb3808f08d2f5d21fe794\">The highest growth in the G7 for the first half</a> is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.”</p><p>The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes.</p><p>The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%).</p><p>“The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%.</p><p>“However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter.</p><p>“Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter.</p><p>This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9962
+  },
+  {
+    "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
+    "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T11:20:00+00:00",
+    "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+    "matched_keywords": [
+      "Gold",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2846
+  },
+  {
+    "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+    "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T11:12:00+00:00",
+    "summary": "Revenue and profit forecasts fail to justify the hype baked into Moderna’s share price, according to Citi’s analysts.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+    "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T10:38:00+00:00",
+    "summary": "Shares in the aerospace company rose close to 3% in premarket trading on Wednesday after the U.S. Navy selected it to develop its next-generation fighter jet.",
+    "matched_keywords": [
+      "Aerospace"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+    "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T10:15:00+00:00",
+    "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7841
+  },
+  {
+    "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+    "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T09:20:00+00:00",
+    "summary": "Strategists at the bank said a rally at the end of the year would likely depend on oil prices lowering or stabilizing even as the historically best-performing quarter approaches.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
   },
   {
     "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
     "link": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
     "source": "The Guardian Economics",
     "published": "2026-09-30T04:40:25+00:00",
-    "summary": "<p>Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to <a href=\"https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate\">hike interest rates</a> again before Christmas.</p><p>The increasingly embattled treasurer was accused of “gaslighting” Australians by insisting that government spending was not responsible for high inflation, blaming instead higher fuel costs associated with the ongoing US-Israel war on Iran.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas\">Continue reading...</a>",
+    "summary": "<p>Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to <a href=\"https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate\">hike interest rates</a> again before Christmas.</p><p>The increasingly embattled treasurer was asked if he was “gaslighting” Australians by insisting that government spending was not responsible for high inflation, blaming instead higher fuel costs associated with the ongoing US-Israel war on Iran.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.934
+    "sentiment_score": -0.9173
   },
   {
     "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
@@ -66,24 +143,12 @@
     "link": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
     "source": "The Guardian Economics",
     "published": "2026-09-29T23:01:03+00:00",
-    "summary": "<p><strong>Theatre Royal Haymarket, London<br /></strong>James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes</p><p>Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston.</p><p>He played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch.</p> <a href=\"https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner\">Continue reading...</a>",
+    "summary": "<p><strong>Theatre Royal Haymarket, London<br /></strong>James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes</p><p>Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston.</p><p>He is played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch.</p> <a href=\"https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9842
-  },
-  {
-    "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-    "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T21:52:00+00:00",
-    "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9324
   },
   {
     "title": "Goldman Sachs CEO succession planning faces one big problem",
@@ -309,71 +374,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
-  },
-  {
-    "title": "China's Xi urges U.S. to cooperate on AI",
-    "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-25T01:22:17+00:00",
-    "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-    "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-24T17:12:04+00:00",
-    "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "US mortgage rates top 7% for first time in 20 months",
-    "link": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T16:31:58+00:00",
-    "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7579
-  },
-  {
-    "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T16:03:32+00:00",
-    "summary": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-    "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-24T14:16:27+00:00",
-    "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
