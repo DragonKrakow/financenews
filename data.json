@@ -1,92 +1,114 @@
 [
   {
-    "title": "He’s been badmouthing Treasury bonds since 2020, but ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
-    "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T12:07:00+00:00",
-    "summary": "Investors have become accustomed to returns distorted by artificially low interest rates.  5% on bonds and 6% on stocks are more realistic and Bianco finds value in U.S. Treasury notes now.",
+    "published": "2026-09-30T17:31:00+00:00",
+    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
     "matched_keywords": [
-      "Interest Rates"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
-    "title": "UK economic growth revised higher; diesel on brink of £2 a litre for first time – business live",
+    "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
+    "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T17:15:00+00:00",
+    "summary": "New research says the problem is worse than we thought.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9349
+  },
+  {
+    "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
+    "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T16:51:00+00:00",
+    "summary": "Every investor knows the drill: When markets buckle, buy gold. But in September, that playbook hasn’t worked as expected.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2382
+  },
+  {
+    "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+    "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T16:29:00+00:00",
+    "summary": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-09-30T11:58:24+00:00",
-    "summary": "<p>UK cements its place as fastest-growing G7 country so far this year</p><p><strong>This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later.</strong></p><p><strong>Chris</strong> <strong>Beauchamp</strong>, chief market analyst at <strong>IG</strong>, says:</p><p>“Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister.</p><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates?page=with%3Ablock-6abcb3808f08d2f5d21fe794#block-6abcb3808f08d2f5d21fe794\">The highest growth in the G7 for the first half</a> is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.”</p><p>The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes.</p><p>The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%).</p><p>“The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%.</p><p>“However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter.</p><p>“Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter.</p><p>This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-09-30T16:02:38+00:00",
+    "summary": "<p>Second-quarter GDP growth on both sides of the Atlantic was stronger than first estimated</p><p><strong>This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later.</strong></p><p><strong>Chris</strong> <strong>Beauchamp</strong>, chief market analyst at <strong>IG</strong>, says:</p><p>“Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister.</p><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates?page=with%3Ablock-6abcb3808f08d2f5d21fe794#block-6abcb3808f08d2f5d21fe794\">The highest growth in the G7 for the first half</a> is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.”</p><p>The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes.</p><p>The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%).</p><p>“The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%.</p><p>“However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter.</p><p>“Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter.</p><p>This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9962
+    "sentiment_score": 0.9964
   },
   {
-    "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
-    "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T11:20:00+00:00",
-    "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+    "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
+    "link": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T15:34:20+00:00",
+    "summary": "<p>Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressure</p><p>Good economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> reading buoyed up hopes that the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> might not hike rates as soon ⁠as next month.</p><p>A commerce department report ⁠showed the personal consumption expenditures (PCE) ​price index stood at 3.4% on an annual basis in August against estimates of 3.7%, per economists polled by Reuters.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed\">Continue reading...</a>",
     "matched_keywords": [
-      "Gold",
-      "AI",
-      "Artificial Intelligence"
+      "Fed",
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2846
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9062
   },
   {
-    "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-    "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T11:12:00+00:00",
-    "summary": "Revenue and profit forecasts fail to justify the hype baked into Moderna’s share price, according to Citi’s analysts.",
+    "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from Australian property values",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T15:00:51+00:00",
+    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6199
+  },
+  {
+    "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T14:31:26+00:00",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_score": 0.3818
   },
   {
-    "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
-    "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T10:38:00+00:00",
-    "summary": "Shares in the aerospace company rose close to 3% in premarket trading on Wednesday after the U.S. Navy selected it to develop its next-generation fighter jet.",
+    "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
+    "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T14:13:55+00:00",
+    "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
     "matched_keywords": [
-      "Aerospace"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-    "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T10:15:00+00:00",
-    "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
-    "matched_keywords": [
-      "Gold",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7841
-  },
-  {
-    "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-    "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T09:20:00+00:00",
-    "summary": "Strategists at the bank said a rally at the end of the year would likely depend on oil prices lowering or stabilizing even as the historically best-performing quarter approaches.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.743
   },
   {
     "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
@@ -125,18 +147,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.296
-  },
-  {
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T01:00:00+00:00",
-    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
@@ -360,19 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-25T14:46:27+00:00",
-    "summary": "<p>Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike\"><strong>Capital gains tax: how it works, and the pros and cons of another rise</strong></a></p></li></ul><p><br /></p><p><strong>TalkTalk is scrambling to secure its future amid the threat of administration, closing in on deals to sell its consumer and broadband arms as it seeks to save 900 jobs.</strong></p><p>The telecoms company said on Friday it is in the final stages of sealing deals to sell its consumer business as well as its wholesale operation, PXC.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
   }
 ]
