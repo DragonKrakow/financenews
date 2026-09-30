@@ -1,5 +1,67 @@
 [
   {
+    "title": "UK economy ‘slightly larger’ than previously estimated after April-June growth revised up – business live",
+    "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T06:23:36+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Britons also put more money aside for a rainy day in April-June.</strong></p><p>The household saving ratio increased by 0.2 percentage points to 8.8% in Quarter 2 2026, driven by a rise in the contribution of non-pension saving, the ONS says.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T04:40:25+00:00",
+    "summary": "<p>Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to <a href=\"https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate\">hike interest rates</a> again before Christmas.</p><p>The increasingly embattled treasurer was accused of “gaslighting” Australians by insisting that government spending was not responsible for high inflation, blaming instead higher fuel costs associated with the ongoing US-Israel war on Iran.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.934
+  },
+  {
+    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T03:39:08+00:00",
+    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T02:50:35+00:00",
+    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T01:00:00+00:00",
+    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
     "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
     "link": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
     "source": "The Guardian Economics",
@@ -22,18 +84,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9324
-  },
-  {
-    "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
-    "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-29T21:18:00+00:00",
-    "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
   },
   {
     "title": "Goldman Sachs CEO succession planning faces one big problem",
@@ -94,18 +144,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9091
-  },
-  {
-    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T07:19:38+00:00",
-    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   },
   {
     "title": "The RBA has hiked interest rates. Use our loan calculator to check how it affects you",
@@ -337,44 +375,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
-    "link": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T13:00:18+00:00",
-    "summary": "<p>A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answer</p><p>Once hailed as the “energy heart of South America”, <a href=\"https://www.theguardian.com/world/bolivia\">Bolivia</a>’s economy was buoyed up by a fossil gas boom from 2006 to 2014. At its height, then-president Evo Morales commissioned a <a href=\"https://www.theguardian.com/world/2018/aug/16/bolivian-president-evo-morales-new-residence-is-as-imposing-as-it-is-divisive-la-paz\">gleaming presidential skyscraper</a> and installed the world’s longest urban <a href=\"https://www.theguardian.com/cities/2016/feb/10/la-paz-cable-difference-city-subway-sky\">cable car network</a> in La Paz, the seat of government.</p><p>Flush with cash, the country <a href=\"https://www.imf.org/en/news/articles/2018/12/06/pr18453-imf-executive-board-concludes-2018-article-iv-consultation-with-bolivia\">grew its GDP</a>, expanded <a href=\"https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia\">social programmes</a> and <a href=\"https://www.npr.org/sections/goatsandsoda/2019/11/26/781199250/how-evo-morales-made-bolivia-a-better-place-before-he-was-forced-to-flee\">halved poverty rates</a>. But then commodity prices plummeted and gas reserves <a href=\"https://www.bloomberg.com/news/features/2024-10-09/bolivia-natural-gas-shortage-sends-economy-teetering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjMzOTQwMiwiZXhwIjoxNzg2OTQ0MjAyLCJhcnRpY2xlSWQiOiJTTDM1OFNUMEFGQjQwMCIsImJjb25uZWN0SWQiOiJGQ0Y1MzVDRTU5QUI0RUY4QkU3NTEwNEM2NEFCNzcwMSJ9.GaXAfxQvvucJBB2MOcQ6bai-tCWm4MkudrmGPmANVgc\">started to dry up</a>, bringing Bolivia’s “<a href=\"https://www.reuters.com/world/americas/bolivias-creaking-big-state-model-rings-warning-bell-south-america-2023-06-27/\">economic miracle</a>” crashing down. Inflation – once the <a href=\"https://apnews.com/article/bolivia-elections-president-morales-bread-socialism-mas-subsidies-protests-fd1f696aa8036647f7d023a79c272c8a\">region’s lowest</a> – has soared.</p> <a href=\"https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2406
-  },
-  {
-    "title": "Oil price rise creates more pressure on UK policymakers before budget",
-    "link": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T11:41:08+00:00",
-    "summary": "<p>Treasury sources concede ‘less room’ for manoeuvre as global bond selloff also hikes government’s borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p></li></ul><p>Oil prices lurched upwards again on Thursday, creating a growing headache for UK policymakers ahead of John Healey’s budget next month.</p><p>While Healey has been keen to present an upbeat picture of the UK’s economic prospects, Treasury sources concede the sharp jump in oil and gas prices means they have “less room” than a month ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6258
-  },
-  {
-    "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
-    "link": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-    "source": "The Guardian Economics",
-    "published": "2026-09-24T08:48:11+00:00",
-    "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.875
   }
 ]
