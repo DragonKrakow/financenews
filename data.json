@@ -3,7 +3,7 @@
     "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
     "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T17:31:00+00:00",
+    "published": "2026-10-01T00:20:00+00:00",
     "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
     "matched_keywords": [
       "AI"
@@ -12,40 +12,103 @@
     "sentiment_score": -0.4767
   },
   {
-    "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
-    "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+    "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T23:44:28+00:00",
+    "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "Google shows it’s not out of the AI race just yet",
+    "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T17:15:00+00:00",
-    "summary": "New research says the problem is worse than we thought.",
+    "published": "2026-09-30T22:51:00+00:00",
+    "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+    "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T21:22:00+00:00",
+    "summary": "The S&amp;P 500 has gained slightly in September, but three-quarters of its components have declined.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T21:09:42+00:00",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+    "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-09-30T20:59:00+00:00",
+    "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9349
+    "sentiment_score": -0.8402
   },
   {
-    "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
-    "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T16:51:00+00:00",
-    "summary": "Every investor knows the drill: When markets buckle, buy gold. But in September, that playbook hasn’t worked as expected.",
+    "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T20:53:12+00:00",
+    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
     "matched_keywords": [
-      "Gold"
+      "Interest Rates",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
+    "sentiment_score": 0.6199
   },
   {
-    "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-    "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+    "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T16:29:00+00:00",
-    "summary": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
+    "published": "2026-09-30T20:32:00+00:00",
+    "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
+  },
+  {
+    "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+    "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T17:49:27+00:00",
+    "summary": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6602
   },
   {
     "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – as it happened",
@@ -74,29 +137,17 @@
     "sentiment_score": 0.9062
   },
   {
-    "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from Australian property values",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+    "title": "If turbocharged petrol prices are driving up inflation, then why are Australia’s unemployed on the line? | Greg Jericho",
+    "link": "https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment",
     "source": "The Guardian Economics",
-    "published": "2026-09-30T15:00:51+00:00",
-    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
+    "published": "2026-09-30T15:00:48+00:00",
+    "summary": "<p>Avoiding a rise in unemployment is important for the RBA – but apparently not a dealbreaker</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>And here we are again. Hello darkness my old friend. Interest rates up again and talk of a recession if needed.</p><p>The Reserve Bank’s enacting legislation gives it a dual mandate – “price stability [ie stable inflation] and the maintenance of full employment in Australia”. But in reality the RBA seems to ignore the “full employment” aspect overall and we now need to worry about a recession.</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6199
-  },
-  {
-    "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T14:31:26+00:00",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.509
   },
   {
     "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
@@ -320,55 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-    "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-26T13:30:06+00:00",
-    "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
-    "source": "The Guardian Economics",
-    "published": "2026-09-26T11:00:35+00:00",
-    "summary": "<p>President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms?</p><p>It was an ideal summer to cut trees.</p><p>The weather in Maine’s Penobscot county – one of the most heavily forested counties in a state<strong> </strong>dense with trees – was warm and dry. Yet even as the county’s wood had grown to an ideal size to harvest, the machines Molly London typically uses sat idle.</p> <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6597
-  },
-  {
-    "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
-    "source": "The Guardian Economics",
-    "published": "2026-09-25T16:53:49+00:00",
-    "summary": "<p>The Chinese leader’s visit to Washington appears to have done nothing to shift the stalemate in bilateral relations </p><p>Within days, two high-profile Chinese visitors will arrive in the US – envoys of friendship, as Xi Jinping described them when he met Donald Trump at the White House this week. The giant pandas, Ping Ping and Fu Shuang, will be hosted at Atlanta zoo. Beijing dispatched the first panda pair to the US in 1972 following President Richard Nixon’s landmark visit to China. It uses the animals to&nbsp;indicate satisfaction or displeasure with other nations. But it also charges heftily for their lease: reportedly, <a href=\"https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/\">around $1m a year</a> per pair. <a href=\"https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/\">Americans’ views</a> of China have warmed from a pandemic nadir, but are unlikely to be shifted much by two animals, however charming.&nbsp;These days they are more of a token gesture&nbsp;than a striking symbol.</p><p>It is telling that the announcement was one of the <a href=\"https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment\">main takeaways</a> of Mr Xi’s <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit\">visit to Washington</a>. Expectations were low after May’s stalemate summit in Beijing, but this meeting still struggled to meet them. The US president gave Mr Xi a lavish welcome –&nbsp;unusually, travelling to meet the “strong, vibrant and&nbsp;fit” Chinese leader off the plane. He insisted that they had “never gotten along better”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0129
-  },
-  {
-    "title": "Healey appoints Labour manifesto writer, adding to election speculation",
-    "link": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
-    "source": "The Guardian Economics",
-    "published": "2026-09-25T16:34:13+00:00",
-    "summary": "<p>Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint Global</p><p>Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an adviser to John Healey, in a move likely to fuel speculation about an early general election.</p><p>The chancellor is keen to strengthen his team before the critical budget on 28 October, as the economy is buffeted by <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">high oil prices</a> and rising government <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">borrowing costs</a>.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   }
 ]
