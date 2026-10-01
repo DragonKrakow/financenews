@@ -1,5 +1,81 @@
 [
   {
+    "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
+    "link": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T12:12:00+00:00",
+    "summary": "What’s in the conviction list: Amazon, Huntington, Occidental, Burlington, Johnson Control. What’s out: Tyson, ConocoPhillips, Golar, Loar, Air Products & Chemicals",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "How European supplies could impact a U.S. diesel ban as White House reportedly asks Germany, France to release stockpiles",
+    "link": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T11:58:00+00:00",
+    "summary": "Reuters reported that the EU Commission, France, Ireland, Britain and Italy are holding a call about the possibility of releasing diesel stocks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
+    "link": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T11:54:00+00:00",
+    "summary": "Deutsche Bank analysts just shared their top stock picks in the tech sector for the remainder of the year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T11:15:00+00:00",
+    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+    "source": "The Guardian Economics",
+    "published": "2026-10-01T10:18:03+00:00",
+    "summary": "<p>Fears that US deficit is unsustainable drive Britain’s 30-year bond yield to level not seen since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The turmoil in global bond markets has intensified amid fears the US deficit is reaching unsustainable levels, helping drive UK long-term borrowing costs to a 28-year high.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors, who believe central banks will be forced to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.875
+  },
+  {
+    "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+    "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T10:10:00+00:00",
+    "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
     "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
     "link": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
     "source": "The Guardian Economics",
@@ -11,18 +87,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9381
-  },
-  {
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T00:20:00+00:00",
-    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
@@ -37,30 +101,6 @@
     "sentiment_score": 0.765
   },
   {
-    "title": "Google shows it’s not out of the AI race just yet",
-    "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T22:51:00+00:00",
-    "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-    "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T21:22:00+00:00",
-    "summary": "The S&amp;P 500 has gained slightly in September, but three-quarters of its components have declined.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
-  },
-  {
     "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
     "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
     "source": "CNBC Finance",
@@ -71,18 +111,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3818
-  },
-  {
-    "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-    "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T20:59:00+00:00",
-    "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8402
   },
   {
     "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
@@ -96,18 +124,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4515
-  },
-  {
-    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-    "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-09-30T20:32:00+00:00",
-    "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
   },
   {
     "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
@@ -360,17 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7935
-  },
-  {
-    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-27T15:35:34+00:00",
-    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
   }
 ]
