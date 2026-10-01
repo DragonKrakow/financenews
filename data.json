@@ -1,79 +1,53 @@
 [
   {
-    "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
-    "link": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T12:12:00+00:00",
-    "summary": "What’s in the conviction list: Amazon, Huntington, Occidental, Burlington, Johnson Control. What’s out: Tyson, ConocoPhillips, Golar, Loar, Air Products & Chemicals",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "How European supplies could impact a U.S. diesel ban as White House reportedly asks Germany, France to release stockpiles",
-    "link": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T11:58:00+00:00",
-    "summary": "Reuters reported that the EU Commission, France, Ireland, Britain and Italy are holding a call about the possibility of releasing diesel stocks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
-    "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
-    "link": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T11:54:00+00:00",
-    "summary": "Deutsche Bank analysts just shared their top stock picks in the tech sector for the remainder of the year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T11:15:00+00:00",
-    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+    "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
     "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
     "source": "The Guardian Economics",
-    "published": "2026-10-01T10:18:03+00:00",
-    "summary": "<p>Fears that US deficit is unsustainable drive Britain’s 30-year bond yield to level not seen since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The turmoil in global bond markets has intensified amid fears the US deficit is reaching unsustainable levels, helping drive UK long-term borrowing costs to a 28-year high.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors, who believe central banks will be forced to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
+    "published": "2026-10-01T17:56:18+00:00",
+    "summary": "<p>Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.875
+    "sentiment_score": -0.7096
   },
   {
-    "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
-    "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+    "title": "Mark Zuckerberg is coming for Apple’s empire",
+    "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T10:10:00+00:00",
-    "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
+    "published": "2026-10-01T16:47:00+00:00",
+    "summary": "Apple has a grip on consumer technology through its iPhone business, but Meta is betting that the AI era warrants different types of hardware.",
     "matched_keywords": [
-      "Chips",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T16:16:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-01T14:24:36+00:00",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
   },
   {
     "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
@@ -99,18 +73,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T21:09:42+00:00",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
@@ -376,5 +338,41 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7935
+  },
+  {
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-27T15:35:34+00:00",
+    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-26T15:00:01+00:00",
+    "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+    "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-26T13:30:06+00:00",
+    "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
