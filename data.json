@@ -1,5 +1,18 @@
 [
   {
+    "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-10-01T05:00:28+00:00",
+    "summary": "<p>Borrowing can be good, there is no such thing as the ‘nation’s credit card’, and, yes, you can buck the markets – as previous governments have shown</p><p>Andy Burnham does a nice line in nostalgia. His <a href=\"https://labour.org.uk/updates/stories/andy-burnhams-speech-to-labour-party-conference-2026/\">first party conference speech</a> as prime minister was full of fond memories for the Britain of the 1950s and 1960s, when working-class families could sense their lives steadily getting better. The underlying message of his address was that, given time, he could rekindle that optimism and return the country to how it was before Margaret Thatcher wrecked everything.</p><p>Much of what Burnham says is true. The 1980s was a decade of deindustrialisation, asset-stripping and financial deregulation that has shaped modern Britain – and not in a good way.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9381
+  },
+  {
     "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
     "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -72,7 +85,7 @@
     "sentiment_score": -0.8402
   },
   {
-    "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+    "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
     "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
     "source": "The Guardian Economics",
     "published": "2026-09-30T20:53:12+00:00",
@@ -82,7 +95,7 @@
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6199
+    "sentiment_score": 0.4515
   },
   {
     "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
@@ -154,7 +167,7 @@
     "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
     "source": "The Guardian Economics",
     "published": "2026-09-30T14:13:55+00:00",
-    "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
+    "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -359,17 +372,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
-  },
-  {
-    "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-26T15:00:01+00:00",
-    "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   }
 ]
