@@ -1,5 +1,30 @@
 [
   {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T00:15:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+    "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-01T21:27:00+00:00",
+    "summary": "Annuity payout rates are closely tied to interest rates",
+    "matched_keywords": [
+      "Interest Rates",
+      "Silver"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8316
+  },
+  {
     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
     "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
     "source": "The Guardian Economics",
@@ -12,30 +37,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7096
-  },
-  {
-    "title": "Mark Zuckerberg is coming for Apple’s empire",
-    "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T16:47:00+00:00",
-    "summary": "Apple has a grip on consumer technology through its iPhone business, but Meta is betting that the AI era warrants different types of hardware.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T16:16:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
   },
   {
     "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
