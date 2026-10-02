@@ -1,21 +1,83 @@
 [
   {
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "title": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T12:11:08+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\"><strong>UK diesel price hits record high of £2 a litre</strong></a></p></li></ul><p><br /></p><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
+    "link": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T01:00:00+00:00",
-    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+    "published": "2026-10-02T11:30:00+00:00",
+    "summary": "“I have lost faith that the traditional career spanning decades at one company even exists anymore.”",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+    "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T11:03:31+00:00",
+    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8074
+  },
+  {
+    "title": "UK diesel price hits record high of £2 a litre",
+    "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T11:00:04+00:00",
+    "summary": "<p>Motorists and small businesses struggle with costs as Iran war drives up cost of oil worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/21/diesel-global-supply-shortage-record-prices-iran-war-energy-crisis-brent-crude\">‘Half my day’s pay goes to filling up my car’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2 a litre.</p><p>The price of a litre at UK forecourts has risen 40.5% since late February, when the US-Israel war on Iran began disrupting supplies of crude and refined oil products from the Gulf, leading to cost increases across the economy.</p> <a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
+    "sentiment_score": -0.9493
+  },
+  {
+    "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+    "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T11:00:00+00:00",
+    "summary": "Industry giant Conagra Brands has so many frozen-food items that they’re competing against each other, an analyst says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1027
+  },
+  {
+    "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+    "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T10:22:00+00:00",
+    "summary": "Were Flavio Bolsonaro to outperform current polling Sunday, an emerging-market fund manager see the opportunity for a sharp rally in stocks",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5829
   },
   {
     "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
     "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T00:15:00+00:00",
+    "published": "2026-10-02T10:15:00+00:00",
     "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
     "matched_keywords": [
       "AI"
@@ -24,17 +86,28 @@
     "sentiment_score": 0.802
   },
   {
-    "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-    "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-01T21:27:00+00:00",
-    "summary": "Annuity payout rates are closely tied to interest rates",
+    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T10:00:01+00:00",
+    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
     "matched_keywords": [
-      "Interest Rates",
-      "Silver"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8316
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T09:25:00+00:00",
+    "summary": "Egan-Jones has become the latest to issue a viral AI-doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
@@ -299,81 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8647
-  },
-  {
-    "title": "Healey offers upbeat vision but sheds little light on how it will be paid for",
-    "link": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
-    "source": "The Guardian Economics",
-    "published": "2026-09-28T13:46:18+00:00",
-    "summary": "<p>With the budget a month away, chancellor gives little indication in conference speech of where money will come from to reindustrialise Britain</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Healey vows to stick to fiscal rules in budget</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates\">UK politics live – latest updates</a><br /><br /></p></li></ul><p>John Healey cheered the Labour faithful with his <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">first conference speech</a> as chancellor, offering an upbeat vision of a reindustrialised Britain with fresh opportunities for young people, but he gave little sense of how he intends to pay for Andy Burnham’s radical plans.</p><p>Healey’s budget next month is widely seen both inside and outside Labour as the moment when the prime minister’s radical rhetoric about ditching 40 years of neoliberal orthodoxy risks crashing into fiscal reality.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9371
-  },
-  {
-    "title": "Healey signals welfare reform push and new apprenticeships scheme",
-    "link": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-    "source": "The Guardian Economics",
-    "published": "2026-09-28T12:25:29+00:00",
-    "summary": "<p>Chancellor sets out measures to support jobs and growth in conference speech but vows fiscal discipline in budget</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Analysis: Healey offers upbeat vision but little light on how to pay for it</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high\">Average price of diesel on UK forecourts reaches all-time high</a></p></li></ul><p>John Healey has signalled Labour will stage a fresh attempt at welfare reform as he pledged to put fiscal discipline at the core of next month’s budget, alongside measures to inject hope into Britain’s economy.</p><p>In his first speech as chancellor to the <a href=\"https://www.theguardian.com/politics/labourconference\">Labour conference</a>, Healey warned that next month’s highly anticipated tax-and-spending event would need to take into account a challenging global backdrop.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
-  },
-  {
-    "title": "Gouged: why Americans are being ripped off – and what to do about it",
-    "link": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-09-28T11:00:32+00:00",
-    "summary": "<p>How can we fix our pricing crisis? Economic sociologist Lindsay Owens urges tough new rules – and a consumer uprising</p><p>“Repeat after me: it’s not my fault, it’s not my fault, it’s not my fault.” That’s the message to frustrated US shoppers in Gouged: The End of a Fair Price – and What That Means for Your Wallet by Lindsay Owens, economic sociologist and head of the Groundwork Collaborative, a progressive Washington thinktank.</p><p>Consumer rage is rising and no wonder – we are all living through the “reinvention of the rip-off”, Owens told the Guardian, an experience that is undermining Americans’ trust in the economy. Nothing short of a consumer uprising and a slate of tough new rules is going to fix the problem, she believes.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "Mining",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8856
-  },
-  {
-    "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
-    "link": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
-    "source": "The Guardian Economics",
-    "published": "2026-09-28T11:00:32+00:00",
-    "summary": "<p>Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for The Stakes 2026: your weekly guide to the US midterms</a></p></li></ul><p>Donald Trump has taken to repeating a familiar boast: “<a href=\"https://www.presidency.ucsb.edu/documents/pool-reports-september-16-2026\">We have the greatest economy</a> in history,” Trump said recently at a White House press gaggle. The boast comes even though inflation is higher and economic growth lower than when Joe Biden left office, even though <a href=\"https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523\">gas prices have jumped about 50%</a> since the war against Iran started, and even though <a href=\"https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html\">73% of Americans think the economy</a> is in fair or poor shape (48% say it’s in poor shape). What’s more, the Federal Reserve is so worried about inflation that it just raised interest rates.</p><p>“It’s bluster, it’s gaslighting for him to say the economy is the greatest ever,” said Darrick Hamilton, chief economist for the AFL-CIO, the nation’s main union federation. “The economy is trending down by many measures. A lot of that has been caused by Trump’s unforced errors.”</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7935
-  },
-  {
-    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-27T15:35:34+00:00",
-    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-26T15:00:01+00:00",
-    "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   }
 ]
