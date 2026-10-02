@@ -1,27 +1,153 @@
 [
   {
-    "title": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
-    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-02T12:11:08+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\"><strong>UK diesel price hits record high of £2 a litre</strong></a></p></li></ul><p><br /></p><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
+    "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+    "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T17:48:00+00:00",
+    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
     "matched_keywords": [
       "Oil"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
-    "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
-    "link": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
+    "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+    "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T11:30:00+00:00",
-    "summary": "“I have lost faith that the traditional career spanning decades at one company even exists anymore.”",
+    "published": "2026-10-02T17:38:00+00:00",
+    "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
     "matched_keywords": [
       "AI"
     ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T17:30:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
+    "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T17:29:00+00:00",
+    "summary": "Humanoid robots have the potential to revolutionize life as we know it — but the U.S. does not have a supply chain that can produce key parts.",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
+    "sentiment_score": 0.15
+  },
+  {
+    "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T15:58:01+00:00",
+    "summary": "<p>US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\"><strong>US added just 29,000 jobs in September in sharp drop from last month’s gains</strong></a></p></li></ul><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
+    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T15:18:00+00:00",
+    "summary": "Job losses among screen-based workers and troubles for the housing market are among the challenges to the economy posed by AI, according to credit-ratings agency Egan-Jones.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8519
+  },
+  {
+    "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+    "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T14:04:29+00:00",
+    "summary": "<p>Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%</p><p>US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election.</p><p>The numbers were under half of economists’ expectations of <a href=\"https://www.wsj.com/economy/jobs/adp-says-private-sector-hiring-picked-up-in-september-d8c0f59e\">just under 70,000 new jobs</a>. Most job gains were concentrated in the healthcare industry, which added 17,000 new jobs, while the information, financial and professional industries saw losses, according to the latest data from the US Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6395
+  },
+  {
+    "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
+    "link": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T14:00:09+00:00",
+    "summary": "<p>A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich Hayek</p><p>The sound of guns from the advancing German armies could be heard clearly by John Maynard Keynes as his train trundled across northern France in the spring of 1918. The evidence of the struggle on the western front was everywhere but Keynes, then a Treasury official, was not heading to Paris on war business; he was off to buy some art.</p><p>Keynes made the risky trip to attend an auction of the studio of Edgar Degas, who had died the previous year. The man who would become the foremost economist of the 20th century returned to London with some impressionist treasures for the National Gallery, having successfully petitioned the chancellor of the exchequer to spend £20,000 at the sale.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "UK diesel price hits record high of £2 a litre",
+    "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T13:41:04+00:00",
+    "summary": "<p>France proposes that EU nations and IEA release oil and diesel from reserves as Iran war drives up cost worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/21/diesel-global-supply-shortage-record-prices-iran-war-energy-crisis-brent-crude\">‘Half my day’s pay goes to filling up my car’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2 a litre.</p><p>The price of a litre at UK forecourts has risen 40.5% since late February, when the US-Israel war on Iran began disrupting supplies of crude and refined oil products from the Gulf, leading to cost increases across the economy.</p> <a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9371
+  },
+  {
+    "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+    "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T13:29:27+00:00",
+    "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1423
+  },
+  {
+    "title": "There is a way to look after people, the planet – and Britain’s growth. It’s what we call the ‘wellbeing economy’ | Jamie Driscoll",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T13:01:29+00:00",
+    "summary": "<p>Imagine the UK with a 20-year investment plan, with green homes and fast transport. We already have the tools to make it happen</p><p>You’ve just left school. What’s your future?</p><p>I know a physics graduate making flat whites; a 30-year-old living in his childhood bedroom who feels like a failure; a lad in Blyth who turned down a job 15 miles away because there’s no bus, and for young people his age car insurance is almost £2,000 a year. Britain’s young people are our greatest resource, and we are failing them because capital markets won’t allocate investment where it is needed. Saying “hope” <a href=\"https://www.theguardian.com/politics/2026/sep/29/andy-burnham-unplugged-labour-conference-sketch\">in a conference speech</a> sounds warm. But people need a plan.</p><p>Jamie Driscoll is a Green party councillor on Newcastle city council and former North of Tyne mayor</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Transport"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6428
+  },
+  {
+    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T12:24:27+00:00",
+    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
   },
   {
     "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
@@ -34,80 +160,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8074
-  },
-  {
-    "title": "UK diesel price hits record high of £2 a litre",
-    "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-    "source": "The Guardian Economics",
-    "published": "2026-10-02T11:00:04+00:00",
-    "summary": "<p>Motorists and small businesses struggle with costs as Iran war drives up cost of oil worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/21/diesel-global-supply-shortage-record-prices-iran-war-energy-crisis-brent-crude\">‘Half my day’s pay goes to filling up my car’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2 a litre.</p><p>The price of a litre at UK forecourts has risen 40.5% since late February, when the US-Israel war on Iran began disrupting supplies of crude and refined oil products from the Gulf, leading to cost increases across the economy.</p> <a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9493
-  },
-  {
-    "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
-    "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T11:00:00+00:00",
-    "summary": "Industry giant Conagra Brands has so many frozen-food items that they’re competing against each other, an analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
-    "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
-    "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T10:22:00+00:00",
-    "summary": "Were Flavio Bolsonaro to outperform current polling Sunday, an emerging-market fund manager see the opportunity for a sharp rally in stocks",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5829
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T10:15:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-02T10:00:01+00:00",
-    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
-    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T09:25:00+00:00",
-    "summary": "Egan-Jones has become the latest to issue a viral AI-doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
@@ -323,54 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-    "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T12:00:33+00:00",
-    "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
-  },
-  {
-    "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
-    "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
-    "source": "The Guardian Economics",
-    "published": "2026-09-29T11:43:16+00:00",
-    "summary": "<p>PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Business live – latest updates</a></p></li></ul><p>A year ago Andy Burnham had a tough business reception at Labour’s party conference. The then mayor of Greater Manchester, with clear ambitions to replace Keir Starmer, had rattled the City of London with his comment that <a href=\"https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders\">Britain should be less “in hock” to bond markets</a>.</p><p>Returning to the annual gathering in Liverpool a year later as prime minister, the mood is different. Labour is pushing to repair relations with corporate Britain and reassure City bond traders against a jittery backdrop amid the Middle East war.</p> <a href=\"https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9091
-  },
-  {
-    "title": "The RBA has hiked interest rates. Use our loan calculator to check how it affects you",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-    "source": "The Guardian Economics",
-    "published": "2026-09-29T04:42:57+00:00",
-    "summary": "<p>Reserve Bank announces fourth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February, March and May.</p><p>The central bank raised the cash rate to 4.6%, from 4.35%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7476
-  },
-  {
-    "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
-    "link": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
-    "source": "The Guardian Economics",
-    "published": "2026-09-28T14:02:28+00:00",
-    "summary": "<p>World’s biggest economies release lists of products in latest move away from trade war – but no strategic goods are included</p><p>The US and China have released reciprocal lists of goods worth about $30bn each on which they plan to cut tariffs, ranging from consumer electronics and agricultural products to artificial flowers and live dolphins.</p><p>The announcements are the latest tack away from the intense trade war between the world’s two largest economies that dominated much of last year, though major strategic products are not included and no timeline has yet been given for the reductions.</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8647
   }
 ]
