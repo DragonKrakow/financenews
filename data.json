@@ -1,33 +1,46 @@
 [
   {
-    "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-    "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+    "title": "Why Western Digital and Seagate are seeing big stock drops today",
+    "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T17:48:00+00:00",
-    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
-  },
-  {
-    "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-    "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T17:38:00+00:00",
-    "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
+    "published": "2026-10-02T22:42:00+00:00",
+    "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+    "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+    "source": "The Guardian Economics",
+    "published": "2026-10-02T22:32:21+00:00",
+    "summary": "<p>Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation project</p><p>The US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.</p><p>Attorney general <a href=\"https://www.theguardian.com/us-news/todd-blanche\">Todd ⁠Blanche</a> – in comments to <a href=\"https://www.bloomberg.com/news/articles/2026-10-02/doj-not-reopening-criminal-probe-into-fed-s-powell-blanche-says\">Bloomberg News</a>, which first reported the development – said he has not ruled out ⁠continuing to look into the project’s oversight and potentially take ​action if evidence of ‌wrongdoing came to ‌light.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4168
+  },
+  {
+    "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+    "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-02T20:40:00+00:00",
+    "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
   },
   {
     "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
     "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T17:30:00+00:00",
+    "published": "2026-10-02T20:30:00+00:00",
     "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
     "matched_keywords": [
       "AI"
@@ -36,17 +49,28 @@
     "sentiment_score": 0.802
   },
   {
-    "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
-    "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+    "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+    "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T17:29:00+00:00",
-    "summary": "Humanoid robots have the potential to revolutionize life as we know it — but the U.S. does not have a supply chain that can produce key parts.",
+    "published": "2026-10-02T20:26:00+00:00",
+    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
     "matched_keywords": [
-      "AI",
-      "Supply Chain"
+      "Oil"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.15
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T18:49:03+00:00",
+    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
   },
   {
     "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
@@ -61,18 +85,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
-    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T15:18:00+00:00",
-    "summary": "Job losses among screen-based workers and troubles for the housing market are among the challenges to the economy posed by AI, according to credit-ratings agency Egan-Jones.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8519
   },
   {
     "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
@@ -136,18 +148,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6428
-  },
-  {
-    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-02T12:24:27+00:00",
-    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   },
   {
     "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
