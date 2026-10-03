@@ -1,5 +1,54 @@
 [
   {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T16:30:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T16:00:00+00:00",
+    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+    "link": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+    "source": "The Guardian Economics",
+    "published": "2026-10-03T15:00:02+00:00",
+    "summary": "<p>In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-ticking</p><p>Andy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on the brakes, kicking most reforms into the 2030s.</p><p>Local government reorganisation is on hold, along with an overhaul of the much-maligned water industry. Social care and significant welfare reform are matters to be resolved by the next government.</p> <a href=\"https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8531
+  },
+  {
+    "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+    "link": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+    "source": "The Guardian Economics",
+    "published": "2026-10-03T15:00:01+00:00",
+    "summary": "<p>Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election</p><p>The Conservatives are planning to make sweeping cuts beyond the <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">£47bn announced last year</a> if they win the next election, according to leaked comments by the shadow chancellor.</p><p>Speaking last year when he was shadow business secretary, Andrew Griffith told Conservative members he and fellow shadow cabinet ministers had discussed making further cuts in “every part of government”.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
     "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
     "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
     "source": "CNBC Finance",
@@ -10,66 +59,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "The next big AI battle is all about cuteness",
-    "link": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-03T12:30:00+00:00",
-    "summary": "Meta and other tech companies are betting that fuzzy mascots can win over AI skeptics.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-03T12:00:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
-    "link": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-03T11:30:00+00:00",
-    "summary": "The surge in bond yields to generational highs has investors around the world watching and worrying about what could crack, spiral or leave a trail of carnage in its path.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
-    "link": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-03T11:00:00+00:00",
-    "summary": "Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Why Western Digital and Seagate are seeing big stock drops today",
-    "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T22:42:00+00:00",
-    "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
   },
   {
     "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
@@ -375,5 +364,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
+  },
+  {
+    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-29T14:37:07+00:00",
+    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
   }
 ]
