@@ -1,5 +1,65 @@
 [
   {
+    "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+    "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-03T13:12:27+00:00",
+    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The next big AI battle is all about cuteness",
+    "link": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T12:30:00+00:00",
+    "summary": "Meta and other tech companies are betting that fuzzy mascots can win over AI skeptics.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T12:00:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
+    "link": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T11:30:00+00:00",
+    "summary": "The surge in bond yields to generational highs has investors around the world watching and worrying about what could crack, spiral or leave a trail of carnage in its path.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+    "link": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-03T11:00:00+00:00",
+    "summary": "Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
     "title": "Why Western Digital and Seagate are seeing big stock drops today",
     "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -23,42 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4168
-  },
-  {
-    "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-    "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T20:40:00+00:00",
-    "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T20:30:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-    "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-02T20:26:00+00:00",
-    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   },
   {
     "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
@@ -351,29 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2263
-  },
-  {
-    "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-29T15:07:56+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T14:37:07+00:00",
-    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   }
 ]
