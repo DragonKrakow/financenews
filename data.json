@@ -1,5 +1,29 @@
 [
   {
+    "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+    "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-04T12:00:00+00:00",
+    "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes",
+    "source": "The Guardian Economics",
+    "published": "2026-10-04T10:37:59+00:00",
+    "summary": "<p>Money is needed now for a system that has left families including mine struggling their way unsupported and forgotten </p><p>As one of many hundreds of thousands of people in the UK with a parent with Alzheimer’s, the passage in Andy Burnham’s speech about social care moved me to tears.</p><p>My mother had not even been diagnosed when I watched Theresa May <a href=\"https://www.theguardian.com/politics/2017/may/18/theresa-may-launches-conservative-manifesto-for-community-and-country\">announce her 2017 general election manifesto</a> in a hall in Halifax – with care funding at its heart.</p> <a href=\"https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
     "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
     "source": "The Guardian Economics",
@@ -22,18 +46,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.802
-  },
-  {
-    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-03T16:00:00+00:00",
-    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
   },
   {
     "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
@@ -314,20 +326,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.743
-  },
-  {
-    "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T04:40:25+00:00",
-    "summary": "<p>Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to <a href=\"https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate\">hike interest rates</a> again before Christmas.</p><p>The increasingly embattled treasurer was asked if he was “gaslighting” Australians by insisting that government spending was not responsible for high inflation, blaming instead higher fuel costs associated with the ongoing US-Israel war on Iran.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9173
   },
   {
     "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
