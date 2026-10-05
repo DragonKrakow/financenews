@@ -1,9 +1,59 @@
 [
   {
+    "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
+    "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
+    "source": "The Guardian Economics",
+    "published": "2026-10-05T11:39:37+00:00",
+    "summary": "<p>Banks and building societies raise prices as turmoil in bond markets increases expectations of base rate rise</p><p>The average cost of a five-year fixed-rate mortgage has hit the 6% barrier for the first time in three years, as jitters in the money markets make the loans more expensive for lenders to offer.</p><p>Figures from financial information provider Moneyfacts show the average is now 6.00%, its highest point since September 2023, while the average two-year fixed rate is not far behind at 5.98%, its highest since December of the same year.</p> <a href=\"https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
+    "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+    "source": "The Guardian Economics",
+    "published": "2026-10-05T11:37:46+00:00",
+    "summary": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+    "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T11:19:00+00:00",
+    "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Joachim Klement said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Euro falls to 17-month low against dollar amid French debt fears",
+    "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+    "source": "The Guardian Economics",
+    "published": "2026-10-05T11:18:20+00:00",
+    "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025, before recovering slightly. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.926
+  },
+  {
     "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
     "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-04T19:30:00+00:00",
+    "published": "2026-10-05T11:15:00+00:00",
     "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
     "matched_keywords": [
       "AI"
@@ -12,16 +62,65 @@
     "sentiment_score": 0.802
   },
   {
-    "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-    "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+    "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+    "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-04T12:00:00+00:00",
-    "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+    "published": "2026-10-05T10:46:00+00:00",
+    "summary": "A bullish “golden cross” technical pattern has appeared for the first time in more than three years. The last one worked out pretty well.",
     "matched_keywords": [
-      "Fed"
+      "Gold"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
+    "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T10:33:00+00:00",
+    "summary": "The chief investment office at Standard Chartered said bond and money markets have been overly hawkish on the Federal Reserve.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Micron’s historic cash bonanza is set to rain down on investors",
+    "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T10:30:00+00:00",
+    "summary": "Micron is taking in more cash than Apple and Nvidia. It’ll soon start doling that money out to shareholders in the form of stock buybacks..",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Trump’s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
+    "source": "The Guardian Economics",
+    "published": "2026-10-05T10:00:53+00:00",
+    "summary": "<p>Our ‘genius’ president is revealing his ignorance of economics, fueling concerns about the threat he poses to the world</p><p>Donald Trump recently made a bold claim about his abilities, <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\">writing on Truth Social</a>: “The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!”</p><p>But in the days before and after that post, Trump made one mind-boggling statement after another, including one that <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117213056648777213\">raised the possibility of cutting off all trade</a> with dozens of the US’s trading partners. The president’s statements had many experts questioning not just his intelligence, but also whether he – and the outlandish policies he was proposing – were a clear and present danger to both the US economy and the world economy. Public respect for Trump’s economic sense has fallen so low that just 7% of Americans think he should take the lead in regulating AI, according to <a href=\"https://prod-i.a.dj.com/public/resources/documents/Redacted_WSJ_Poll_Sept_2026.pdf\">a recent WSJ poll</a>.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.457
+  },
+  {
+    "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+    "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T09:39:00+00:00",
+    "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial-design software company at a bargain-basement valuation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
   },
   {
     "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
@@ -275,104 +374,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6602
-  },
-  {
-    "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T16:02:38+00:00",
-    "summary": "<p>Second-quarter GDP growth on both sides of the Atlantic was stronger than first estimated</p><p><strong>This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later.</strong></p><p><strong>Chris</strong> <strong>Beauchamp</strong>, chief market analyst at <strong>IG</strong>, says:</p><p>“Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister.</p><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates?page=with%3Ablock-6abcb3808f08d2f5d21fe794#block-6abcb3808f08d2f5d21fe794\">The highest growth in the G7 for the first half</a> is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.”</p><p>The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes.</p><p>The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%).</p><p>“The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%.</p><p>“However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter.</p><p>“Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter.</p><p>This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9964
-  },
-  {
-    "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
-    "link": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T15:34:20+00:00",
-    "summary": "<p>Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressure</p><p>Good economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> reading buoyed up hopes that the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> might not hike rates as soon ⁠as next month.</p><p>A commerce department report ⁠showed the personal consumption expenditures (PCE) ​price index stood at 3.4% on an annual basis in August against estimates of 3.7%, per economists polled by Reuters.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9062
-  },
-  {
-    "title": "If turbocharged petrol prices are driving up inflation, then why are Australia’s unemployed on the line? | Greg Jericho",
-    "link": "https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T15:00:48+00:00",
-    "summary": "<p>Avoiding a rise in unemployment is important for the RBA – but apparently not a dealbreaker</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>And here we are again. Hello darkness my old friend. Interest rates up again and talk of a recession if needed.</p><p>The Reserve Bank’s enacting legislation gives it a dual mandate – “price stability [ie stable inflation] and the maintenance of full employment in Australia”. But in reality the RBA seems to ignore the “full employment” aspect overall and we now need to worry about a recession.</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.509
-  },
-  {
-    "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-    "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T14:13:55+00:00",
-    "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
-  },
-  {
-    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T03:39:08+00:00",
-    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
-  },
-  {
-    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T02:50:35+00:00",
-    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "Goldman Sachs CEO succession planning faces one big problem",
-    "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T20:50:10+00:00",
-    "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-29T14:37:07+00:00",
-    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   }
 ]
