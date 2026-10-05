@@ -1,5 +1,102 @@
 [
   {
+    "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
+    "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T17:54:00+00:00",
+    "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
+    "link": "https://www.marketwatch.com/story/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find-9483b266?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T17:53:00+00:00",
+    "summary": "The next retail battleground could be AI recommendation engines, according to UBS.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
+    "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
+    "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T17:02:00+00:00",
+    "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8779
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T16:31:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T16:00:00+00:00",
+    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+    "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-05T15:47:42+00:00",
+    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a run-off on Oct. 25.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "SpaceX’s stock could actually be a bargain, according to this metric",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-could-actually-be-a-bargain-according-to-this-metric-ac3ddf45?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T15:45:00+00:00",
+    "summary": "The stock is expensive when valued solely by operating profit, but SpaceX is cheaper than Meta and Alphabet when you bring growth into the mix.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7717
+  },
+  {
+    "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
+    "link": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T15:00:00+00:00",
+    "summary": "“I have lost faith that the traditional career spanning decades at one company even exists anymore.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
     "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
     "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
     "source": "The Guardian Economics",
@@ -25,78 +122,17 @@
     "sentiment_score": 0.6597
   },
   {
-    "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
-    "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T11:19:00+00:00",
-    "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Joachim Klement said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "Euro falls to 17-month low against dollar amid French debt fears",
     "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
     "source": "The Guardian Economics",
     "published": "2026-10-05T11:18:20+00:00",
-    "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025, before recovering slightly. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
+    "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.926
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T11:15:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
-    "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T10:46:00+00:00",
-    "summary": "A bullish “golden cross” technical pattern has appeared for the first time in more than three years. The last one worked out pretty well.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
-    "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T10:33:00+00:00",
-    "summary": "The chief investment office at Standard Chartered said bond and money markets have been overly hawkish on the Federal Reserve.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Micron’s historic cash bonanza is set to rain down on investors",
-    "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T10:30:00+00:00",
-    "summary": "Micron is taking in more cash than Apple and Nvidia. It’ll soon start doling that money out to shareholders in the form of stock buybacks..",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Trump’s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
@@ -109,18 +145,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.457
-  },
-  {
-    "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-    "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T09:39:00+00:00",
-    "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial-design software company at a bargain-basement valuation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
   },
   {
     "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
@@ -347,32 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T20:53:12+00:00",
-    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4515
-  },
-  {
-    "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-    "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T17:49:27+00:00",
-    "summary": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6602
   }
 ]
