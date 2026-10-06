@@ -1,63 +1,27 @@
 [
   {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T12:15:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
-    "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
-    "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T11:21:00+00:00",
-    "summary": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.765
-  },
-  {
-    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
     "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T11:15:00+00:00",
+    "published": "2026-10-06T15:15:00+00:00",
     "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
   },
   {
-    "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-    "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
+    "title": "Prediction markets are coming for pop culture",
+    "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T11:15:00+00:00",
-    "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
+    "published": "2026-10-06T13:58:00+00:00",
+    "summary": "What to know before buying event contracts around your favorite reality shows and entertainers.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T09:20:00+00:00",
-    "summary": "Stocks are not expensive in an historical context, seasonal factors are supportive and Goldman Sachs hedge fund research forecasts a record high for the S&amp;P 500 before year-end.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   },
   {
     "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
@@ -371,5 +335,44 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
+  },
+  {
+    "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T20:53:12+00:00",
+    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4515
+  },
+  {
+    "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+    "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+    "source": "The Guardian Economics",
+    "published": "2026-09-30T17:49:27+00:00",
+    "summary": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6602
+  },
+  {
+    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+    "source": "CNBC Finance",
+    "published": "2026-09-30T03:39:08+00:00",
+    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
   }
 ]
