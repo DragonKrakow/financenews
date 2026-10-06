@@ -1,9 +1,33 @@
 [
   {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-06T12:15:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+    "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-06T11:21:00+00:00",
+    "summary": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.765
+  },
+  {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
     "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T23:00:00+00:00",
+    "published": "2026-10-06T11:15:00+00:00",
     "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
     "matched_keywords": [
       "AI"
@@ -12,40 +36,40 @@
     "sentiment_score": -0.4404
   },
   {
-    "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
-    "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+    "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+    "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T21:52:00+00:00",
-    "summary": "Analysts highlight the stock’s cheap valuation and the chip maker’s central role in the AI ecosystem.",
+    "published": "2026-10-06T11:15:00+00:00",
+    "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "This new AI model could help America close a technological gap with China",
-    "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+    "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T21:43:00+00:00",
-    "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
+    "published": "2026-10-06T09:20:00+00:00",
+    "summary": "Stocks are not expensive in an historical context, seasonal factors are supportive and Goldman Sachs hedge fund research forecasts a record high for the S&amp;P 500 before year-end.",
     "matched_keywords": [
-      "AI"
+      "Gold"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
   },
   {
-    "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-    "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T21:27:00+00:00",
-    "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
+    "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+    "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-06T08:47:30+00:00",
+    "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
     "matched_keywords": [
-      "AI"
+      "Gold"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
   },
   {
     "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
@@ -71,30 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7783
-  },
-  {
-    "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-    "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T20:30:00+00:00",
-    "summary": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
-    "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T20:14:00+00:00",
-    "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6059
   },
   {
     "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
