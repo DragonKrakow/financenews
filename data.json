@@ -1,58 +1,9 @@
 [
   {
-    "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
-    "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T17:54:00+00:00",
-    "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
-    "link": "https://www.marketwatch.com/story/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find-9483b266?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T17:53:00+00:00",
-    "summary": "The next retail battleground could be AI recommendation engines, according to UBS.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
-  },
-  {
-    "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-    "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T17:02:00+00:00",
-    "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
-  },
-  {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T16:31:00+00:00",
-    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.802
-  },
-  {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
     "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T16:00:00+00:00",
+    "published": "2026-10-05T23:00:00+00:00",
     "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
     "matched_keywords": [
       "AI"
@@ -61,11 +12,60 @@
     "sentiment_score": -0.4404
   },
   {
+    "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+    "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T21:52:00+00:00",
+    "summary": "Analysts highlight the stock’s cheap valuation and the chip maker’s central role in the AI ecosystem.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "This new AI model could help America close a technological gap with China",
+    "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T21:43:00+00:00",
+    "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
+    "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-05T21:27:00+00:00",
+    "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8779
+  },
+  {
+    "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+    "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-05T21:24:25+00:00",
+    "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+    "matched_keywords": [
+      "Election",
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
     "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
     "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
     "source": "CNBC Finance",
-    "published": "2026-10-05T15:47:42+00:00",
-    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a run-off on Oct. 25.",
+    "published": "2026-10-05T20:41:23+00:00",
+    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
     "matched_keywords": [
       "Election"
     ],
@@ -73,28 +73,28 @@
     "sentiment_score": 0.7783
   },
   {
-    "title": "SpaceX’s stock could actually be a bargain, according to this metric",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-could-actually-be-a-bargain-according-to-this-metric-ac3ddf45?mod=mw_rss_topstories",
+    "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+    "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T15:45:00+00:00",
-    "summary": "The stock is expensive when valued solely by operating profit, but SpaceX is cheaper than Meta and Alphabet when you bring growth into the mix.",
+    "published": "2026-10-05T20:30:00+00:00",
+    "summary": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7717
+    "sentiment_score": 0.4019
   },
   {
-    "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
-    "link": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
+    "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+    "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-05T15:00:00+00:00",
-    "summary": "“I have lost faith that the traditional career spanning decades at one company even exists anymore.”",
+    "published": "2026-10-05T20:14:00+00:00",
+    "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6059
   },
   {
     "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
