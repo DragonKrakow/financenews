@@ -1,27 +1,76 @@
 [
   {
-    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
-    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T15:15:00+00:00",
-    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+    "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+    "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-06T22:23:01+00:00",
+    "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
     "matched_keywords": [
+      "Oil",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
   },
   {
-    "title": "Prediction markets are coming for pop culture",
-    "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+    "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-06T13:58:00+00:00",
-    "summary": "What to know before buying event contracts around your favorite reality shows and entertainers.",
+    "published": "2026-10-06T21:52:00+00:00",
+    "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+    "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-06T20:24:00+00:00",
+    "summary": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+    "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-06T19:14:00+00:00",
+    "summary": "Highway drivers will be allowed to use a red-dyed farm fuel that’s tax-exempt through the end of 2026.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-06T18:41:32+00:00",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-06T18:30:00+00:00",
+    "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
   },
   {
     "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
@@ -300,18 +349,6 @@
     "sentiment_score": -0.7096
   },
   {
-    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-01T14:24:36+00:00",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
     "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
     "link": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
     "source": "The Guardian Economics",
@@ -335,44 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.765
-  },
-  {
-    "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T20:53:12+00:00",
-    "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4515
-  },
-  {
-    "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-    "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
-    "source": "The Guardian Economics",
-    "published": "2026-09-30T17:49:27+00:00",
-    "summary": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6602
-  },
-  {
-    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T03:39:08+00:00",
-    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
