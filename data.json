@@ -1,5 +1,42 @@
 [
   {
+    "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-07T06:16:39+00:00",
+    "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+    "link": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+    "source": "The Guardian Economics",
+    "published": "2026-10-07T04:00:34+00:00",
+    "summary": "<p>Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports</p><p>EU trade negotiators are heading to China for two days of crunch talks aimed at sealing a breakthrough deal tackling Beijing’s record £1bn-a-day trade surplus by curbing its exports of cheap hybrid electric cars into Europe.</p><p>Trade commissioner Maroš Šefčovič and his team fly out on Wednesday and will be negotiating up to the wire in talks scheduled to start the following day and continue late into Friday.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
+    "link": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-10-07T04:00:33+00:00",
+    "summary": "<p>In the second article in a series on the Polish economy, we look at how the country is forging closer ties with its neighbours</p><p>Two miles off the coast of Gdańsk, the white steel piles of Poland’s first offshore gas terminal rise from the slate-grey Baltic. Installed at a height eight metres above the waves, the floating cranes and construction vessels here are on the frontline of Europe’s push for energy security.</p><p>Since the taps were turned off on Russian gas after Vladimir Putin’s invasion of Ukraine four years ago, Poland has turned to the global energy market for supplies. But while conditions are far from ideal as the Middle East war drives oil and gas prices to stratospheric levels, strengthening the diversity of the country’s energy mix remains a top priority for Poland, its Baltic neighbours, and the EU at large.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8573
+  },
+  {
     "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
     "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
     "source": "CNBC Finance",
@@ -333,44 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8074
-  },
-  {
-    "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-    "source": "The Guardian Economics",
-    "published": "2026-10-01T17:56:18+00:00",
-    "summary": "<p>Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
-    "source": "The Guardian Economics",
-    "published": "2026-10-01T05:00:28+00:00",
-    "summary": "<p>Borrowing can be good, there is no such thing as the ‘nation’s credit card’, and, yes, you can buck the markets – as previous governments have shown</p><p>Andy Burnham does a nice line in nostalgia. His <a href=\"https://labour.org.uk/updates/stories/andy-burnhams-speech-to-labour-party-conference-2026/\">first party conference speech</a> as prime minister was full of fond memories for the Britain of the 1950s and 1960s, when working-class families could sense their lives steadily getting better. The underlying message of his address was that, given time, he could rekindle that optimism and return the country to how it was before Margaret Thatcher wrecked everything.</p><p>Much of what Burnham says is true. The 1980s was a decade of deindustrialisation, asset-stripping and financial deregulation that has shaped modern Britain – and not in a good way.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9381
-  },
-  {
-    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-    "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-    "source": "CNBC Finance",
-    "published": "2026-09-30T23:44:28+00:00",
-    "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
   }
 ]
