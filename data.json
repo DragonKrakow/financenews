@@ -1,52 +1,76 @@
 [
   {
-    "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
-    "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-07T18:07:09+00:00",
+    "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+    "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T11:44:00+00:00",
-    "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
+    "published": "2026-10-07T18:07:00+00:00",
+    "summary": "Last month’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
+    "link": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
+    "source": "The Guardian Economics",
+    "published": "2026-10-07T17:16:52+00:00",
+    "summary": "<p>The Tory leader’s proposal to slash the tax would shovel £6bn of taxpayer money to the already-wealthy</p><p>Kemi Badenoch’s <a href=\"https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech\">inheritance tax gambit</a> is a Conservative classic. After all, it was George Osborne’s high-profile pledge to “take the family home out of inheritance tax” in 2007 that put Gordon Brown off calling a snap general election.</p><p>In practice, Osborne’s plan involved a £1m threshold for inheritance tax – and given the global financial crisis had blown a hole in the public finances by the time the Conservative-Lib Dem coalition came to power in 2010, it never came to pass.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8126
+  },
+  {
+    "title": "Beware rightwing economic myths such as ‘maxing out the nation’s credit card’ | Letters",
+    "link": "https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card",
+    "source": "The Guardian Economics",
+    "published": "2026-10-07T17:01:00+00:00",
+    "summary": "<p>Readers respond to an article in which Larry Elliott argues that Andy Burnham must challenge neoliberal nostrums</p><p>Larry Elliott’s column on the rightwing economic myths constraining Andy Burnham’s government should be required reading before <a href=\"https://www.parliament.uk/about/how/role/check-and-approve-government-spending-and-taxation/the-budget-and-parliament/\">John Healey’s budget</a> (<a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes, 1 October</a>).</p><p>I spent 20 years trading bonds, and agree that the household budget analogy bears no relation to how the UK state finances itself. Parliament votes on the spending, the Treasury instructs the Bank of England, and the Bank credits accounts in the private sector. Taxes withdraw money afterwards.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
   },
   {
-    "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
-    "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+    "title": "Labour could oversee worst parliament on record for living standards, study warns",
+    "link": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
+    "source": "The Guardian Economics",
+    "published": "2026-10-07T16:30:55+00:00",
+    "summary": "<p>Energy and housing costs threaten biggest decline in modern times unless bold action taken, says thinktank</p><p>Soaring energy and housing costs mean Labour is on course to preside over the worst parliament for living standards in modern times, a stark analysis warns.</p><p>Three weeks ahead of John Healey’s budget, the Joseph Rowntree Foundation said Britain faces a “dire” outlook unless the government takes “bold policy action”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8176
+  },
+  {
+    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T11:40:00+00:00",
-    "summary": "CoStar and Duolingo are two stocks that have faced investor pessimism, but present potential, according to Baillie Gifford.",
+    "published": "2026-10-07T14:30:00+00:00",
+    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": -0.0644
-  },
-  {
-    "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
-    "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T11:18:00+00:00",
-    "summary": "Meta Platforms, whose stock has thrived after the introduction of an artificial-intelligence assistant, just got another piece of good news.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
-  },
-  {
-    "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
-    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T11:11:00+00:00",
-    "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.1027
   },
   {
     "title": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
@@ -71,42 +95,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7506
-  },
-  {
-    "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
-    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T09:37:00+00:00",
-    "summary": "AMD’s CEO has been meeting executives in Taiwan and South Korea.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
-    "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T09:33:00+00:00",
-    "summary": "Investors are “underestimating the scale and scope” of the AI spending wave, said Dan Ives as he laid out five stocks to own.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
-    "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T09:01:00+00:00",
-    "summary": "Boasting breathtaking views of the Pacific Ocean, the charming 4-bedroom home is located on a triangular 0.4-acre oceanfront lot with direct access to a sandy beach via a wooden staircase.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
   },
   {
     "title": "Apparent exodus of super-rich suggests UK is no longer billionaires’ playground",
@@ -368,5 +356,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
+  },
+  {
+    "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+    "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-02T13:29:27+00:00",
+    "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1423
   }
 ]
