@@ -1,9 +1,70 @@
 [
   {
+    "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+    "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T22:32:00+00:00",
+    "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9001
+  },
+  {
+    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+    "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T20:58:00+00:00",
+    "summary": "Technology is the only one of the S&amp;P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "Options traders are betting on a dramatic drop in interest rates",
+    "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T20:36:00+00:00",
+    "summary": "Recent options activity points to bullish positioning for long-term bonds and utilities.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+    "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T19:35:00+00:00",
+    "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+    "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T19:12:00+00:00",
+    "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
     "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
     "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
     "source": "CNBC Finance",
-    "published": "2026-10-07T18:07:09+00:00",
+    "published": "2026-10-07T18:42:36+00:00",
     "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
     "matched_keywords": [
       "Fed"
@@ -12,17 +73,29 @@
     "sentiment_score": -0.4215
   },
   {
-    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+    "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+    "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T18:07:00+00:00",
-    "summary": "Last month’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+    "published": "2026-10-07T18:31:00+00:00",
+    "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8555
+  },
+  {
+    "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-07T18:22:00+00:00",
+    "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
   },
   {
     "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
@@ -61,18 +134,6 @@
     "sentiment_score": -0.8176
   },
   {
-    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
-    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T14:30:00+00:00",
-    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
     "title": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
     "link": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
     "source": "The Guardian Economics",
@@ -89,7 +150,7 @@
     "link": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
     "source": "The Guardian Economics",
     "published": "2026-10-07T10:14:35+00:00",
-    "summary": "<p>Kristalina Georgieva says big economies will have to make ‘very touch choices’ as soaring bond yields hit budgets</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates\">Business live – latest updates</a></p></li></ul><p>The head of the International Monetary Fund has called on governments across big economies to tighten their belts as soaring bond yields hit budgets.</p><p>Speaking in Singapore, the IMF’s managing director, Kristalina Georgieva, said global debt-to-GDP ratios were at their highest level since the second world war and on course to hit 100% in the coming years.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar\">Continue reading...</a>",
+    "summary": "<p>Kristalina Georgieva says big economies will have to make ‘very touch choices’ as soaring bond yields hit budgets</p><p>The head of the International Monetary Fund has called on governments across big economies to tighten their belts as soaring bond yields hit budgets.</p><p>Speaking in Singapore, the IMF’s managing director, Kristalina Georgieva, said global debt-to-GDP ratios were at their highest level since the second world war and on course to hit 100% in the coming years.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -305,68 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
-  },
-  {
-    "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-    "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-03T13:12:27+00:00",
-    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
-    "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
-    "source": "The Guardian Economics",
-    "published": "2026-10-02T22:32:21+00:00",
-    "summary": "<p>Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation project</p><p>The US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.</p><p>Attorney general <a href=\"https://www.theguardian.com/us-news/todd-blanche\">Todd ⁠Blanche</a> – in comments to <a href=\"https://www.bloomberg.com/news/articles/2026-10-02/doj-not-reopening-criminal-probe-into-fed-s-powell-blanche-says\">Bloomberg News</a>, which first reported the development – said he has not ruled out ⁠continuing to look into the project’s oversight and potentially take ​action if evidence of ‌wrongdoing came to ‌light.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation\">Continue reading...</a>",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4168
-  },
-  {
-    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-02T18:49:03+00:00",
-    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-02T15:58:01+00:00",
-    "summary": "<p>US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\"><strong>US added just 29,000 jobs in September in sharp drop from last month’s gains</strong></a></p></li></ul><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-    "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-02T13:29:27+00:00",
-    "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1423
   }
 ]
