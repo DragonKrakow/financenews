@@ -1,75 +1,66 @@
 [
   {
-    "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-    "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T12:14:00+00:00",
-    "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
+    "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-08T17:51:51+00:00",
+    "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-    "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T11:43:00+00:00",
-    "summary": "Technology is the only one of the S&amp;P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
-    "matched_keywords": [
+      "Election",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_score": 0.4228
   },
   {
-    "title": "Tesla’s big AI gamble puts its EV business under a microscope",
-    "link": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
+    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+    "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T11:33:00+00:00",
-    "summary": "Investors are left with unanswered questions as the company leans on car sales to help fund its expensive AI ventures.",
+    "published": "2026-10-08T17:45:00+00:00",
+    "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
     "matched_keywords": [
-      "AI"
+      "Interest Rates"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
   },
   {
-    "title": "A strategist who called the Asian financial crisis sees parallels with the AI boom",
-    "link": "https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories",
+    "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+    "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T11:32:00+00:00",
-    "summary": "Albert Edwards, well-known for his generally bearish views on equity markets, finds the economicbenefits of AI to be a promise rather than a reality at present.",
+    "published": "2026-10-08T16:32:00+00:00",
+    "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
+    "sentiment_score": -0.2263
   },
   {
-    "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-    "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+    "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+    "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T11:00:00+00:00",
-    "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+    "published": "2026-10-08T15:46:00+00:00",
+    "summary": "“The birth-rate crisis is really an affordability crisis.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9001
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
   },
   {
-    "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
-    "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T10:30:00+00:00",
-    "summary": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
+    "title": "Send us your questions on how the US economy is shaping the midterm elections",
+    "link": "https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us",
+    "source": "The Guardian Economics",
+    "published": "2026-10-08T14:45:50+00:00",
+    "summary": "<p>Our business, labor and consumer rights reporters will answer your questions in a live Q&amp;A on Thursday 15 October</p><p>The US economy is top of voters’ minds ahead of the November midterms with food and gas prices remaining high, the <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">job market</a> unstable, consumers <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy\">angrier than ever</a>, and a new Fed chair, <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Kevin Warsh</a>, in place.</p><p>We’ll be hosting a live midterm election Q&amp;A on Thursday 15 October 2026 at 12pm EDT on the Guardian US site with a panel of our business, labor and consumer rights reporters: <strong><a href=\"https://www.theguardian.com/profile/lauren-aratani\">Lauren Aratani</a>, <a href=\"https://www.theguardian.com/profile/michael-sainato\">Michael Sainato</a>, <a href=\"https://www.theguardian.com/profile/heather-timmons\">Heather Timmons</a> </strong>and<strong> <a href=\"https://www.theguardian.com/profile/gaya-gupta\">Gaya Gupta</a></strong>. The team will cover <a href=\"https://www.theguardian.com/us-news/series/consumed\">cost of living</a> challenges, <a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs\">tariffs</a>, <a href=\"https://www.theguardian.com/business/2026/aug/12/inflation-data-july\">inflation</a> and new federal policy proposals from local candidates.</p><p><em><a href=\"https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers\">Will the Iran war cost Trump in the US midterm elections? Your questions answered</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms\">Who are the groups financially backing the candidates in the midterms?</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now\">The makeup of the Democratic party, plus key races to watch</a></em></p> <a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Continue reading...</a>",
     "matched_keywords": [
+      "Election",
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7227
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4329
   },
   {
     "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
@@ -364,5 +355,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4019
+  },
+  {
+    "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+    "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-03T13:12:27+00:00",
+    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   }
 ]
