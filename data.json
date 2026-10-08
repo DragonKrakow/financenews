@@ -1,21 +1,21 @@
 [
   {
-    "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-    "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+    "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+    "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T22:32:00+00:00",
-    "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+    "published": "2026-10-08T12:14:00+00:00",
+    "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9001
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
   },
   {
     "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
     "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T20:58:00+00:00",
+    "published": "2026-10-08T11:43:00+00:00",
     "summary": "Technology is the only one of the S&amp;P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
     "matched_keywords": [
       "AI"
@@ -24,41 +24,64 @@
     "sentiment_score": 0.5423
   },
   {
-    "title": "Options traders are betting on a dramatic drop in interest rates",
-    "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+    "title": "Tesla’s big AI gamble puts its EV business under a microscope",
+    "link": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T20:36:00+00:00",
-    "summary": "Recent options activity points to bullish positioning for long-term bonds and utilities.",
+    "published": "2026-10-08T11:33:00+00:00",
+    "summary": "Investors are left with unanswered questions as the company leans on car sales to help fund its expensive AI ventures.",
     "matched_keywords": [
-      "Interest Rates"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.4019
   },
   {
-    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+    "title": "A strategist who called the Asian financial crisis sees parallels with the AI boom",
+    "link": "https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T19:35:00+00:00",
-    "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+    "published": "2026-10-08T11:32:00+00:00",
+    "summary": "Albert Edwards, well-known for his generally bearish views on equity markets, finds the economicbenefits of AI to be a promise rather than a reality at present.",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_score": -0.4215
   },
   {
-    "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-    "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+    "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+    "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T19:12:00+00:00",
-    "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+    "published": "2026-10-08T11:00:00+00:00",
+    "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
+    "sentiment_score": 0.9001
+  },
+  {
+    "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
+    "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-08T10:30:00+00:00",
+    "summary": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7227
+  },
+  {
+    "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
+    "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-08T09:27:31+00:00",
+    "summary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
@@ -71,31 +94,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
-  },
-  {
-    "title": "Stocks are increasingly their own best hedge. This chart shows why.",
-    "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T18:31:00+00:00",
-    "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
-  },
-  {
-    "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
-    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-07T18:22:00+00:00",
-    "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
   },
   {
     "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
