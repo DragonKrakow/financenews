@@ -1,5 +1,17 @@
 [
   {
+    "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+    "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-09T00:52:00+00:00",
+    "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0516
+  },
+  {
     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -58,18 +70,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2732
-  },
-  {
-    "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
-    "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T20:44:00+00:00",
-    "summary": "The political action committee says it’s “continuing to build a durable coalition that wants America to remain the global leader in AI development.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   },
   {
     "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
