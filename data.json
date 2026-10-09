@@ -1,75 +1,77 @@
 [
   {
-    "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-    "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+    "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
+    "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T00:52:00+00:00",
-    "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+    "published": "2026-10-09T12:15:00+00:00",
+    "summary": "Rapid weight loss can lead to issues with bone quality.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0516
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7184
   },
   {
-    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-    "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T00:03:00+00:00",
-    "summary": "Seven tips for painlessly moving in retirement.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
-  },
-  {
-    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
     "source": "CNBC Finance",
-    "published": "2026-10-08T23:57:23+00:00",
-    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-    "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T22:08:00+00:00",
-    "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+    "published": "2026-10-09T12:01:26+00:00",
+    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3067
+    "sentiment_score": 0.4767
   },
   {
-    "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-    "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T21:56:00+00:00",
-    "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
+    "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+    "source": "The Guardian Economics",
+    "published": "2026-10-09T11:32:35+00:00",
+    "summary": "<p>Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November</p><p>Data storage firm <strong>Snowflake</strong> has said hack at <strong>Asos</strong> was not caused by a vulnerability or flaw with its platform.</p><p>It comes after Asos’ investigation this week found an “unauthorised party gained access to an Asos employee account by impersonating a trusted contact to obtain log-in credentials”. Asos said the credentials were then used to access information on third-party platforms used by the company.</p><p>We are aware of Asos’s notification to their customers regarding this incident. We can confirm this issue did not in any way result from a vulnerability, weakness, flaw, or misconfiguration with the Snowflake service, platform, or internal environments, and was not caused by Snowflake.</p><p>No remediation is required for Snowflake customers. We continue to encourage adherence to our security best practices.</p><p>There is no action you need to take on your account. However, please remain cautious of unexpected messages or calls claiming to be from Asos. We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9254
+  },
+  {
+    "title": "Send us your questions for economist Isabella Weber on inflation and affordability",
+    "link": "https://www.theguardian.com/business/2026/oct/09/send-us-your-questions-for-economist-isabella-weber-on-inflation-and-affordability",
+    "source": "The Guardian Economics",
+    "published": "2026-10-09T11:08:55+00:00",
+    "summary": "<p><a href=\"https://www.theguardian.com/world/series/first-edition\">First Edition newsletter</a> will be hosting a reader Q&amp;A with economist Isabella Weber, a leading voice on inflation, affordability and cost of living and now’s your chance to put your questions to her </p><p>Isabella Weber is one of the most sought-after and influential economists of her generation, and has advised policymakers and governments in the US, Germany, Europe and Latin America. <br /><br />\n She has become a <a href=\"https://www.theguardian.com/business/commentisfree/2021/dec/29/inflation-price-controls-time-we-use-it\">leading voice on inflation</a>, affordability and the cost of living. Her new book, Anti-Fascist Economics, looks at the relationship between economic insecurity and the rise of the far right, arguing progressive politics must respond to the rise of authoritarianism by urgently addressing the economic pressures people experience in their daily lives. For years Weber was treated as an outlier.<br /><br />\n Weber is an associate professor of economics at the University of Massachusetts Amherst and an associate in research at Harvard’s Fairbank Center, and is the author of the prize-winning How China Escaped Shock Therapy.</p><p>We’d love to hear your questions. Perhaps you would like to find out how the cost of living affects the current political landscape? What’s happening in the bond markets? Or the advice she’d give to progressive politicians, from incumbents like Burnham and Mamdani to the German parties taking on the AFD. From austerity to zero deficits, nothing is too simple or complex.</p> <a href=\"https://www.theguardian.com/business/2026/oct/09/send-us-your-questions-for-economist-isabella-weber-on-inflation-and-affordability\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7733
   },
   {
     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T21:15:00+00:00",
+    "published": "2026-10-09T10:15:00+00:00",
     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2732
+  },
+  {
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-09T06:30:01+00:00",
+    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
   },
   {
     "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
