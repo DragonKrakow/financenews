@@ -1,5 +1,77 @@
 [
   {
+    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+    "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-09T00:03:00+00:00",
+    "summary": "Seven tips for painlessly moving in retirement.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-08T23:57:23+00:00",
+    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
+    "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+    "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-08T22:08:00+00:00",
+    "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3067
+  },
+  {
+    "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+    "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-08T21:56:00+00:00",
+    "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-08T21:15:00+00:00",
+    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
+    "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-08T20:44:00+00:00",
+    "summary": "The political action committee says it’s “continuing to build a durable coalition that wants America to remain the global leader in AI development.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
     "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
     "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
     "source": "CNBC Finance",
@@ -11,42 +83,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4228
-  },
-  {
-    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-    "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T17:45:00+00:00",
-    "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
-  },
-  {
-    "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-    "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T16:32:00+00:00",
-    "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-    "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-08T15:46:00+00:00",
-    "summary": "“The birth-rate crisis is really an affordability crisis.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   },
   {
     "title": "Send us your questions on how the US economy is shaping the midterm elections",
@@ -330,42 +366,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6597
-  },
-  {
-    "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
-    "link": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
-    "source": "The Guardian Economics",
-    "published": "2026-10-03T15:00:02+00:00",
-    "summary": "<p>In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-ticking</p><p>Andy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on the brakes, kicking most reforms into the 2030s.</p><p>Local government reorganisation is on hold, along with an overhaul of the much-maligned water industry. Social care and significant welfare reform are matters to be resolved by the next government.</p> <a href=\"https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs\">Continue reading...</a>",
-    "matched_keywords": [
-      "Regulation",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8531
-  },
-  {
-    "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
-    "link": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
-    "source": "The Guardian Economics",
-    "published": "2026-10-03T15:00:01+00:00",
-    "summary": "<p>Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election</p><p>The Conservatives are planning to make sweeping cuts beyond the <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">£47bn announced last year</a> if they win the next election, according to leaked comments by the shadow chancellor.</p><p>Speaking last year when he was shadow business secretary, Andrew Griffith told Conservative members he and fellow shadow cabinet ministers had discussed making further cuts in “every part of government”.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-    "link": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-03T13:12:27+00:00",
-    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   }
 ]
