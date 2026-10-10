@@ -1,45 +1,21 @@
 [
   {
-    "title": "Microsoft is nearing a big milestone that solidifies its revival",
-    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+    "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+    "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T18:06:00+00:00",
-    "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+    "published": "2026-10-09T22:00:00+00:00",
+    "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
     "matched_keywords": [
-      "AI"
+      "Election"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T18:00:00+00:00",
-    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her.",
-    "link": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T17:50:00+00:00",
-    "summary": "Trump wants the committee to report on whether there are grounds for Cook’s removal from office. She hasn’t been charged with a crime.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8885
+    "sentiment_score": 0.7096
   },
   {
     "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
     "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T17:35:00+00:00",
+    "published": "2026-10-09T21:27:00+00:00",
     "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
     "matched_keywords": [
       "AI"
@@ -48,16 +24,40 @@
     "sentiment_score": 0.6478
   },
   {
-    "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
-    "link": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+    "title": "Microsoft is nearing a big milestone that solidifies its revival",
+    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T16:50:00+00:00",
-    "summary": "Even with the rising use of AI, picking market-beating stocks has not become any easier this year, a new report finds.",
+    "published": "2026-10-09T21:24:00+00:00",
+    "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+    "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-09T21:07:00+00:00",
+    "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.3252
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-09T21:00:00+00:00",
+    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
   },
   {
     "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
