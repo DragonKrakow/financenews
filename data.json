@@ -1,5 +1,18 @@
 [
   {
+    "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
+    "link": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
+    "source": "The Guardian Economics",
+    "published": "2026-10-10T04:00:47+00:00",
+    "summary": "<p>Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?</p><p>Eight years have passed since rising fuel prices brought the <em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">gilets </a></em><em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">jaunes</a></em> (yellow vest) demonstrators to the streets of France, prompting the first big crisis of Emmanuel Macron’s time in the Élysée Palace.</p><p>As the French president contemplates his exit next year, turmoil has again gripped the streets in the <a href=\"https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue\">form of student protests</a>, but this time the financial markets are unhappy too.</p> <a href=\"https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9631
+  },
+  {
     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
     "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -356,17 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4588
-  },
-  {
-    "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-    "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-    "source": "The Guardian Economics",
-    "published": "2026-10-05T11:37:46+00:00",
-    "summary": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
   }
 ]
