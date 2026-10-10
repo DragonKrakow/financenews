@@ -1,5 +1,18 @@
 [
   {
+    "title": "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
+    "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-10T12:00:00+00:00",
+    "summary": "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4404
+  },
+  {
     "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
     "link": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
     "source": "The Guardian Economics",
@@ -47,30 +60,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
-  },
-  {
-    "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-    "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T21:07:00+00:00",
-    "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-09T21:00:00+00:00",
-    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
   },
   {
     "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
@@ -369,5 +358,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4588
+  },
+  {
+    "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
+    "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+    "source": "The Guardian Economics",
+    "published": "2026-10-05T11:37:46+00:00",
+    "summary": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
   }
 ]
