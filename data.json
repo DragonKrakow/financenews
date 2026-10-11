@@ -1,5 +1,31 @@
 [
   {
+    "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+    "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+    "source": "The Guardian Economics",
+    "published": "2026-10-11T11:00:25+00:00",
+    "summary": "<p>‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’</p><p>Back through political history to the age of <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>, Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government’s coffers.</p><p>The promise never really panned out. From the Gipper’s day on, the Republicans’ tax cuts inevitably increased the budget deficit. Despite its failure, though, the promise is back, coated in a fine new layer of <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> pixie dust. It will fail again.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7271
+  },
+  {
+    "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+    "source": "The Guardian Economics",
+    "published": "2026-10-11T10:11:19+00:00",
+    "summary": "<p>Just as Brown and Blair did in 2005, Andy Burnham aims to champion debt relief to help developing countries</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns\">Developing nations face triple shock, UN warns</a></p></li></ul><p></p><p>From Washington to Paris, London to Tokyo, policymakers in every large economy have been counting the costs of bond market turmoil in recent weeks. But the brunt of the pain is being borne by heavily indebted developing countries that have little hope of influencing the whims of global investors, but pay the price regardless.</p><p>Markets have responded to the war in the Middle East, and a spendthrift White House, by dumping government bonds – driving up borrowing costs just about everywhere.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9168
+  },
+  {
     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -345,30 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4588
-  },
-  {
-    "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-    "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-    "source": "The Guardian Economics",
-    "published": "2026-10-05T11:37:46+00:00",
-    "summary": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Euro falls to 17-month low against dollar amid French debt fears",
-    "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-    "source": "The Guardian Economics",
-    "published": "2026-10-05T11:18:20+00:00",
-    "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.926
   }
 ]
