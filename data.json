@@ -1,40 +1,39 @@
 [
   {
-    "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
-    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+    "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T16:00:00+00:00",
-    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+    "published": "2026-10-10T19:44:00+00:00",
+    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
     "matched_keywords": [
       "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
-    "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T12:30:00+00:00",
-    "summary": "The P/E ratios have contracted and the CDS spreads have widened in all three cases, but Nvidia appears unscathed",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3071
-  },
-  {
-    "title": "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
-    "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T12:00:00+00:00",
-    "summary": "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4404
+    "sentiment_score": 0.8714
+  },
+  {
+    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+    "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-10T19:44:00+00:00",
+    "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6486
+  },
+  {
+    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+    "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-10T19:44:00+00:00",
+    "summary": "Seven tips for painlessly moving in retirement.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
   },
   {
     "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
