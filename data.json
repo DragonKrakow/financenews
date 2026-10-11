@@ -1,5 +1,30 @@
 [
   {
+    "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+    "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-10-11T15:56:25+00:00",
+    "summary": "<p>Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire\">Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’</a></p></li></ul><p>Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of Russian diesel will have little “meaningful” effect on motorists and businesses in the US and overseas, energy and foreign policy analysts have predicted.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">infuriated Volodymyr Zelenskyy</a> when he announced the deal on Friday, writing on Truth Social that the agreement with his Russia counterpart to supply millions of tonnes of diesel was essential to reduce fuel prices in the US, which have soared after his decision to go to war against Iran.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3506
+  },
+  {
+    "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+    "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-11T14:00:00+00:00",
+    "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4497
+  },
+  {
     "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
     "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
     "source": "The Guardian Economics",
@@ -24,30 +49,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9168
-  },
-  {
-    "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T19:44:00+00:00",
-    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8714
-  },
-  {
-    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-    "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T19:44:00+00:00",
-    "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6486
   },
   {
     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
