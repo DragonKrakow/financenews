@@ -1,27 +1,88 @@
 [
   {
-    "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
-    "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-12T17:15:21+00:00",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+    "link": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T11:30:00+00:00",
-    "summary": "Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded fund call options before the consumer-price index for September is released on Wednesday.",
+    "published": "2026-10-12T16:47:00+00:00",
+    "summary": "As more money flows toward AI software offerings, Salesforce could deepen its customer relationships while Adobe looks vulnerable, analysts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-12T15:37:26+00:00",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
+    "sentiment_score": 0.5734
   },
   {
-    "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – business live",
-    "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
+    "title": "Micron makes a statement with the latest clue about its cash windfall",
+    "link": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-12T15:06:00+00:00",
+    "summary": "A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5563
+  },
+  {
+    "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+    "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
     "source": "The Guardian Economics",
-    "published": "2026-10-12T11:28:08+00:00",
-    "summary": "<p>The Sveriges Riksbank Prize in Economic Sciences has been awarded to Robert Hall and Michael Woodford for developing the “microeconomic foundations of macroeconomic stabilisation”</p><p><strong>There’s some movement in the Nobel economics prize betting, with around 45 minutes to go until the announcement.</strong></p><p><strong>Sidney Winter, </strong>the professor emeritus of management at the <strong>Wharton</strong> <strong>School</strong>, and <strong>Lawrence Katz, </strong>the Elisabeth Allison Professor of Economics at Harvard University, have both appeared high on Polymarket’s odds at times this morning (although the market is very volatile).</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-12T14:20:53+00:00",
+    "summary": "<p>US economists developed models that help central bankers and finance ministers to stabilise their economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation.</p><p>Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for <a href=\"https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf\">developing the “microeconomic foundations of macroeconomic stabilisation”</a>, giving policymakers better tools to smooth out the peaks and troughs of their economies.</p> <a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\">Continue reading...</a>",
     "matched_keywords": [
       "Oil"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.936
+    "sentiment_score": 0.9652
+  },
+  {
+    "title": "Microsoft hits a big milestone that solidifies its revival",
+    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-12T14:18:00+00:00",
+    "summary": "Microsoft has reclaimed a $4 trillion market cap in intraday action Monday — and fresh records are in sight.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-12T14:17:27+00:00",
+    "summary": "<p>The Sveriges Riksbank Prize in Economic Sciences has been awarded to Robert Hall and Michael Woodford for developing the “microeconomic foundations of macroeconomic stabilisation”</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\"><strong>Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises</strong></a></p></li></ul><p><strong>There’s some movement in the Nobel economics prize betting, with around 45 minutes to go until the announcement.</strong></p><p><strong>Sidney Winter, </strong>the professor emeritus of management at the <strong>Wharton</strong> <strong>School</strong>, and <strong>Lawrence Katz, </strong>the Elisabeth Allison Professor of Economics at Harvard University, have both appeared high on Polymarket’s odds at times this morning (although the market is very volatile).</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9652
   },
   {
     "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
@@ -34,55 +95,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0258
-  },
-  {
-    "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
-    "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T11:00:00+00:00",
-    "summary": "A troubling rise in prices might trigger an interest-rate move at the Fed’s meeting in late October.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
-    "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T09:23:00+00:00",
-    "summary": "A stronger dollar, higher bond market yields and elevated gas prices are already tightening financial conditions in the U.S. to the point that Kevin Warsh may not even need to hike rates.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6705
-  },
-  {
-    "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
-    "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T09:14:00+00:00",
-    "summary": "Goldman Sachs is leaning more heavily into stocks for the remainder of the year. That’s down to earnings and a market that is cheaper overall.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
-    "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T09:05:00+00:00",
-    "summary": "Dolly Parton’s estate has claimed that the late country music icon’s nephew, Bryan Seaver, went to extraordinary lengths to evade being served with a summons.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
   },
   {
     "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
@@ -356,18 +368,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4215
-  },
-  {
-    "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
-    "link": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T04:00:33+00:00",
-    "summary": "<p>In the second article in a series on the Polish economy, we look at how the country is forging closer ties with its neighbours</p><p>Two miles off the coast of Gdańsk, the white steel piles of Poland’s first offshore gas terminal rise from the slate-grey Baltic. Installed at a height eight metres above the waves, the floating cranes and construction vessels here are on the frontline of Europe’s push for energy security.</p><p>Since the taps were turned off on Russian gas after Vladimir Putin’s invasion of Ukraine four years ago, Poland has turned to the global energy market for supplies. But while conditions are far from ideal as the Middle East war drives oil and gas prices to stratospheric levels, strengthening the diversity of the country’s energy mix remains a top priority for Poland, its Baltic neighbours, and the EU at large.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8573
   }
 ]
