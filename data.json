@@ -1,5 +1,17 @@
 [
   {
+    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-11T19:32:00+00:00",
+    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
     "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
     "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
     "source": "The Guardian Economics",
@@ -49,18 +61,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9168
-  },
-  {
-    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-    "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-10T19:44:00+00:00",
-    "summary": "Seven tips for painlessly moving in retirement.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
   },
   {
     "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
