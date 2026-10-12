@@ -1,5 +1,30 @@
 [
   {
+    "title": "UK inflation pressures hits three-year high; Nobel prize for economics awarded today – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-12T06:34:07+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>The biggest prize in economics, the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, will be awarded today.</strong></p><p>Known as the Nobel Prize in Economics (although it’s not one of the original Nobels), the winner(s) will be announced at the Royal <a href=\"https://www.independent.co.uk/topic/swedish\">Swedish</a> Academy of Sciences in <a href=\"https://www.independent.co.uk/topic/stockholm\">Stockholm</a> from 10.45am UK time.</p><p>“Businesses head into this Budget with one clear message: no surprises. Cost pressures continue to squeeze margins, hiring intentions are low and growth is starting to plateau.</p><p>Firms are not looking for grand interventions, but they do need certainty. Right now, concerns about further downside risks outweigh expectations of positive change.”</p><p>A highly contentious US deal with Russia to allow the export of more diesel to ease pressure in the market for the critical industrial fuel helped slightly with optics.</p><p>But the true impact is piecemeal, especially as Middle East refining remains heavily compromised and Ukrainian forces strategically strike Russian refineries.</p><p>All day: Paris Motor Show</p><p>From 10.45am BST: Nobel Prize for economics announced</p><p>2pm BST: Russia’s trade balance for August</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9458
+  },
+  {
+    "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
+    "link": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-10-12T05:49:11+00:00",
+    "summary": "<p>Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year</p><p>John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures.</p><p>As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade.</p> <a href=\"https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9258
+  },
+  {
     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -347,30 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6808
-  },
-  {
-    "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-    "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-05T20:41:23+00:00",
-    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
-    "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
-    "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-    "source": "The Guardian Economics",
-    "published": "2026-10-05T11:39:37+00:00",
-    "summary": "<p>Banks and building societies raise prices as turmoil in bond markets increases expectations of base rate rise</p><p>The average cost of a five-year fixed-rate mortgage has hit the 6% barrier for the first time in three years, as jitters in the money markets make the loans more expensive for lenders to offer.</p><p>Figures from financial information provider Moneyfacts show the average is now 6.00%, its highest point since September 2023, while the average two-year fixed rate is not far behind at 5.98%, its highest since December of the same year.</p> <a href=\"https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
   }
 ]
