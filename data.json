@@ -1,5 +1,79 @@
 [
   {
+    "title": "The South Korean stock market is in free fall, and these are the reasons",
+    "link": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T11:44:00+00:00",
+    "summary": "The Korean market rises on falls on expectations for profitability of the semiconductor industry and how long it can be sustained. Sentiment is cyclical, and right now the skepticism is rising.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Six Flags’ stock slumps near 52-week lows after fatal accident",
+    "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T11:31:00+00:00",
+    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator near the lowest level of the year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9118
+  },
+  {
+    "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+    "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T11:30:00+00:00",
+    "summary": "The four-year bull market in stocks is riding high because of the AI boom. But it’s also increasing  the cost of money.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0387
+  },
+  {
+    "title": "Is punishing the poor Trump’s last hand to play?",
+    "link": "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms",
+    "source": "The Guardian Economics",
+    "published": "2026-10-13T11:00:56+00:00",
+    "summary": "<p>The pre-midterm defenestration of ACA enrollees looks like political madness – but the president appears to believe hitting poor people might work for him</p><p>There is a manic quality to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s desperate dash to do something, anything, ahead of November’s <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> to convince beleaguered Americans that he can make the pressures his policies have imposed on their livelihoods go away.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-cattle-ranchers-beef-imports-backlash\">offered</a> to lower barriers against beef imports to limit surging meat prices, only to consider <a href=\"https://www.politico.com/news/2026/09/23/trump-beef-imports-midterms-gop-panic-01090261\">backtracking</a> under <a href=\"https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import\">pressure</a> from the cow lobby. He <a href=\"https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban\">offered</a> to stop diesel exports, only to find oil companies <a href=\"https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html\">were</a> <a href=\"https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html\">not interested</a>. He weakened fuel efficiency standards, claiming this would trim the price of a new car (and forgetting to point out it will also raise spending on gas.) In early October he started mailing <a href=\"https://www.cnn.com/2026/10/01/economy/trump-obamacare-500-check\">$500 checks</a> to nearly a million people touting his healthcare “wins”. Oh, and he promised adult Americans a <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response\">$5,000 check</a> if Republicans maintain control of Congress. That, too, will <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-dividend-republican-midterm-convention\">go nowhere</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8422
+  },
+  {
+    "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+    "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T10:45:00+00:00",
+    "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year as the company tries to rein in spending on medical care.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "IMF raises UK growth forecast as economist says Healey should ‘stay the course’",
+    "link": "https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026",
+    "source": "The Guardian Economics",
+    "published": "2026-10-13T07:58:56+00:00",
+    "summary": "<p>Fund upgrades UK’s GDP growth forecast for 2026 to 1.3%, but says it is likely to edge down next year</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026\">IMF warns global economy ‘could soon test the limits of resilience’</a></p></li></ul><p>John Healey should “stay the course” and continue repairing the UK’s public finances, the International Monetary Fund’s top economist has said, after the fund lifted its growth forecast for Britain.</p><p>Little more than a fortnight before Healey’s first budget, Silvana Tenreyro, the IMF’s economic counsellor, said the UK “stands out” among G7 countries in having a plan to narrow its deficit.</p> <a href=\"https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
     "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
     "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
     "source": "The Guardian Economics",
@@ -52,19 +126,6 @@
     "sentiment_score": -0.7351
   },
   {
-    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-    "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T02:00:00+00:00",
-    "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5279
-  },
-  {
     "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
     "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
     "source": "CNBC Finance",
@@ -75,54 +136,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1655
-  },
-  {
-    "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-    "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T22:00:00+00:00",
-    "summary": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-    "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T21:19:00+00:00",
-    "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1655
-  },
-  {
-    "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-    "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T20:46:00+00:00",
-    "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
-  },
-  {
-    "title": "Microsoft hits a big milestone that solidifies its revival",
-    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T20:40:00+00:00",
-    "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   },
   {
     "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
@@ -360,17 +373,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8126
-  },
-  {
-    "title": "Beware rightwing economic myths such as ‘maxing out the nation’s credit card’ | Letters",
-    "link": "https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T17:01:00+00:00",
-    "summary": "<p>Readers respond to an article in which Larry Elliott argues that Andy Burnham must challenge neoliberal nostrums</p><p>Larry Elliott’s column on the rightwing economic myths constraining Andy Burnham’s government should be required reading before <a href=\"https://www.parliament.uk/about/how/role/check-and-approve-government-spending-and-taxation/the-budget-and-parliament/\">John Healey’s budget</a> (<a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes, 1 October</a>).</p><p>I spent 20 years trading bonds, and agree that the household budget analogy bears no relation to how the UK state finances itself. Parliament votes on the spending, the Treasury instructs the Bank of England, and the Bank credits accounts in the private sector. Taxes withdraw money afterwards.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
   }
 ]
