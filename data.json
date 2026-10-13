@@ -1,5 +1,82 @@
 [
   {
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+    "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+    "source": "The Guardian Economics",
+    "published": "2026-10-13T03:15:12+00:00",
+    "summary": "<p>High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026\">IMF warns global economy ‘could soon test the limits of resilience’</a></p></li></ul><p>The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.</p><p>In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9694
+  },
+  {
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T02:58:11+00:00",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-13T02:00:49+00:00",
+    "summary": "<p>IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>An International Monetary Fund scenario where global oil prices jump to US$130 a barrel over coming months could push Australian petrol prices up by another 30 cents a litre and pile pressure on the Reserve Bank to raise interest rates, economists say.</p><p>In its latest World Economic Outlook, the IMF modelled the impact on global growth and inflation from a worsening Middle East crisis that extended into next year, highlighting the “clear and present danger” to a resilient global economy from turmoil in commodity and bond markets.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9013
+  },
+  {
+    "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+    "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+    "source": "The Guardian Economics",
+    "published": "2026-10-13T02:00:11+00:00",
+    "summary": "<p>World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Threat of AI share crash puts world financial stability at risk, says IMF</a></p></li></ul><p>The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.</p><p>In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months.</p> <a href=\"https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
+  },
+  {
+    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+    "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T02:00:00+00:00",
+    "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5279
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T01:26:41+00:00",
+    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1655
+  },
+  {
     "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
     "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,31 +123,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
-  },
-  {
-    "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
-    "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-12T19:43:00+00:00",
-    "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-12T17:15:21+00:00",
-    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
   },
   {
     "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
@@ -320,53 +372,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2023
-  },
-  {
-    "title": "Labour could oversee worst parliament on record for living standards, study warns",
-    "link": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T16:30:55+00:00",
-    "summary": "<p>Energy and housing costs threaten biggest decline in modern times unless bold action taken, says thinktank</p><p>Soaring energy and housing costs mean Labour is on course to preside over the worst parliament for living standards in modern times, a stark analysis warns.</p><p>Three weeks ahead of John Healey’s budget, the Joseph Rowntree Foundation said Britain faces a “dire” outlook unless the government takes “bold policy action”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8176
-  },
-  {
-    "title": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
-    "link": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T11:00:09+00:00",
-    "summary": "<p>An initiative on November’s ballot aims to overturn the 9.9% tax on earnings above $1m – who’s winning the fight? </p><p>Voters in Washington state will soon decide the fate of the state’s so-called “<a href=\"https://senatedemocrats.wa.gov/millionaires-tax-faq/\">millionaire tax</a>” – a 9.9% income tax on earnings above $1m that was <a href=\"https://governor.wa.gov/news/2026/governor-ferguson-signs-millionaires-tax-law\">signed</a> into law in March and is now facing a conservative-backed effort to repeal it.</p><p>An <a href=\"https://leg.wa.gov/media/ucubvqsd/2026-summary-of-initiative-26-645.pdf\">initiative</a> on November’s ballot aims to overturn the tax, claiming that the tax represents a slippery slope, and would eventually result in taxes for more than just millionaires. A <a href=\"https://no645.com/our-coalition/\">coalition</a> of advocacy groups and unions opposing the initiative say taxing the state’s 20,000 highest-earning households could raise approximately $3.5bn in necessary annual revenue to fund core priorities like education and healthcare, and expand tax credits and sales tax exemptions.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7399
-  },
-  {
-    "title": "IMF chief urges governments to tighten belts as global debt levels soar",
-    "link": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T10:14:35+00:00",
-    "summary": "<p>Kristalina Georgieva says big economies will have to make ‘very touch choices’ as soaring bond yields hit budgets</p><p>The head of the International Monetary Fund has called on governments across big economies to tighten their belts as soaring bond yields hit budgets.</p><p>Speaking in Singapore, the IMF’s managing director, Kristalina Georgieva, said global debt-to-GDP ratios were at their highest level since the second world war and on course to hit 100% in the coming years.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7506
-  },
-  {
-    "title": "Apparent exodus of super-rich suggests UK is no longer billionaires’ playground",
-    "link": "https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T07:00:37+00:00",
-    "summary": "<p>If recent complaints are believed, London and the UK are no longer welcoming for ultra-high net worth individuals</p><p>London was once globally renowned as the “billionaires’ playground”, where the world’s super-rich could relax in the Georgian townhouses of Mayfair undisturbed by the grasping hand of the state.</p><p>But if recent complaints by fleeing ultra-high net worth individuals are to be believed, the city is no longer as welcoming for those who consider themselves to be Britain’s most-persecuted minority.</p> <a href=\"https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1546
   }
 ]
