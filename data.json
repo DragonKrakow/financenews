@@ -1,5 +1,30 @@
 [
   {
+    "title": "IMF sounds alarm on rising government borrowing costs – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T06:22:57+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Global financial system is failing developing countries, says Ed Miliband</a></p></li></ul><p><strong>Wednesday morning at the IMF/World Bank annual meetings in Bangkok saw IMF managing director Kristalina Georgieva give her opening press conference, </strong><em><strong>our economics editor Heather Stewart writes.</strong></em></p><p>She enthusiastically reiterated the <strong>IMF’s</strong> call for major economies - including the US - to implement tougher fiscal policies. “Make urgent repairs to the fiscal house, before the cracks widen,” she said - and later:</p><p>“Fundamentals matter. Get your house in order. Otherwise, your people, your businesses will pay a price.”</p><p>“Surplus countries need to increase domestic consumption. Deficit countries need to save more, cut debt, cut the deficits over time.”</p><p>“we need to recognise that it is not just a systemically important, signficant economy, but London is one of the capitals of the world for the finance community. And traditionally we have seen more attention in relative terms in the UK to what the government is doing, what is happening - a bit more sensitivity.”</p><p>“I think the UK government knows they need to stay the course: they need to reaffirm this confidence in the direction of travel.”</p><p>“We are seeing, across the eurozone, an impact in terms of yields edging upwards, even in countries that traditionally never see their yields move.”</p><p>“I think what countries should do from the macro perspective depends a lot in terms of their initial position. In general, however, the the defence spending will be persistent, so even if you accommodate it temporarily with debt, you have to be prepared at some point to recognise that that debt cannot forever finance this part.</p><p>And the second issue is that...in general, Europe has really high revenue ratios. So the space for a lot more revenues is not easy: it distorts, at the end of the day. So, the discussion about the social contract behind spending is very, very urgent.”</p><p>“Given the fact that many of these spending pressures are going to be persistent, there are going to be difficult trade-offs, and countries are going to have to assess carefully, in communication and dialogue and discussion with the public, in terms of what the priorities are, what needs to come first, and what governments need to spend on.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6767
+  },
+  {
+    "title": "Global financial system is failing developing countries, says Ed Miliband",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T05:00:45+00:00",
+    "summary": "<p>UK foreign secretary will call for World Bank and others to help governments trapped by hefty borrowing costs</p><p>The foreign secretary, Ed Miliband, will claim the global financial system is failing developing countries, as he calls for a “new deal” for governments struggling under the burden of debt.</p><p>Promising to throw the UK’s diplomatic weight behind urgent reform, he will evoke the example of the Gleneagles summit under the last Labour government in 2005 – the culmination of the Make Poverty History campaign.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9382
+  },
+  {
     "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
     "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
     "source": "CNBC Finance",
@@ -347,30 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7733
-  },
-  {
-    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-09T06:30:01+00:00",
-    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
-  },
-  {
-    "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-08T17:51:51+00:00",
-    "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4228
   }
 ]
