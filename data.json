@@ -1,46 +1,94 @@
 [
   {
-    "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-    "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T17:54:00+00:00",
-    "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T23:05:12+00:00",
+    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
     "matched_keywords": [
-      "AI"
+      "Gold"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
+    "sentiment_score": 0.3182
   },
   {
-    "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
+    "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
     "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T16:52:00+00:00",
-    "summary": "Anticipation is building for Anthropic’s investor day as Wall Street grows less patient with heavy AI spending.",
+    "published": "2026-10-13T21:02:00+00:00",
+    "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6908
+    "sentiment_score": -0.8481
   },
   {
-    "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
-    "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T20:48:37+00:00",
+    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+    "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T16:21:00+00:00",
-    "summary": "Deutsche Bank’s Jim Reid said he sees productivity gains from artificial-intelligence adoption as having the potential to create new jobs.",
+    "published": "2026-10-13T20:41:00+00:00",
+    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+    "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T20:29:00+00:00",
+    "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year, as the company tries to rein in spending on medical care.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+    "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-13T20:27:00+00:00",
+    "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T19:46:12+00:00",
+    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.605
   },
   {
     "title": "The RBA keeps hiking interest rates – but are the rate rises actually working?",
     "link": "https://www.theguardian.com/business/2026/oct/14/rba-keeps-hiking-interest-rates-but-are-rises-actually-working",
     "source": "The Guardian Economics",
     "published": "2026-10-13T14:00:05+00:00",
-    "summary": "<p>With the cash rate at a 15-year high, consumer confidence has tanked – while household spending is still growing</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Interest rates have risen to 15-year highs and are pushing up mortgage default risks – but household spending is still growing.</p><p>Economists say the surprising result shows this year’s four rate hikes have not yet fully hit the economy and may be less effective at fighting inflation than they used to be. If true, that could mean more interest rate rises are on the way.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/rba-keeps-hiking-interest-rates-but-are-rises-actually-working\">Continue reading...</a>",
+    "summary": "<p>With the cash rate at a 15-year high, consumer confidence has tanked – while household spending is still growing</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb\">Australian politics live blog</a> for latest updates</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Interest rates have risen to 15-year highs and are pushing up mortgage default risks – but household spending is still growing.</p><p>Economists say the surprising result shows this year’s four rate hikes have not yet fully hit the economy and may be less effective at fighting inflation than they used to be. If true, that could mean more interest rate rises are on the way.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/rba-keeps-hiking-interest-rates-but-are-rises-actually-working\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -65,7 +113,7 @@
     "link": "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms",
     "source": "The Guardian Economics",
     "published": "2026-10-13T11:00:56+00:00",
-    "summary": "<p>The pre-midterm defenestration of ACA enrollees looks like political madness – but the president appears to believe hitting poor people might work for him</p><p>There is a manic quality to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s desperate dash to do something, anything, ahead of November’s <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> to convince beleaguered Americans that he can make the pressures his policies have imposed on their livelihoods go away.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-cattle-ranchers-beef-imports-backlash\">offered</a> to lower barriers against beef imports to limit surging meat prices, only to consider <a href=\"https://www.politico.com/news/2026/09/23/trump-beef-imports-midterms-gop-panic-01090261\">backtracking</a> under <a href=\"https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import\">pressure</a> from the cow lobby. He <a href=\"https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban\">offered</a> to stop diesel exports, only to find oil companies <a href=\"https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html\">were</a> <a href=\"https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html\">not interested</a>. He weakened fuel efficiency standards, claiming this would trim the price of a new car (and forgetting to point out it will also raise spending on gas.) In early October he started mailing <a href=\"https://www.cnn.com/2026/10/01/economy/trump-obamacare-500-check\">$500 checks</a> to nearly a million people touting his healthcare “wins”. Oh, and he promised adult Americans a <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response\">$5,000 check</a> if Republicans maintain control of Congress. That, too, will <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-dividend-republican-midterm-convention\">go nowhere</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms\">Continue reading...</a>",
+    "summary": "<p>The pre-midterm defenestration of ACA enrollees looks like political madness – but the president appears to believe hitting poor people might work for him</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Send us your questions on how the US economy is shaping the midterm elections</a></p></li></ul><p>There is a manic quality to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s desperate dash to do something, anything, ahead of November’s <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> to convince beleaguered Americans that he can make the pressures his policies have imposed on their livelihoods go away.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-cattle-ranchers-beef-imports-backlash\">offered</a> to lower barriers against beef imports to limit surging meat prices, only to consider <a href=\"https://www.politico.com/news/2026/09/23/trump-beef-imports-midterms-gop-panic-01090261\">backtracking</a> under <a href=\"https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import\">pressure</a> from the cow lobby. He <a href=\"https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban\">offered</a> to stop diesel exports, only to find oil companies <a href=\"https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html\">were</a> <a href=\"https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html\">not interested</a>. He weakened fuel efficiency standards, claiming this would trim the price of a new car (and forgetting to point out it will also raise spending on gas). In early October he started mailing <a href=\"https://www.cnn.com/2026/10/01/economy/trump-obamacare-500-check\">$500 checks</a> to nearly a million people touting his healthcare “wins”. Oh, and he promised adult Americans a <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response\">$5,000 check</a> if Republicans maintain control of Congress. That, too, will <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-dividend-republican-midterm-convention\">go nowhere</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Oil",
@@ -324,55 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4228
-  },
-  {
-    "title": "Send us your questions on how the US economy is shaping the midterm elections",
-    "link": "https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us",
-    "source": "The Guardian Economics",
-    "published": "2026-10-08T14:45:50+00:00",
-    "summary": "<p>Our business, labor and consumer rights reporters will answer your questions in a live Q&amp;A on Thursday 15 October</p><p>The US economy is top of voters’ minds ahead of the November midterms with food and gas prices remaining high, the <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">job market</a> unstable, consumers <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy\">angrier than ever</a>, and a new Fed chair, <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Kevin Warsh</a>, in place.</p><p>We’ll be hosting a live midterm election Q&amp;A on Thursday 15 October 2026 at 12pm EDT on the Guardian US site with a panel of our business, labor and consumer rights reporters: <strong><a href=\"https://www.theguardian.com/profile/lauren-aratani\">Lauren Aratani</a>, <a href=\"https://www.theguardian.com/profile/michael-sainato\">Michael Sainato</a>, <a href=\"https://www.theguardian.com/profile/heather-timmons\">Heather Timmons</a> </strong>and<strong> <a href=\"https://www.theguardian.com/profile/gaya-gupta\">Gaya Gupta</a></strong>. The team will cover <a href=\"https://www.theguardian.com/us-news/series/consumed\">cost of living</a> challenges, <a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs\">tariffs</a>, <a href=\"https://www.theguardian.com/business/2026/aug/12/inflation-data-july\">inflation</a> and new federal policy proposals from local candidates.</p><p><em><a href=\"https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers\">Will the Iran war cost Trump in the US midterm elections? Your questions answered</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms\">Who are the groups financially backing the candidates in the midterms?</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now\">The makeup of the Democratic party, plus key races to watch</a></em></p> <a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4329
-  },
-  {
-    "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-    "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-08T09:27:31+00:00",
-    "summary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-07T18:42:36+00:00",
-    "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
-    "link": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
-    "source": "The Guardian Economics",
-    "published": "2026-10-07T17:16:52+00:00",
-    "summary": "<p>The Tory leader’s proposal to slash the tax would shovel £6bn of taxpayer money to the already-wealthy</p><p>Kemi Badenoch’s <a href=\"https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech\">inheritance tax gambit</a> is a Conservative classic. After all, it was George Osborne’s high-profile pledge to “take the family home out of inheritance tax” in 2007 that put Gordon Brown off calling a snap general election.</p><p>In practice, Osborne’s plan involved a £1m threshold for inheritance tax – and given the global financial crisis had blown a hole in the public finances by the time the Conservative-Lib Dem coalition came to power in 2010, it never came to pass.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8126
   }
 ]
