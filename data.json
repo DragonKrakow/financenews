@@ -1,16 +1,80 @@
 [
   {
-    "title": "IMF sounds alarm on rising government borrowing costs – business live",
-    "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T06:22:57+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Global financial system is failing developing countries, says Ed Miliband</a></p></li></ul><p><strong>Wednesday morning at the IMF/World Bank annual meetings in Bangkok saw IMF managing director Kristalina Georgieva give her opening press conference, </strong><em><strong>our economics editor Heather Stewart writes.</strong></em></p><p>She enthusiastically reiterated the <strong>IMF’s</strong> call for major economies - including the US - to implement tougher fiscal policies. “Make urgent repairs to the fiscal house, before the cracks widen,” she said - and later:</p><p>“Fundamentals matter. Get your house in order. Otherwise, your people, your businesses will pay a price.”</p><p>“Surplus countries need to increase domestic consumption. Deficit countries need to save more, cut debt, cut the deficits over time.”</p><p>“we need to recognise that it is not just a systemically important, signficant economy, but London is one of the capitals of the world for the finance community. And traditionally we have seen more attention in relative terms in the UK to what the government is doing, what is happening - a bit more sensitivity.”</p><p>“I think the UK government knows they need to stay the course: they need to reaffirm this confidence in the direction of travel.”</p><p>“We are seeing, across the eurozone, an impact in terms of yields edging upwards, even in countries that traditionally never see their yields move.”</p><p>“I think what countries should do from the macro perspective depends a lot in terms of their initial position. In general, however, the the defence spending will be persistent, so even if you accommodate it temporarily with debt, you have to be prepared at some point to recognise that that debt cannot forever finance this part.</p><p>And the second issue is that...in general, Europe has really high revenue ratios. So the space for a lot more revenues is not easy: it distorts, at the end of the day. So, the discussion about the social contract behind spending is very, very urgent.”</p><p>“Given the fact that many of these spending pressures are going to be persistent, there are going to be difficult trade-offs, and countries are going to have to assess carefully, in communication and dialogue and discussion with the public, in terms of what the priorities are, what needs to come first, and what governments need to spend on.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "title": "Bank of America shares drop more than 5% after third-quarter revenue miss and regulatory penalty",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-14T12:19:38+00:00",
+    "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6767
+    "sentiment_score": -0.6908
+  },
+  {
+    "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+    "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T12:03:00+00:00",
+    "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4118
+  },
+  {
+    "title": "Diesel squeeze expected to continue into 2027 despite Trump’s deal with Russia – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T11:44:49+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, including the IMF meeting in Thailand and the IEA’s new oil market report</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Global financial system is failing developing countries, says Ed Miliband</a></p></li></ul><p><strong>UK government borrowing costs are dropping this morning, which will please John Healey and the IMF alike!</strong></p><p>The yield, or interest rate, on UK 10-year bonds is down 3.5 basis points to 5.4%, while thirty-year bond yields are 3bps lower at 5.89%.</p><p>Chancellor John Healey is expected to pay for all new giveaways in this month’s Budget — including a cost-of-living package — with higher taxes or spending cuts rather than more borrowing.</p><p>People briefed on UK Budget preparations told the FT that the October 28 fiscal package would be “scorecard positive” in 2029-30, the final year of the parliament, meaning that all extra discretionary spending was fully funded.</p><p>China’s exports, imports, and trade surplus all comfortably beat expectations in September as the trade boom continued. Key trade ties look set to remain stable through year-end, which should keep this year’s key growth engine humming.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6239
+  },
+  {
+    "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
+    "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T11:18:00+00:00",
+    "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "BlackRock’s assets equal half the size of the U.S. economy after 15% growth",
+    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T10:41:00+00:00",
+    "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.765
+  },
+  {
+    "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
+    "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T09:07:59+00:00",
+    "summary": "<p>Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system.</p><p>Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents <a href=\"https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning\">hijacking personal devices</a>, and the French supermarket hack that <a href=\"https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u\">heated fridges up to 50C</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Mining",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9062
   },
   {
     "title": "Global financial system is failing developing countries, says Ed Miliband",
@@ -37,18 +101,6 @@
     "sentiment_score": 0.3182
   },
   {
-    "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-    "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T21:02:00+00:00",
-    "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8481
-  },
-  {
     "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
     "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
     "source": "CNBC Finance",
@@ -59,42 +111,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1027
-  },
-  {
-    "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-    "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T20:41:00+00:00",
-    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
-  },
-  {
-    "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-    "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T20:29:00+00:00",
-    "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year, as the company tries to rein in spending on medical care.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4939
-  },
-  {
-    "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-    "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-13T20:27:00+00:00",
-    "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   },
   {
     "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -360,17 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4767
-  },
-  {
-    "title": "Send us your questions for economist Isabella Weber on inflation and affordability",
-    "link": "https://www.theguardian.com/business/2026/oct/09/send-us-your-questions-for-economist-isabella-weber-on-inflation-and-affordability",
-    "source": "The Guardian Economics",
-    "published": "2026-10-09T11:08:55+00:00",
-    "summary": "<p><a href=\"https://www.theguardian.com/world/series/first-edition\">First Edition newsletter</a> will be hosting a reader Q&amp;A with economist Isabella Weber, a leading voice on inflation, affordability and cost of living and now’s your chance to put your questions to her </p><p>Isabella Weber is one of the most sought-after and influential economists of her generation, and has advised policymakers and governments in the US, Germany, Europe and Latin America. <br /><br />\n She has become a <a href=\"https://www.theguardian.com/business/commentisfree/2021/dec/29/inflation-price-controls-time-we-use-it\">leading voice on inflation</a>, affordability and the cost of living. Her new book, Anti-Fascist Economics, looks at the relationship between economic insecurity and the rise of the far right, arguing progressive politics must respond to the rise of authoritarianism by urgently addressing the economic pressures people experience in their daily lives. For years Weber was treated as an outlier.<br /><br />\n Weber is an associate professor of economics at the University of Massachusetts Amherst and an associate in research at Harvard’s Fairbank Center, and is the author of the prize-winning How China Escaped Shock Therapy.</p><p>We’d love to hear your questions. Perhaps you would like to find out how the cost of living affects the current political landscape? What’s happening in the bond markets? Or the advice she’d give to progressive politicians, from incumbents like Burnham and Mamdani to the German parties taking on the AFD. From austerity to zero deficits, nothing is too simple or complex.</p> <a href=\"https://www.theguardian.com/business/2026/oct/09/send-us-your-questions-for-economist-isabella-weber-on-inflation-and-affordability\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7733
   }
 ]
