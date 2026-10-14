@@ -1,35 +1,97 @@
 [
   {
-    "title": "Bank of America shares drop more than 5% after third-quarter revenue miss and regulatory penalty",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-14T12:19:38+00:00",
-    "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6908
-  },
-  {
-    "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-    "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+    "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
+    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-14T12:03:00+00:00",
-    "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+    "published": "2026-10-14T18:06:00+00:00",
+    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4118
+    "sentiment_score": 0.8714
   },
   {
-    "title": "Diesel squeeze expected to continue into 2027 despite Trump’s deal with Russia – business live",
+    "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+    "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T16:27:00+00:00",
+    "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
+    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T16:20:00+00:00",
+    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "The problem with living in a rich man’s world | Letters",
+    "link": "https://www.theguardian.com/news/2026/oct/14/the-problem-with-living-in-a-rich-mans-world",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T16:19:01+00:00",
+    "summary": "<p><strong>David Redshaw</strong> and<strong> Fernando Quintana </strong>respond to reports of a billionaire exodus from Britain</p><p>The idea that the departure of the super-rich is a problem ignores a historical fact (<a href=\"https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground\">Apparent exodus of super-rich suggests UK is no longer billionaires’ playground, 7 October</a>). Capitalism works better without them. The most successful countries today are states where redistributive taxation has empowered the working masses and provided a better and more stable market for business people.</p><p>How do today’s complaining uber-rich explain the postwar decades, when the top rate of income tax was commonly 80% or 90%, and yet the period is known as a golden age of capitalism? Then Margaret Thatcher lowered the top rate to 60% and the country tilted into a massive recession. The rich get to a point where they simply become wealth extractors, using their money to buy assets and raising the cost of them for the rest of us – housing being a good example today.</p> <a href=\"https://www.theguardian.com/news/2026/oct/14/the-problem-with-living-in-a-rich-mans-world\">Continue reading...</a>",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.945
+  },
+  {
+    "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
+    "link": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T16:07:00+00:00",
+    "summary": "Consumer inflation just came in hot. Thursday will provide more clues on the impact of record diesel prices ahead of the midterm elections.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
+  },
+  {
+    "title": "Micron wins praise from Elon Musk for not being too greedy",
+    "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-14T15:07:00+00:00",
+    "summary": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6737
+  },
+  {
+    "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+    "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T14:29:42+00:00",
+    "summary": "<p>Final inflation report before voters go to polls comes amid widespread anger over cost of living under Trump</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Send us your questions on how the US economy is shaping the midterm elections</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/republicans\">Republicans</a> are entering the midterm elections with the highest rate of <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> since the spring, according to a government report released on Wednesday.</p><p>US price increases reached an annual rate of 3.7%<strong> </strong>in September, according to the latest data from the Bureau of Labor Statistics, up from 3.4% in August. This final inflation report before the pivotal midterm elections comes amid polls showing widespread dissatisfaction with the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> over the cost of living.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
+  },
+  {
+    "title": "‘Ugly’ jump in US inflation, driven by gasoline prices, in blow to Trump before midterm elections – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-10-14T11:44:49+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news, including the IMF meeting in Thailand and the IEA’s new oil market report</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Global financial system is failing developing countries, says Ed Miliband</a></p></li></ul><p><strong>UK government borrowing costs are dropping this morning, which will please John Healey and the IMF alike!</strong></p><p>The yield, or interest rate, on UK 10-year bonds is down 3.5 basis points to 5.4%, while thirty-year bond yields are 3bps lower at 5.89%.</p><p>Chancellor John Healey is expected to pay for all new giveaways in this month’s Budget — including a cost-of-living package — with higher taxes or spending cuts rather than more borrowing.</p><p>People briefed on UK Budget preparations told the FT that the October 28 fiscal package would be “scorecard positive” in 2029-30, the final year of the parliament, meaning that all extra discretionary spending was fully funded.</p><p>China’s exports, imports, and trade surplus all comfortably beat expectations in September as the trade boom continued. Key trade ties look set to remain stable through year-end, which should keep this year’s key growth engine humming.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-14T14:20:54+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, including the IMF meeting in Thailand, the IEA’s new oil market report, and US inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\"><strong>Full story: US inflation rose to 3.7% in September</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Global financial system is failing developing countries, says Ed Miliband</a></p></li></ul><p><strong>UK government borrowing costs are dropping this morning, which will please John Healey and the IMF alike!</strong></p><p>The yield, or interest rate, on UK 10-year bonds is down 3.5 basis points to 5.4%, while thirty-year bond yields are 3bps lower at 5.89%.</p><p>Chancellor John Healey is expected to pay for all new giveaways in this month’s Budget — including a cost-of-living package — with higher taxes or spending cuts rather than more borrowing.</p><p>People briefed on UK Budget preparations told the FT that the October 28 fiscal package would be “scorecard positive” in 2029-30, the final year of the parliament, meaning that all extra discretionary spending was fully funded.</p><p>China’s exports, imports, and trade surplus all comfortably beat expectations in September as the trade boom continued. Key trade ties look set to remain stable through year-end, which should keep this year’s key growth engine humming.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
+      "Election",
       "Fed",
       "Oil",
       "AI"
@@ -38,38 +100,50 @@
     "sentiment_score": 0.6239
   },
   {
-    "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
-    "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-14T11:18:00+00:00",
-    "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "BlackRock’s assets equal half the size of the U.S. economy after 15% growth",
-    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-14T10:41:00+00:00",
-    "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
+    "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T13:58:39+00:00",
+    "summary": "<p>Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe</p><p>Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said.</p><p>Douglas Alexander helped negotiate deals with India and the US when he was a trade minister under Keir Starmer.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.765
+    "sentiment_score": 0.9612
+  },
+  {
+    "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+    "link": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T13:57:03+00:00",
+    "summary": "<p>Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition </p><p>Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said.</p><p>Speaking in his capacity as president of the European Automobile Manufacturers’ Association (ACEA), Ola Källenius said such a move would “weaken the industry on both sides”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
+    "link": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+    "source": "The Guardian Economics",
+    "published": "2026-10-14T12:26:27+00:00",
+    "summary": "<p>Firms turning crude oil into the ‘workhorse’ fuel stand to gain most despite economic fallout from record prices</p><p>Days after Donald Trump announced a <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">deal to import Russian diesel into the US</a> in an effort to lower soaring pump prices, the world’s energy watchdog has warned that the global fuel shortage will drag into 2027.</p><p>Trump’s temporary sanctions reprieve was criticised for offering “too little, too late” to temper the <a href=\"https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers\">sky high pump prices</a> triggered by the shutdown of war-damaged refineries in the Middle East and Russia – once the world’s second-largest diesel exporter behind the US.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.872
   },
   {
     "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
     "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
     "source": "The Guardian Economics",
     "published": "2026-10-14T09:07:59+00:00",
-    "summary": "<p>Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system.</p><p>Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents <a href=\"https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning\">hijacking personal devices</a>, and the French supermarket hack that <a href=\"https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u\">heated fridges up to 50C</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust\">Continue reading...</a>",
+    "summary": "<p>Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’</p><p>The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system.</p><p>Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents <a href=\"https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning\">hijacking personal devices</a>, and the French supermarket hack that <a href=\"https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u\">heated fridges up to 50C</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "Mining",
       "AI"
     ],
@@ -298,83 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3506
-  },
-  {
-    "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
-    "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
-    "source": "The Guardian Economics",
-    "published": "2026-10-11T11:00:25+00:00",
-    "summary": "<p>‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’</p><p>Back through political history to the age of <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>, Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government’s coffers.</p><p>The promise never really panned out. From the Gipper’s day on, the Republicans’ tax cuts inevitably increased the budget deficit. Despite its failure, though, the promise is back, coated in a fine new layer of <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> pixie dust. It will fail again.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7271
-  },
-  {
-    "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
-    "source": "The Guardian Economics",
-    "published": "2026-10-11T10:11:19+00:00",
-    "summary": "<p>Just as Brown and Blair did in 2005, Andy Burnham aims to champion debt relief to help developing countries</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns\">Developing nations face triple shock, UN warns</a></p></li></ul><p></p><p>From Washington to Paris, London to Tokyo, policymakers in every large economy have been counting the costs of bond market turmoil in recent weeks. But the brunt of the pain is being borne by heavily indebted developing countries that have little hope of influencing the whims of global investors, but pay the price regardless.</p><p>Markets have responded to the war in the Middle East, and a spendthrift White House, by dumping government bonds – driving up borrowing costs just about everywhere.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9168
-  },
-  {
-    "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
-    "link": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
-    "source": "The Guardian Economics",
-    "published": "2026-10-10T04:00:47+00:00",
-    "summary": "<p>Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?</p><p>Eight years have passed since rising fuel prices brought the <em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">gilets </a></em><em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">jaunes</a></em> (yellow vest) demonstrators to the streets of France, prompting the first big crisis of Emmanuel Macron’s time in the Élysée Palace.</p><p>As the French president contemplates his exit next year, turmoil has again gripped the streets in the <a href=\"https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue\">form of student protests</a>, but this time the financial markets are unhappy too.</p> <a href=\"https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9631
-  },
-  {
-    "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-    "source": "The Guardian Economics",
-    "published": "2026-10-09T14:12:06+00:00",
-    "summary": "<p>Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in November</p><p>Data storage firm <strong>Snowflake</strong> has said hack at <strong>Asos</strong> was not caused by a vulnerability or flaw with its platform.</p><p>It comes after Asos’ investigation this week found an “unauthorised party gained access to an Asos employee account by impersonating a trusted contact to obtain log-in credentials”. Asos said the credentials were then used to access information on third-party platforms used by the company.</p><p>We are aware of Asos’s notification to their customers regarding this incident. We can confirm this issue did not in any way result from a vulnerability, weakness, flaw, or misconfiguration with the Snowflake service, platform, or internal environments, and was not caused by Snowflake.</p><p>No remediation is required for Snowflake customers. We continue to encourage adherence to our security best practices.</p><p>There is no action you need to take on your account. However, please remain cautious of unexpected messages or calls claiming to be from Asos. We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9254
-  },
-  {
-    "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-    "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-    "source": "The Guardian Economics",
-    "published": "2026-10-09T13:31:04+00:00",
-    "summary": "<p>Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plants</p><p>The EU is “pulling out all the stops” to fend off an imminent potential trade crisis with China, the industry commissioner, Stéphane Séjourné, has said, as the bloc announced its backing for a string of critical materials projects.</p><p>Séjourné said on Friday that the EU would support 46 new strategic projects to accelerate supplies of critical raw materials by 2030 across the bloc.</p> <a href=\"https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war\">Continue reading...</a>",
-    "matched_keywords": [
-      "Trade War",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8316
-  },
-  {
-    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-09T12:01:26+00:00",
-    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
   }
 ]
