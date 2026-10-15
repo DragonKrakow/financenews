@@ -1,5 +1,54 @@
 [
   {
+    "title": "Tech stock sell-off intensifies as markets fret about AI; UK growth beats forecasts in August – business live",
+    "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T06:13:31+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>Emeritus professor <strong>Joe</strong> <strong>Nellis</strong>, head of economic research at accountancy and advisory firm <strong>MHA</strong>, points out that the underlying pace of growth in the UK economy remains weak.</p><p>Responding to <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">this morning’s UK GDP report</a>, he says:</p><p>The loss of momentum in August reflects the impact of continued inflationary pressures that have negatively impacted consumer confidence and spending.</p><p>Businesses also continue to face tough trading conditions resulting from rising employment costs and taxation which have squeezed profitability, particularly among small and medium-sized enterprises, discouraging investment spending and recruitment activity.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Poland looks to economic heights in a country transformed since Soviet days",
+    "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T05:56:12+00:00",
+    "summary": "<p>In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living</p><p>Above the rain-soaked streets of Warsaw, the observation deck of the Varso tower overlooks Joseph Stalin’s gift to Poland that has divided opinion for decades.</p><p>For some, the Soviet-era <a href=\"https://www.theguardian.com/cities/2015/may/08/warsaw-palace-of-culture-stalin-a-history-of-cities-in-50-buildings-day-32\">Palace of Culture and Science</a> is a drunk confectioner’s nightmare; standing as a relic of oppression that should have been demolished. For others, it is an icon on the skyline and a monumental warning from history.</p> <a href=\"https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T05:00:22+00:00",
+    "summary": "<p>Finance ministers gathering for the IMF annual meeting know the need for multilateral cooperation to deal with many crises. There is little chance of that</p><p>Not much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising prices and supply chains everywhere.<strong> </strong>Businesses and consumers are feeling the effects of a serious energy shock. Rising inflation has made it a lot more expensive for governments to finance their debts. China and the US are at loggerheads over trade.</p><p>Yet, so far, the impact has been modest. It is something of a miracle that the finance ministers and central bank governors gathered for this year’s annual meeting of the International Monetary Fund (IMF) in Bangkok are not having to deal with a full-blown crisis. This is not like the autumn of 2008, when the meetings took place during the worst of the global banking meltdown.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9596
+  },
+  {
+    "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+    "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T01:07:00+00:00",
+    "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
     "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
     "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -326,53 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7351
-  },
-  {
-    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T01:26:41+00:00",
-    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1655
-  },
-  {
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-12T15:37:26+00:00",
-    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5734
-  },
-  {
-    "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-    "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-    "source": "The Guardian Economics",
-    "published": "2026-10-12T14:20:53+00:00",
-    "summary": "<p>US economists developed models that help central bankers and finance ministers to stabilise their economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation.</p><p>Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for <a href=\"https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf\">developing the “microeconomic foundations of macroeconomic stabilisation”</a>, giving policymakers better tools to smooth out the peaks and troughs of their economies.</p> <a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9652
-  },
-  {
-    "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-12T14:17:27+00:00",
-    "summary": "<p>The Sveriges Riksbank Prize in Economic Sciences has been awarded to Robert Hall and Michael Woodford for developing the “microeconomic foundations of macroeconomic stabilisation”</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\"><strong>Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises</strong></a></p></li></ul><p><strong>There’s some movement in the Nobel economics prize betting, with around 45 minutes to go until the announcement.</strong></p><p><strong>Sidney Winter, </strong>the professor emeritus of management at the <strong>Wharton</strong> <strong>School</strong>, and <strong>Lawrence Katz, </strong>the Elisabeth Allison Professor of Economics at Harvard University, have both appeared high on Polymarket’s odds at times this morning (although the market is very volatile).</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9652
   }
 ]
