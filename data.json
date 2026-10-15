@@ -1,16 +1,102 @@
 [
   {
-    "title": "Chancellor John Healey says banks are part of ‘jewel in the crown’ of UK economy, amid budget tax speculation – business live",
+    "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
+    "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T17:56:50+00:00",
+    "summary": "<p>The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for the Stakes newsletter for more midterms coverage</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us your questions on Trump’s immigration agenda ahead of the midterms</a></p></li></ul><p><strong><a href=\"https://profile.theguardian.com/user/id/116366586\">LucccA</a> asks:</strong> Why are labor unions in the US still not as well-organized compared to the rest of the world? I know there was a push against them in the past—does that still have an effect today? Also, why are there so many right-leaning unions in the US?</p><p><strong>Michael:</strong> A lot of reasons. The US has low union density compared to other wealthy nations, currently at 10.0%, and that has been on a precipitous decline for the past few decades for a variety of reasons that include anti-union and union busting campaigns, outdated labor laws where employers often retaliate for union organizing or delay bargaining for years, as we are seeing with Starbucks, where there is no union contract after nearly five years since the first store won its union election in December 2021.Right to work laws in the US also undermine labor unions and starve them of resources. To the extent that there are right leaning labor unions in the US, they typically are law enforcement unions that consistently endorse and back Republican candidates despite the Republican Party in the US opposing collective bargaining. Some unions like the Teamsters have been making efforts to get Republicans to support legislation and in turn receive endorsements from the union, and this has shown up this election cycle with the Teamsters endorsing Republicans like Congressman Max Miller or Kansas Senator Roger Marshall, who are both facing very competitive re-election battles.</p><p><strong>Heather:</strong> There’s a bunch of ideas floating around on cutting costs for groceries, healthcare and energy bills. A key thing Democrats are promising if they regain power in Congress is to wrestle back authority on trade and repeal Trump’s tariffs, which would lower what it costs compaines to import. A second is to advance a vote to stop the war in Iran, which could calm fuel prices. If Democrats retake the Senate, expect Elizabeth Warren to become chair of the powerful banking committe, and push forward some curbs on private equity investments. And Democrats have been coalescing around more government funding for childcare, a notable move to the <a href=\"https://www.theguardian.com/us-news/2026/jan/28/democrats-universal-childcare-campaigns\">left in recent years</a>. Hakeem Jeffries, who will be House Speaker if Democrats win there, is promising to reinstate ACA tax cuts and roll back Medicaid cuts, but the party is <a href=\"https://www.theguardian.com/us-news/2026/oct/04/medicare-for-all-democrats-midterms\">divided on Medicare For All</a>, with DSA candidates making promises on the campaign trail and more centrist Dems being pretty quiet.</p><p>Republicans running for Congress have been talking a lot about ways to lower gas prices, especially suspending the fuel tax, and shaving utility bills by making tech companies and other big users pay more. Some have promised to curb Trump’s tariffs, including <a href=\"https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways\">Michigan’s Mike Rogers</a>, and others are proposing suspending data center building after <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans\">public backlash</a>.</p> <a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9448
+  },
+  {
+    "title": "The COLA wars are coming for Social Security",
+    "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T17:07:00+00:00",
+    "summary": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T17:06:00+00:00",
+    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
+  },
+  {
+    "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+    "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T16:55:00+00:00",
+    "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T16:53:00+00:00",
+    "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "John Healey poised to raise taxes on banks in budget",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T16:17:05+00:00",
+    "summary": "<p><strong>Exclusive:</strong> Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances</p><p>John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands.</p><p>The chancellor is in Bangkok, where the International Monetary Fund has praised the UK’s progress towards balancing the books, urging him to “stay the course”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-10-15T12:05:19+00:00",
-    "summary": "<p>John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the “jewel” in the UK’s economic crown</p><p><strong><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">Today’s better-than-forecast UK growth report</a> is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok.</strong></p><p>But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November….</p><p>“While August’s unexpected uptick all but confirms that the OBR will raise its growth forecast for this year from 1.1% to 1.4%, the Chancellor still faces a major Budget headache, as elevated borrowing costs eat into fiscal headroom and increase pressure for tax rises.</p><p>“These unexpectedly upbeat figures will further embolden hawkish sentiment among policymakers by reinforcing the view that the economy is strong enough to withstand a rate rise, making a November hike look highly likely.”</p><p>“The latest GDP figures are encouraging, with the economy growing by 0.7% in the three months to August, its strongest growth rate since May. On its current trajectory, the UK is likely to record growth comfortably above 1% this year, which would probably be enough to make it the second-fastest-growing economy in the G7.</p><p>“The UK’s growth performance has been a bright spot amid a less impressive run of economic news following events in the Middle East. Business investment has been an important driver, particularly spending on ICT hardware, likely linked to the build-out of AI infrastructure. The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-15T14:59:52+00:00",
+    "summary": "<p>John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the “jewel” in the UK’s economic crown</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">John Healey vows to give ‘breathing space’ to consumers and businesses in first budget</a></p></li></ul><p><br /></p><p><strong><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">Today’s better-than-forecast UK growth report</a> is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok.</strong></p><p>But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November….</p><p>“While August’s unexpected uptick all but confirms that the OBR will raise its growth forecast for this year from 1.1% to 1.4%, the Chancellor still faces a major Budget headache, as elevated borrowing costs eat into fiscal headroom and increase pressure for tax rises.</p><p>“These unexpectedly upbeat figures will further embolden hawkish sentiment among policymakers by reinforcing the view that the economy is strong enough to withstand a rate rise, making a November hike look highly likely.”</p><p>“The latest GDP figures are encouraging, with the economy growing by 0.7% in the three months to August, its strongest growth rate since May. On its current trajectory, the UK is likely to record growth comfortably above 1% this year, which would probably be enough to make it the second-fastest-growing economy in the G7.</p><p>“The UK’s growth performance has been a bright spot amid a less impressive run of economic news following events in the Middle East. Business investment has been an important driver, particularly spending on ICT hardware, likely linked to the build-out of AI infrastructure. The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9951
+  },
+  {
+    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+    "source": "The Guardian Economics",
+    "published": "2026-10-15T14:33:12+00:00",
+    "summary": "<p>Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Business news – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf\">Larry Elliott: the global economy is muddling through. But a storm is coming</a></p></li></ul><p>An accelerating sell-off of AI-linked shares has hit global markets, as <a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\">fears over rising inflation</a> and future interest rate hikes spooked traders already wary of the heavily indebted sector.</p><p>South Korea’s benchmark Kospi 200<strong> </strong>index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt\">Continue reading...</a>",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
     "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
@@ -38,77 +124,16 @@
     "sentiment_score": 0.3612
   },
   {
-    "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-    "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T11:17:00+00:00",
-    "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T10:38:26+00:00",
-    "summary": "<p>Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Business news – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf\">Larry Elliott: the global economy is muddling through. But a storm is coming</a></p></li></ul><p>An accelerating sell-off of AI-linked shares has hit global markets, as <a href=\"https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september\">fears over rising inflation</a> and future interest rate hikes spooked traders already wary of the heavily indebted sector.</p><p>South Korea’s benchmark Kospi 200<strong> </strong>index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt\">Continue reading...</a>",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T10:15:00+00:00",
-    "summary": "”I earn $110,000 a year.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
     "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
     "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
     "source": "The Guardian Economics",
     "published": "2026-10-15T09:00:13+00:00",
-    "summary": "<p>Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Our reporters answer your questions about the US economy and the midterm elections</a></p></li></ul><p>With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.</p><p>The majority of those surveyed were pessimistic about the economy, with three quarters of Americans saying they are concerned about a recession while 61% wrongly believe that the US is already experiencing one. By its typical definition, the US is not currently experiencing a recession.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">Continue reading...</a>",
+    "summary": "<p>Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Our reporters answer your questions about the US economy and the midterm elections</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">What is your personal ‘recession indicator’?</a></p></li></ul><p>With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.</p><p>The majority of those surveyed were pessimistic about the economy, with three-quarters of Americans saying they are concerned about a recession while 61% wrongly believe that the US is already experiencing one. By its typical definition, the US is not currently experiencing a recession.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">Continue reading...</a>",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9062
-  },
-  {
-    "title": "Why the AI trade is not set up for a rebound like July’s, according to JPMorgan",
-    "link": "https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T08:53:00+00:00",
-    "summary": "Fewer shorts, buybacks ending,  no inflows and too many longs imply no recovery is imminent, says a JPMorgan strategist.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "TSMC’s CEO sees no sign of a slowdown as chip foundry reports record profit",
-    "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T08:42:00+00:00",
-    "summary": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
   },
   {
     "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
@@ -134,32 +159,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9596
-  },
-  {
-    "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
-    "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T01:07:00+00:00",
-    "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
-    "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answer your questions",
-    "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T22:10:13+00:00",
-    "summary": "<p>The high cost of living has Americans angrier than ever. Guardian reporters answer your questions about the economy before voters head to the polls</p><ul><li><p><a href=\"https://profile.theguardian.com/signin\"><strong>Sign up or sign in</strong></a><strong> </strong>to ask your question</p></li></ul><p>Welcome to our latest US midterms live Q&amp;A.</p><p>With just over two weeks to election day on 3 November, the US economy is top of voters’ minds. Food and gas prices remain high, the <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">job market</a> is unstable, consumers are <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy\">angrier than ever</a>, and a new Fed chair, <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Kevin Warsh</a>, took over this year.</p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now\">The makeup of the Democratic party, plus key races to watch</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms\">Who are the groups financially backing the candidates in the midterms?</a></em></p><p><em><a href=\"https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers\">Will the Iran war cost Trump in the US midterm elections? Your questions answered</a></em></p> <a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7677
   },
   {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -326,32 +325,6 @@
     "sentiment_score": 0.9516
   },
   {
-    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-    "source": "The Guardian Economics",
-    "published": "2026-10-13T12:30:01+00:00",
-    "summary": "<p>High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026\">IMF warns global economy ‘could soon test the limits of resilience’</a></p></li></ul><p>The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.</p><p>In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9694
-  },
-  {
-    "title": "Is punishing the poor Trump’s last hand to play?",
-    "link": "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms",
-    "source": "The Guardian Economics",
-    "published": "2026-10-13T11:00:56+00:00",
-    "summary": "<p>The pre-midterm defenestration of ACA enrollees looks like political madness – but the president appears to believe hitting poor people might work for him</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us\">Send us your questions on how the US economy is shaping the midterm elections</a></p></li></ul><p>There is a manic quality to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s desperate dash to do something, anything, ahead of November’s <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> to convince beleaguered Americans that he can make the pressures his policies have imposed on their livelihoods go away.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-cattle-ranchers-beef-imports-backlash\">offered</a> to lower barriers against beef imports to limit surging meat prices, only to consider <a href=\"https://www.politico.com/news/2026/09/23/trump-beef-imports-midterms-gop-panic-01090261\">backtracking</a> under <a href=\"https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import\">pressure</a> from the cow lobby. He <a href=\"https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban\">offered</a> to stop diesel exports, only to find oil companies <a href=\"https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html\">were</a> <a href=\"https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html\">not interested</a>. He weakened fuel efficiency standards, claiming this would trim the price of a new car (and forgetting to point out it will also raise spending on gas). In early October he started mailing <a href=\"https://www.cnn.com/2026/10/01/economy/trump-obamacare-500-check\">$500 checks</a> to nearly a million people touting his healthcare “wins”. Oh, and he promised adult Americans a <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response\">$5,000 check</a> if Republicans maintain control of Congress. That, too, will <a href=\"https://www.theguardian.com/us-news/2026/sep/10/trump-dividend-republican-midterm-convention\">go nowhere</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8422
-  },
-  {
     "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
     "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
     "source": "CNBC Finance",
@@ -375,5 +348,29 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1655
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-12T15:37:26+00:00",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5734
+  },
+  {
+    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-09T12:01:26+00:00",
+    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
   }
 ]
