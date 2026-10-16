@@ -1,5 +1,103 @@
 [
   {
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-15T23:00:01+00:00",
+    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T22:31:00+00:00",
+    "summary": "”I earn $110,000 a year.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+    "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T21:56:00+00:00",
+    "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8873
+  },
+  {
+    "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+    "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T21:23:00+00:00",
+    "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+    "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T21:21:00+00:00",
+    "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+    "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T21:03:00+00:00",
+    "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T20:40:00+00:00",
+    "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
+    "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-15T19:00:00+00:00",
+    "summary": "Here’s the Nov. 3 contest that “presents the biggest election-specific risk,” analysts say.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
     "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
     "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
     "source": "The Guardian Economics",
@@ -13,64 +111,16 @@
     "sentiment_score": 0.9448
   },
   {
-    "title": "The COLA wars are coming for Social Security",
-    "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T17:07:00+00:00",
-    "summary": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T17:06:00+00:00",
-    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
-  },
-  {
-    "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-    "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T16:55:00+00:00",
-    "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-15T16:53:00+00:00",
-    "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
     "title": "John Healey poised to raise taxes on banks in budget",
     "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
     "source": "The Guardian Economics",
     "published": "2026-10-15T16:17:05+00:00",
-    "summary": "<p><strong>Exclusive:</strong> Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances</p><p>John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands.</p><p>The chancellor is in Bangkok, where the International Monetary Fund has praised the UK’s progress towards balancing the books, urging him to “stay the course”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Continue reading...</a>",
+    "summary": "<p><strong>Exclusive: </strong>Chancellor to target sector in his first budget, to help offset Iran war’s damage to public finances </p><p>John Healey is poised to tax Britain’s banks in his 28 October budget, to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands.</p><p>The chancellor is in Bangkok, where the International Monetary Fund has praised the UK’s progress towards balancing the books, urging him to “stay the course”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2023
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
   },
   {
     "title": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – as it happened",
@@ -103,7 +153,7 @@
     "link": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
     "source": "The Guardian Economics",
     "published": "2026-10-15T12:00:12+00:00",
-    "summary": "<p>Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Our reporters answer your questions about the US economy and the midterm elections</a></p></li></ul><p>It’s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections.</p><p>In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections\">Continue reading...</a>",
+    "summary": "<p>Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">Tell us: what is your personal ‘recession indicator’?</a></p></li></ul><p>It’s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections.</p><p>In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Trade War"
@@ -116,7 +166,7 @@
     "link": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
     "source": "The Guardian Economics",
     "published": "2026-10-15T11:47:32+00:00",
-    "summary": "<p>Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives\">UK politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>John Healey has promised to use his first budget in a fortnight’s time to offer consumers and businesses a “breathing space” while sticking to Labour’s fiscal rules.</p><p>Speaking to journalists in Bangkok, where he has been attending the International Monetary Fund annual meetings, the chancellor said he was conscious of rising costs.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">Continue reading...</a>",
+    "summary": "<p>Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs</p><p>John Healey has promised to use his first budget in a fortnight’s time to offer consumers and businesses a “breathing space” while sticking to Labour’s fiscal rules.</p><p>Speaking to journalists in Bangkok, where he has been attending the International Monetary Fund annual meetings, the chancellor said he was conscious of rising costs.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -128,7 +178,7 @@
     "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
     "source": "The Guardian Economics",
     "published": "2026-10-15T09:00:13+00:00",
-    "summary": "<p>Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Our reporters answer your questions about the US economy and the midterm elections</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">What is your personal ‘recession indicator’?</a></p></li></ul><p>With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.</p><p>The majority of those surveyed were pessimistic about the economy, with three-quarters of Americans saying they are concerned about a recession while 61% wrongly believe that the US is already experiencing one. By its typical definition, the US is not currently experiencing a recession.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">Continue reading...</a>",
+    "summary": "<p>Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">Tell us: what is your personal ‘recession indicator’?</a></p></li></ul><p>With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republicans are increasingly disenchanted with Donald Trump’s economy, according to an exclusive Harris poll for the Guardian.</p><p>The majority of those surveyed were pessimistic about the economy, with three-quarters of Americans saying they are concerned about a recession while 61% wrongly believe that the US is already experiencing one. By its typical definition, the US is not currently experiencing a recession.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">Continue reading...</a>",
     "matched_keywords": [
       "Election"
     ],
@@ -323,54 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9516
-  },
-  {
-    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T02:58:11+00:00",
-    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T01:26:41+00:00",
-    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1655
-  },
-  {
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-12T15:37:26+00:00",
-    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5734
-  },
-  {
-    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-09T12:01:26+00:00",
-    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
   }
 ]
