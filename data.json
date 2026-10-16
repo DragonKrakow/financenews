@@ -1,45 +1,58 @@
 [
   {
-    "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-    "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+    "title": "Welcome to the ‘AI burnout trade’ — as investors grow tired of debating tech’s promises",
+    "link": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T12:00:00+00:00",
-    "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – business live",
-    "link": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-16T11:58:02+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\"><strong>John Healey poised to raise taxes on banks in budget</strong></a></p></li></ul><p><br /></p><p>Elsewhere in the markets today, South Korea’s <strong>Kospi</strong> share index has recorded its biggest weekly loss since October 2008, down 14.5% this week.</p><p>Although the <strong>Kospi</strong> did rise today (+2%), it was still a bad week for technology stocks – as investors worried about the borrowing, spending commitments and future profitability of AI companies.</p><p>The reality is that while companies embraced AI aggressively as it first emerged, now they are figuring out how to use it effectively while keeping AI costs under control. A slowing, more careful, path towards corporate adoption has been missed by the market which remained wildly frothy about valuations.</p><p>“A UK bank tax risk is now a base case. If it is confirmed on 28 October, it’ll be the size and timing that will be key.</p><p>If Healey does go ahead, shares of Lloyds and NatWest, which are almost entirely exposed to the UK, would likely be impacted most, and you are seeing this already in the share price reaction today. Barclays is partly exposed. HSBC is least exposed in the mix.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-16T18:01:00+00:00",
+    "summary": "AI is likely to pay off eventually, but investors are getting sick of all the hand-wringing over near-term returns, analysts say.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2039
+    "sentiment_score": -0.5859
   },
   {
-    "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+    "title": "Here’s how the Fed should reveal its outlook for the economy",
+    "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T11:30:00+00:00",
-    "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+    "published": "2026-10-16T17:07:00+00:00",
+    "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-16T16:46:18+00:00",
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
+    "sentiment_score": 0.2023
   },
   {
-    "title": "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+    "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
+    "link": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
+    "source": "The Guardian Economics",
+    "published": "2026-10-16T16:16:25+00:00",
+    "summary": "<p>Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes</p><p>After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.</p><p>As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2902
+  },
+  {
+    "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
     "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T11:00:00+00:00",
+    "published": "2026-10-16T16:05:00+00:00",
     "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
     "matched_keywords": [
       "Robotics"
@@ -48,54 +61,41 @@
     "sentiment_score": 0.4019
   },
   {
-    "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-    "link": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T10:56:00+00:00",
-    "summary": "The S&amp;P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, nearly 40% of the index’s stocks are down at least 20% from their 52-week highs.",
+    "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-16T15:42:59+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\"><strong>John Healey poised to raise taxes on banks in budget</strong></a></p></li></ul><p><br /></p><p>Elsewhere in the markets today, South Korea’s <strong>Kospi</strong> share index has recorded its biggest weekly loss since October 2008, down 14.5% this week.</p><p>Although the <strong>Kospi</strong> did rise today (+2%), it was still a bad week for technology stocks – as investors worried about the borrowing, spending commitments and future profitability of AI companies.</p><p>The reality is that while companies embraced AI aggressively as it first emerged, now they are figuring out how to use it effectively while keeping AI costs under control. A slowing, more careful, path towards corporate adoption has been missed by the market which remained wildly frothy about valuations.</p><p>“A UK bank tax risk is now a base case. If it is confirmed on 28 October, it’ll be the size and timing that will be key.</p><p>If Healey does go ahead, shares of Lloyds and NatWest, which are almost entirely exposed to the UK, would likely be impacted most, and you are seeing this already in the share price reaction today. Barclays is partly exposed. HSBC is least exposed in the mix.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
-  },
-  {
-    "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T10:49:00+00:00",
-    "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-    "matched_keywords": [
-      "Election",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.8873
+    "sentiment_score": -0.2039
   },
   {
-    "title": "The best of the AI trade could be behind us. Here’s how to prepare, according to Barclays.",
-    "link": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T10:21:00+00:00",
-    "summary": "The London-based bank recommends holding on to Big Tech stocks ahead of their earnings, but has a preference for companies with strong business models.",
+    "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+    "link": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-10-16T15:33:29+00:00",
+    "summary": "<p>Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">John Healey poised to raise taxes on banks in budget</a></p></li></ul><p>The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month.</p><p>Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Guardian revealed Healey plans to tap the sector</a> for additional revenue.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
   },
   {
-    "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-    "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T09:16:00+00:00",
-    "summary": "Federal Reserve Chairman Kevin Warsh had the opportunity Thursday night to shape expectations before the central bank’s interest-rate-setting meeting in two weeks — and in keeping with his practice of leaving markets guessing, he chose not to.",
+    "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+    "link": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+    "source": "The Guardian Economics",
+    "published": "2026-10-16T13:00:11+00:00",
+    "summary": "<p>Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt</p><p>For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.</p><p>At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9849
   },
   {
     "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
@@ -299,44 +299,6 @@
     "sentiment_score": 0.6239
   },
   {
-    "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-    "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T13:58:39+00:00",
-    "summary": "<p>Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe</p><p>Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said.</p><p>Douglas Alexander helped negotiate deals with India and the US when he was a trade minister under Keir Starmer.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9612
-  },
-  {
-    "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-    "link": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T13:57:03+00:00",
-    "summary": "<p>Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition </p><p>Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said.</p><p>Speaking in his capacity as president of the European Automobile Manufacturers’ Association (ACEA), Ola Källenius said such a move would “weaken the industry on both sides”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
-  },
-  {
-    "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
-    "link": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T12:26:27+00:00",
-    "summary": "<p>Firms turning crude oil into the ‘workhorse’ fuel stand to gain most despite economic fallout from record prices</p><p>Days after Donald Trump announced a <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">deal to import Russian diesel into the US</a> in an effort to lower soaring pump prices, the world’s energy watchdog has warned that the global fuel shortage will drag into 2027.</p><p>Trump’s temporary sanctions reprieve was criticised for offering “too little, too late” to temper the <a href=\"https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers\">sky high pump prices</a> triggered by the shutdown of war-damaged refineries in the Middle East and Russia – once the world’s second-largest diesel exporter behind the US.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.872
-  },
-  {
     "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
     "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
     "source": "CNBC Finance",
@@ -371,5 +333,42 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.605
+  },
+  {
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T02:58:11+00:00",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T01:26:41+00:00",
+    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1655
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-12T15:37:26+00:00",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5734
   }
 ]
