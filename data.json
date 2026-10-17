@@ -1,28 +1,63 @@
 [
   {
-    "title": "Welcome to the ‘AI burnout trade’ — as investors grow tired of debating tech’s promises",
-    "link": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
+    "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+    "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T18:01:00+00:00",
-    "summary": "AI is likely to pay off eventually, but investors are getting sick of all the hand-wringing over near-term returns, analysts say.",
+    "published": "2026-10-16T21:59:00+00:00",
+    "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
+    "sentiment_score": -0.5332
   },
   {
-    "title": "Here’s how the Fed should reveal its outlook for the economy",
-    "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+    "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+    "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T17:07:00+00:00",
-    "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+    "published": "2026-10-16T21:35:00+00:00",
+    "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
     "matched_keywords": [
-      "Fed",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+    "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-16T21:21:00+00:00",
+    "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7351
+  },
+  {
+    "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+    "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-16T20:58:00+00:00",
+    "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5563
+  },
+  {
+    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-16T19:45:00+00:00",
+    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7506
   },
   {
     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -47,18 +82,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2902
-  },
-  {
-    "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-    "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T16:05:00+00:00",
-    "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   },
   {
     "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – as it happened",
@@ -346,29 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.296
-  },
-  {
-    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T01:26:41+00:00",
-    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1655
-  },
-  {
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-12T15:37:26+00:00",
-    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5734
   }
 ]
