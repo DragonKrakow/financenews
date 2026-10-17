@@ -1,5 +1,42 @@
 [
   {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-17T16:47:00+00:00",
+    "summary": "”I earn $110,000 a year.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+    "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+    "source": "The Guardian Economics",
+    "published": "2026-10-17T15:00:33+00:00",
+    "summary": "<p>In the west the technology comes with at least some effort to provide security and a benign intent – not so from China</p><p>There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.</p><p>Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence.</p> <a href=\"https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3832
+  },
+  {
+    "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+    "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-17T12:30:00+00:00",
+    "summary": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
+    "matched_keywords": [
+      "Silver"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.34
+  },
+  {
     "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
     "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -72,30 +109,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5332
-  },
-  {
-    "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-    "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T21:35:00+00:00",
-    "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-    "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-16T21:21:00+00:00",
-    "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7351
   },
   {
     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -318,19 +331,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "The problem with living in a rich man’s world | Letters",
-    "link": "https://www.theguardian.com/news/2026/oct/14/the-problem-with-living-in-a-rich-mans-world",
-    "source": "The Guardian Economics",
-    "published": "2026-10-14T16:19:01+00:00",
-    "summary": "<p><strong>David Redshaw</strong> and<strong> Fernando Quintana </strong>respond to reports of a billionaire exodus from Britain</p><p>The idea that the departure of the super-rich is a problem ignores a historical fact (<a href=\"https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground\">Apparent exodus of super-rich suggests UK is no longer billionaires’ playground, 7 October</a>). Capitalism works better without them. The most successful countries today are states where redistributive taxation has empowered the working masses and provided a better and more stable market for business people.</p><p>How do today’s complaining uber-rich explain the postwar decades, when the top rate of income tax was commonly 80% or 90%, and yet the period is known as a golden age of capitalism? Then Margaret Thatcher lowered the top rate to 60% and the country tilted into a massive recession. The rich get to a point where they simply become wealth extractors, using their money to buy assets and raising the cost of them for the rest of us – housing being a good example today.</p> <a href=\"https://www.theguardian.com/news/2026/oct/14/the-problem-with-living-in-a-rich-mans-world\">Continue reading...</a>",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.945
   },
   {
     "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
