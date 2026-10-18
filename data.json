@@ -1,5 +1,29 @@
 [
   {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-18T16:15:00+00:00",
+    "summary": "”I earn $110,000 a year.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+    "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-18T13:00:00+00:00",
+    "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
     "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
     "link": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
     "source": "The Guardian Economics",
@@ -17,7 +41,7 @@
     "link": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
     "source": "The Guardian Economics",
     "published": "2026-10-18T11:46:50+00:00",
-    "summary": "<p>Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system</p><p>Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks.</p><p>Kristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out piles of spoiled food after hackers accessed their <a href=\"https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges\">fridge controls</a> and turned up the temperature to 50C.</p> <a href=\"https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system\">Continue reading...</a>",
+    "summary": "<p>Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system</p><p>Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks.</p><p>Kristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out piles of spoiled food after hackers <a href=\"https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges\">accessed their fridge controls</a> and turned up the temperature to 50C.</p> <a href=\"https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -63,30 +87,6 @@
     "sentiment_score": 0.4019
   },
   {
-    "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-    "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-17T18:40:00+00:00",
-    "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-17T16:47:00+00:00",
-    "summary": "”I earn $110,000 a year.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
     "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
     "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
     "source": "The Guardian Economics",
@@ -98,30 +98,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3832
-  },
-  {
-    "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-    "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-17T12:30:00+00:00",
-    "summary": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
-    "matched_keywords": [
-      "Silver"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-    "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-17T12:01:00+00:00",
-    "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9062
   },
   {
     "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
@@ -368,5 +344,30 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.605
+  },
+  {
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T02:58:11+00:00",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T01:26:41+00:00",
+    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1655
   }
 ]
