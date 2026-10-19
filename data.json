@@ -1,21 +1,33 @@
 [
   {
-    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-    "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T16:42:14+00:00",
+    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T11:53:00+00:00",
-    "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+    "published": "2026-10-19T15:30:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
+    "sentiment_score": 0.2263
   },
   {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
     "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
     "source": "CNBC Finance",
-    "published": "2026-10-19T10:00:01+00:00",
+    "published": "2026-10-19T12:34:01+00:00",
     "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
     "matched_keywords": [
       "Defense",
@@ -24,18 +36,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "Tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-    "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T09:58:00+00:00",
-    "summary": "Goldman Sachs says consumer-facing laggard stocks are the best way forward as earnings growth is set to slow next year and big tech stocks struggle.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "China’s economy grows faster than forecast after AI boom boosts exports",
@@ -48,18 +48,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8779
-  },
-  {
-    "title": "France hit by debt sell-off as protests unnerve investors",
-    "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-    "source": "The Guardian Economics",
-    "published": "2026-10-19T07:32:59+00:00",
-    "summary": "<p>Difference between French and German 10-year borrowing costs widens after violence breaks out</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates\">Business live – latest updates</a></p></li></ul><p>France has been hit by a fresh wave of selling in its bond and stock markets after <a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">violent protests </a>over the weekend left public buildings burned, hundreds of shops looted and thousands of arrests across the country.</p><p>Almost 2,400 people have been arrested in France, the interior ministry said on Sunday, with police <a href=\"https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes\">deploying teargas in confrontations with protesters</a>.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9393
   },
   {
     "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
@@ -370,5 +358,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1655
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-12T15:37:26+00:00",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5734
   }
 ]
