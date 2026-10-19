@@ -1,27 +1,65 @@
 [
   {
-    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-18T16:15:00+00:00",
-    "summary": "”I earn $110,000 a year.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
     "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
     "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-18T13:00:00+00:00",
+    "published": "2026-10-19T11:53:00+00:00",
     "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6369
+  },
+  {
+    "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T10:00:01+00:00",
+    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "matched_keywords": [
+      "Defense",
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+    "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-19T09:58:00+00:00",
+    "summary": "Goldman Sachs says consumer-facing laggard stocks are the best way forward as earnings growth is set to slow next year and big tech stocks struggle.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+    "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+    "source": "The Guardian Economics",
+    "published": "2026-10-19T09:27:04+00:00",
+    "summary": "<p>Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates\">Business live – latest updates</a></p></li></ul><p>Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.</p><p>China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8779
+  },
+  {
+    "title": "France hit by debt sell-off as protests unnerve investors",
+    "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+    "source": "The Guardian Economics",
+    "published": "2026-10-19T07:32:59+00:00",
+    "summary": "<p>Difference between French and German 10-year borrowing costs widens after violence breaks out</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates\">Business live – latest updates</a></p></li></ul><p>France has been hit by a fresh wave of selling in its bond and stock markets after <a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">violent protests </a>over the weekend left public buildings burned, hundreds of shops looted and thousands of arrests across the country.</p><p>Almost 2,400 people have been arrested in France, the interior ministry said on Sunday, with police <a href=\"https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes\">deploying teargas in confrontations with protesters</a>.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9393
   },
   {
     "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
@@ -73,18 +111,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9118
-  },
-  {
-    "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-    "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-17T20:53:00+00:00",
-    "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-    "matched_keywords": [
-      "Robotics"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   },
   {
     "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
@@ -271,31 +297,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
-  },
-  {
-    "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
-    "link": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T12:00:12+00:00",
-    "summary": "<p>Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">Tell us: what is your personal ‘recession indicator’?</a></p></li></ul><p>It’s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections.</p><p>In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "Trade War"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9088
-  },
-  {
-    "title": "John Healey vows to give ‘breathing space’ to consumers and businesses in first budget",
-    "link": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T11:47:32+00:00",
-    "summary": "<p>Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs</p><p>John Healey has promised to use his first budget in a fortnight’s time to offer consumers and businesses a “breathing space” while sticking to Labour’s fiscal rules.</p><p>Speaking to journalists in Bangkok, where he has been attending the International Monetary Fund annual meetings, the chancellor said he was conscious of rising costs.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
   },
   {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
