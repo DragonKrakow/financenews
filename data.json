@@ -1,27 +1,89 @@
 [
   {
-    "title": "Google says ‘power event’ that disrupted Cloud services has been ‘mitigated’, after widespread problems – latest updates",
-    "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-20T12:15:19+00:00",
-    "summary": "<p>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras</p><p><strong>The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%.</strong></p><p>Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter.</p><p>“This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.”</p><p>“The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target.</p><p>To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Continue reading...</a>",
+    "title": "Here’s what matters most to Tesla investors heading into earnings",
+    "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T18:15:00+00:00",
+    "summary": "Financial results are somewhat of a sideshow for an investor base eagerly awaiting updates on robotaxis, robots — and the cost of all that.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9509
+    "sentiment_score": 0.4019
   },
   {
-    "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
-    "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
+    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T11:30:00+00:00",
-    "summary": "Earnings season shifts into higher gear, with fresh clues about consumer spending and the health of corporate America beyond the tech sector.",
+    "published": "2026-10-20T17:15:00+00:00",
+    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.296
+  },
+  {
+    "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+    "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T16:55:00+00:00",
+    "summary": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T16:25:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+    "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T15:58:00+00:00",
+    "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
+    "matched_keywords": [
+      "Metals",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
+    "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-20T15:38:25+00:00",
+    "summary": "<p>Google apologises after power issue causes a major Cloud outage in its London region today that led to problems at banks, Revolut, and court video cameras</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption\"><strong>Google cloud failure hits millions as UK courts and banks knocked offline</strong></a></p></li></ul><p><strong>The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%.</strong></p><p>Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter.</p><p>“This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.”</p><p>“The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target.</p><p>To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9501
+  },
+  {
+    "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+    "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T15:27:00+00:00",
+    "summary": "An analyst calls it “a bit odd” that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
@@ -34,54 +96,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3612
-  },
-  {
-    "title": "Strategist Tom Lee says he’s buying the AI-stock dip, and Cisco holds the key",
-    "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T10:15:00+00:00",
-    "summary": "Strategist Tom Lee says investors should not shrink from the pullback in stocks surrounding AI investment fears. He points to Cisco’s history as one reason to buy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4215
-  },
-  {
-    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T10:00:00+00:00",
-    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
-    "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T09:30:00+00:00",
-    "summary": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7234
-  },
-  {
-    "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
-    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T09:30:00+00:00",
-    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3182
   },
   {
     "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
@@ -100,7 +114,7 @@
     "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
     "source": "The Guardian Economics",
     "published": "2026-10-20T08:39:27+00:00",
-    "summary": "<p>Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Business live – news updates</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget\">Healey to reject calls to raise CGT in budget</a></p></li></ul><p>Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John Healey’s first budget next week.</p><p>The jobless rate fell to 4.7% in the three months to August, from 4.9% according to the Office for National Statistics. City economists had forecast a rise to 5%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop\">Continue reading...</a>",
+    "summary": "<p>Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Business live – news updates</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget\">Healey to reject calls to raise CGT in budget</a></p></li></ul><p>Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John Healey’s first budget next week.</p><p>The jobless rate fell to 4.7% in the three months to August, from 4.9%, according to the Office for National Statistics. City economists had forecast a rise to 5%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -355,17 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9448
-  },
-  {
-    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-14T20:06:28+00:00",
-    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
