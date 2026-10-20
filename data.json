@@ -1,5 +1,42 @@
 [
   {
+    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-19T21:15:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "SpaceX earnings will be all about AI — for better or for worse",
+    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-19T21:02:00+00:00",
+    "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+    "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-19T21:00:00+00:00",
+    "summary": "The six months subsequent to midterm elections have seen strong gains, historically",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8402
+  },
+  {
     "title": "Anthropic is AI trade's last big hope for a major IPO this year",
     "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
     "source": "CNBC Finance",
@@ -10,18 +47,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0516
-  },
-  {
-    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T15:30:00+00:00",
-    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
@@ -42,7 +67,7 @@
     "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
     "source": "The Guardian Economics",
     "published": "2026-10-19T09:27:04+00:00",
-    "summary": "<p>Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates\">Business live – latest updates</a></p></li></ul><p>Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.</p><p>China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports\">Continue reading...</a>",
+    "summary": "<p>Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand</p><p>Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.</p><p>China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -346,29 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.296
-  },
-  {
-    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T01:26:41+00:00",
-    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1655
-  },
-  {
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-12T15:37:26+00:00",
-    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5734
   }
 ]
