@@ -1,15 +1,111 @@
 [
   {
-    "title": "UK unemployment rate falls in pre-budget boost, but firms keep cutting vacancies – business live",
+    "title": "Google says ‘power event’ that disrupted Cloud services has been ‘mitigated’, after widespread problems – latest updates",
     "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-10-20T06:18:51+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Vacancies fell particularly sharply across the construction sector, suggesting Britain’s builders cut back on hiring last summer.</strong></p><p>The ONS reports:</p><p>Vacancy estimates decreased on the quarter, with early estimates for July to September 2026 suggesting a decrease of 21,000 (2.9%) vacancies to 691,000, compared with April to June 2026; this is the first time the total has been below 700,000 since February to April 2021.</p><p>Vacancy estimates decreased in 14 of the 18 industry sectors, compared with April to June 2026; the largest industry decrease was in construction (down 7,000 vacancies).</p><p>Vacancy estimates decreased in 4 of the 5 employment size bands, compared with April to June 2026; the largest decrease was for businesses with 1 to 9 employees (down 21,000 vacancies).</p><p>This is mainly from smaller firms, who continue to suggest that they may not be recruiting because of increased labour costs.</p><p>7am BST: UK labour market data</p><p>10am BST: ZEW index of eurozone economic sentiment</p><p>10am BST: Eurozone construction output for August</p><p>2.30pm BST: BIST Committee questions Secretary of State Jonathan Reynolds</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-20T12:15:19+00:00",
+    "summary": "<p>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras</p><p><strong>The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%.</strong></p><p>Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter.</p><p>“This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.”</p><p>“The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target.</p><p>To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9509
+  },
+  {
+    "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+    "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T11:30:00+00:00",
+    "summary": "Earnings season shifts into higher gear, with fresh clues about consumer spending and the health of corporate America beyond the tech sector.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
+    "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-20T10:39:17+00:00",
+    "summary": "Data center campuses house the servers that power AI and cloud computing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
+    "title": "Strategist Tom Lee says he’s buying the AI-stock dip, and Cisco holds the key",
+    "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T10:15:00+00:00",
+    "summary": "Strategist Tom Lee says investors should not shrink from the pullback in stocks surrounding AI investment fears. He points to Cisco’s history as one reason to buy.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2144
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T10:00:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2263
+  },
+  {
+    "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+    "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T09:30:00+00:00",
+    "summary": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7234
+  },
+  {
+    "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-20T09:30:00+00:00",
+    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
+  },
+  {
+    "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
+    "link": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
+    "source": "The Guardian Economics",
+    "published": "2026-10-20T09:00:22+00:00",
+    "summary": "<p>These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas?</p><p>Who knew? Apparently everyone did, apart from me: you don’t wear shoes on a superyacht. Now, about to step on to my first teak deck at the Monaco Yacht Show, I’ve got to take my trainers off, and I’m having a sock panic. Have they got holes? Do they even match? Do they smell?</p><p>To be honest, I’ve come dressed all wrong for Europe’s big annual superyacht trade exhibition. The code for men seems to be crisp and tucked in, blazers and chinos, navy and white, sculpted hair and designer sunnies. (I went colourful, loose, casual). For women, it’s something like Riviera elegance. Everyone – whether they’re Italian, French, English, German, American, exhibitors, buyers, brokers, charterers – seems to know each other. The international superyacht community seems to be a close-knit one, and I’m not part of it. Yet.</p> <a href=\"https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5351
+  },
+  {
+    "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+    "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+    "source": "The Guardian Economics",
+    "published": "2026-10-20T08:39:27+00:00",
+    "summary": "<p>Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates\">Business live – news updates</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget\">Healey to reject calls to raise CGT in budget</a></p></li></ul><p>Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John Healey’s first budget next week.</p><p>The jobless rate fell to 4.7% in the three months to August, from 4.9% according to the Office for National Statistics. City economists had forecast a rise to 5%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8779
   },
   {
     "title": "The world’s finance chiefs see new risks — and less China angst",
@@ -22,43 +118,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5165
-  },
-  {
-    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T21:15:00+00:00",
-    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "SpaceX earnings will be all about AI — for better or for worse",
-    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T21:02:00+00:00",
-    "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-    "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-19T21:00:00+00:00",
-    "summary": "The six months subsequent to midterm elections have seen strong gains, historically",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8402
   },
   {
     "title": "Anthropic is AI trade's last big hope for a major IPO this year",
@@ -298,31 +357,6 @@
     "sentiment_score": 0.9448
   },
   {
-    "title": "John Healey poised to raise taxes on banks in budget",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T16:17:05+00:00",
-    "summary": "<p><strong>Exclusive: </strong>Chancellor to target sector in his first budget, to help offset Iran war’s damage to public finances </p><p>John Healey is poised to tax Britain’s banks in his 28 October budget, to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands.</p><p>The chancellor is in Bangkok, where the International Monetary Fund has praised the UK’s progress towards balancing the books, urging him to “stay the course”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
-  },
-  {
-    "title": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T14:59:52+00:00",
-    "summary": "<p>John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the “jewel” in the UK’s economic crown</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">John Healey vows to give ‘breathing space’ to consumers and businesses in first budget</a></p></li></ul><p><br /></p><p><strong><a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates?page=with%3Ablock-6ad06bda8f087455c311c170#block-6ad06bda8f087455c311c170\">Today’s better-than-forecast UK growth report</a> is good news for chancellor John Healey as he hobnobs with other finance ministers at the IMF meeting in Bangkok.</strong></p><p>But it may encourage the Bank of England to raise interest rates as soon as its next meeting in November….</p><p>“While August’s unexpected uptick all but confirms that the OBR will raise its growth forecast for this year from 1.1% to 1.4%, the Chancellor still faces a major Budget headache, as elevated borrowing costs eat into fiscal headroom and increase pressure for tax rises.</p><p>“These unexpectedly upbeat figures will further embolden hawkish sentiment among policymakers by reinforcing the view that the economy is strong enough to withstand a rate rise, making a November hike look highly likely.”</p><p>“The latest GDP figures are encouraging, with the economy growing by 0.7% in the three months to August, its strongest growth rate since May. On its current trajectory, the UK is likely to record growth comfortably above 1% this year, which would probably be enough to make it the second-fastest-growing economy in the G7.</p><p>“The UK’s growth performance has been a bright spot amid a less impressive run of economic news following events in the Middle East. Business investment has been an important driver, particularly spending on ICT hardware, likely linked to the build-out of AI infrastructure. The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9951
-  },
-  {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
     "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
     "source": "CNBC Finance",
@@ -333,41 +367,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T23:05:12+00:00",
-    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
-    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T20:48:37+00:00",
-    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T19:46:12+00:00",
-    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.605
   }
 ]
