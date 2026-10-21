@@ -1,33 +1,58 @@
 [
   {
-    "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-    "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+    "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
+    "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T12:06:00+00:00",
-    "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
+    "published": "2026-10-21T16:34:00+00:00",
+    "summary": "Private insurance costs way more for the same results — or worse.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.128
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3182
   },
   {
-    "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
+    "link": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T11:00:00+00:00",
-    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    "published": "2026-10-21T15:59:00+00:00",
+    "summary": "For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-21T15:30:50+00:00",
+    "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+    "matched_keywords": [
+      "Gold",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
+    "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-21T15:27:00+00:00",
+    "summary": "Investors are for sure facing “bubbles,” but Ken Griffin isn’t telling investors to dump those stocks.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8074
+    "sentiment_score": 0.2263
   },
   {
     "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T10:15:00+00:00",
+    "published": "2026-10-21T15:15:00+00:00",
     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
     "matched_keywords": [
       "AI"
@@ -36,28 +61,40 @@
     "sentiment_score": 0.296
   },
   {
-    "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
-    "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+    "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T10:12:00+00:00",
-    "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
+    "published": "2026-10-21T14:45:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9032
+    "sentiment_score": 0.8074
   },
   {
-    "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+    "title": "Time for a Micron mindset shift? Here’s how to navigate the new AI landscape.",
+    "link": "https://www.marketwatch.com/story/time-for-a-micron-mindset-shift-heres-how-to-navigate-the-new-ai-landscape-09395ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-21T14:33:00+00:00",
+    "summary": "An analyst says Micron investors have gotten used to rapid growth but now have to reorient themselves around the idea that AI is more like a marathon.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6694
+  },
+  {
+    "title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits £24bn",
     "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
     "source": "The Guardian Economics",
-    "published": "2026-10-21T09:54:08+00:00",
-    "summary": "<p>Increase in annual price growth in September comes amid fears rate will breach 4% next year</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation climbed by more than expected in September to 3.5% after a surge in prices from the conflict in the Middle East that has pushed up the cost of diesel to record levels.</p><p>In a blow to John Healey before his first budget as chancellor in a week’s time, the Office for National Statistics said annual inflation rose <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">from 3.1% in August</a>. Economists had forecast an increase in the consumer prices index (CPI) to 3.4%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">Continue reading...</a>",
+    "published": "2026-10-21T13:21:16+00:00",
+    "summary": "<p>Consumer prices rise by more than expected while government’s debt interest payments surge to record high for September</p><p>Inflation surged to 3.5% last month while the government deficit was a worse-than-forecast £24.5bn, in a double dose of bad news for John Healey before next week’s budget.</p><p>The Office for National Statistics said annual inflation rose <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">from 3.1% in August</a>, overshooting City forecasts of a rise in the consumer prices index (CPI) to 3.4%, as a result of the surging cost of fuel.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
+    "sentiment_score": -0.8126
   },
   {
     "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
@@ -330,41 +367,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9255
-  },
-  {
-    "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-    "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-    "source": "The Guardian Economics",
-    "published": "2026-10-16T04:00:50+00:00",
-    "summary": "<p>Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all</p><p>The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little patience for dogma when in insufferable pain.</p><p>John Maynard Keynes, Weber clarifies in the canteen of the <em>Wissenschaftskolleg zu Berlin</em> (Berlin’s Institute for Advanced Study), was the first to draw this dental comparison – and she is running with it. As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide. This is exacerbated by a climate crisis that “generates massive windfall profits” for big business as the “ecological foundations of our lives disintegrate”. All the while the far right is making hay.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6135
-  },
-  {
-    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-15T23:00:01+00:00",
-    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
-  },
-  {
-    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-14T20:06:28+00:00",
-    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
