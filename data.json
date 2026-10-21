@@ -1,5 +1,17 @@
 [
   {
+    "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+    "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-10-21T06:02:04+00:00",
+    "summary": "<p>Increase in annual price growth in September comes amid fears rate will breach 4% next year</p><p>UK inflation climbed by more than expected in September to 3.5% after a surge in prices from the conflict in the Middle East that pushed the cost of diesel above £2 a litre.</p><p>In a blow to John Healey before his first budget as chancellor in a week’s time, the Office for National Statistics said annual inflation rose <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">from 3.1% in August</a>. Economists had forecast an increase in the consumer prices index to 3.4%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
     "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
     "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -355,17 +367,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T23:05:12+00:00",
-    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   }
 ]
