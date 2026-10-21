@@ -1,34 +1,10 @@
 [
   {
-    "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
-    "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-    "source": "The Guardian Economics",
-    "published": "2026-10-21T06:02:04+00:00",
-    "summary": "<p>Increase in annual price growth in September comes amid fears rate will breach 4% next year</p><p>UK inflation climbed by more than expected in September to 3.5% after a surge in prices from the conflict in the Middle East that pushed the cost of diesel above £2 a litre.</p><p>In a blow to John Healey before his first budget as chancellor in a week’s time, the Office for National Statistics said annual inflation rose <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">from 3.1% in August</a>. Economists had forecast an increase in the consumer prices index to 3.4%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
-  },
-  {
-    "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-    "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T00:24:00+00:00",
-    "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
     "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
     "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T23:10:00+00:00",
-    "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts.",
+    "published": "2026-10-21T12:06:00+00:00",
+    "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
     "matched_keywords": [
       "AI"
     ],
@@ -36,10 +12,22 @@
     "sentiment_score": -0.128
   },
   {
+    "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-21T11:00:00+00:00",
+    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8074
+  },
+  {
     "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T22:27:00+00:00",
+    "published": "2026-10-21T10:15:00+00:00",
     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
     "matched_keywords": [
       "AI"
@@ -48,16 +36,40 @@
     "sentiment_score": 0.296
   },
   {
-    "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-    "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+    "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
+    "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-20T21:47:00+00:00",
-    "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits.",
+    "published": "2026-10-21T10:12:00+00:00",
+    "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9319
+    "sentiment_score": 0.9032
+  },
+  {
+    "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+    "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
+    "source": "The Guardian Economics",
+    "published": "2026-10-21T09:54:08+00:00",
+    "summary": "<p>Increase in annual price growth in September comes amid fears rate will breach 4% next year</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK inflation climbed by more than expected in September to 3.5% after a surge in prices from the conflict in the Middle East that has pushed up the cost of diesel to record levels.</p><p>In a blow to John Healey before his first budget as chancellor in a week’s time, the Office for National Statistics said annual inflation rose <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">from 3.1% in August</a>. Economists had forecast an increase in the consumer prices index (CPI) to 3.4%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+    "link": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+    "source": "The Guardian Economics",
+    "published": "2026-10-21T06:48:00+00:00",
+    "summary": "<p>Government paid £10.9bn in debt interest, the highest September figure since records began</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Treasury ran a higher than expected budget deficit of £24.5bn last month as rising inflation pushed up the interest paid on government debt, increasing pressure on John Healey before his budget next week.</p><p>Official figures show the government paid £10.9bn in debt interest: the highest September figure since records began, and only the eighth time the monthly number has been above £10bn.</p> <a href=\"https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
   },
   {
     "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – as it happened",
@@ -342,19 +354,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
-    "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-    "source": "The Guardian Economics",
-    "published": "2026-10-15T17:56:50+00:00",
-    "summary": "<p>The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for the Stakes newsletter for more midterms coverage</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us your questions on Trump’s immigration agenda ahead of the midterms</a></p></li></ul><p><strong><a href=\"https://profile.theguardian.com/user/id/116366586\">LucccA</a> asks:</strong> Why are labor unions in the US still not as well-organized compared to the rest of the world? I know there was a push against them in the past—does that still have an effect today? Also, why are there so many right-leaning unions in the US?</p><p><strong>Michael:</strong> A lot of reasons. The US has low union density compared to other wealthy nations, currently at 10.0%, and that has been on a precipitous decline for the past few decades for a variety of reasons that include anti-union and union busting campaigns, outdated labor laws where employers often retaliate for union organizing or delay bargaining for years, as we are seeing with Starbucks, where there is no union contract after nearly five years since the first store won its union election in December 2021.Right to work laws in the US also undermine labor unions and starve them of resources. To the extent that there are right leaning labor unions in the US, they typically are law enforcement unions that consistently endorse and back Republican candidates despite the Republican Party in the US opposing collective bargaining. Some unions like the Teamsters have been making efforts to get Republicans to support legislation and in turn receive endorsements from the union, and this has shown up this election cycle with the Teamsters endorsing Republicans like Congressman Max Miller or Kansas Senator Roger Marshall, who are both facing very competitive re-election battles.</p><p><strong>Heather:</strong> There’s a bunch of ideas floating around on cutting costs for groceries, healthcare and energy bills. A key thing Democrats are promising if they regain power in Congress is to wrestle back authority on trade and repeal Trump’s tariffs, which would lower what it costs compaines to import. A second is to advance a vote to stop the war in Iran, which could calm fuel prices. If Democrats retake the Senate, expect Elizabeth Warren to become chair of the powerful banking committe, and push forward some curbs on private equity investments. And Democrats have been coalescing around more government funding for childcare, a notable move to the <a href=\"https://www.theguardian.com/us-news/2026/jan/28/democrats-universal-childcare-campaigns\">left in recent years</a>. Hakeem Jeffries, who will be House Speaker if Democrats win there, is promising to reinstate ACA tax cuts and roll back Medicaid cuts, but the party is <a href=\"https://www.theguardian.com/us-news/2026/oct/04/medicare-for-all-democrats-midterms\">divided on Medicare For All</a>, with DSA candidates making promises on the campaign trail and more centrist Dems being pretty quiet.</p><p>Republicans running for Congress have been talking a lot about ways to lower gas prices, especially suspending the fuel tax, and shaving utility bills by making tech companies and other big users pay more. Some have promised to curb Trump’s tariffs, including <a href=\"https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways\">Michigan’s Mike Rogers</a>, and others are proposing suspending data center building after <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans\">public backlash</a>.</p> <a href=\"https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9448
   },
   {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
