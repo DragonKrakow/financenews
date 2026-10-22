@@ -1,5 +1,29 @@
 [
   {
+    "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+    "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-22T03:15:00+00:00",
+    "summary": "“Nothing has been set aside for his needs.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+    "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-22T00:48:00+00:00",
+    "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
     "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
     "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -24,18 +48,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4854
-  },
-  {
-    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-21T20:31:00+00:00",
-    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
   },
   {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -357,17 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-14T20:06:28+00:00",
-    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
