@@ -1,48 +1,59 @@
 [
   {
-    "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
-    "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+    "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+    "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T11:57:00+00:00",
-    "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+    "published": "2026-10-22T17:21:00+00:00",
+    "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_score": -0.2263
   },
   {
-    "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
+    "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+    "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-22T17:16:00+00:00",
+    "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
     "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-10-22T11:54:57+00:00",
-    "summary": "<p>Organisations around the world scrambling to fix a critical security flaw in the programming language PHP used by the majority of websites</p><p>The <strong>Office for National Statistics</strong> has also published <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2026\">a report on the gender pay gap</a>. It says:</p><p>The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago.</p><p>Secondly, I asked <strong>Healey</strong> whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank profits – as he is expected to do in the Budget next week.</p><p>He said: “You know the banks are the engine of investment in this country. The banks are doing well at the moment and that is good to see.</p> <a href=\"https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates\">Continue reading...</a>",
+    "published": "2026-10-22T16:16:40+00:00",
+    "summary": "<p>Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/oct/22/tell-us-small-business-have-you-been-affected-by-the-php-code-flaw\">Tell us: have you been affected by the PHP code flaw?</a></p></li></ul><p>The <strong>Office for National Statistics</strong> has also published <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2026\">a report on the gender pay gap</a>. It says:</p><p>The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago.</p><p>Secondly, I asked <strong>Healey</strong> whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank profits – as he is expected to do in the Budget next week.</p><p>He said: “You know the banks are the engine of investment in this country. The banks are doing well at the moment and that is good to see.</p> <a href=\"https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
+    "sentiment_score": 0.836
   },
   {
-    "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
-    "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
+    "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
+    "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T11:35:00+00:00",
-    "summary": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
+    "published": "2026-10-22T15:03:00+00:00",
+    "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7019
+    "sentiment_score": -0.5106
   },
   {
     "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
     "source": "The Guardian Economics",
     "published": "2026-10-22T11:00:40+00:00",
-    "summary": "<p>Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result</p><p>With fewer than two weeks until the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm</a>s, US voters are unlikely to see relief on one of this election cycle’s main issues: gas prices.</p><p>Airing up her car’s tires at a Speedway in Perrysburg, <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a>, Toledo resident Sharie Smith, 41, says soaring costs are having a direct impact on her life.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle\">Continue reading...</a>",
+    "summary": "<p>Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections\">How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions</a></p></li></ul><p>With fewer than two weeks until the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm</a>s, US voters are unlikely to see relief on one of this election cycle’s main issues: gas prices.</p><p>Airing up her car’s tires at a Speedway in Perrysburg, <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a>, Toledo resident Sharie Smith, 41, says soaring costs are having a direct impact on her life.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
@@ -51,55 +62,17 @@
     "sentiment_score": -0.101
   },
   {
-    "title": "A top strategist has a warning for retail investors chasing the AI rally",
-    "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T09:07:00+00:00",
-    "summary": "Max Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
-  },
-  {
-    "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
-    "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T08:47:00+00:00",
-    "summary": "Barclays on Thursday said it’s cutting 5,000 jobs — about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
-    "matched_keywords": [
-      "Fed",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
     "title": "French borrowing costs overtake US amid budget turmoil",
     "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
     "source": "The Guardian Economics",
     "published": "2026-10-22T08:40:36+00:00",
-    "summary": "<p>France’s bond market hit by another bout of selling as country recovers from weekend protests</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates\">Business live – latest updates</a></p></li></ul><p>French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.</p><p>France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years.</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil\">Continue reading...</a>",
+    "summary": "<p>France’s bond market hit by another bout of selling as country recovers from weekend protests</p><p>French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.</p><p>France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years.</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil\">Continue reading...</a>",
     "matched_keywords": [
       "Fed",
       "Oil"
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8689
-  },
-  {
-    "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-    "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T03:15:00+00:00",
-    "summary": "“Nothing has been set aside for his needs.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
   },
   {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -372,5 +345,29 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5423
+  },
+  {
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-15T23:00:01+00:00",
+    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-14T20:06:28+00:00",
+    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
   }
 ]
