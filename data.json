@@ -1,9 +1,45 @@
 [
   {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T17:00:00+00:00",
+    "summary": "”I earn $110,000 a year.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
+    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T16:41:00+00:00",
+    "summary": "Store aisles are getting a digital makeover.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+    "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T15:56:00+00:00",
+    "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8681
+  },
+  {
     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T12:16:00+00:00",
+    "published": "2026-10-23T15:31:00+00:00",
     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
     "matched_keywords": [
       "AI"
@@ -12,46 +48,22 @@
     "sentiment_score": 0.6124
   },
   {
-    "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+    "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+    "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T11:32:00+00:00",
-    "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&amp;T and T-Mobile.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T10:45:00+00:00",
-    "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-    "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T10:29:00+00:00",
-    "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+    "published": "2026-10-23T14:40:00+00:00",
+    "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9246
+    "sentiment_score": -0.6087
   },
   {
     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T10:15:00+00:00",
+    "published": "2026-10-23T14:00:00+00:00",
     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
     "matched_keywords": [
       "AI"
@@ -70,18 +82,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8187
-  },
-  {
-    "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-    "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T09:19:00+00:00",
-    "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6087
   },
   {
     "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
