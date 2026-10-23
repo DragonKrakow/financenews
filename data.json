@@ -1,5 +1,17 @@
 [
   {
+    "title": "UK consumer confidence falls at fastest rate since Covid as cost of living bites",
+    "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+    "source": "The Guardian Economics",
+    "published": "2026-10-23T04:00:05+00:00",
+    "summary": "<p>Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget</p><p>Consumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating economic damage from the war in the Middle East hits Britain.</p><p>With less than a week before John Healey’s first budget, the latest barometer from the data company GfK indicated confidence plunged by 11 percentage points in October to -24 amid pressure on consumers from the rising cost of living.</p> <a href=\"https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7964
+  },
+  {
     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -46,18 +58,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6808
-  },
-  {
-    "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-    "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-22T19:25:00+00:00",
-    "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3415
   },
   {
     "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
@@ -359,15 +359,15 @@
     "sentiment_score": -0.2039
   },
   {
-    "title": "Target pensions or welfare, not banks, IMF tells John Healey",
-    "link": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-10-16T15:33:29+00:00",
-    "summary": "<p>Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">John Healey poised to raise taxes on banks in budget</a></p></li></ul><p>The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month.</p><p>Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Guardian revealed Healey plans to tap the sector</a> for additional revenue.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey\">Continue reading...</a>",
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-15T23:00:01+00:00",
+    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
   }
 ]
