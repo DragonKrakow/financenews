@@ -1,57 +1,33 @@
 [
   {
-    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+    "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T17:00:00+00:00",
-    "summary": "”I earn $110,000 a year.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
-  },
-  {
-    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T16:41:00+00:00",
-    "summary": "Store aisles are getting a digital makeover.",
+    "published": "2026-10-23T22:00:00+00:00",
+    "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_score": 0.5423
   },
   {
-    "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-    "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+    "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+    "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T15:56:00+00:00",
-    "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
+    "published": "2026-10-23T21:46:00+00:00",
+    "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
     "matched_keywords": [
-      "Oil"
+      "Artificial Intelligence"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8681
-  },
-  {
-    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T15:31:00+00:00",
-    "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0772
   },
   {
     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T14:40:00+00:00",
+    "published": "2026-10-23T21:13:00+00:00",
     "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
     "matched_keywords": [
       "AI"
@@ -60,16 +36,53 @@
     "sentiment_score": -0.6087
   },
   {
-    "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T14:00:00+00:00",
-    "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+    "published": "2026-10-23T21:11:00+00:00",
+    "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&amp;T and T-Mobile.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+    "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T21:06:00+00:00",
+    "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9531
+  },
+  {
+    "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+    "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T20:50:00+00:00",
+    "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+    "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-23T20:19:00+00:00",
+    "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+    "matched_keywords": [
+      "Election",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
   },
   {
     "title": "Is a job guarantee the solution to mass AI unemployment?",
@@ -357,17 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9118
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   }
 ]
