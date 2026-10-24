@@ -1,5 +1,79 @@
 [
   {
+    "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T12:00:00+00:00",
+    "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0772
+  },
+  {
+    "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+    "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T12:00:00+00:00",
+    "summary": "The runaway success of the artificial-intelligence trade has left investors hungry for the next big market theme. Wall Street fund managers are happily obliging with a flurry of new targeted products, helping investors invest in everything from the rise of robotics to the incipient space economy.",
+    "matched_keywords": [
+      "AI",
+      "Robotics"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8591
+  },
+  {
+    "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+    "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T11:30:00+00:00",
+    "summary": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5563
+  },
+  {
+    "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
+    "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T11:00:00+00:00",
+    "summary": "As AI models become more advanced, tech leaders and philosophers are mulling the relationship between humanity and technology.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3167
+  },
+  {
+    "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T08:00:00+00:00",
+    "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-24T07:00:00+00:00",
+    "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
+  },
+  {
     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,55 +108,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6087
-  },
-  {
-    "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T21:11:00+00:00",
-    "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&amp;T and T-Mobile.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-    "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T21:06:00+00:00",
-    "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9531
-  },
-  {
-    "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-    "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T20:50:00+00:00",
-    "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-    "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-23T20:19:00+00:00",
-    "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-    "matched_keywords": [
-      "Election",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
   },
   {
     "title": "Is a job guarantee the solution to mass AI unemployment?",
@@ -345,30 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3832
-  },
-  {
-    "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
-    "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-    "source": "The Guardian Economics",
-    "published": "2026-10-17T10:00:27+00:00",
-    "summary": "<p>Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to last</p><p>Inside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-conditioned atmosphere was calm as policymakers from more than 100 countries gathered this week for the International Monetary Fund’s annual meeting – and contemplated the surprising strength of the global economy.</p><p>A small army of smiling, uniformed Thai staff were on hand to explain the baffling geography of the heavily guarded building, where lunch options were as cosmopolitan as the delegates – including, improbably, a Burger King.</p> <a href=\"https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-    "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-    "source": "The Guardian Economics",
-    "published": "2026-10-17T06:45:23+00:00",
-    "summary": "<p>For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator’s position on Islam</p><p>Watch the full episode with Michael Gove <a href=\"https://youtu.be/cIGXagkUFr8\">here</a>.\n <br />\n <br />\n Aditya’s suggested reading:</p><p>To read the fruits of Michael Gove’s dalliance with the Marxism Today gang, look up his essay in a 1998 collection called The Moderniser’s Dilemma: Radical Politics in the Age of Blair</p><p>For slalom ride through Michael Gove’s years in power, read <a href=\"https://www.lrb.co.uk/the-paper/v41/n17/richard-j.-evans/the-demented-dalek\">The Demented Dalek</a> by the historian Richard J Evans in the London Review of Books</p><p>To learn more on what’s become of the British right, there’s a <a href=\"https://www.theguardian.com/commentisfree/2024/sep/12/tory-leadership-jenrick-tugendhat-cleverly-badenoch\">column by me </a>for the Guardian</p><p>Just why the most successful political party is now failing is analysed in-depth by Phil Burton-Cartledge in his book <a href=\"https://guardianbookshop.com/the-partys-over-9781839760372/\">The Party’s Over: The Rise and Fall of the Conservatives from Thatcher to Sunak</a></p><p>Phil also writes a very good blog on British politics, which keeps a close eye on how each party is trying to marshall a coalition of voters. <a href=\"https://averypublicsociologist.blogspot.com/2026/10/the-clear-blue-water-strategy.html\">Here</a> he is on Kemi Badenoch</p><p>Geoffrey Wheatcroft does an entertaining short narrative in <a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">Bloody Panico!:</a></p><p><a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">or, Whatever Happened to The Tory Party</a></p><p>For more on the economics of the Cameron years, <a href=\"https://foundationaleconomy.com/wp-content/uploads/2017/01/wp87.pdf\">this paper</a> is acute on how the Tories failed to move the UK away from being a country of renters towards a country of makers. Two of its authors will join us for a podcast later in the series.</p><p>And if you want to read how Brexit may have cost the UK 8% of GDP, there’s <a href=\"https://www.nber.org/papers/w34459?st_source=ai_overview\">this paper</a> based on data from the Bank of England</p><p>Finally, on the Spectator read Nesrine Malik’s recent column in The Guardian</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine\">Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia?</a></p> <a href=\"https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9118
   }
 ]
