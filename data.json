@@ -1,5 +1,42 @@
 [
   {
+    "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+    "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+    "source": "The Guardian Economics",
+    "published": "2026-10-25T12:00:05+00:00",
+    "summary": "<p>Experts say Bank of England  unlikely to increase rates by full percentage point – and could lower them by end of 2027</p><p>Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe.</p><p>According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">3.75% today</a> to 4.75% by the end of July, and possibly to 5% – meaning five rises – by December 2027.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8442
+  },
+  {
+    "title": "Why economic health no longer dictates stock-market returns",
+    "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-25T12:00:00+00:00",
+    "summary": "There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "Here’s the real signal to watch for the Fed’s next move",
+    "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-25T11:30:00+00:00",
+    "summary": "Investors should focus not on the rate itself, but on where financial conditions are",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,18 +59,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0772
-  },
-  {
-    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-24T16:18:00+00:00",
-    "summary": "Store aisles are getting a digital makeover.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   },
   {
     "title": "Is a job guarantee the solution to mass AI unemployment?",
@@ -335,18 +360,6 @@
     "sentiment_score": 0.2023
   },
   {
-    "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
-    "link": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-    "source": "The Guardian Economics",
-    "published": "2026-10-16T16:16:25+00:00",
-    "summary": "<p>Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes</p><p>After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.</p><p>As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2902
-  },
-  {
     "title": "People in China are spending nearly as much of their income as Americans on healthcare",
     "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
     "source": "CNBC Finance",
@@ -357,17 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6597
-  },
-  {
-    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-14T20:06:28+00:00",
-    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1531
   }
 ]
