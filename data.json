@@ -1,46 +1,45 @@
 [
   {
-    "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
-    "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
-    "source": "The Guardian Economics",
-    "published": "2026-10-25T12:00:05+00:00",
-    "summary": "<p>Experts say Bank of England  unlikely to increase rates by full percentage point – and could lower them by end of 2027</p><p>Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe.</p><p>According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">3.75% today</a> to 4.75% by the end of July, and possibly to 5% – meaning five rises – by December 2027.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027\">Continue reading...</a>",
+    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-25T17:00:00+00:00",
+    "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
     "matched_keywords": [
-      "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8442
+    "sentiment_score": 0.34
   },
   {
-    "title": "Why economic health no longer dictates stock-market returns",
-    "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
+    "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-25T12:00:00+00:00",
-    "summary": "There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart",
+    "published": "2026-10-25T17:00:00+00:00",
+    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
+    "sentiment_score": -0.5423
   },
   {
-    "title": "Here’s the real signal to watch for the Fed’s next move",
-    "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-25T11:30:00+00:00",
-    "summary": "Investors should focus not on the rate itself, but on where financial conditions are",
+    "published": "2026-10-25T14:30:00+00:00",
+    "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   },
   {
     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-24T20:00:00+00:00",
+    "published": "2026-10-25T14:00:00+00:00",
     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
     "matched_keywords": [
       "AI"
@@ -52,13 +51,63 @@
     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-24T19:45:00+00:00",
+    "published": "2026-10-25T13:45:00+00:00",
     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0772
+  },
+  {
+    "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+    "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+    "source": "The Guardian Economics",
+    "published": "2026-10-25T13:43:19+00:00",
+    "summary": "<p>VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs</p><p>Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump.</p><p>The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4788
+  },
+  {
+    "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
+    "link": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+    "source": "The Guardian Economics",
+    "published": "2026-10-25T13:00:34+00:00",
+    "summary": "<p>Blaming a moribund economy on too many rules is a hackneyed neoliberal trope – UK plc needs smarter regulation, not less regulation</p><p>Before becoming prime minister, Andy Burnham pledged to “end 40 years of neoliberalism”. But as he prepares for his first budget on Wednesday, his government is yet to let go of one of its most tedious cliches: red tape.</p><p>In the run-up to the chancellor John Healey’s high-stakes Commons address, the government issued a press release last week promising his plans would include measures to “slash the red tape choking firms”.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive\">Continue reading...</a>",
+    "matched_keywords": [
+      "Regulation"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+    "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-25T13:00:00+00:00",
+    "summary": "The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6732
+  },
+  {
+    "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+    "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+    "source": "The Guardian Economics",
+    "published": "2026-10-25T12:00:05+00:00",
+    "summary": "<p>Experts say Bank of England  unlikely to increase rates by full percentage point – and could lower them by end of 2027</p><p>Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe.</p><p>According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">3.75% today</a> to 4.75% by the end of July, and possibly to 5% – meaning five rises – by December 2027.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8442
   },
   {
     "title": "Is a job guarantee the solution to mass AI unemployment?",
@@ -321,54 +370,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3832
-  },
-  {
-    "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
-    "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-    "source": "The Guardian Economics",
-    "published": "2026-10-17T10:00:27+00:00",
-    "summary": "<p>Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to last</p><p>Inside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-conditioned atmosphere was calm as policymakers from more than 100 countries gathered this week for the International Monetary Fund’s annual meeting – and contemplated the surprising strength of the global economy.</p><p>A small army of smiling, uniformed Thai staff were on hand to explain the baffling geography of the heavily guarded building, where lunch options were as cosmopolitan as the delegates – including, improbably, a Burger King.</p> <a href=\"https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-    "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-    "source": "The Guardian Economics",
-    "published": "2026-10-17T06:45:23+00:00",
-    "summary": "<p>For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator’s position on Islam</p><p>Watch the full episode with Michael Gove <a href=\"https://youtu.be/cIGXagkUFr8\">here</a>.\n <br />\n <br />\n Aditya’s suggested reading:</p><p>To read the fruits of Michael Gove’s dalliance with the Marxism Today gang, look up his essay in a 1998 collection called The Moderniser’s Dilemma: Radical Politics in the Age of Blair</p><p>For slalom ride through Michael Gove’s years in power, read <a href=\"https://www.lrb.co.uk/the-paper/v41/n17/richard-j.-evans/the-demented-dalek\">The Demented Dalek</a> by the historian Richard J Evans in the London Review of Books</p><p>To learn more on what’s become of the British right, there’s a <a href=\"https://www.theguardian.com/commentisfree/2024/sep/12/tory-leadership-jenrick-tugendhat-cleverly-badenoch\">column by me </a>for the Guardian</p><p>Just why the most successful political party is now failing is analysed in-depth by Phil Burton-Cartledge in his book <a href=\"https://guardianbookshop.com/the-partys-over-9781839760372/\">The Party’s Over: The Rise and Fall of the Conservatives from Thatcher to Sunak</a></p><p>Phil also writes a very good blog on British politics, which keeps a close eye on how each party is trying to marshall a coalition of voters. <a href=\"https://averypublicsociologist.blogspot.com/2026/10/the-clear-blue-water-strategy.html\">Here</a> he is on Kemi Badenoch</p><p>Geoffrey Wheatcroft does an entertaining short narrative in <a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">Bloody Panico!:</a></p><p><a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">or, Whatever Happened to The Tory Party</a></p><p>For more on the economics of the Cameron years, <a href=\"https://foundationaleconomy.com/wp-content/uploads/2017/01/wp87.pdf\">this paper</a> is acute on how the Tories failed to move the UK away from being a country of renters towards a country of makers. Two of its authors will join us for a podcast later in the series.</p><p>And if you want to read how Brexit may have cost the UK 8% of GDP, there’s <a href=\"https://www.nber.org/papers/w34459?st_source=ai_overview\">this paper</a> based on data from the Bank of England</p><p>Finally, on the Spectator read Nesrine Malik’s recent column in The Guardian</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine\">Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia?</a></p> <a href=\"https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9118
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-15T23:00:01+00:00",
-    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
   }
 ]
