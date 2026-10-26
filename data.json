@@ -1,9 +1,21 @@
 [
   {
+    "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-25T20:15:00+00:00",
+    "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-25T17:00:00+00:00",
+    "published": "2026-10-25T19:30:00+00:00",
     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
     "matched_keywords": [
       "AI"
@@ -34,18 +46,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6124
-  },
-  {
-    "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-25T14:00:00+00:00",
-    "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
