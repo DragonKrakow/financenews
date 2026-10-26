@@ -1,33 +1,129 @@
 [
   {
-    "title": "Retail investors are getting cold feet about stocks, just when the market needs them most",
-    "link": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
+    "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T13:37:00+00:00",
-    "summary": "Last week’s carnage for hedge funds highlighted  the relative decline in trading activity among retail investors.",
+    "published": "2026-10-26T18:15:00+00:00",
+    "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+    "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T18:10:00+00:00",
+    "summary": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.926
+  },
+  {
+    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T17:19:00+00:00",
+    "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "What the claw arcade game tells us about the cost of living crisis | Zoe Williams",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
+    "source": "The Guardian Economics",
+    "published": "2026-10-26T16:54:18+00:00",
+    "summary": "<p>No matter how you crunch the UK data, prices are rising while average wages stagnate. The system is rigged – and it’s time we kicked over the toy dispenser</p><p>About a decade ago, the financial crash was almost a decade old. Unrelatedly, my kids were under 10, so I was spending a lot more time in arcades. There’s a particular game involving a metal claw – it goes by the name of claw-game. You put in a pound, and try to manipulate the claw to grab a toy that is worth nothing like a pound. You would take that as the price of a bit of family fun, except the claw never grabbed a toy.</p><p>The frustration for a six-year-old was immense, every lost pound making the probably flammable stuffed hamster more urgently desirable. But it was way worse for me, because I was clinging on to some residual 80s idea of arcade-honour. Surely, after pound #7, the machine would just give you a sodding toy? That would represent an astronomical return, lessen the possibility of an adult kicking the machine to death and assure a returning market of maybe 10% of the dumbest or most spineless parents. But no, nada. No toys, ever.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.941
+  },
+  {
+    "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T16:30:00+00:00",
+    "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T16:30:00+00:00",
+    "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.0772
   },
   {
-    "title": "The 5 big voting issues in the midterm elections that will impact your wallet",
-    "link": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
+    "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T13:30:00+00:00",
-    "summary": "America won’t be picking a president Nov. 3, but this is how the voting results could affect fuel prices, taxes and more.",
+    "published": "2026-10-26T16:15:00+00:00",
+    "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
     "matched_keywords": [
-      "Election"
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.886
+  },
+  {
+    "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
+    "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T16:05:00+00:00",
+    "summary": "TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.",
+    "matched_keywords": [
+      "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": 0.0258
   },
   {
-    "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live",
+    "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+    "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T16:01:00+00:00",
+    "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-26T16:00:00+00:00",
+    "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-10-26T13:20:04+00:00",
+    "published": "2026-10-26T15:33:24+00:00",
     "summary": "<p>Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as<a href=\"https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates?page=with%3Ablock-6adef8968f08a448dcaddf6f#block-6adef8968f08a448dcaddf6f\"> Elon Musk warns some AI cloud computing firms face ‘guppy-level death’</a></p><p><strong>UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget.</strong></p><p>The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning.</p><p>Issuing loans to public financial institutions creates a financial asset that offsets the increase in outstanding government debt. If the investments that the PuFins make generate sufficient returns for the PuFins to repay their government loans, then long term debt sustainability is little affected.</p><p>Limited transparency and the risk that the PuFins may suffer impairments on their investments will probably make bond market investors skeptical of the extra gilt issuance. Chancellor Healey should avoid a big increase in gilt issuance to fund such intra-public sector lending.</p><p>Nebius, CoreWeave and Iren were slammed in premarket trading on Monday after SpaceX and Tesla CEO Elon Musk said more than 200 neoclouds are “going to see guppy-level death and consolidation.”</p><p>That’s the guppy fish – prone to suddenly dying in household fisk tanks – not the GBPJPY FX cross...In a post on X Musk said “debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers”.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
@@ -35,54 +131,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
-    "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T12:39:00+00:00",
-    "summary": "SpaceX just landed a $40 billion debt deal, but Musk says lenders won’t be so hospitable to less-diversified competitors.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
-  },
-  {
-    "title": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’",
-    "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T12:10:00+00:00",
-    "summary": "Technology-portfolio mangers are treading carefully with tech these days, retail investors should be just as cautious, says industry veteran Ted Mortonson.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-    "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T12:08:00+00:00",
-    "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.296
-  },
-  {
-    "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T12:00:00+00:00",
-    "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0772
   },
   {
     "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
@@ -98,38 +146,12 @@
     "sentiment_score": 0.5719
   },
   {
-    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T11:00:00+00:00",
-    "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "These four shocks could hand investors an unexpected buying window, strategists say",
-    "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T10:58:00+00:00",
-    "summary": "Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7003
-  },
-  {
     "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
     "link": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
     "source": "The Guardian Economics",
     "published": "2026-10-26T09:42:48+00:00",
-    "summary": "<p>Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from Manchester</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Andy Burnham’s pledge to reindustrialise Britain is doomed to fail unless it is driven decisively from his <a href=\"https://www.theguardian.com/politics/2026/jun/29/andy-burnham-no-10-north-nerve-centre-rewired-britain\">new No 10 North</a> outpost in Manchester, a group of more than 90 backbench Labour MPs have said.</p><p>The PM has suggested that rebuilding the UK’s industrial capacity will be central to meeting his pledge to bring <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham\">Continue reading...</a>",
+    "summary": "<p>Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from Manchester</p><p>Andy Burnham’s pledge to reindustrialise Britain is doomed to fail unless it is driven decisively from his <a href=\"https://www.theguardian.com/politics/2026/jun/29/andy-burnham-no-10-north-nerve-centre-rewired-britain\">new No 10 North</a> outpost in Manchester, a group of more than 90 backbench Labour MPs have said.</p><p>The PM has suggested that rebuilding the UK’s industrial capacity will be central to meeting his pledge to bring <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham\">Continue reading...</a>",
     "matched_keywords": [
-      "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
@@ -344,31 +366,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0516
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-19T12:34:01+00:00",
-    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "matched_keywords": [
-      "Defense",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-    "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-    "source": "The Guardian Economics",
-    "published": "2026-10-19T09:27:04+00:00",
-    "summary": "<p>Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand</p><p>Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.</p><p>China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
   }
 ]
