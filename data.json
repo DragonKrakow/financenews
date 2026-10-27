@@ -72,18 +72,6 @@
     "sentiment_score": -0.4019
   },
   {
-    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-26T20:15:00+00:00",
-    "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
     "title": "What the claw arcade game tells us about the cost of living crisis | Zoe Williams",
     "link": "https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
     "source": "The Guardian Economics",
@@ -368,5 +356,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8779
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-16T16:46:18+00:00",
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
