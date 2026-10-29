@@ -1,5 +1,78 @@
 [
   {
+    "title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+    "link": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-29T12:03:00+00:00",
+    "summary": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+    "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-29T12:00:00+00:00",
+    "summary": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
+    "title": "You can’t rely on the S&P 500 as much as you may think",
+    "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-29T11:30:00+00:00",
+    "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+    "link": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-29T11:11:00+00:00",
+    "summary": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.802
+  },
+  {
+    "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-29T11:00:00+00:00",
+    "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Reader Q&A: Our money and economics correspondents answer your Budget 2026 questions",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
+    "source": "The Guardian Economics",
+    "published": "2026-10-29T08:00:27+00:00",
+    "summary": "<p>The 2026 budget has been revealed; how will it affect you personally, will it change the country and has chancellor John Healey done enough to prepare for the challenges ahead? Our money and economics editors Hilary Osborne and Heather Stewart will be answering your questions from 3pm (GMT) today.</p><ul><li><p><a href=\"https://profile.theguardian.com/signin\"><strong>Sign up or sign in</strong></a><strong> to join the discussion. Post your questions in the comments below.</strong></p></li></ul><p>Yesterday Chancellor John Healey gave his maiden budget under Andy Burnham’s leadership, announcing measures to cut energy bills funded by a windfall tax on banks. He characterised his plan as “<a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms\">a budget built on fiscal discipline</a>” fit to face “global economic storms” that are driving up up energy prices.</p><p>Does Healey’s budget represent a break with the past, or is the lower-than-expected tax on banks just another example of tinkering around the edges by another Chancellor fenced in by self-imposed fiscal rules?</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.755
+  },
+  {
     "title": "Will the budget deliver ‘growth in every postcode’?",
     "link": "https://www.theguardian.com/uk-news/2026/oct/29/will-the-budget-deliver-growth-in-every-postcode",
     "source": "The Guardian Economics",
@@ -11,90 +84,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9186
-  },
-  {
-    "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-    "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-29T01:58:00+00:00",
-    "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6705
-  },
-  {
-    "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-29T00:15:00+00:00",
-    "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.886
-  },
-  {
-    "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-    "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-28T23:02:00+00:00",
-    "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-    "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-28T22:41:00+00:00",
-    "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-    "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-28T22:25:00+00:00",
-    "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2006
-  },
-  {
-    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-28T22:00:00+00:00",
-    "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-28T21:45:00+00:00",
-    "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
   },
   {
     "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
@@ -279,30 +268,6 @@
     "sentiment_score": -0.4939
   },
   {
-    "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
-    "source": "The Guardian Economics",
-    "published": "2026-10-27T22:34:33+00:00",
-    "summary": "<p>Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham\">You be the chancellor: play our budget game to see if you can balance the books</a></p></li></ul><p>John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first budget on Wednesday against a turbulent global economic backdrop.</p><p>But despite the international uncertainty, the chancellor will signal “fresh hope for the future” as he attempts to sound a more optimistic note, by providing households with breathing space from rising cost of living pressures.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9538
-  },
-  {
-    "title": "Budget 2026: six charts that reveal the economic realities facing the chancellor",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-10-27T18:15:29+00:00",
-    "summary": "<p>From tackling the youth jobs crisis to repairing Brexit’s economic damage, John Healey has his work cut out for him</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham\">You be the chancellor: play our budget game to see if you can balance the books</a></p></li></ul><p>John Healey will deliver his first budget on Wednesday as UK households and businesses come under pressure from the unfolding economic shock caused by the war in the Middle East.</p><p>Against a febrile backdrop in global markets, the chancellor is facing a delicate balancing act to provide “breathing space” measures to ease the cost of living crisis while increasing growth and sticking to the fiscal rules.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9382
-  },
-  {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
     "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
     "source": "CNBC Finance",
@@ -364,5 +329,41 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-16T16:46:18+00:00",
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-15T23:00:01+00:00",
+    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-14T20:06:28+00:00",
+    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
   }
 ]
