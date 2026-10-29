@@ -1,9 +1,22 @@
 [
   {
+    "title": "Will the budget deliver ‘growth in every postcode’?",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/29/will-the-budget-deliver-growth-in-every-postcode",
+    "source": "The Guardian Economics",
+    "published": "2026-10-29T05:00:27+00:00",
+    "summary": "<p>The chancellor outlined ‘the biggest wave of devolution in a generation’ – but large swathes of the country are excluded</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p></li></ul><p>In just two years, there could be dozens of mayors preparing to spend billions of pounds as part of Andy Burnham’s mission to devolve greater powers across England.</p><p>Fresh devolution deals could also be in place following negotiations with leaders in Scotland, Wales and possibly Northern Ireland, allowing the prime minister to say at the next election that he has fulfilled a promise to rewire Britain’s political landscape with a view to giving more local control.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/29/will-the-budget-deliver-growth-in-every-postcode\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9186
+  },
+  {
     "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
     "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-29T00:17:00+00:00",
+    "published": "2026-10-29T01:58:00+00:00",
     "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
     "matched_keywords": [
       "AI"
@@ -351,17 +364,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   }
 ]
