@@ -24,18 +24,6 @@
     "sentiment_score": 0.34
   },
   {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-29T20:45:00+00:00",
-    "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
     "title": "UK politics: Burnham denies preventing ministers from speaking about plans for closer relationship with EU – as it happened",
     "link": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
     "source": "The Guardian Economics",
@@ -365,5 +353,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
+  },
+  {
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T20:48:37+00:00",
+    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
   }
 ]
