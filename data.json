@@ -1,5 +1,17 @@
 [
   {
+    "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+    "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-31T04:30:00+00:00",
+    "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
     "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
     "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -355,19 +367,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0516
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-19T12:34:01+00:00",
-    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "matched_keywords": [
-      "Defense",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   }
 ]
