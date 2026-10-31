@@ -1,15 +1,39 @@
 [
   {
-    "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-    "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+    "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-31T12:00:00+00:00",
-    "summary": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
+    "published": "2026-10-31T17:26:00+00:00",
+    "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
     "matched_keywords": [
-      "Election"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
+    "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
+    "link": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
+    "source": "The Guardian Economics",
+    "published": "2026-10-31T16:00:46+00:00",
+    "summary": "<p>We need policies that stop treating property as a store of wealth and that allow people to move home cheaply</p><p>John Healey’s critics on the right and left accused him of dodging the big questions in his first <a href=\"https://www.theguardian.com/uk-news/budget-2026\">budget</a>. The chancellor failed to announce reforms that might tackle some of Britain’s chronic problems, they say.</p><p>Healey’s scatter-gun budget, as the Resolution Foundation called it, was more about politics than economics, and unapologetically so.</p> <a href=\"https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9001
+  },
+  {
+    "title": "The S&P 500 isn’t the big winner you may think it is",
+    "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-31T14:54:00+00:00",
+    "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
   },
   {
     "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
@@ -36,30 +60,6 @@
     "sentiment_score": 0.9827
   },
   {
-    "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-    "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-31T04:30:00+00:00",
-    "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-    "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T23:14:00+00:00",
-    "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
     "title": "How will the US midterms affect Australian markets?",
     "link": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
     "source": "The Guardian Economics",
@@ -72,67 +72,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.316
-  },
-  {
-    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-    "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T21:30:00+00:00",
-    "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
-    "matched_keywords": [
-      "Election",
-      "Gold"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T21:23:00+00:00",
-    "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-    "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T20:52:00+00:00",
-    "summary": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7935
-  },
-  {
-    "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-    "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T20:42:00+00:00",
-    "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-    "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T20:29:00+00:00",
-    "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
   },
   {
     "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
@@ -319,18 +258,6 @@
     "sentiment_score": -0.1027
   },
   {
-    "title": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-    "link": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
-    "source": "The Guardian Economics",
-    "published": "2026-10-28T15:40:42+00:00",
-    "summary": "<p>OBR cautions about Middle East war dragging down growth and triggering a fresh cost of living crisis</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms\">Healey offers £100 payment to households to help navigate ‘global economic storms’</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics\">Budget 2026 live – latest updates</a></p></li></ul><p>British households face a “grim picture” for living standards as the war in the Middle East drags down growth and triggers a fresh cost of living crisis, the government’s independent forecaster has said.</p><p>As John Healey announced his first budget, the Office for Budget Responsibility (OBR) issued its report showing a sharp downgrade for growth in 2027, household disposable incomes and the public finances, despite the <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">measures taken by the chancellor</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
-  },
-  {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
     "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
     "source": "CNBC Finance",
@@ -366,5 +293,79 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5165
+  },
+  {
+    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T16:42:14+00:00",
+    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T12:34:01+00:00",
+    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "matched_keywords": [
+      "Defense",
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-16T16:46:18+00:00",
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-15T23:00:01+00:00",
+    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-14T20:06:28+00:00",
+    "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1531
+  },
+  {
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-13T23:05:12+00:00",
+    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
   }
 ]
