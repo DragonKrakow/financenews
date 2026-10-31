@@ -1,39 +1,115 @@
 [
   {
-    "title": "FBI working with Binance after crypto exchange hit by $6.3bn heist – business live",
-    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-30T17:59:55+00:00",
-    "summary": "<p>Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe\">Explainer: How big a deal is this, who did it, and are investments safe?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-the-binance-hack\">Tell us: have you been affected by the Binance hack?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack\">Full story: North Korean group blamed for biggest ever crypto heist</a></p></li></ul><p><br /></p><p>Most major cryptocurrencies have fallen in value since news of the Binance theft broke, <a href=\"https://coinmarketcap.com/\">Coinmarketcap data shows</a>.</p><p>That includes:</p><p><strong>Bitcoin</strong>: -2.35% over the last 24 hours, to $77,940</p><p><strong>Ethereum</strong>: -3.6%, to $2,227</p><p><strong>BNB</strong>: -5.6%, to $706</p><p><strong>Solana</strong>: -2.67%, to $97</p><p><strong>Chainlink</strong>: -3.1%, to $11.02</p><p>Temporarily suspended withdrawals while we complete a security revamp of the withdrawal service and its related addresses</p><p>Revoked the affected address authorizations</p><p>Engaged law enforcement and blockchain intelligence partners to trace and recover funds</p><p>Our team hasn’t stopped. We’re working closely with law enforcement to ensure the matter is handled appropriately - and I’ll share what I can, as soon as I can.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4208
-  },
-  {
-    "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
-    "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+    "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+    "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T17:44:00+00:00",
-    "summary": "Worker compensation grows slower than inflation for second straight quarter",
+    "published": "2026-10-30T23:14:00+00:00",
+    "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
+    "sentiment_score": 0.0
   },
   {
-    "title": "You can expect the stock market to rally no matter who wins on Election Day",
-    "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T17:32:00+00:00",
-    "summary": "Also in Weekend Reads: Dividend stocks, a way to jump on the Anthropic bandwagon ahead of its IPO, and advice from The Moneyist.",
+    "title": "How will the US midterms affect Australian markets?",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-10-30T23:00:26+00:00",
+    "summary": "<p>Polling suggests Republicans’ chances of retaining both houses have waned. Here’s how the vote could steer demand for renewables, deflate AI stocks and spark volatility</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Donald Trump’s fight to retain control of Congress in the 3 November US midterms will carry direct consequences for Australian markets, whatever the outcome.</p><p>Democrats <a href=\"https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections\">must flip four seats</a> in both the House of Representatives and Senate to overturn narrow Republican majorities. Polls favour the Democrats to reclaim the house, but the Senate contest is too close to call.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets\">Continue reading...</a>",
     "matched_keywords": [
-      "Election"
+      "Election",
+      "AI",
+      "Renewables"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5612
+    "sentiment_score": 0.316
+  },
+  {
+    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+    "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T21:30:00+00:00",
+    "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+    "matched_keywords": [
+      "Election",
+      "Gold"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+    "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T21:23:00+00:00",
+    "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+    "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T20:52:00+00:00",
+    "summary": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7935
+  },
+  {
+    "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+    "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T20:42:00+00:00",
+    "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6808
+  },
+  {
+    "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+    "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T20:29:00+00:00",
+    "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+    "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-10-30T20:28:00+00:00",
+    "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8885
+  },
+  {
+    "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-10-30T20:24:25+00:00",
+    "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe\">How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-the-binance-hack\">Tell us: have you been affected by the Binance hack?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack\">Full story: North Korean group blamed for biggest ever crypto heist</a></p></li></ul><p><br /></p><p>Most major cryptocurrencies have fallen in value since news of the Binance theft broke, <a href=\"https://coinmarketcap.com/\">Coinmarketcap data shows</a>.</p><p>That includes:</p><p><strong>Bitcoin</strong>: -2.35% over the last 24 hours, to $77,940</p><p><strong>Ethereum</strong>: -3.6%, to $2,227</p><p><strong>BNB</strong>: -5.6%, to $706</p><p><strong>Solana</strong>: -2.67%, to $97</p><p><strong>Chainlink</strong>: -3.1%, to $11.02</p><p>Temporarily suspended withdrawals while we complete a security revamp of the withdrawal service and its related addresses</p><p>Revoked the affected address authorizations</p><p>Engaged law enforcement and blockchain intelligence partners to trace and recover funds</p><p>Our team hasn’t stopped. We’re working closely with law enforcement to ensure the matter is handled appropriately - and I’ll share what I can, as soon as I can.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7524
   },
   {
     "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
@@ -46,42 +122,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9813
-  },
-  {
-    "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-    "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T16:20:00+00:00",
-    "summary": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T16:00:00+00:00",
-    "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3818
-  },
-  {
-    "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
-    "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-10-30T15:53:00+00:00",
-    "summary": "About 52% of people with a workplace retirement plan say they would invest in private assets if they were available in their company’s plan.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1779
   },
   {
     "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
@@ -268,18 +308,6 @@
     "sentiment_score": -0.0164
   },
   {
-    "title": "Electricity, insurance and eggs: see how life in Australia has got more expensive",
-    "link": "https://www.theguardian.com/business/ng-interactive/2026/oct/29/electricity-insurance-and-eggs-see-how-has-life-in-australia-got-more-expensive",
-    "source": "The Guardian Economics",
-    "published": "2026-10-28T14:00:05+00:00",
-    "summary": "<p>Our inflation explorer tracks how prices have risen – or fallen – since 2022</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>It has been nearly five years since inflation crashed on to Australia’s shores, as a rebounding post-Covid economy collided with a world of constrained supply.</p><p>The global cost-of-living crisis – or affordability crisis, as the Americans call it – has shaped our world from 2022 onwards.</p> <a href=\"https://www.theguardian.com/business/ng-interactive/2026/oct/29/electricity-insurance-and-eggs-see-how-has-life-in-australia-got-more-expensive\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9092
-  },
-  {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
     "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
     "source": "CNBC Finance",
@@ -341,29 +369,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
-  },
-  {
-    "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-15T23:00:01+00:00",
-    "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
   }
 ]
