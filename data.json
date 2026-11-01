@@ -1,5 +1,45 @@
 [
   {
+    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+    "source": "The Guardian Economics",
+    "published": "2026-11-01T12:00:12+00:00",
+    "summary": "<p>A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.</p><p>The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Trade War",
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9882
+  },
+  {
+    "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+    "source": "The Guardian Economics",
+    "published": "2026-11-01T12:00:11+00:00",
+    "summary": "<p>Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices</p><p>For millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.</p><p>In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family services have been on strike since February 2026, the longest public sector strike in Ohio history and on pace to break the US record for longest public sector strike.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4404
+  },
+  {
+    "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/01/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty-podcast",
+    "source": "The Guardian Economics",
+    "published": "2026-11-01T08:00:07+00:00",
+    "summary": "<p>What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth per person in the UK. So what’s the lesson from the great British fairytale? On the latest episode of Radical Thinking with Aditya Chakrabortty, rebel economists Karel Williams and Sukhdev Johal explain why they believe praying for growth is a fool’s dream – and why it won’t improve your life</p><p><strong>You can watch previous episodes of Radical Thinking <a href=\"https://www.youtube.com/watch?v=MJ725uqMC3o&amp;list=PLVj3lUUoaRkM\">here</a>\n  <br />\n  <br />Aditya’s suggested reading list for this episode:</strong>\n <br />\n <br />\n As we say in the podcast, I’ve championed the work of Karel and Sukhdev and their colleagues for many years in the Guardian, and some of my columns are a good introduction to their approach.</p><p>In our conversation we look at what life after growth looks like for towns and suburbs, and what it should look like. <a href=\"https://www.theguardian.com/commentisfree/2016/nov/22/just-about-managing-pontypool-south-wales-poverty-post-industrial-truth-britain?st_source=ai_overview\">This report</a> from south Wales in 2016 examines the present-day reality.</p><p>For a broader analysis of how the UK has become highly unequal and increasingly stagnant, try <a href=\"https://www.theguardian.com/commentisfree/2023/jun/23/britain-dorian-gray-economy-tony-blair-george-osborne\">this</a>.</p><p>As part of the Foundational Economy Collective, Williams and Johal put a lot of their analysis into freely available working papers. That circumvents the leisureliness and expense of academic publishing and gets their arguments in front of a wider public. A good example is <a href=\"https://foundationaleconomy.com/wp-content/uploads/2023/08/market-entitlement-fe4-and-cost-of-living-crisis-19-aug-2023.pdf\">this one on the cost of living crisis</a>.</p><p>More recently, they’ve focused on the broken water system of England and Wales in a book called <a href=\"https://guardianbookshop.com/murky-water-9781526188700/\">Murky Water: Challenging an Unsustainable System</a>.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/01/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9829
+  },
+  {
     "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
     "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
     "source": "The Guardian Economics",
@@ -234,30 +274,6 @@
     "sentiment_score": 0.1779
   },
   {
-    "title": "Budget winners and losers: pensioners and households gain as banks and betting shops hit",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
-    "source": "The Guardian Economics",
-    "published": "2026-10-28T17:37:02+00:00",
-    "summary": "<p>How the Burnham government’s first attempt to ease cost of living pressure pans out for key stakeholders<br /><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p><p>Every budget has its winners and losers, and John Healey’s first as chancellor was no exception. While some gained from tax breaks and rule tweaks, others will either pay more, or had their hopes of reforms dashed. Here are some of those with reason to cheer, or sigh:</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8481
-  },
-  {
-    "title": "Healey gives households £100 to help navigate ‘global economic storms’",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
-    "source": "The Guardian Economics",
-    "published": "2026-10-28T16:40:50+00:00",
-    "summary": "<p>Payments to 20m homes part of package to cut energy bills and ease cost of living crisis, paid for by bank windfall tax</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures\">‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p><p></p></li></ul><p>John Healey promised to steer Britain through “global economic storms” as he announced an energy giveaway of £100 to 80% of households in England, funded by a smaller than expected windfall tax on banks.</p><p>In his first budget, the chancellor said 20 million households in council tax bands A to D would receive a £100 payment – a measure he said would cost £2.6bn.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
-  },
-  {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
     "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
     "source": "CNBC Finance",
@@ -355,17 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T23:05:12+00:00",
-    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   }
 ]
