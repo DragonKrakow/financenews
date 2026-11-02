@@ -1,35 +1,9 @@
 [
   {
-    "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-    "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T12:10:00+00:00",
-    "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
-  },
-  {
-    "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-    "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T11:14:00+00:00",
-    "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-    "matched_keywords": [
-      "Oil",
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8625
-  },
-  {
     "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T10:15:00+00:00",
+    "published": "2026-11-02T18:00:00+00:00",
     "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
     "matched_keywords": [
       "AI"
@@ -38,72 +12,59 @@
     "sentiment_score": 0.1027
   },
   {
-    "title": "5 celebrities who waited years to buy their dream homes",
-    "link": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
+    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+    "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T10:03:00+00:00",
-    "summary": "What do Drake, Julianne Moore and Barbra Streisand have in common? These A-listers are not totally immune from having to play the waiting game for their perfect house.",
+    "published": "2026-11-02T17:31:00+00:00",
+    "summary": "Oracle debt has been trading like a  “junk bond” as the company borrows money and issues stock to help finance its AI cloud growth.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.718
+    "sentiment_score": 0.6486
   },
   {
-    "title": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-    "link": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
+    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+    "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T09:47:00+00:00",
-    "summary": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it’s time to go overweight once again as the risk-reward profile favors a sector that is suddenly out of fashion.",
+    "published": "2026-11-02T16:50:00+00:00",
+    "summary": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.2732
+    "sentiment_score": 0.3182
   },
   {
-    "title": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-    "link": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
+    "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+    "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T09:15:00+00:00",
-    "summary": "Mike Wilson, Morgan Stanley’s chief stock-market strategist, said the midterm elections are a classic “clearing event” whose outcome at this point doesn’t really matter.",
+    "published": "2026-11-02T16:11:00+00:00",
+    "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
     "matched_keywords": [
-      "Election",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5095
+    "sentiment_score": 0.5423
   },
   {
-    "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-    "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+    "title": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
+    "link": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T08:56:00+00:00",
-    "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
+    "published": "2026-11-02T15:59:00+00:00",
+    "summary": "U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.",
     "matched_keywords": [
-      "Election"
+      "Artificial Intelligence"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6124
   },
   {
-    "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
-    "link": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T07:25:00+00:00",
-    "summary": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back painfully for investors who aren’t prepared.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms",
+    "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
     "link": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
     "source": "The Guardian Economics",
     "published": "2026-11-02T06:57:29+00:00",
-    "summary": "<p>Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s economy is set for a “sharper, longer slowdown”, major bank economists say, as the Reserve Bank is forced to keep interest rates higher to rid the nation of persistent inflationary pressures.</p><p>The RBA is widely expected to hit mortgage holders with a fifth rate hike on Tuesday, in a move that will push the cash rate to its highest since 2008 amid rising worries the economy could even be tipped into recession.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms\">Continue reading...</a>",
+    "summary": "<p>Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s economy is set for a “sharper, longer slowdown”, major bank economists say, as the Reserve Bank is forced to keep interest rates higher to rid the nation of persistent inflationary pressures.</p><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy\">The RBA is widely expected to hit mortgage holders with a fifth rate hike</a> on Tuesday, in a move that will push the cash rate to its highest since 2008 amid rising worries the economy could even be tipped into recession.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -129,12 +90,12 @@
     "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
     "source": "The Guardian Economics",
     "published": "2026-11-01T23:24:39+00:00",
-    "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p><p>This story was amended 2 November 2026. An earlier version said an interest rate hike on Tuesday would be the fourth in 2026 – in fact, it would be the fifth.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
+    "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8504
+    "sentiment_score": 0.7399
   },
   {
     "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
@@ -372,5 +333,43 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5165
+  },
+  {
+    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T16:42:14+00:00",
+    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-19T12:34:01+00:00",
+    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "matched_keywords": [
+      "Defense",
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-16T16:46:18+00:00",
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
   }
 ]
