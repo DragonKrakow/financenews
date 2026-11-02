@@ -1,5 +1,30 @@
 [
   {
+    "title": "The RBA may be about to hike interest rates. Use our loan calculator to check how it may affect you",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+    "source": "The Guardian Economics",
+    "published": "2026-11-02T02:01:46+00:00",
+    "summary": "<p>Reserve Bank of Australia expected to announce fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank of Australia is expected to hike interest rates to an 18-year high – which would be the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8253
+  },
+  {
+    "title": "This is the biggest threat to the AI-powered bull market",
+    "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-02T00:22:00+00:00",
+    "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
     "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
     "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
     "source": "The Guardian Economics",
@@ -46,18 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5423
-  },
-  {
-    "title": "This is the biggest threat to the AI-powered bull market",
-    "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-01T14:00:00+00:00",
-    "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   },
   {
     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
@@ -259,19 +272,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9186
-  },
-  {
-    "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-    "source": "The Guardian Economics",
-    "published": "2026-10-28T20:09:34+00:00",
-    "summary": "<p>Few surprises as chancellor uses low-key speech blaming ‘global economic storms’ for stoking energy prices and cost of living crisis</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/oct/28/budget-briefing-the-key-questions-answered-by-heather-stewart-and-pippa-crerar\">Briefing: key questions answered by Heather Stewart and Pippa Crerar</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-labours-budget-bold-ambitions-and-welcome-first-steps\">Editorial: Budget’s bold ambitions and welcome first steps</a></p></li></ul><p>John Healey raised taxes on banks and landlords to fund a £100 winter handout for 20 million families as official forecasts made clear there is no end in sight for the cost of living crisis.</p><p>In his first budget, the chancellor blamed “global economic storms” for the grim outlook, as the war in Iran drives up oil and gas prices.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
   },
   {
     "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
