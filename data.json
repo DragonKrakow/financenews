@@ -1,6 +1,30 @@
 [
   {
-    "title": "How Rachel Reeves has mapped out economic agenda for Andy Burnham’s government",
+    "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
+    "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
+    "source": "The Guardian Economics",
+    "published": "2026-11-01T23:24:39+00:00",
+    "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p><p>This story was amended 2 November 2026. An earlier version said an interest rate hike on Tuesday would be the fourth in 2026 – in fact, it would be the fifth.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8504
+  },
+  {
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-01T20:00:00+00:00",
+    "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3818
+  },
+  {
+    "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
     "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
     "source": "The Guardian Economics",
     "published": "2026-11-01T17:47:42+00:00",
@@ -74,18 +98,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9829
-  },
-  {
-    "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
-    "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
-    "source": "The Guardian Economics",
-    "published": "2026-10-31T23:00:03+00:00",
-    "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7399
   },
   {
     "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1531
-  },
-  {
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-13T23:05:12+00:00",
-    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   }
 ]
