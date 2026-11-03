@@ -1,9 +1,45 @@
 [
   {
+    "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+    "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-03T00:03:00+00:00",
+    "summary": "The “tech wreck” from October continues. Is a bear market next?",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+    "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-02T23:39:00+00:00",
+    "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7003
+  },
+  {
+    "title": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-02T23:13:34+00:00",
+    "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
     "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T18:00:00+00:00",
+    "published": "2026-11-02T21:30:00+00:00",
     "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
     "matched_keywords": [
       "AI"
@@ -12,52 +48,53 @@
     "sentiment_score": 0.1027
   },
   {
-    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-    "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+    "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T17:31:00+00:00",
-    "summary": "Oracle debt has been trading like a  “junk bond” as the company borrows money and issues stock to help finance its AI cloud growth.",
+    "published": "2026-11-02T21:29:00+00:00",
+    "summary": "The S&amp;P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
+    "sentiment_score": 0.5106
   },
   {
-    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-    "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T16:50:00+00:00",
-    "summary": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-02T21:13:43+00:00",
+    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.9274
   },
   {
-    "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-    "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+    "title": "Palantir earnings reveal a major AI turning point",
+    "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T16:11:00+00:00",
-    "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+    "published": "2026-11-02T21:09:00+00:00",
+    "summary": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
-    "title": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
-    "link": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
+    "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
+    "link": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-02T15:59:00+00:00",
-    "summary": "U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.",
+    "published": "2026-11-02T20:30:00+00:00",
+    "summary": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.",
     "matched_keywords": [
-      "Artificial Intelligence"
+      "Chips",
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6124
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7579
   },
   {
     "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
@@ -77,7 +114,7 @@
     "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
     "source": "The Guardian Economics",
     "published": "2026-11-02T02:01:46+00:00",
-    "summary": "<p>Reserve Bank of Australia expected to announce fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank of Australia is expected to hike interest rates to an 18-year high – which would be the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "summary": "<p>Reserve Bank of Australia expected to announce fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank of Australia is expected to hike interest rates to an 18-year high – which would be the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
@@ -162,6 +199,18 @@
     "sentiment_score": -0.9001
   },
   {
+    "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+    "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-31T12:47:08+00:00",
+    "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
     "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
     "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
     "source": "The Guardian Economics",
@@ -200,6 +249,18 @@
     "sentiment_score": 0.316
   },
   {
+    "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-30T21:53:10+00:00",
+    "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
     "source": "The Guardian Economics",
@@ -210,6 +271,18 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7524
+  },
+  {
+    "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-30T20:18:49+00:00",
+    "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   },
   {
     "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
@@ -235,6 +308,30 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9354
+  },
+  {
+    "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+    "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-29T21:38:16+00:00",
+    "summary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-29T20:12:29+00:00",
+    "summary": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
   },
   {
     "title": "UK politics: Burnham denies preventing ministers from speaking about plans for closer relationship with EU – as it happened",
@@ -271,105 +368,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0516
-  },
-  {
-    "title": "Healey’s budget paves way for ‘brutal’ spending review next year, warns IFS",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-brutal-spending-review-next-year-ifs",
-    "source": "The Guardian Economics",
-    "published": "2026-10-29T13:47:30+00:00",
-    "summary": "<p>Thinktank says chancellor has given himself a mountain to climb after ducking big decisions in low-key speech</p><p>John Healey has paved the way for a “brutal” spending review next year after his budget failed to cover a £28bn shortfall in the public finances needed to avoid a return to austerity, according to Britain’s leading tax and spending experts.</p><p>A day after <a href=\"https://www.theguardian.com/uk-news/budget-2026\">his address to the Commons</a>, the Institute for Fiscal Studies (IFS) said the chancellor had left himself a mountain to climb by ducking several big decisions in his debut tax and spending statement.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-brutal-spending-review-next-year-ifs\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "US economy grows faster than expected but inflation rises to 3.7%",
-    "link": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
-    "source": "The Guardian Economics",
-    "published": "2026-10-29T13:09:00+00:00",
-    "summary": "<p>Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loom</p><p>The US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new commerce department data released on Thursday, less than a week before the midterm elections that will determine control of Congress.</p><p>Gross domestic product (GDP) increased at a 3.4% annualized rate last quarter, the commerce department’s ⁠bureau of economic analysis said in its advance estimate of the third-quarter GDP on Thursday. Economists polled by Reuters had forecast GDP advancing at a 3.2% pace.</p> <a href=\"https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3919
-  },
-  {
-    "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-21T15:30:50+00:00",
-    "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-20T10:39:17+00:00",
-    "summary": "Data center campuses house the servers that power AI and cloud computing.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3612
-  },
-  {
-    "title": "The world’s finance chiefs see new risks — and less China angst",
-    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-20T05:27:53+00:00",
-    "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5165
-  },
-  {
-    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-19T16:42:14+00:00",
-    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-19T12:34:01+00:00",
-    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "matched_keywords": [
-      "Defense",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2023
   }
 ]
