@@ -1,5 +1,79 @@
 [
   {
+    "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T00:17:00+00:00",
+    "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+    "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-03T22:06:00+00:00",
+    "summary": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+    "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-03T21:13:00+00:00",
+    "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.872
+  },
+  {
+    "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+    "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-03T20:46:00+00:00",
+    "summary": "“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
+    "source": "The Guardian Economics",
+    "published": "2026-11-03T18:30:56+00:00",
+    "summary": "<p>The latest edition of Radical Thinking, the Guardian’s new podcast, should be required listening at a Treasury still stifled by outdated orthodoxies</p><p>As prime ministers have come and gone at bewildering speed in recent years, the search for elusive economic growth has become the overriding fixation of the British political class. In the lead-up to the 2024 general election, Sir Keir Starmer <a href=\"https://x.com/Keir_Starmer/status/1731679006112571450\">declared</a> that “growth must become Labour’s obsession”, given the financial constraints that any new government would be under. The scale of Labour’s progressive offer, it was made clear, would be umbilically linked to its ability to generate a significant uptick in GDP.</p><p>“Growth in every postcode” is also the early <a href=\"https://www.gov.uk/government/news/prime-minister-pledges-growth-in-every-postcode-across-whole-of-uk-as-he-visits-scotland\">mantra</a> of Andy Burnham’s government. The prime minister swept to power partly by running on Greater Manchester’s record as the UK’s fastest-growing city region while he was mayor. Echoing Mr Starmer’s approach, Mr Burnham’s chancellor, John Healey, <a href=\"https://tribunemag.co.uk/2026/10/the-left-after-growth\">told</a> the Labour party conference in September: “Without growth, there is no social democracy.”</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.91
+  },
+  {
+    "title": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-03T18:21:05+00:00",
+    "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
     "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
     "link": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
     "source": "The Guardian Economics",
@@ -10,67 +84,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9396
-  },
-  {
-    "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-03T17:01:00+00:00",
-    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1027
-  },
-  {
-    "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
-    "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-03T16:56:00+00:00",
-    "summary": "Job openings in the U.S. rose in September to a four-month high and hiring also increased, signaling mild but perhaps not sustainable improvement in a sluggish U.S. labor market.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8612
-  },
-  {
-    "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-    "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-03T15:44:00+00:00",
-    "summary": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Stock market after midterm elections: What S&P 500 history shows",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-03T15:19:38+00:00",
-    "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
-  },
-  {
-    "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-    "link": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-03T15:04:00+00:00",
-    "summary": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
@@ -89,8 +102,9 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
     "source": "The Guardian Economics",
     "published": "2026-11-03T11:00:57+00:00",
-    "summary": "<p>Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district</p><p>After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin, at the end of the year.</p><p>She opened Tangled Up in Hue amid a recession, during a time when downtown was “kind of a ghost town”, weathering construction and the pandemic. But the current economic crisis proved too much. She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of business non-profit Downtown Eau Claire Inc, to pay staff.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race\">Continue reading...</a>",
+    "summary": "<p>Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">US midterms 2026 live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races\">Track live results from all 50 states</a></p></li></ul><p>After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin, at the end of the year.</p><p>She opened Tangled Up in Hue amid a recession, during a time when downtown was “kind of a ghost town”, weathering construction and the pandemic. But the current economic crisis proved too much. She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of business non-profit Downtown Eau Claire Inc, to pay staff.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race\">Continue reading...</a>",
     "matched_keywords": [
+      "Election",
       "AI"
     ],
     "sentiment_label": "Bearish",
@@ -126,13 +140,13 @@
     "link": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
     "source": "The Guardian Economics",
     "published": "2026-11-03T03:40:04+00:00",
-    "summary": "<p>Reserve Bank of Australia announces fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates\">RBA interest rates live updates: Reserve Bank cash rate decision today</a></p></li></ul><p>The Reserve Bank of Australia hiked <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">interest rates to an 18-year high</a> on Tuesday – the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+    "summary": "<p>Reserve Bank of Australia announces fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank of Australia hiked <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">interest rates to an 18-year high</a> on Tuesday – the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8253
+    "sentiment_score": 0.6868
   },
   {
     "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
@@ -320,19 +334,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9813
-  },
-  {
-    "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
-    "source": "The Guardian Economics",
-    "published": "2026-10-30T10:00:50+00:00",
-    "summary": "<p>‘Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them’</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> successfully campaigned for his second term two years ago promising to <a href=\"https://finance.yahoo.com/news/trump-said-d-lower-grocery-110057971.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2NvbW1lbnRpc2ZyZWUvMjAyNi9qYW4vMjMvZG9uYWxkLXRydW1wLWxpZXMtaWNl&amp;guce_referrer_sig=AQAAAKoVJAuMtxB8lRTGzL0JQStMU3jkVNwd3MCZ11E0-bvBC8C8PgbGktPwwVwwOc1JcHSFQ9S2OYPNqMVWneEXBSUZzWo-PeFFAB4FS-9FCUm-KI-m2iLw4wNoJ0h-UCq3Ff2Oop48Mjz7RPlDYJW1TLOKIU-P-Fr1_7I-geSp_jhR\">reduce prices on day one</a>, but ever since he returned to the White House, he has done little to fight inflation or reduce prices. Instead, some of his most important policy decisions – most notably his <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war against Iran</a> and his tariff wars – have increased inflation instead of reducing it. This helps explain <a href=\"https://www.washingtonpost.com/politics/2026/10/25/about-one-five-trump-voters-no-longer-back-him-they-key-midterms/?utm_campaign=wp_main&amp;utm_source=facebook&amp;utm_medium=social&amp;fbclid=IwY2xjawVLLKZleHRuA2FlbQIxMQBwZG9mBWJyaWQRMUFhSWh5QjRYVWhEcEJ6WFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0ja5aLw_WJ9u8yHKQC0DXuPO3hfFaEKVUKLy5tkbf7R-DeUc6vcfNCPWuHI_aem_6EZyEi9toBP2In1-wYUjhg\">why more than one in five Americans who voted for Trump</a> now disapprove of the job he’s doing.</p><p>Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them during his second term. Indeed, the “<a href=\"https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day\">liberation day</a>” tariffs he imposed soon after returning to office increased the price of hundreds of goods, including <a href=\"https://www.washingtonpost.com/business/2025/11/29/food-price-inflation-trump-tariffs/\">citrus fruits</a>, steel, bananas, beef and auto parts. When the supreme court overturned those tariffs as illegal, Trump immediately imposed <a href=\"https://www.reuters.com/world/us/scotus-live-us-supreme-court-rules-legality-trumps-tariffs-2026-02-20/\">new 10% across-the-board tariffs</a> that again helped push up prices (a lower court <a href=\"https://www.courthousenews.com/trump-dealt-second-blow-as-trade-court-rules-10-global-tariffs-illegal/\">found those tariffs unlawful, too</a>). Time and again, Trump has slapped on new tariffs even though they inherently push up prices because tariffs are a tax on imported goods. Little wonder that a Fox News poll this month found that <a href=\"https://www.youtube.com/watch?v=EUogMO_yI9c&amp;t=1s\">77% of Americans disapprove</a> of how Trump has handled tariffs.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9354
   },
   {
     "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
