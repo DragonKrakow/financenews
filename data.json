@@ -1,15 +1,52 @@
 [
   {
+    "title": "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances.",
+    "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T04:46:00+00:00",
+    "summary": "The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-04T03:24:03+00:00",
+    "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6597
+  },
+  {
     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T00:17:00+00:00",
+    "published": "2026-11-04T01:16:00+00:00",
     "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4939
+  },
+  {
+    "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+    "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T01:12:00+00:00",
+    "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.872
   },
   {
     "title": "AI’s control over the bond market is growing — even rivaling war and elections",
@@ -23,18 +60,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.25
-  },
-  {
-    "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-    "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-03T21:13:00+00:00",
-    "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
   },
   {
     "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
@@ -115,13 +140,13 @@
     "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
     "source": "The Guardian Economics",
     "published": "2026-11-03T07:36:42+00:00",
-    "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates\">RBA interest rates live updates: Reserve Bank cash rate decision</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
+    "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2359
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2824
   },
   {
     "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
@@ -346,31 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
-  },
-  {
-    "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-29T20:12:29+00:00",
-    "summary": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7351
-  },
-  {
-    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-28T19:53:50+00:00",
-    "summary": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
