@@ -1,93 +1,124 @@
 [
   {
-    "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-    "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
+    "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
+    "link": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T11:10:00+00:00",
-    "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
+    "published": "2026-11-04T17:44:00+00:00",
+    "summary": "The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.",
     "matched_keywords": [
-      "Gold",
-      "Silver",
-      "AI"
+      "Interest Rates"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
+    "sentiment_score": 0.7468
   },
   {
-    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+    "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T10:15:00+00:00",
-    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-04T10:02:00+00:00",
-    "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+    "published": "2026-11-04T17:19:00+00:00",
+    "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation’s largest hospitals.",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6597
+    "sentiment_score": 0.3182
   },
   {
-    "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
-    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-    "source": "The Guardian Economics",
-    "published": "2026-11-04T09:55:22+00:00",
-    "summary": "<p>Concern over greater AI regulation, while investors move into US treasuries as Trump faces political gridlock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates#maincontent\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">US midterm elections – live updates</a></p></li></ul><p>The US dollar has fallen sharply after the Democrats <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">won control of the Senate and the House</a> in the midterm elections, sparking fears that greater regulation of AI could slow economic growth.</p><p>The dollar hit a one-month low on Wednesday while coming under pressure from falling bond yields, as investors moved into US treasuries, viewed as a safe haven from the political gridlock anticipated during the rest of Donald Trump’s final term in office.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears\">Continue reading...</a>",
+    "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-04T17:11:00+00:00",
+    "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
     "matched_keywords": [
       "Election",
-      "Regulation",
+      "Oil"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6369
+  },
+  {
+    "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+    "source": "The Guardian Economics",
+    "published": "2026-11-04T16:38:28+00:00",
+    "summary": "<p>Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates#maincontent\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates\">US midterm elections – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">After US midterms, what will lame duck Trump mean for global economy?</a></p></li></ul><p>US stocks have surged as investors digest the Democrats’ victories in the midterm elections, lifted by hopes that Donald Trump’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy.</p><p>The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 gained more than 1% each, turning around overnight falls in US stock futures after the news that the Democratic party <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">won control of the Senate and the House of Representatives</a>.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
       "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6249
+    "sentiment_score": 0.4767
   },
   {
-    "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-    "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T09:30:00+00:00",
-    "summary": "The chip maker is showing “real” revenue from artificial intelligence, shrugging off sustainability concerns and leading to an upbeat forecast.",
+    "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
+    "source": "The Guardian Economics",
+    "published": "2026-11-04T15:56:30+00:00",
+    "summary": "<p>Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results\">loss of control</a> of the House of Representatives and the Senate has put the world economy on notice for an unpredictable final two years of his presidential term.</p><p>After Democrats swept aside his Republican party in the midterm elections, analysts said the prospect of a highly erratic lame-duck president would have significant implications for financial markets, growth, inflation, government borrowing costs and living standards.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">Continue reading...</a>",
     "matched_keywords": [
+      "Interest Rates",
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8126
+  },
+  {
+    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T15:17:00+00:00",
+    "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Datadog’s stock extends steep declines in the wake of earnings",
+    "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T15:16:00+00:00",
+    "summary": "Datadog failed to top expectations with its revenue forecast.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
+    "link": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
+    "source": "The Guardian Economics",
+    "published": "2026-11-04T14:00:37+00:00",
+    "summary": "<p>The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don’t do much</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank’s decision to <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">raise interest rates</a>; that will do barely anything (although it will most certainly raise unemployment). No, the most important news for inflation was that the <a href=\"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island\">US had launched limited strikes</a> on ​Iran’s Qeshm Island.</p><p>This announcement came after word from the Iranian government that talks were under way to end the conflict – news that caused the price of oil to drop 11%. But the strike sent prices rising again, before traders took an optimistic stance ahead of Wednesday’s US midterm elections:</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Election",
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5021
+  },
+  {
+    "title": "UK interest rates increase expected after services sector activity accelerates",
+    "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
+    "source": "The Guardian Economics",
+    "published": "2026-11-04T13:53:38+00:00",
+    "summary": "<p>Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence.</p><p>S&amp;P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "Election",
+      "Gold",
       "AI",
       "Artificial Intelligence"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.743
-  },
-  {
-    "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
-    "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T06:27:00+00:00",
-    "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7506
-  },
-  {
-    "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-    "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T01:12:00+00:00",
-    "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.872
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
   },
   {
     "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
@@ -303,32 +334,6 @@
     "sentiment_score": 0.9829
   },
   {
-    "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
-    "link": "https://www.theguardian.com/politics/video/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
-    "source": "The Guardian Economics",
-    "published": "2026-10-31T07:45:36+00:00",
-    "summary": "<p>What if someone told you the truth about the economy? For years, UK governments have tried spending more, spending less, cutting red tape, leaving the EU, levelling up, and they have still failed to increase growth per person. So what’s the lesson from the great British fairytale? On the latest episode, the rebel economists Karel Williams and Sukhdev Johal explain to Aditya Chakrabortty why they believe praying for growth is a fool’s dream – and why it won’t improve your life</p><p></p><p><strong>Aditya’s suggested reading list for Karel Williams and Sukhdev Johal:</strong></p><p></p><p>As we say in the podcast, I’ve championed the work of Karel and Sukhdev and their colleagues in the Guardian for many years, and some of my columns are a good introduction to their approach.<br /></p><p>• In our conversation we look at what life after growth looks like for towns and suburbs, and what it should look like. <a href=\"https://www.theguardian.com/commentisfree/2016/nov/22/just-about-managing-pontypool-south-wales-poverty-post-industrial-truth-britain?st_source=ai_overview\">This report</a> from South Wales in 2016 examines the present-day reality.</p><p></p><p>• For a broader analysis of how the UK has become highly unequal and increasingly stagnant, try <a href=\"https://www.theguardian.com/commentisfree/2023/jun/23/britain-dorian-gray-economy-tony-blair-george-osborne\">this</a>.</p><p></p><p>• As part of the Foundational Economy collective, Karel and Sukhdev put a lot of their analysis into freely available working papers. That circumvents the leisureliness and expense of academic publishing and gets their arguments in front of a wider public. A good example is <a href=\"https://foundationaleconomy.com/wp-content/uploads/2023/08/market-entitlement-fe4-and-cost-of-living-crisis-19-aug-2023.pdf\">this one on the cost of living crisis</a>.</p><p></p><p>• More recently, they’ve focused on the broken water system of England and Wales in a book called <a href=\"https://guardianbookshop.com/murky-water-9781526188700/\">Murky Water: Challenging an Unsustainable System</a>.</p><p></p><p>Support the Guardian ► https://support.theguardian.com  </p><p>The Guardian on YouTube: The Guardian ► www.youtube.com/@theguardian </p><p>Guardian News ► www.youtube.com/@guardiannews </p><p>Today in Focus ► www.youtube.com/@todayinfocuspodcast </p><p>Stateside ► www.youtube.com/@statesidepodcast </p><p>Politics Weekly ► https://www.youtube.com/@politicsweekly </p><p>Science Weekly ► https://www.youtube.com/@scienceweeklypod </p><p>Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast</p> <a href=\"https://www.theguardian.com/politics/video/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9827
-  },
-  {
-    "title": "How will the US midterms affect Australian markets?",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
-    "source": "The Guardian Economics",
-    "published": "2026-10-30T23:00:26+00:00",
-    "summary": "<p>Polling suggests Republicans’ chances of retaining both houses have waned. Here’s how the vote could steer demand for renewables, deflate AI stocks and spark volatility</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Donald Trump’s fight to retain control of Congress in the 3 November US midterms will carry direct consequences for Australian markets, whatever the outcome.</p><p>Democrats <a href=\"https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections\">must flip four seats</a> in both the House of Representatives and Senate to overturn narrow Republican majorities. Polls favour the Democrats to reclaim the house, but the Senate contest is too close to call.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI",
-      "Renewables"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.316
-  },
-  {
     "title": "Fed officials are already saying they’ll need to get back to hiking rates",
     "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
     "source": "CNBC Finance",
@@ -339,18 +344,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-10-30T20:24:25+00:00",
-    "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe\">How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-the-binance-hack\">Tell us: have you been affected by the Binance hack?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack\">Full story: North Korean group blamed for biggest ever crypto heist</a></p></li></ul><p><br /></p><p>Most major cryptocurrencies have fallen in value since news of the Binance theft broke, <a href=\"https://coinmarketcap.com/\">Coinmarketcap data shows</a>.</p><p>That includes:</p><p><strong>Bitcoin</strong>: -2.35% over the last 24 hours, to $77,940</p><p><strong>Ethereum</strong>: -3.6%, to $2,227</p><p><strong>BNB</strong>: -5.6%, to $706</p><p><strong>Solana</strong>: -2.67%, to $97</p><p><strong>Chainlink</strong>: -3.1%, to $11.02</p><p>Temporarily suspended withdrawals while we complete a security revamp of the withdrawal service and its related addresses</p><p>Revoked the affected address authorizations</p><p>Engaged law enforcement and blockchain intelligence partners to trace and recover funds</p><p>Our team hasn’t stopped. We’re working closely with law enforcement to ensure the matter is handled appropriately - and I’ll share what I can, as soon as I can.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7524
   },
   {
     "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
@@ -375,5 +368,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.34
+  },
+  {
+    "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-29T20:12:29+00:00",
+    "summary": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7351
   }
 ]
