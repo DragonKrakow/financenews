@@ -1,5 +1,29 @@
 [
   {
+    "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+    "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T01:03:00+00:00",
+    "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2382
+  },
+  {
+    "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+    "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T01:01:00+00:00",
+    "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2732
+  },
+  {
     "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -47,42 +71,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
-    "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T21:48:00+00:00",
-    "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2382
-  },
-  {
-    "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
-    "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T21:33:00+00:00",
-    "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8402
-  },
-  {
-    "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
-    "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T21:33:00+00:00",
-    "summary": "A historic divergence has split the U.S. stock market: The benchmark S&amp;P 500 index has tumbled into deeply oversold territory even as nearly half of its constituent stocks remained decidedly overbought.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
   },
   {
     "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -377,5 +365,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "source": "CNBC Finance",
+    "published": "2026-10-30T20:18:49+00:00",
+    "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4767
   }
 ]
