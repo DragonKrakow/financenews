@@ -1,33 +1,94 @@
 [
   {
-    "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
-    "link": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
+    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+    "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T17:44:00+00:00",
-    "summary": "The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.",
+    "published": "2026-11-04T23:45:00+00:00",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
     "matched_keywords": [
-      "Interest Rates"
+      "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7468
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
   },
   {
-    "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
-    "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+    "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
+    "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T17:19:00+00:00",
-    "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation’s largest hospitals.",
+    "published": "2026-11-04T22:06:00+00:00",
+    "summary": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
     "matched_keywords": [
       "Election"
     ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "These stocks soared the most today after the Democrats trounced Trump",
+    "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T21:55:00+00:00",
+    "summary": "Chemical company Mosaic’s stock is the strongest performer among the S&amp;P 500, while several tech players and associated power providers show sharp declines",
+    "matched_keywords": [
+      "AI"
+    ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
+    "sentiment_score": 0.4404
+  },
+  {
+    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T21:55:00+00:00",
+    "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
+    "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T21:48:00+00:00",
+    "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2382
+  },
+  {
+    "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
+    "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T21:33:00+00:00",
+    "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8402
+  },
+  {
+    "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
+    "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-04T21:33:00+00:00",
+    "summary": "A historic divergence has split the U.S. stock market: The benchmark S&amp;P 500 index has tumbled into deeply oversold territory even as nearly half of its constituent stocks remained decidedly overbought.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
   },
   {
     "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
     "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
     "source": "CNBC Finance",
-    "published": "2026-11-04T17:11:00+00:00",
+    "published": "2026-11-04T21:18:44+00:00",
     "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
     "matched_keywords": [
       "Election",
@@ -41,14 +102,13 @@
     "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
     "source": "The Guardian Economics",
     "published": "2026-11-04T16:38:28+00:00",
-    "summary": "<p>Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates#maincontent\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates\">US midterm elections – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">After US midterms, what will lame duck Trump mean for global economy?</a></p></li></ul><p>US stocks have surged as investors digest the Democrats’ victories in the midterm elections, lifted by hopes that Donald Trump’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy.</p><p>The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 gained more than 1% each, turning around overnight falls in US stock futures after the news that the Democratic party <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">won control of the Senate and the House of Representatives</a>.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears\">Continue reading...</a>",
+    "summary": "<p>Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates\">US midterm elections – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">After US midterms, what will lame-duck Trump mean for global economy?</a></p></li></ul><p>US stocks have surged as investors digest the Democrats’ victories in the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a>, lifted by hopes that <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy.</p><p>The Dow Jones rose close to 3%, its best day in over a year, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 gained about 1.5% each when markets closed on Wednesday afternoon, turning around overnight falls in US stock futures after the news that the Democratic party <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">won control</a> of the Senate and the House of Representatives.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
-      "Gold",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.8779
   },
   {
     "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
@@ -63,31 +123,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8126
-  },
-  {
-    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
-    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T15:17:00+00:00",
-    "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "Datadog’s stock extends steep declines in the wake of earnings",
-    "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-04T15:16:00+00:00",
-    "summary": "Datadog failed to top expectations with its revenue forecast.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   },
   {
     "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
@@ -109,11 +144,9 @@
     "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
     "source": "The Guardian Economics",
     "published": "2026-11-04T13:53:38+00:00",
-    "summary": "<p>Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence.</p><p>S&amp;P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">Continue reading...</a>",
+    "summary": "<p>Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war</p><p>The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence.</p><p>S&amp;P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
-      "Election",
-      "Gold",
       "AI",
       "Artificial Intelligence"
     ],
@@ -344,41 +377,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
-  },
-  {
-    "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-30T20:18:49+00:00",
-    "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-    "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-29T21:38:16+00:00",
-    "summary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-29T20:12:29+00:00",
-    "summary": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7351
   }
 ]
