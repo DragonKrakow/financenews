@@ -1,79 +1,140 @@
 [
   {
-    "title": "Bank of England warns inflation will surge by next summer, as it hikes UK interest rates to 4% – business live",
-    "link": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T12:06:28+00:00",
-    "summary": "<p>UK hit by first interest rate rise in three years, as Bank predicts inflation will hit 5% by middle of 2027</p><p><strong>UK government bond prices are also rallying today.</strong></p><p>This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+    "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T18:03:00+00:00",
+    "summary": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
     "matched_keywords": [
-      "Interest Rates",
-      "Oil"
+      "Election"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
   },
   {
     "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
     "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
     "source": "The Guardian Economics",
-    "published": "2026-11-05T12:00:31+00:00",
-    "summary": "<p>Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of England has raised interest rates for the first time in more than three years to combat rising inflation, as the Iran war continues to put upward pressure on energy costs.</p><p>The widely expected move, which took the Bank’s base rate from 3.75% to 4%, was the first rise since August 2023.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">Continue reading...</a>",
+    "published": "2026-11-05T18:00:28+00:00",
+    "summary": "<p>Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p>The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war.</p><p>Eight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
+    "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T18:00:00+00:00",
+    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+    "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T17:54:00+00:00",
+    "summary": "There are many ideas for saving Social Security. All of them will hurt.",
+    "matched_keywords": [
+      "Election"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T17:39:00+00:00",
+    "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm-election results.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4019
+  },
+  {
+    "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears as ‘panic sets in’ – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-05T17:24:07+00:00",
+    "summary": "<p>UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p><strong>UK government bond prices are also rallying today.</strong></p><p>This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8225
+  },
+  {
+    "title": "How to buy a new car for under $30,000 in this economy",
+    "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T17:04:00+00:00",
+    "summary": "Consumers burdened by the high cost of gas, insurance and maintenance are driving up demand for those low-cost cars.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4939
+  },
+  {
+    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-05T16:34:33+00:00",
+    "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+    "source": "The Guardian Economics",
+    "published": "2026-11-05T14:30:25+00:00",
+    "summary": "<p>Cost of servicing external debt is preventing developing countries from investing for future</p><p>Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows.</p><p>The UK government is <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham\">preparing to champion a “new drive on debt”</a> as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+    "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+    "source": "The Guardian Economics",
+    "published": "2026-11-05T13:10:44+00:00",
+    "summary": "<p>Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\"><strong>Bank of England raises interest rates to 4%</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\"><strong>Business live – latest updates</strong></a></p></li></ul><p>An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second <a href=\"https://www.theguardian.com/business/cost-of-living-crisis\">cost of living crisis</a> in four years.</p><p>Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "Oil",
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’",
-    "link": "https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T11:56:00+00:00",
-    "summary": "In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.34
-  },
-  {
-    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T11:45:00+00:00",
-    "summary": "“In the wake of the midterm elections, how many Americans are living in poverty?”",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2796
-  },
-  {
-    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T11:30:00+00:00",
-    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-    "matched_keywords": [
-      "AI"
-    ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
+    "sentiment_score": 0.1779
   },
   {
-    "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
-    "link": "https://www.marketwatch.com/story/research-firm-declares-end-of-the-ai-trade-as-we-know-it-and-asian-tech-stocks-reflect-the-shift-25ac8e8f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T11:22:00+00:00",
-    "summary": "Now that absolute value is much harder to find in the AI trade, with bets having to be made  on a longer-term, more speculative basis, it’s time to search for relative value within the sector, says one research service.",
+    "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-05T12:57:10+00:00",
+    "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.6697
+    "sentiment_score": 0.2263
   },
   {
     "title": "Rural voters were feeling left behind before the midterms, poll shows",
@@ -86,54 +147,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7374
-  },
-  {
-    "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
-    "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T10:20:00+00:00",
-    "summary": "Alicia Levine, of BNY’s wealth management business, said markets have not priced in the possibility of the war in Iran lasting for a long time.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6808
-  },
-  {
-    "title": "Toyota’s stock rallies after the company lowered sales guidance. Here’s how rare that is.",
-    "link": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T10:15:00+00:00",
-    "summary": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its annual sales forecast.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
-    "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T08:13:00+00:00",
-    "summary": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7845
-  },
-  {
-    "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-05T06:54:52+00:00",
-    "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
   },
   {
     "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
@@ -353,21 +366,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2617
-  },
-  {
-    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-    "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-    "source": "The Guardian Economics",
-    "published": "2026-11-01T12:00:12+00:00",
-    "summary": "<p>A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.</p><p>The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Trade War",
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9882
   },
   {
     "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
