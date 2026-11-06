@@ -1,5 +1,54 @@
 [
   {
+    "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-06T11:59:09+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout</p><p><strong>Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.</strong></p><p>The <strong>Nasdaq</strong> <strong>Composite</strong> index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak.</p><p>“The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe.</p><p>Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9274
+  },
+  {
+    "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.",
+    "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-06T10:37:00+00:00",
+    "summary": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers",
+    "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-06T10:20:00+00:00",
+    "summary": "In an interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers, but that community approval must come first.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.631
+  },
+  {
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-06T10:15:00+00:00",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
     "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,54 +71,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.128
-  },
-  {
-    "title": "Here are the 2027 capital-gains tax rates for each income level",
-    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T23:48:00+00:00",
-    "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-    "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T22:48:00+00:00",
-    "summary": "The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.743
-  },
-  {
-    "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-    "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T21:44:00+00:00",
-    "summary": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.802
-  },
-  {
-    "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-    "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T21:43:00+00:00",
-    "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   },
   {
     "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
