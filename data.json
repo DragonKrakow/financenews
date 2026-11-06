@@ -1,15 +1,100 @@
 [
   {
-    "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-    "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+    "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+    "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T18:03:00+00:00",
-    "summary": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
+    "published": "2026-11-05T23:50:00+00:00",
+    "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Here are the 2027 capital-gains tax rates for each income level",
+    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T23:48:00+00:00",
+    "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1027
+  },
+  {
+    "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+    "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T22:48:00+00:00",
+    "summary": "The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.743
+  },
+  {
+    "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+    "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T21:44:00+00:00",
+    "summary": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.802
+  },
+  {
+    "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+    "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T21:43:00+00:00",
+    "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
+    "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T21:39:00+00:00",
+    "summary": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2006
+  },
+  {
+    "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
+    "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-05T21:37:00+00:00",
+    "summary": "A punishing selloff in the tech space caused carnage in the stock market Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm elections.",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+    "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-05T20:17:16+00:00",
+    "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
   },
   {
     "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
@@ -25,43 +110,6 @@
     "sentiment_score": 0.0516
   },
   {
-    "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T18:00:00+00:00",
-    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
-  },
-  {
-    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-    "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T17:54:00+00:00",
-    "summary": "There are many ideas for saving Social Security. All of them will hurt.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
-    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T17:39:00+00:00",
-    "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm-election results.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
     "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears as ‘panic sets in’ – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
     "source": "The Guardian Economics",
@@ -73,18 +121,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8225
-  },
-  {
-    "title": "How to buy a new car for under $30,000 in this economy",
-    "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-05T17:04:00+00:00",
-    "summary": "Consumers burdened by the high cost of gas, insurance and maintenance are driving up demand for those low-cost cars.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
   },
   {
     "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -141,12 +177,12 @@
     "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
     "source": "The Guardian Economics",
     "published": "2026-11-05T11:00:22+00:00",
-    "summary": "<p>Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base</p><p>Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.</p><p>Over the summer, 95% of Americans indicated they believed there was an <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">affordability crisis</a>, particularly because of steep gas and grocery prices. By October, 61% of voters <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">believed</a> the country was experiencing a recession, even though technically it wasn’t.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy\">Continue reading...</a>",
+    "summary": "<p>Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions\">Q&amp;A: Ask your questions about Democrats’ win in the midterms</a></p></li></ul><p>Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.</p><p>Over the summer, 95% of Americans indicated they believed there was an <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">affordability crisis</a>, particularly because of steep gas and grocery prices. By October, 61% of voters <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">believed</a> the country was experiencing a recession, even though technically it wasn’t.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy\">Continue reading...</a>",
     "matched_keywords": [
       "Election"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7374
+    "sentiment_score": -0.3458
   },
   {
     "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
@@ -284,7 +320,7 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
     "source": "The Guardian Economics",
     "published": "2026-11-03T11:00:57+00:00",
-    "summary": "<p>Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">US midterms 2026 live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races\">Track live results from all 50 states</a></p></li></ul><p>After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin, at the end of the year.</p><p>She opened Tangled Up in Hue amid a recession, during a time when downtown was “kind of a ghost town”, weathering construction and the pandemic. But the current economic crisis proved too much. She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of business non-profit Downtown Eau Claire Inc, to pay staff.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race\">Continue reading...</a>",
+    "summary": "<p>Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">US midterms 2026 live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races\">Track live results from all 50 states</a></p></li></ul><p>After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin, at the end of the year.</p><p>She opened Tangled Up in Hue amid a recession, during a time when downtown was “kind of a ghost town”, weathering construction and the pandemic. But the current economic crisis proved too much. She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of the business non-profit Downtown Eau Claire Inc, to pay staff.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "AI"
@@ -342,41 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.594
-  },
-  {
-    "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
-    "link": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
-    "source": "The Guardian Economics",
-    "published": "2026-11-01T23:24:39+00:00",
-    "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7399
-  },
-  {
-    "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
-    "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
-    "source": "The Guardian Economics",
-    "published": "2026-11-01T17:47:42+00:00",
-    "summary": "<p>On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit\">Reeves says UK’s future is in the EU</a></p></li></ul><p>Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future relationship?”</p><p>It was not Andy Burnham, who has been the torchbearer for thinking the unthinkable on Brexit since he became prime minister. Instead, these are the words of the former chancellor Rachel Reeves, in <a href=\"https://www.gov.uk/government/speeches/mais-lecture-2026\">a lecture</a> six months ago.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2617
-  },
-  {
-    "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-    "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-    "source": "CNBC Finance",
-    "published": "2026-10-31T12:47:08+00:00",
-    "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
   }
 ]
