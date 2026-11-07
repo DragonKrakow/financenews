@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
+    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+    "source": "The Guardian Economics",
+    "published": "2026-11-07T11:00:08+00:00",
+    "summary": "<p>There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices</p><p>It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades alongside their biggest edge in the Senate since 2008.</p><p>Still, having come to power promising to restore affordability, the new crop of Democrats are soon to discover that there is not much they can do over the next couple of years to alleviate angry voters’ stress over pricey gas and groceries, exorbitant mortgages and unaffordable healthcare.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8481
+  },
+  {
     "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
     "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -366,18 +378,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9127
-  },
-  {
-    "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-    "source": "The Guardian Economics",
-    "published": "2026-11-03T07:36:42+00:00",
-    "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2824
   }
 ]
