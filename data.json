@@ -1,10 +1,22 @@
 [
   {
+    "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+    "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-06T21:37:00+00:00",
+    "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8689
+  },
+  {
     "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
     "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T18:00:00+00:00",
-    "summary": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
+    "published": "2026-11-06T21:24:00+00:00",
+    "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
     "matched_keywords": [
       "AI"
     ],
@@ -12,31 +24,43 @@
     "sentiment_score": 0.7964
   },
   {
-    "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-    "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T17:51:00+00:00",
-    "summary": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
+    "published": "2026-11-06T21:15:00+00:00",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
     "matched_keywords": [
-      "Regulation"
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4939
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
   },
   {
-    "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-06T19:05:00+00:00",
+    "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2144
+  },
+  {
+    "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+    "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T17:45:00+00:00",
-    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+    "published": "2026-11-06T18:54:00+00:00",
+    "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": -0.7783
   },
   {
-    "title": "US tech stocks recovering on Wall Street after worst day in 19 months – as it happened",
+    "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
     "source": "The Guardian Economics",
     "published": "2026-11-06T17:28:11+00:00",
@@ -47,18 +71,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.959
-  },
-  {
-    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T17:19:00+00:00",
-    "summary": "The large-cap index is nowhere near as diversified as you think.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
   },
   {
     "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -97,30 +109,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4871
-  },
-  {
-    "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
-    "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T16:29:00+00:00",
-    "summary": "As part of the agreement, Hims said it won’t compound GLP-1 medications like Zepbound in the future.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5719
-  },
-  {
-    "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-    "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-06T16:17:00+00:00",
-    "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7783
   },
   {
     "title": "US job growth exceeds expectations in October despite economic uncertainty",
@@ -378,5 +366,18 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.9127
+  },
+  {
+    "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+    "source": "The Guardian Economics",
+    "published": "2026-11-03T07:36:42+00:00",
+    "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2824
   }
 ]
