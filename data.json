@@ -1,5 +1,18 @@
 [
   {
+    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box",
+    "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+    "source": "The Guardian Economics",
+    "published": "2026-11-08T12:05:58+00:00",
+    "summary": "<p>Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\">‘AI clog’: UK battles onslaught of chatbot-generated complaints</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future\">Editorial: the AI backlash – Silicon Valley’s political power is cracking</a></p></li></ul><p></p><p></p><p>Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago.</p><p>Clearly, the cost of living squeeze unleashed by Trump’s war in Iran was a big driver of the Democrat wave. But AI was also on the ballot – in many places, literally.</p> <a href=\"https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8338
+  },
+  {
     "title": "Here are the 2027 capital-gains tax rates for each income level",
     "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -365,17 +378,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
-  },
-  {
-    "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
-    "link": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
-    "source": "The Guardian Economics",
-    "published": "2026-11-03T17:49:43+00:00",
-    "summary": "<p>Government should invest, not subsidise | Size matters | ‘Ferritin face’ | Train announcements | Reform UK’s newspaper</p><p>Rather than give Rolls-Royce a £1.25bn subsidy to develop the next-generation narrow-body jet airliner programme (<a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget\">Nils Pratley on finance, 29 October</a>), would it not be more advantageous to the Treasury, and thus the taxpayer, me included, to invest £1.25bn in shares in the company? That way, we all get a share of the prospective profits, and&nbsp;in the long run pay lower taxes.\n <br />\n <strong>Patrick Billingham</strong>\n <br />\n <em>Brighton, East Sussex</em></p><p>• You say the Rothbury estate covers “an area the size of Athens” (<a href=\"https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate\">Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate, 30 October</a>). When did you move to measuring land area in terms of the Greek capital rather than the traditional British measures of Greater Londons or Wales (or parts thereof)?\n <br />\n <strong>John Hubbard</strong>\n <br />\n <em>Chislehurst, Kent</em></p> <a href=\"https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9396
   }
 ]
