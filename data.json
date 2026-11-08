@@ -1,6 +1,42 @@
 [
   {
-    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box",
+    "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-08T17:30:00+00:00",
+    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2732
+  },
+  {
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-08T16:00:00+00:00",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5267
+  },
+  {
+    "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+    "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-08T14:00:00+00:00",
+    "summary": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
+  },
+  {
+    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
     "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
     "source": "The Guardian Economics",
     "published": "2026-11-08T12:05:58+00:00",
@@ -11,54 +47,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8338
-  },
-  {
-    "title": "Here are the 2027 capital-gains tax rates for each income level",
-    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-07T19:48:00+00:00",
-    "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
-  },
-  {
-    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-    "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-07T17:43:00+00:00",
-    "summary": "There are many ideas for saving Social Security. All of them will hurt.",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-07T17:01:00+00:00",
-    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-07T16:40:00+00:00",
-    "summary": "The large-cap index is nowhere near as diversified as you think.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5106
   },
   {
     "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -378,5 +366,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
+  },
+  {
+    "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
+    "link": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
+    "source": "The Guardian Economics",
+    "published": "2026-11-03T17:49:43+00:00",
+    "summary": "<p>Government should invest, not subsidise | Size matters | ‘Ferritin face’ | Train announcements | Reform UK’s newspaper</p><p>Rather than give Rolls-Royce a £1.25bn subsidy to develop the next-generation narrow-body jet airliner programme (<a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget\">Nils Pratley on finance, 29 October</a>), would it not be more advantageous to the Treasury, and thus the taxpayer, me included, to invest £1.25bn in shares in the company? That way, we all get a share of the prospective profits, and&nbsp;in the long run pay lower taxes.\n <br />\n <strong>Patrick Billingham</strong>\n <br />\n <em>Brighton, East Sussex</em></p><p>• You say the Rothbury estate covers “an area the size of Athens” (<a href=\"https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate\">Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate, 30 October</a>). When did you move to measuring land area in terms of the Greek capital rather than the traditional British measures of Greater Londons or Wales (or parts thereof)?\n <br />\n <strong>John Hubbard</strong>\n <br />\n <em>Chislehurst, Kent</em></p> <a href=\"https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9396
   }
 ]
