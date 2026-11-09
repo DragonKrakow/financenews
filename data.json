@@ -1,5 +1,77 @@
 [
   {
+    "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
+    "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T12:08:00+00:00",
+    "summary": "After a bruising stretch for tech stocks, investors face fresh questions about leadership, valuations and the cost of the AI boom. Plus, a Taylor Swift encore for one 72-year-old retiree.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "Nvidia shares fall after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-09T12:06:43+00:00",
+    "summary": "<p>Boss of world’s most valuable company admits affair as it investigates reports he was the target of ‘a foreign intelligence effort’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation\">Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence</a></p></li></ul><p><strong>Huang is receiving support from some fellow tech executives, including Elon Musk.</strong></p><p>Musk commented “I agree” on a post by ​Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “bad for America” but that “Jensen is irreplaceable for America’s AI leadership”.</p><p>“While Nvidia has sought to reassure us all, ​there are several layers here, beginning with the unfortunate timing.</p><p>“For example: The company is systemically important for tech, markets and the economy; Investors tend to struggle to price in key-person and governance issues; and there are fluid national security and geopolitical dynamics.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7374
+  },
+  {
+    "title": "Until AI sentiment improves, Citi tells investors it’s better to sit out the global tech trade",
+    "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T11:25:00+00:00",
+    "summary": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7377
+  },
+  {
+    "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+    "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T10:26:00+00:00",
+    "summary": "The S&amp;P 500 could decline to the investment bank’s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
+    "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T10:04:00+00:00",
+    "summary": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2023
+  },
+  {
+    "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+    "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T09:12:00+00:00",
+    "summary": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6249
+  },
+  {
     "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,30 +94,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5106
-  },
-  {
-    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-09T00:02:00+00:00",
-    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5267
-  },
-  {
-    "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
-    "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-08T23:05:00+00:00",
-    "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   },
   {
     "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
@@ -324,59 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8126
-  },
-  {
-    "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
-    "link": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
-    "source": "The Guardian Economics",
-    "published": "2026-11-04T14:00:37+00:00",
-    "summary": "<p>The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don’t do much</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank’s decision to <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">raise interest rates</a>; that will do barely anything (although it will most certainly raise unemployment). No, the most important news for inflation was that the <a href=\"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island\">US had launched limited strikes</a> on ​Iran’s Qeshm Island.</p><p>This announcement came after word from the Iranian government that talks were under way to end the conflict – news that caused the price of oil to drop 11%. But the strike sent prices rising again, before traders took an optimistic stance ahead of Wednesday’s US midterm elections:</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Election",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5021
-  },
-  {
-    "title": "UK interest rates increase expected after services sector activity accelerates",
-    "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
-    "source": "The Guardian Economics",
-    "published": "2026-11-04T13:53:38+00:00",
-    "summary": "<p>Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war</p><p>The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence.</p><p>S&amp;P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
-    "source": "The Guardian Economics",
-    "published": "2026-11-03T18:30:56+00:00",
-    "summary": "<p>The latest edition of Radical Thinking, the Guardian’s new podcast, should be required listening at a Treasury still stifled by outdated orthodoxies</p><p>As prime ministers have come and gone at bewildering speed in recent years, the search for elusive economic growth has become the overriding fixation of the British political class. In the lead-up to the 2024 general election, Sir Keir Starmer <a href=\"https://x.com/Keir_Starmer/status/1731679006112571450\">declared</a> that “growth must become Labour’s obsession”, given the financial constraints that any new government would be under. The scale of Labour’s progressive offer, it was made clear, would be umbilically linked to its ability to generate a significant uptick in GDP.</p><p>“Growth in every postcode” is also the early <a href=\"https://www.gov.uk/government/news/prime-minister-pledges-growth-in-every-postcode-across-whole-of-uk-as-he-visits-scotland\">mantra</a> of Andy Burnham’s government. The prime minister swept to power partly by running on Greater Manchester’s record as the UK’s fastest-growing city region while he was mayor. Echoing Mr Starmer’s approach, Mr Burnham’s chancellor, John Healey, <a href=\"https://tribunemag.co.uk/2026/10/the-left-after-growth\">told</a> the Labour party conference in September: “Without growth, there is no social democracy.”</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.91
-  },
-  {
-    "title": "Stock market after midterm elections: What S&P 500 history shows",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-03T18:21:05+00:00",
-    "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
   }
 ]
