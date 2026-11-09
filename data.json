@@ -1,5 +1,29 @@
 [
   {
+    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T01:21:00+00:00",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-09T00:40:00+00:00",
+    "summary": "The large-cap index is nowhere near as diversified as you think.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,18 +46,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0258
-  },
-  {
-    "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-08T17:30:00+00:00",
-    "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
   },
   {
     "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
@@ -366,17 +378,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7964
-  },
-  {
-    "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
-    "link": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
-    "source": "The Guardian Economics",
-    "published": "2026-11-03T17:49:43+00:00",
-    "summary": "<p>Government should invest, not subsidise | Size matters | ‘Ferritin face’ | Train announcements | Reform UK’s newspaper</p><p>Rather than give Rolls-Royce a £1.25bn subsidy to develop the next-generation narrow-body jet airliner programme (<a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget\">Nils Pratley on finance, 29 October</a>), would it not be more advantageous to the Treasury, and thus the taxpayer, me included, to invest £1.25bn in shares in the company? That way, we all get a share of the prospective profits, and&nbsp;in the long run pay lower taxes.\n <br />\n <strong>Patrick Billingham</strong>\n <br />\n <em>Brighton, East Sussex</em></p><p>• You say the Rothbury estate covers “an area the size of Athens” (<a href=\"https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate\">Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate, 30 October</a>). When did you move to measuring land area in terms of the Greek capital rather than the traditional British measures of Greater Londons or Wales (or parts thereof)?\n <br />\n <strong>John Hubbard</strong>\n <br />\n <em>Chislehurst, Kent</em></p> <a href=\"https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9396
   }
 ]
