@@ -1,5 +1,43 @@
 [
   {
+    "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+    "link": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
+    "source": "The Guardian Economics",
+    "published": "2026-11-10T06:00:30+00:00",
+    "summary": "<p>Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare Lombardelli</p><p>Young people in Britain are bearing the brunt of a “low-gear economy” as employers hold back from hiring amid the fallout from the war in the Middle East, a deputy governor of the <a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">Bank of England</a> has warned.</p><p>Clare Lombardelli, the Bank’s deputy governor for monetary policy, said the unfolding conflict, which has triggered a surge in energy prices and clouded the outlook for the economy, was contributing to an increase in youth unemployment.</p> <a href=\"https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8519
+  },
+  {
+    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+    "link": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+    "source": "The Guardian Economics",
+    "published": "2026-11-10T06:00:30+00:00",
+    "summary": "<p>Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains</p><p>Europe’s manufacturers could give up on attempting to compete with their Chinese counterparts by the end of the decade if current trends continue amid fears over mass job losses, the head of the European Union Chamber of Commerce in China has warned.</p><p>In a case of “if you can’t beat them, join them”, Jens Eskelund said European companies operating in China were now thinking “Made in China for China” could be replaced by a philosophy of “Made in China for the world”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI",
+      "Supply Chain"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4215
+  },
+  {
+    "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+    "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-10T00:48:00+00:00",
+    "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -71,18 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3708
-  },
-  {
-    "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
-    "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-09T21:14:00+00:00",
-    "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7245
   },
   {
     "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -346,31 +372,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7269
-  },
-  {
-    "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-04T21:18:44+00:00",
-    "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-    "matched_keywords": [
-      "Election",
-      "Oil"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
-    "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
-    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-    "source": "The Guardian Economics",
-    "published": "2026-11-04T16:38:28+00:00",
-    "summary": "<p>Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates\">US midterm elections – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">After US midterms, what will lame-duck Trump mean for global economy?</a></p></li></ul><p>US stocks have surged as investors digest the Democrats’ victories in the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a>, lifted by hopes that <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy.</p><p>The Dow Jones rose close to 3%, its best day in over a year, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 gained about 1.5% each when markets closed on Wednesday afternoon, turning around overnight falls in US stock futures after the news that the Democratic party <a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">won control</a> of the Senate and the House of Representatives.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8779
   }
 ]
