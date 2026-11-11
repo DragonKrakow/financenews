@@ -1,21 +1,82 @@
 [
   {
-    "title": "Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live",
+    "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
+    "link": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T17:13:00+00:00",
+    "summary": "A Baird analyst no longer recommends buying the chip maker’s stock as its problems mount.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7154
+  },
+  {
+    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-11T16:49:02+00:00",
+    "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6908
+  },
+  {
+    "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
     "source": "The Guardian Economics",
-    "published": "2026-11-11T12:08:31+00:00",
+    "published": "2026-11-11T16:37:45+00:00",
     "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over naysayers who say the UK market has nothing to offer.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9541
+    "sentiment_score": 0.9266
+  },
+  {
+    "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+    "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T16:03:00+00:00",
+    "summary": "Despite nagging concerns over the AI trade, Anthropic’s IPO is reportedly seeing very strong demand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6215
+  },
+  {
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T15:30:00+00:00",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6428
+  },
+  {
+    "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+    "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T15:26:00+00:00",
+    "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
   },
   {
     "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
     "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-11T12:00:00+00:00",
+    "published": "2026-11-11T15:15:00+00:00",
     "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
     "matched_keywords": [
       "AI",
@@ -36,43 +97,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.886
-  },
-  {
-    "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
-    "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-11T10:37:00+00:00",
-    "summary": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
-    "matched_keywords": [
-      "Fed",
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
-    "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-11T10:03:00+00:00",
-    "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-    "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-11T01:54:00+00:00",
-    "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   },
   {
     "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
@@ -351,31 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.25
-  },
-  {
-    "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T14:30:25+00:00",
-    "summary": "<p>Cost of servicing external debt is preventing developing countries from investing for future</p><p>Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows.</p><p>The UK government is <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham\">preparing to champion a “new drive on debt”</a> as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7003
-  },
-  {
-    "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-    "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T13:10:44+00:00",
-    "summary": "<p>Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\"><strong>Bank of England raises interest rates to 4%</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\"><strong>Business live – latest updates</strong></a></p></li></ul><p>An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second <a href=\"https://www.theguardian.com/business/cost-of-living-crisis\">cost of living crisis</a> in four years.</p><p>Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
   }
 ]
