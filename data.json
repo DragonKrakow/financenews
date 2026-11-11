@@ -1,5 +1,68 @@
 [
   {
+    "title": "Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-11T12:08:31+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over naysayers who say the UK market has nothing to offer.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9541
+  },
+  {
+    "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+    "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T12:00:00+00:00",
+    "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+    "source": "The Guardian Economics",
+    "published": "2026-11-11T11:00:46+00:00",
+    "summary": "<p>‘The post-election wish list is about to run into harsh fiscal reality: there is no money’</p><p>Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.</p><p>One can sense the ambition of the bumper new crop of <a href=\"https://www.theguardian.com/us-news/democrats\">Democrats</a> ushered to power last week, calling for support for programs for children and their parents; emphatically endorsing the long-held dream of Medicare for All. The project includes rolling back <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s cuts to Medicaid and food stamps, and restoring subsidies for health insurance under the Affordable Care Act that Republicans allowed to expire. And that’s just the start.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.886
+  },
+  {
+    "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+    "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T10:37:00+00:00",
+    "summary": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
+    "matched_keywords": [
+      "Fed",
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+    "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T10:03:00+00:00",
+    "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
     "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -23,43 +86,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7184
-  },
-  {
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-10T23:25:00+00:00",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6428
-  },
-  {
-    "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-10T22:37:00+00:00",
-    "summary": "It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-    "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-10T21:42:00+00:00",
-    "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
   },
   {
     "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -351,29 +377,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1779
-  },
-  {
-    "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-05T12:57:10+00:00",
-    "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2263
-  },
-  {
-    "title": "Rural voters were feeling left behind before the midterms, poll shows",
-    "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T11:00:22+00:00",
-    "summary": "<p>Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions\">Q&amp;A: Ask your questions about Democrats’ win in the midterms</a></p></li></ul><p>Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.</p><p>Over the summer, 95% of Americans indicated they believed there was an <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">affordability crisis</a>, particularly because of steep gas and grocery prices. By October, 61% of voters <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">believed</a> the country was experiencing a recession, even though technically it wasn’t.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3458
   }
 ]
