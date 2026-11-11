@@ -1,5 +1,17 @@
 [
   {
+    "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+    "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-11T01:54:00+00:00",
+    "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
+  },
+  {
     "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
     "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
     "source": "The Guardian Economics",
@@ -363,18 +375,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3458
-  },
-  {
-    "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
-    "link": "https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T06:44:54+00:00",
-    "summary": "<p>In today’s newsletter: From the cost of living to the AI bubble and the fight against fascism, Weber answers Guardian readers’ questions on how to build a fairer economy and world</p><p>Good morning. As stateside celebrations die down, the Democratic party will be forced to confront a (deceptively) simple question: now what? Their colossal midterm successes will curtail Trump’s power during his remaining time in office, but the battle to shape the Democratic platform heading into next year’s presidential primaries is only just getting started.</p><p>While rallying against Trump is one thing, sustaining support by making a tangible difference to the lives of voters struggling with the cost of living is another. It’s a challenge for progressive parties facing down the far right across the world.</p><p><em><strong>UK </strong></em>| Cocaine has overtaken heroin as the <a href=\"https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales\">biggest cause of drug deaths</a> in England and Wales, figures from the Office for National Statistics show.</p><p><em><strong>France </strong></em>| Hundreds of thousands are expected to <a href=\"https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living\">march in demonstrations across France</a> as trade unions call for a nationwide strike expected to extend to hospital workers, air traffic control, the post office, teachers and rail staff.</p><p><em><strong>Commonwealth summit </strong></em>| The UK has agreed to “structured dialogue” in the next year <a href=\"https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean\">with Caribbean nations affected by the slave trade</a> and its legacy, Commonwealth leaders have said.</p><p><em><strong>US news </strong></em>| Pete Hegseth <a href=\"https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses\">is increasingly looking</a> like he may take the fall for Republicans’ midterm losses, despite Donald Trump’s vocal support for his defense secretary, even calling him a champion of war.</p><p><em><strong>Ebola </strong></em>| A British healthcare worker with Ebola<a href=\"https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows\"> is being evacuated</a> from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions\">Continue reading...</a>",
-    "matched_keywords": [
-      "Defense",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
   }
 ]
