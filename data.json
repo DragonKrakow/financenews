@@ -1,54 +1,92 @@
 [
   {
-    "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
-    "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
+    "title": "The bond market now has an even bigger fear than AI fallout",
+    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T11:34:00+00:00",
-    "summary": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
+    "published": "2026-11-12T18:08:00+00:00",
+    "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5724
   },
   {
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-12T17:59:26+00:00",
+    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.836
+  },
+  {
+    "title": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
+    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T10:15:00+00:00",
-    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+    "published": "2026-11-12T17:00:00+00:00",
+    "summary": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-12T16:15:00+00:00",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6428
+  },
+  {
+    "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+    "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-12T15:55:00+00:00",
+    "summary": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
+    "matched_keywords": [
+      "Semiconductors"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4959
+  },
+  {
+    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+    "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-11-12T13:08:12+00:00",
+    "summary": "<p>Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">AI helps UK economy grow at fastest pace for more than two years</a></p></li></ul><p>The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle.</p><p>Four months into the job, the economy is continuing to defy expectations after <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">growing by 0.7% in the third quarter</a> – the fastest expansion in two and a half years. It puts the UK on course to be the second-fastest growing G7 economy this year.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8519
   },
   {
     "title": "AI helps UK economy grow at fastest pace for more than two years",
     "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
     "source": "The Guardian Economics",
     "published": "2026-11-12T09:12:52+00:00",
-    "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest\">Business live – latest updates</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
+    "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest\">Business live – latest updates</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8709
-  },
-  {
-    "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-    "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T07:30:00+00:00",
-    "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
-    "matched_keywords": [
-      "Chips",
-      "AI",
-      "Supply Chain"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2732
+    "sentiment_score": 0.9135
   },
   {
     "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
@@ -61,30 +99,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
-  },
-  {
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T03:10:00+00:00",
-    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
-  },
-  {
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T02:45:00+00:00",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6428
   },
   {
     "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -363,18 +377,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6808
-  },
-  {
-    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-    "source": "The Guardian Economics",
-    "published": "2026-11-05T18:00:28+00:00",
-    "summary": "<p>Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p>The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war.</p><p>Eight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
   }
 ]
