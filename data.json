@@ -1,5 +1,30 @@
 [
   {
+    "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+    "source": "The Guardian Economics",
+    "published": "2026-11-13T05:00:11+00:00",
+    "summary": "<p>Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge</p><p>The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.</p><p>Fatih Birol, the executive director of the International Energy Agency (IEA), said more than twice as much electricity generation would be added to the global economy in the next decade than in the last, as countries scramble to secure their energy supplies against fossil fuel price volatility and supply shocks, such as the Iran war.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7269
+  },
+  {
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-13T02:56:35+00:00",
+    "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
     "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
     "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
     "source": "CNBC Finance",
@@ -351,31 +376,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5994
-  },
-  {
-    "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-    "link": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-    "source": "The Guardian Economics",
-    "published": "2026-11-06T17:04:41+00:00",
-    "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington</p> <a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4871
-  },
-  {
-    "title": "Tech stock crash: is the AI bubble bursting? – The Latest",
-    "link": "https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-    "source": "The Guardian Economics",
-    "published": "2026-11-06T16:49:19+00:00",
-    "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7059
   }
 ]
