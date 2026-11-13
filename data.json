@@ -1,22 +1,9 @@
 [
   {
-    "title": "The bond market now has an even bigger fear than AI fallout",
-    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T18:08:00+00:00",
-    "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5724
-  },
-  {
     "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
     "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
     "source": "CNBC Finance",
-    "published": "2026-11-12T17:59:26+00:00",
+    "published": "2026-11-13T00:01:19+00:00",
     "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
     "matched_keywords": [
       "Oil",
@@ -26,41 +13,79 @@
     "sentiment_score": -0.836
   },
   {
-    "title": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+    "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T17:00:00+00:00",
-    "summary": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
+    "published": "2026-11-12T22:57:00+00:00",
+    "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
     "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_score": 0.25
   },
   {
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "title": "Opening trading-card packs has become a $2 billion market",
+    "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T16:15:00+00:00",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "published": "2026-11-12T22:38:00+00:00",
+    "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6428
+    "sentiment_score": -0.3919
   },
   {
-    "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-    "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+    "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-12T15:55:00+00:00",
-    "summary": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
+    "published": "2026-11-12T22:16:00+00:00",
+    "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
     "matched_keywords": [
-      "Semiconductors"
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-12T21:30:00+00:00",
+    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "The bond market now has an even bigger fear than AI fallout",
+    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-12T20:44:00+00:00",
+    "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+    "matched_keywords": [
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4959
+    "sentiment_score": -0.5724
+  },
+  {
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-12T19:05:25+00:00",
+    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "matched_keywords": [
+      "Interest Rates",
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
   },
   {
     "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
@@ -80,7 +105,7 @@
     "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
     "source": "The Guardian Economics",
     "published": "2026-11-12T09:12:52+00:00",
-    "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest\">Business live – latest updates</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
+    "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -352,30 +377,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.7059
-  },
-  {
-    "title": "US job growth exceeds expectations in October despite economic uncertainty",
-    "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-    "source": "The Guardian Economics",
-    "published": "2026-11-06T13:42:26+00:00",
-    "summary": "<p>‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December</p><p>The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid war in the Middle East and inflation, according to new data released on Friday.</p><p>Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The <a href=\"https://www.theguardian.com/business/usemployment\">unemployment rate</a> went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported.</p> <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6577
-  },
-  {
-    "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-    "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-05T20:17:16+00:00",
-    "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6808
   }
 ]
