@@ -1,5 +1,17 @@
 [
   {
+    "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+    "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-14T02:42:00+00:00",
+    "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
+  },
+  {
     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -362,17 +374,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.959
-  },
-  {
-    "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-06T17:09:53+00:00",
-    "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
   }
 ]
