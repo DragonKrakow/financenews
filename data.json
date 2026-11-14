@@ -1,5 +1,18 @@
 [
   {
+    "title": "Interest rate rises likely in coming months, Bank of England economist says",
+    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+    "source": "The Guardian Economics",
+    "published": "2026-11-14T12:05:52+00:00",
+    "summary": "<p>‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation</p><p>The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said.</p><p>Signalling a sharp rise in mortgage payments for an estimated <a href=\"https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates\">2.3 million homeowners</a> who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8957
+  },
+  {
     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,18 +47,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.4588
-  },
-  {
-    "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-    "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T21:10:00+00:00",
-    "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6991
   },
   {
     "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
