@@ -1,39 +1,39 @@
 [
   {
-    "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-    "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
+    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+    "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T17:07:00+00:00",
-    "summary": "Also in Weekend Reads: Other AI stocks, tips for open-enrollment season and advice from the Moneyist.",
+    "published": "2026-11-13T22:04:00+00:00",
+    "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
     "matched_keywords": [
-      "AI"
+      "Oil"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4404
+    "sentiment_score": -0.765
   },
   {
-    "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-    "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T16:54:00+00:00",
-    "summary": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
+    "published": "2026-11-13T21:32:00+00:00",
+    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1027
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
   },
   {
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+    "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T16:01:00+00:00",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "published": "2026-11-13T21:10:00+00:00",
+    "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6428
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6991
   },
   {
     "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
