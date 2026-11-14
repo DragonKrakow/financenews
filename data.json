@@ -1,52 +1,66 @@
 [
   {
-    "title": "Interest rate rises likely in coming months, Bank of England economist says",
+    "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+    "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-14T17:50:00+00:00",
+    "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7964
+  },
+  {
+    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-14T17:50:00+00:00",
+    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
+  },
+  {
+    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+    "source": "The Guardian Economics",
+    "published": "2026-11-14T16:00:48+00:00",
+    "summary": "<p>Raising borrowing costs too far risks laying waste to whatever growth there is in the economy</p><p>A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month.</p><p>A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
+    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-14T15:50:43+00:00",
+    "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
     "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
     "source": "The Guardian Economics",
-    "published": "2026-11-14T12:05:52+00:00",
-    "summary": "<p>‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation</p><p>The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said.</p><p>Signalling a sharp rise in mortgage payments for an estimated <a href=\"https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates\">2.3 million homeowners</a> who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\">Continue reading...</a>",
+    "published": "2026-11-14T14:42:27+00:00",
+    "summary": "<p>‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation</p><p>The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said.</p><p>Signalling a sharp rise in mortgage payments for an estimated <a href=\"https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates\">2.3 million homeowners</a> who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\">Continue reading...</a>",
     "matched_keywords": [
       "Interest Rates",
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8957
-  },
-  {
-    "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-    "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T02:42:00+00:00",
-    "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
-  },
-  {
-    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-    "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T22:04:00+00:00",
-    "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.765
-  },
-  {
-    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-13T21:32:00+00:00",
-    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   },
   {
     "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -362,18 +376,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.2144
-  },
-  {
-    "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-11-06T17:28:11+00:00",
-    "summary": "<p>European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts</p><ul><li><p><a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\"><strong>Could the AI bubble burst after Democrats’ midterms sweep? - The Latest</strong></a></p></li></ul><p><strong>Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.</strong></p><p>The <strong>Nasdaq</strong> <strong>Composite</strong> index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak.</p><p>“The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe.</p><p>Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.959
   }
 ]
