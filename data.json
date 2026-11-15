@@ -1,15 +1,39 @@
 [
   {
-    "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-    "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T17:50:00+00:00",
-    "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+    "published": "2026-11-14T21:00:00+00:00",
+    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7964
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-14T20:00:00+00:00",
+    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-14T19:30:00+00:00",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6428
   },
   {
     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
@@ -352,29 +376,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6249
-  },
-  {
-    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-    "source": "The Guardian Economics",
-    "published": "2026-11-07T11:00:08+00:00",
-    "summary": "<p>There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices</p><p>It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades alongside their biggest edge in the Senate since 2008.</p><p>Still, having come to power promising to restore affordability, the new crop of Democrats are soon to discover that there is not much they can do over the next couple of years to alleviate angry voters’ stress over pricey gas and groceries, exorbitant mortgages and unaffordable healthcare.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8481
-  },
-  {
-    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-    "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-06T19:05:00+00:00",
-    "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2144
   }
 ]
