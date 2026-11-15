@@ -1,45 +1,9 @@
 [
   {
-    "title": "Firms need to get onside if Labour’s youth employment push is to have a chance of working | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
-    "source": "The Guardian Economics",
-    "published": "2026-11-15T11:52:03+00:00",
-    "summary": "<p>Alan Milburn’s report will call for benefit cuts but lack of entry-level job opportunities is also driving crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health\">‘I’m scared about my future’: young people on the stress and desperation of jobseeking</a></p></li></ul><p>A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring – all under the microscope of the social media age.</p><p>This week Alan Milburn’s landmark report on young people and work will bring Britain to a fork in the road: either continue on this path of state and market failure or sharply change direction.</p> <a href=\"https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9349
-  },
-  {
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T21:00:00+00:00",
-    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
-  },
-  {
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T20:00:00+00:00",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T19:30:00+00:00",
+    "published": "2026-11-15T15:00:00+00:00",
     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
     "matched_keywords": [
       "AI"
@@ -48,16 +12,67 @@
     "sentiment_score": -0.6428
   },
   {
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+    "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-14T17:50:00+00:00",
-    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "published": "2026-11-15T14:00:00+00:00",
+    "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+    "matched_keywords": [
+      "Semiconductors"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+    "source": "The Guardian Economics",
+    "published": "2026-11-15T13:47:43+00:00",
+    "summary": "<p>Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health\">‘I’m scared about my future’: young people on the stress and desperation of jobseeking</a></p></li></ul><p>A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring – all under the microscope of the social media age.</p><p>On Tuesday, Alan Milburn’s final report on young people and work will bring Britain to a fork in the road: either continue on this path of state and market failure or sharply change direction.</p> <a href=\"https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9593
+  },
+  {
+    "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
+    "link": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
+    "source": "The Guardian Economics",
+    "published": "2026-11-15T13:00:14+00:00",
+    "summary": "<p>From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair?</p><p>For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries.</p><p>But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe” for £25.</p> <a href=\"https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.5423
+    "sentiment_score": 0.6553
+  },
+  {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T13:00:00+00:00",
+    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+    "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T12:30:00+00:00",
+    "summary": "Charts show the potential for more pain ahead",
+    "matched_keywords": [
+      "Gold",
+      "Silver",
+      "Metals",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2484
   },
   {
     "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
@@ -364,17 +379,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.8338
-  },
-  {
-    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-    "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-07T16:02:33+00:00",
-    "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.25
   }
 ]
