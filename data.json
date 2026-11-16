@@ -1,5 +1,81 @@
 [
   {
+    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-16T12:13:23+00:00",
+    "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3612
+  },
+  {
+    "title": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-16T12:08:06+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo\"><strong>Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter</strong></a></p></li></ul><p>Britain’s main share index isn’t been dragged back by the AI sell-off.</p><p>The <strong>FTSE</strong> <strong>100</strong> share index rose by as much as 29 points, or 0.25%, to 10,931 points.</p><p>“London’s Footsie has started the week as a resilient player despite the risk-off sentiment reverberating amid the ongoing tech sell-off. The blue-chip index made tentative steps forward in early trade as its tech-lite nature makes it more insulated from the AI jitters. However, disappointing economic data from China and Japan, have raised global growth concerns and look set to hold back significant gains for the internationally focused index.</p><p>Mining stocks are on the back foot in early trade in London as investors reassess demand for an array of industrial metals.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Mining",
+      "Metals",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7845
+  },
+  {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-16T11:15:00+00:00",
+    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "Why Nvidia can avoid the fate of most stocks that reached the apex by market cap, according to one strategist",
+    "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-16T11:07:00+00:00",
+    "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cashflow and debt profile are the envy of all AI companies and long term, the stock is attractive says JPAM",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1969
+  },
+  {
+    "title": "Here’s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist",
+    "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-16T10:32:00+00:00",
+    "summary": "Jason Furman says that if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
+    "matched_keywords": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
+    "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-16T08:06:00+00:00",
+    "summary": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6369
+  },
+  {
     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -22,42 +98,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6764
-  },
-  {
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T23:30:00+00:00",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T21:31:00+00:00",
-    "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
-  },
-  {
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T20:30:00+00:00",
-    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0258
   },
   {
     "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
@@ -95,19 +135,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7906
-  },
-  {
-    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-14T15:50:43+00:00",
-    "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
   },
   {
     "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
@@ -350,30 +377,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4215
-  },
-  {
-    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-09T18:14:47+00:00",
-    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-    "matched_keywords": [
-      "Gold",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6369
-  },
-  {
-    "title": "The rise and rise of the family farm",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment",
-    "source": "The Guardian Economics",
-    "published": "2026-11-09T13:00:10+00:00",
-    "summary": "<p>As prices go up but grain prices stagante, more farming families are turning to ‘agritainment’ to make a living</p><p>On any given Saturday at this time of year in south-west Ohio, the Lucas Brothers Fall Festival is the place to be.</p><p>There’s a hayride into the woods, an inflatable obstacle course, a go-kart track and a corn maze linked to a game that visitors can play on their phones.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.631
   }
 ]
