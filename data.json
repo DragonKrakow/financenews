@@ -1,5 +1,29 @@
 [
   {
+    "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-16T04:15:00+00:00",
+    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5739
+  },
+  {
+    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-16T03:53:59+00:00",
+    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6764
+  },
+  {
     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +34,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.128
-  },
-  {
-    "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T22:15:00+00:00",
-    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5739
   },
   {
     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
@@ -46,18 +58,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0258
-  },
-  {
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T15:00:00+00:00",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6428
   },
   {
     "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
