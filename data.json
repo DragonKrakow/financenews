@@ -1,5 +1,53 @@
 [
   {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T23:30:00+00:00",
+    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.128
+  },
+  {
+    "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T22:15:00+00:00",
+    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5739
+  },
+  {
+    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T21:31:00+00:00",
+    "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2263
+  },
+  {
+    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-15T20:30:00+00:00",
+    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0258
+  },
+  {
     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +58,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6428
-  },
-  {
-    "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-    "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T14:00:00+00:00",
-    "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
-    "matched_keywords": [
-      "Semiconductors"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
   },
   {
     "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
@@ -46,33 +82,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6553
-  },
-  {
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T13:00:00+00:00",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
-  },
-  {
-    "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-    "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-15T12:30:00+00:00",
-    "summary": "Charts show the potential for more pain ahead",
-    "matched_keywords": [
-      "Gold",
-      "Silver",
-      "Metals",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2484
   },
   {
     "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
@@ -366,18 +375,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.631
-  },
-  {
-    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-    "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-    "source": "The Guardian Economics",
-    "published": "2026-11-08T12:05:58+00:00",
-    "summary": "<p>Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\">‘AI clog’: UK battles onslaught of chatbot-generated complaints</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future\">Editorial: the AI backlash – Silicon Valley’s political power is cracking</a></p></li></ul><p></p><p></p><p>Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago.</p><p>Clearly, the cost of living squeeze unleashed by Trump’s war in Iran was a big driver of the Democrat wave. But AI was also on the ballot – in many places, literally.</p> <a href=\"https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash\">Continue reading...</a>",
-    "matched_keywords": [
-      "Election",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.8338
   }
 ]
