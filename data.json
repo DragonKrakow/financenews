@@ -1,5 +1,29 @@
 [
   {
+    "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
+    "source": "The Guardian Economics",
+    "published": "2026-11-17T06:00:05+00:00",
+    "summary": "<p>A new analysis from some of the architects of the Vote Leave campaign is very selective with its figures</p><p>A new analysis from some of the architects of the Vote Leave campaign has claimed rejoining the EU would cost Britain £750m a week. How did they arrive at these figures – and are they any more reliable than the ones on the side of the bus?</p> <a href=\"https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1926
+  },
+  {
+    "title": "Who are the Neets? UK youth job crisis in five charts",
+    "link": "https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts",
+    "source": "The Guardian Economics",
+    "published": "2026-11-17T05:00:04+00:00",
+    "summary": "<p>Bringing the number not in education, employment or training down from a decade high will be tough. Here’s why</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment\">Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people</a></p></li></ul><p>Almost a million young people – one in eight – in the UK are not in education, employment or training (Neet).</p><p>Having reached the highest level in a decade, the government is seeking to bring that number down after the recommendations made in Alan Milburn’s landmark report.</p> <a href=\"https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5106
+  },
+  {
     "title": "United Airlines resolves system outage that delayed flights Monday",
     "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -82,19 +106,6 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.128
-  },
-  {
-    "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-16T21:53:00+00:00",
-    "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
   },
   {
     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
@@ -360,18 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.886
-  },
-  {
-    "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-    "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-    "source": "The Guardian Economics",
-    "published": "2026-11-11T00:01:23+00:00",
-    "summary": "<p>Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy</p><p>The Bank of England is risking higher interest rates for longer after a <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">hesitant response to rising inflation</a>, according to leading thinktank.</p><p>In a searing critique of the central bank’s tactics, the National Institute of Economic and Social Research (Niesr) said a timid increase in interest rates last week was likely to mean inflation staying above the Bank’s 2% target until at least 2030.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7184
   }
 ]
