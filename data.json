@@ -1,21 +1,33 @@
 [
   {
-    "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-    "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
+    "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+    "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T11:38:00+00:00",
-    "summary": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
+    "published": "2026-11-18T18:00:00+00:00",
+    "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
     "matched_keywords": [
-      "Fed"
+      "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2263
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T17:15:00+00:00",
+    "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.0516
   },
   {
     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T10:15:00+00:00",
+    "published": "2026-11-18T17:00:00+00:00",
     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
     "matched_keywords": [
       "AI"
@@ -24,29 +36,41 @@
     "sentiment_score": -0.6124
   },
   {
+    "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
+    "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T16:30:00+00:00",
+    "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8515
+  },
+  {
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-18T15:13:39+00:00",
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2247
+  },
+  {
     "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
     "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
     "source": "The Guardian Economics",
     "published": "2026-11-18T10:14:26+00:00",
-    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates\">Business live – latest updates</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
+    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
-  },
-  {
-    "title": "What Wall Street analysts are now saying after Nvidia’s beat-and-raise quarter",
-    "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T09:41:00+00:00",
-    "summary": "The chip company’s stock rose over 3% in premarket trading on Wednesday. A team at JPMorgan said there is likely more volatility to come in the near-term.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
+    "sentiment_score": -0.5859
   },
   {
     "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
@@ -349,30 +373,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9135
-  },
-  {
-    "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-    "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-12T07:28:48+00:00",
-    "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-    "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-11T16:49:02+00:00",
-    "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6908
   }
 ]
