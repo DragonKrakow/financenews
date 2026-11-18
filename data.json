@@ -3,13 +3,50 @@
     "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
     "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
     "source": "CNBC Finance",
-    "published": "2026-11-17T23:30:13+00:00",
+    "published": "2026-11-18T05:46:17+00:00",
     "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.3182
+  },
+  {
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+    "source": "The Guardian Economics",
+    "published": "2026-11-18T04:33:40+00:00",
+    "summary": "<p>Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>daily political email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p>Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to minimum pay rates for millions of lower paid workers – but still not fast enough to keep up with <a href=\"https://www.theguardian.com/business/grogonomics/2026/oct/22/cost-of-living-crisis-oil-company-profits-rba-interest-rates-australia\">the rising cost of living</a>.</p><p>The Australian Bureau of Statistics’ wage price index climbed by 1.1% in the most recent quarter, lifting the annual increase to 3.5% – a pace that economists said would keep the Reserve Bank on edge about the need for further interest rate hikes.</p><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7399
+  },
+  {
+    "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+    "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T01:59:00+00:00",
+    "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8515
+  },
+  {
+    "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T01:28:00+00:00",
+    "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+    "matched_keywords": [
+      "Chips"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5423
   },
   {
     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -82,42 +119,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5739
-  },
-  {
-    "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
-    "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-17T21:12:00+00:00",
-    "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
-    "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-17T21:11:00+00:00",
-    "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4767
-  },
-  {
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-17T21:00:00+00:00",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.128
   },
   {
     "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
