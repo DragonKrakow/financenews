@@ -1,5 +1,89 @@
 [
   {
+    "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-19T12:05:09+00:00",
+    "summary": "<p>Rolling coverage of Anthropic’s IPO, and the latest economic and financial news</p><p><strong>Anthropic </strong>needs to grow into its $1.5tn valuation, argues <strong>Kathleen Brooks,</strong> research director at <strong>XTB:</strong></p><p>Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fundamentals. Anthropic could not be more different. It has generated strong revenue growth, but only in the short term, added to this, it is still unprofitable.</p><p>Anthropic is another major tech company that requires investors to have a lot of faith about the future generation of revenues based on technology that will change the world. It seems like plenty are willing to give it that faith, and it is having a huge impact on the broader market today.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9638
+  },
+  {
+    "title": "Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.",
+    "link": "https://www.marketwatch.com/story/deutsche-bank-got-its-dollar-call-for-2026-wrong-why-its-shifting-tack-now-bbecbd00?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T12:04:00+00:00",
+    "summary": "Deutsche Bank’s team readily acknowledges its call for a weaker dollar in 2026 misfired.  They predict the forces driving the dollar higher since February will continue into the first half of 2027 but any slowdown in the AI bonanza will start to undermine it.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7003
+  },
+  {
+    "title": "I have two children. How can I turn them into millionaires by the time they retire?",
+    "link": "https://www.marketwatch.com/story/i-have-two-children-how-can-i-turn-them-into-millionaires-by-the-time-they-retire-547444eb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T12:00:00+00:00",
+    "summary": "Planning for your children’s future is important, but don’t forget your own along the way",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2382
+  },
+  {
+    "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+    "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T11:54:00+00:00",
+    "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.564
+  },
+  {
+    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T11:15:00+00:00",
+    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4329
+  },
+  {
+    "title": "The real beneficiary of the AI tech revolution fueled by Anthropic may surprise you",
+    "link": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T10:04:00+00:00",
+    "summary": "India has a huge tech-savvy population and its relative backwardness in many sectors of the economy like health care, education and agriculture, may prove a real advantage in terms of the productivity gains it cam nake.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9393
+  },
+  {
+    "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-19T09:02:00+00:00",
+    "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
     "title": "Flexibility more important to jobseekers than pay, global survey finds",
     "link": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
     "source": "The Guardian Economics",
@@ -22,90 +106,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9062
-  },
-  {
-    "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T03:45:00+00:00",
-    "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
-  },
-  {
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T03:45:00+00:00",
-    "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T03:30:00+00:00",
-    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
-  },
-  {
-    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T01:02:00+00:00",
-    "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T00:30:00+00:00",
-    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4329
-  },
-  {
-    "title": "How copper’s plunge could hurt the AI buildout",
-    "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T23:02:00+00:00",
-    "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5994
-  },
-  {
-    "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-    "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T22:31:00+00:00",
-    "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5423
   },
   {
     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
