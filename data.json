@@ -1,33 +1,45 @@
 [
   {
-    "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "title": "How copper’s plunge could hurt the AI buildout",
+    "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T18:00:00+00:00",
-    "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+    "published": "2026-11-18T23:02:00+00:00",
+    "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1531
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5994
   },
   {
-    "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T17:15:00+00:00",
-    "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "published": "2026-11-18T22:53:00+00:00",
+    "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
     "matched_keywords": [
-      "Oil"
+      "AI"
     ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0516
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+    "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T22:31:00+00:00",
+    "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5423
   },
   {
     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T17:00:00+00:00",
+    "published": "2026-11-18T21:30:00+00:00",
     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
     "matched_keywords": [
       "AI"
@@ -36,16 +48,41 @@
     "sentiment_score": -0.6124
   },
   {
-    "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
-    "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+    "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-18T16:30:00+00:00",
-    "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+    "published": "2026-11-18T21:19:00+00:00",
+    "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.8515
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+    "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-18T21:01:00+00:00",
+    "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4939
+  },
+  {
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-18T19:41:59+00:00",
+    "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+    "matched_keywords": [
+      "Fed",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.0422
   },
   {
     "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
@@ -64,7 +101,7 @@
     "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
     "source": "The Guardian Economics",
     "published": "2026-11-18T10:14:26+00:00",
-    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
+    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics (ONS) show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
     "matched_keywords": [
       "Oil",
       "AI"
@@ -334,44 +371,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.836
-  },
-  {
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-12T19:05:25+00:00",
-    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
-  },
-  {
-    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-    "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-11-12T13:08:12+00:00",
-    "summary": "<p>Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">AI helps UK economy grow at fastest pace for more than two years</a></p></li></ul><p>The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle.</p><p>Four months into the job, the economy is continuing to defy expectations after <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">growing by 0.7% in the third quarter</a> – the fastest expansion in two and a half years. It puts the UK on course to be the second-fastest growing G7 economy this year.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8519
-  },
-  {
-    "title": "AI helps UK economy grow at fastest pace for more than two years",
-    "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-    "source": "The Guardian Economics",
-    "published": "2026-11-12T09:12:52+00:00",
-    "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9135
   }
 ]
