@@ -1,15 +1,75 @@
 [
   {
-    "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T17:57:30+00:00",
-    "summary": "<p>Rolling coverage of Anthropic’s IPO, and the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic to begin public trading at $1.5tn valuation after largest ever IPO</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside\">Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter</a></p></li></ul><p><br /></p><p><strong>Anthropic </strong>needs to grow into its $1.5tn valuation, argues <strong>Kathleen Brooks,</strong> research director at <strong>XTB:</strong></p><p>Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fundamentals. Anthropic could not be more different. It has generated strong revenue growth, but only in the short term, added to this, it is still unprofitable.</p><p>Anthropic is another major tech company that requires investors to have a lot of faith about the future generation of revenues based on technology that will change the world. It seems like plenty are willing to give it that faith, and it is having a huge impact on the broader market today.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Continue reading...</a>",
+    "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+    "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T23:56:00+00:00",
+    "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7762
+  },
+  {
+    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+    "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T22:41:00+00:00",
+    "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.9704
+    "sentiment_score": 0.7783
+  },
+  {
+    "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-19T22:13:52+00:00",
+    "summary": "<p>All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic closes first day of public trading at $1.3tn valuation</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests\">Protesters rally in New York and San Francisco</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p><strong>Anthropic </strong>needs to grow into its $1.5tn valuation, argues <strong>Kathleen Brooks,</strong> research director at <strong>XTB:</strong></p><p>Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fundamentals. Anthropic could not be more different. It has generated strong revenue growth, but only in the short term, added to this, it is still unprofitable.</p><p>Anthropic is another major tech company that requires investors to have a lot of faith about the future generation of revenues based on technology that will change the world. It seems like plenty are willing to give it that faith, and it is having a huge impact on the broader market today.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9631
+  },
+  {
+    "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+    "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T21:27:00+00:00",
+    "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6486
+  },
+  {
+    "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
+    "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-19T21:22:00+00:00",
+    "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7269
+  },
+  {
+    "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+    "source": "The Guardian Economics",
+    "published": "2026-11-19T18:15:48+00:00",
+    "summary": "<p>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates?page=with%3Ablock-6aff28ce8f083b93122aef4e#block-6aff28ce8f083b93122aef4e\">its first day as a listed company</a>.</p><p>From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting <a href=\"https://www.thebanker.com/content/72741eef-55ad-4088-bf31-a63103deaa55\">$550m of underwriting fees</a>.</p> <a href=\"https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9332
   },
   {
     "title": "AI demand will push up interest rates around the world, IMF head warns",
@@ -311,68 +371,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.1078
-  },
-  {
-    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-    "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-13T14:22:07+00:00",
-    "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4019
-  },
-  {
-    "title": "World is now in ‘age of electricity’, energy agency chief says",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-    "source": "The Guardian Economics",
-    "published": "2026-11-13T05:00:11+00:00",
-    "summary": "<p>Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge</p><p>The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.</p><p>Fatih Birol, the executive director of the International Energy Agency (IEA), said more than twice as much electricity generation would be added to the global economy in the next decade than in the last, as countries scramble to secure their energy supplies against fossil fuel price volatility and supply shocks, such as the Iran war.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7269
-  },
-  {
-    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-    "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-13T02:56:35+00:00",
-    "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.0
-  },
-  {
-    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-13T00:01:19+00:00",
-    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.836
-  },
-  {
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-12T19:05:25+00:00",
-    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-    "matched_keywords": [
-      "Interest Rates",
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
   }
 ]
