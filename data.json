@@ -1,46 +1,71 @@
 [
   {
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+    "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T12:00:00+00:00",
-    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "published": "2026-11-20T17:47:00+00:00",
+    "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
     "matched_keywords": [
-      "Oil"
+      "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.4329
+    "sentiment_score": -0.5267
   },
   {
-    "title": "Apple seems to be building its own AI agent. This could be bad news for Meta’s Muse.",
-    "link": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T11:05:00+00:00",
-    "summary": "Shares of Apple climbed in premarket trading after the company posted a number of job openings seeking engineers to help build an agentic artificial-intelligence system.",
+    "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T16:26:07+00:00",
+    "summary": "<p>Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p>Anthropic’s shares fell at the start of its second day of trading, as its <a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">record-breaking IPO</a> failed to stem a sell-off in AI-linked companies.</p><p>As they dropped, the wider stock market fell with them, with the Nasdaq Composite erasing all its gains for 2026. The Dow Jones Industrial Average and S&amp;P 500 briefly entered correction territory.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\">Continue reading...</a>",
     "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4588
+  },
+  {
+    "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T16:19:00+00:00",
+    "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4019
+  },
+  {
+    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-20T15:20:54+00:00",
+    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+    "matched_keywords": [
+      "Fed",
       "AI"
     ],
     "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
+    "sentiment_score": 0.0
   },
   {
-    "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T10:02:21+00:00",
-    "summary": "<p>Asian markets on track for their worst week since 2020, with European and US stocks also way down</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news\">Business live – latest updates</a></p></li></ul><p>Global stock markets have slumped as <a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic’s record-breaking IPO</a> failed to stem a sell-off in AI-linked companies.</p><p>Asian stock markets were on track for their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April, with the chip maker TSMC down about 6%.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\">Continue reading...</a>",
+    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-20T13:29:50+00:00",
+    "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.9403
+    "sentiment_score": -0.4019
   },
   {
     "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
     "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
     "source": "The Guardian Economics",
-    "published": "2026-11-20T08:36:13+00:00",
-    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news#top-of-blog\">Business live – latest updates</a></p></li></ul><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said that the volume of goods sold jumped by 0.7% month-on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
+    "published": "2026-11-20T12:28:12+00:00",
+    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news#top-of-blog\">Business live – latest updates</a></p></li></ul><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -82,30 +107,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6946
-  },
-  {
-    "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-    "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T01:22:00+00:00",
-    "summary": "“Hotel rooms can cost as much as $400 per night.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.296
-  },
-  {
-    "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-    "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T23:56:00+00:00",
-    "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7762
   },
   {
     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
