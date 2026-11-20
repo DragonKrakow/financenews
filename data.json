@@ -1,5 +1,41 @@
 [
   {
+    "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T03:33:45+00:00",
+    "summary": "<p>A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\"><strong>Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO</strong></a></p></li></ul><p>In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one of the AI industry’s most talked about companies has resulted in the maker of the Claude chatbot becoming one of the world’s most valuable firms after just one day of trading.</p><p>With many of the company’s founders, investors and employees <a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">now worth billions of dollars</a> – and demand for the company’s stock remaining resilient – attention now turns to the stability of the wider market, and the global headwinds that experts say could threaten the AI industry over the coming months.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6946
+  },
+  {
+    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T03:31:00+00:00",
+    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4329
+  },
+  {
+    "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+    "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T01:22:00+00:00",
+    "summary": "“Hotel rooms can cost as much as $400 per night.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.296
+  },
+  {
     "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
     "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -34,30 +70,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9631
-  },
-  {
-    "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-    "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T21:27:00+00:00",
-    "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6486
-  },
-  {
-    "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-    "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T21:22:00+00:00",
-    "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.7269
   },
   {
     "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
@@ -359,17 +371,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8957
-  },
-  {
-    "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
-    "link": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
-    "source": "The Guardian Economics",
-    "published": "2026-11-13T16:00:19+00:00",
-    "summary": "<p>Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend</p><p>The removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the horticulture industry when the UK and EU’s new post-Brexit deal comes in, the environment secretary has said.</p><p>Before the <a href=\"https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products\">UK-EU summit on 20 November</a>, Angela Eagle said she hoped paperwork headaches for importers would “disappear” after the changes, although the move would not help businesses recoup the large sums they spent to deal with border controls.</p> <a href=\"https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.1078
   }
 ]
