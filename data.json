@@ -1,5 +1,77 @@
 [
   {
+    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T12:00:00+00:00",
+    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "matched_keywords": [
+      "Oil"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4329
+  },
+  {
+    "title": "Apple seems to be building its own AI agent. This could be bad news for Meta’s Muse.",
+    "link": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T11:05:00+00:00",
+    "summary": "Shares of Apple climbed in premarket trading after the company posted a number of job openings seeking engineers to help build an agentic artificial-intelligence system.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1779
+  },
+  {
+    "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T10:02:21+00:00",
+    "summary": "<p>Asian markets on track for their worst week since 2020, with European and US stocks also way down</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news\">Business live – latest updates</a></p></li></ul><p>Global stock markets have slumped as <a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic’s record-breaking IPO</a> failed to stem a sell-off in AI-linked companies.</p><p>Asian stock markets were on track for their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April, with the chip maker TSMC down about 6%.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9403
+  },
+  {
+    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T08:36:13+00:00",
+    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news#top-of-blog\">Business live – latest updates</a></p></li></ul><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said that the volume of goods sold jumped by 0.7% month-on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
+  },
+  {
+    "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+    "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T07:25:31+00:00",
+    "summary": "<p>UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn</p><p>The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure on Britain’s economy from the Middle East war.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/october2026\">Office for National Statistics</a> (ONS) said public sector net borrowing – the difference between government spending and income – was £17bn in October, about £800m higher than the same month a year ago. City economists had forecast borrowing would increase by more, to £18bn.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
+  },
+  {
+    "title": "What impact has Brexit had on the UK and EU economies?",
+    "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T07:00:26+00:00",
+    "summary": "<p>As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates\">UK-EU summit live: latest news updates</a></p></li></ul><p>The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.</p><p>Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, <a href=\"https://www.theguardian.com/world/ursula-von-der-leyen\">Ursula von der Leyen</a>, and the president of the European Council, António Costa.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
     "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
     "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
     "source": "The Guardian Economics",
@@ -10,18 +82,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6946
-  },
-  {
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T03:31:00+00:00",
-    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-    "matched_keywords": [
-      "Oil"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4329
   },
   {
     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -48,18 +108,6 @@
     "sentiment_score": -0.7762
   },
   {
-    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-    "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-19T22:41:00+00:00",
-    "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7783
-  },
-  {
     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
     "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
     "source": "The Guardian Economics",
@@ -76,7 +124,7 @@
     "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
     "source": "The Guardian Economics",
     "published": "2026-11-19T18:15:48+00:00",
-    "summary": "<p>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates?page=with%3Ablock-6aff28ce8f083b93122aef4e#block-6aff28ce8f083b93122aef4e\">its first day as a listed company</a>.</p><p>From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting <a href=\"https://www.thebanker.com/content/72741eef-55ad-4088-bf31-a63103deaa55\">$550m of underwriting fees</a>.</p> <a href=\"https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly\">Continue reading...</a>",
+    "summary": "<p>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask</p><p>Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates?page=with%3Ablock-6aff28ce8f083b93122aef4e#block-6aff28ce8f083b93122aef4e\">its first day as a listed company</a>.</p><p>From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting <a href=\"https://www.thebanker.com/content/72741eef-55ad-4088-bf31-a63103deaa55\">$550m of underwriting fees</a>.</p> <a href=\"https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -321,55 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6764
-  },
-  {
-    "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
-    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
-    "source": "The Guardian Economics",
-    "published": "2026-11-15T13:47:43+00:00",
-    "summary": "<p>Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health\">‘I’m scared about my future’: young people on the stress and desperation of jobseeking</a></p></li></ul><p>A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring – all under the microscope of the social media age.</p><p>On Tuesday, Alan Milburn’s final report on young people and work will bring Britain to a fork in the road: either continue on this path of state and market failure or sharply change direction.</p> <a href=\"https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.9593
-  },
-  {
-    "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
-    "link": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
-    "source": "The Guardian Economics",
-    "published": "2026-11-15T13:00:14+00:00",
-    "summary": "<p>From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair?</p><p>For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries.</p><p>But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe” for £25.</p> <a href=\"https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6553
-  },
-  {
-    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-    "source": "The Guardian Economics",
-    "published": "2026-11-14T16:00:48+00:00",
-    "summary": "<p>Raising borrowing costs too far risks laying waste to whatever growth there is in the economy</p><p>A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month.</p><p>A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
-  },
-  {
-    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-    "source": "The Guardian Economics",
-    "published": "2026-11-14T14:42:27+00:00",
-    "summary": "<p>‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation</p><p>The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said.</p><p>Signalling a sharp rise in mortgage payments for an estimated <a href=\"https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates\">2.3 million homeowners</a> who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8957
   }
 ]
