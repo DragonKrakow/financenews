@@ -73,18 +73,6 @@
     "sentiment_score": 0.0
   },
   {
-    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-    "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T21:01:00+00:00",
-    "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.34
-  },
-  {
     "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
     "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
     "source": "CNBC Finance",
@@ -367,5 +355,17 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0644
+  },
+  {
+    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+    "source": "The Guardian Economics",
+    "published": "2026-11-16T17:52:13+00:00",
+    "summary": "<p>Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds </p><p>Several companies that received refunds for paying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> have put those funds towards corporate bonuses instead of reimbursing consumers, <a href=\"https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses\">an investigation</a> from ProPublica has found.</p><p>After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who said they were receiving tariff refunds and noted they were directing some of those funds to their leadership.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8555
   }
 ]
