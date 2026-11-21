@@ -1,45 +1,69 @@
 [
   {
-    "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T17:47:00+00:00",
-    "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+    "published": "2026-11-20T22:44:00+00:00",
+    "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.5267
+    "sentiment_score": -0.8126
   },
   {
-    "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+    "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T21:58:00+00:00",
+    "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5574
+  },
+  {
+    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T21:39:00+00:00",
+    "summary": "A looming oversupply problem could weigh on the stock over the next year",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.25
+  },
+  {
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "source": "The Guardian Economics",
-    "published": "2026-11-20T16:26:07+00:00",
-    "summary": "<p>Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p>Anthropic’s shares fell at the start of its second day of trading, as its <a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">record-breaking IPO</a> failed to stem a sell-off in AI-linked companies.</p><p>As they dropped, the wider stock market fell with them, with the Nasdaq Composite erasing all its gains for 2026. The Dow Jones Industrial Average and S&amp;P 500 briefly entered correction territory.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\">Continue reading...</a>",
+    "published": "2026-11-20T21:38:17+00:00",
+    "summary": "<p>The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p>As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&amp;P 500 closed in correction territory.</p><p>Anthropic’s <a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">record-breaking IPO</a> failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some <a href=\"https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=WSJ_home_mediumtopper_pos_1\">$4tn in market value</a> this week, according to the Wall Street Journal.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4588
+    "sentiment_score": 0.504
   },
   {
-    "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-20T16:19:00+00:00",
-    "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+    "published": "2026-11-20T21:36:00+00:00",
+    "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
     "matched_keywords": [
       "AI"
     ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1901
   },
   {
     "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
     "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
     "source": "CNBC Finance",
-    "published": "2026-11-20T15:20:54+00:00",
+    "published": "2026-11-20T21:10:48+00:00",
     "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
     "matched_keywords": [
       "Fed",
@@ -47,6 +71,30 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-20T21:01:00+00:00",
+    "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.34
+  },
+  {
+    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+    "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-20T19:59:03+00:00",
+    "summary": "Odds that the S&amp;P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3384
   },
   {
     "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -65,7 +113,7 @@
     "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
     "source": "The Guardian Economics",
     "published": "2026-11-20T12:28:12+00:00",
-    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news#top-of-blog\">Business live – latest updates</a></p></li></ul><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
+    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -89,7 +137,7 @@
     "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
     "source": "The Guardian Economics",
     "published": "2026-11-20T07:00:26+00:00",
-    "summary": "<p>As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates\">UK-EU summit live: latest news updates</a></p></li></ul><p>The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.</p><p>Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, <a href=\"https://www.theguardian.com/world/ursula-von-der-leyen\">Ursula von der Leyen</a>, and the president of the European Council, António Costa.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies\">Continue reading...</a>",
+    "summary": "<p>As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead</p><p>The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.</p><p>Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, <a href=\"https://www.theguardian.com/world/ursula-von-der-leyen\">Ursula von der Leyen</a>, and the president of the European Council, António Costa.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies\">Continue reading...</a>",
     "matched_keywords": [
       "AI"
     ],
@@ -319,56 +367,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0644
-  },
-  {
-    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-    "source": "The Guardian Economics",
-    "published": "2026-11-16T17:52:13+00:00",
-    "summary": "<p>Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds </p><p>Several companies that received refunds for paying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> have put those funds towards corporate bonuses instead of reimbursing consumers, <a href=\"https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses\">an investigation</a> from ProPublica has found.</p><p>After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who said they were receiving tariff refunds and noted they were directing some of those funds to their leadership.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8555
-  },
-  {
-    "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-11-16T15:43:06+00:00",
-    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/09/insurance-industry-workers-how-is-climate-related-risk-managed-in-your-company\"><strong>Insurance industry workers: how is climate-related risk managed in your company?</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo\"><strong>Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter</strong></a></p></li></ul><p>Britain’s main share index isn’t been dragged back by the AI sell-off.</p><p>The <strong>FTSE</strong> <strong>100</strong> share index rose by as much as 29 points, or 0.25%, to 10,931 points.</p><p>“London’s Footsie has started the week as a resilient player despite the risk-off sentiment reverberating amid the ongoing tech sell-off. The blue-chip index made tentative steps forward in early trade as its tech-lite nature makes it more insulated from the AI jitters. However, disappointing economic data from China and Japan, have raised global growth concerns and look set to hold back significant gains for the internationally focused index.</p><p>Mining stocks are on the back foot in early trade in London as investors reassess demand for an array of industrial metals.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "Mining",
-      "Metals",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
-  },
-  {
-    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-16T12:13:23+00:00",
-    "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.3612
-  },
-  {
-    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-16T03:53:59+00:00",
-    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6764
   }
 ]
