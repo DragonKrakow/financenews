@@ -1,5 +1,42 @@
 [
   {
+    "title": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
+    "link": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-24T11:59:00+00:00",
+    "summary": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He’s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term Japanese government debt",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4118
+  },
+  {
+    "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+    "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-24T11:57:39+00:00",
+    "summary": "<p>Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated\">Republican senators criticize Nvidia’s decision to reinstate Jensen Huang</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress\"><strong>Congress to grill Jensen Huang over ties with China and Trump’s intervention</strong></a><br /></p></li></ul><p><strong>Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’.</strong></p><p>That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out.</p><p>Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired?</p><p>Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally.</p><p>“We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.3862
+  },
+  {
+    "title": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+    "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-24T11:39:00+00:00",
+    "summary": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6808
+  },
+  {
     "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
     "link": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
     "source": "The Guardian Economics",
@@ -12,18 +49,6 @@
     "sentiment_score": -0.9354
   },
   {
-    "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-    "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T01:01:00+00:00",
-    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8658
-  },
-  {
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
     "source": "CNBC Finance",
@@ -34,91 +59,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
-  },
-  {
-    "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T22:04:00+00:00",
-    "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.2382
-  },
-  {
-    "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-    "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:51:00+00:00",
-    "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9423
-  },
-  {
-    "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-    "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:45:00+00:00",
-    "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.1779
-  },
-  {
-    "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-    "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:36:00+00:00",
-    "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6901
-  },
-  {
-    "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
-    "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:33:00+00:00",
-    "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
-    "matched_keywords": [
-      "Chips",
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
-    "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-    "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:24:00+00:00",
-    "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
-    "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-    "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:19:00+00:00",
-    "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8176
   },
   {
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -364,5 +304,69 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0422
+  },
+  {
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-18T15:13:39+00:00",
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2247
+  },
+  {
+    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+    "source": "The Guardian Economics",
+    "published": "2026-11-18T10:14:26+00:00",
+    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics (ONS) show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5859
+  },
+  {
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+    "source": "The Guardian Economics",
+    "published": "2026-11-18T04:33:40+00:00",
+    "summary": "<p>Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>daily political email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p>Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to minimum pay rates for millions of lower paid workers – but still not fast enough to keep up with <a href=\"https://www.theguardian.com/business/grogonomics/2026/oct/22/cost-of-living-crisis-oil-company-profits-rba-interest-rates-australia\">the rising cost of living</a>.</p><p>The Australian Bureau of Statistics’ wage price index climbed by 1.1% in the most recent quarter, lifting the annual increase to 3.5% – a pace that economists said would keep the Reserve Bank on edge about the need for further interest rate hikes.</p><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly\">Continue reading...</a>",
+    "matched_keywords": [
+      "Oil",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7399
+  },
+  {
+    "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-17T16:54:21+00:00",
+    "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement\"><strong>Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china\"><strong>Jensen Huang’s departure as Nvidia CEO becomes a political proxy war</strong></a></p></li></ul><p><strong>China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers.</strong></p><p>At a press conference on Tuesday, China’s foreign ministry spokesperson <strong>Guo</strong> <strong>Jiakun</strong> said Beijing would take “necessary measures” to safeguard its own interests, saying:</p><p>“The US has repeatedly overstretched the concept of national security, abused export controls and even interfered in China’s normal trade and technological cooperation with other countries, unjustifiably suppressing the development of China’s high-tech industries.”</p><p>“This is the worst situation possible for China because the last thing they want to see is any new restrictions on their access to chips.”</p><p>“Export controls are what upset them practically more than anything else right now other than maybe Taiwan.”</p><p>Deutsche plotted an expansion of its <a href=\"https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e\">notorious Russia business</a> under chief executive Christian Sewing, over-ruling the fears of its compliance team about the bank’s Kremlin-connected clientele as geopolitical storm clouds gathered.</p><p>The bank <a href=\"https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1\">accidentally leaked Trump’s tax statements</a> during his first presidential term and kept the mistake secret from the White House, with Sewing briefed on its handling of the crisis.</p><p>Deutsche processed almost $600mn of suspicious <a href=\"https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96\">payments linked to Jeffrey Epstein</a>, a far higher figure than previously known.</p><p>A <a href=\"https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538\">catalogue</a> of compliance deficiencies, governance weaknesses, ineptitude and technology failings, including a confession to regulators that Deutsche was in effect “operating outside of law and order”.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Fed",
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9692
+  },
+  {
+    "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
+    "source": "The Guardian Economics",
+    "published": "2026-11-17T06:00:05+00:00",
+    "summary": "<p>A new analysis from some of the architects of the Vote Leave campaign is very selective with its figures</p><p>A new analysis from some of the architects of the Vote Leave campaign has claimed rejoining the EU would cost Britain £750m a week. How did they arrive at these figures – and are they any more reliable than the ones on the side of the bus?</p> <a href=\"https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1926
   }
 ]
