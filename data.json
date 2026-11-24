@@ -1,5 +1,29 @@
 [
   {
+    "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
+    "link": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
+    "source": "The Guardian Economics",
+    "published": "2026-11-24T01:51:56+00:00",
+    "summary": "<p>Labor has been complacent. But deep cuts designed to kill inflation would come at least six months too late</p><p>A pivot towards austerity in next month’s mid-year budget would come far too late in the battle against inflation and risk pushing Australia into a recession we don’t need to have.</p><p>This is a truth that Jim Chalmers came halfway to articulating in <a href=\"https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns\">Monday’s special economic statement</a>, delivered during question time.</p> <a href=\"https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.9354
+  },
+  {
+    "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+    "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-24T01:01:00+00:00",
+    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.8658
+  },
+  {
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
     "source": "CNBC Finance",
@@ -71,18 +95,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.7096
-  },
-  {
-    "title": "HPE just posted its strongest growth ever — but its stock is wavering",
-    "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-23T21:28:00+00:00",
-    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8316
   },
   {
     "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
@@ -352,17 +364,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0422
-  },
-  {
-    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-18T15:13:39+00:00",
-    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2247
   }
 ]
