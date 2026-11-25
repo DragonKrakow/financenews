@@ -1,21 +1,9 @@
 [
   {
-    "title": "The AI debt market isn’t convinced the worst is over for investors",
-    "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T17:48:00+00:00",
-    "summary": "Stocks rebounded on Monday, but credit markets remain cautious.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": 0.09
-  },
-  {
     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T17:15:00+00:00",
+    "published": "2026-11-25T00:05:00+00:00",
     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
     "matched_keywords": [
       "AI"
@@ -24,10 +12,34 @@
     "sentiment_score": -0.5927
   },
   {
+    "title": "Dell’s stock rises as the AI boom helps sales more than double",
+    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-24T23:34:00+00:00",
+    "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-24T23:03:24+00:00",
+    "summary": "The product, the first one beyond event contracts, was introduced in May.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T16:23:00+00:00",
+    "published": "2026-11-24T21:45:00+00:00",
     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
     "matched_keywords": [
       "AI"
@@ -36,16 +48,28 @@
     "sentiment_score": 0.8658
   },
   {
-    "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-    "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+    "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+    "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T16:08:00+00:00",
-    "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+    "published": "2026-11-24T21:22:00+00:00",
+    "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
     "matched_keywords": [
-      "Interest Rates"
+      "Chips"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9186
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6249
+  },
+  {
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-24T20:45:57+00:00",
+    "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.8225
   },
   {
     "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
@@ -340,30 +364,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": -0.0422
-  },
-  {
-    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-18T15:13:39+00:00",
-    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.2247
-  },
-  {
-    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-    "source": "The Guardian Economics",
-    "published": "2026-11-18T10:14:26+00:00",
-    "summary": "<p>Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise\">Energy bills in Great Britain forecast to rise by 26% to £2,166 from January</a></p></li></ul><p>Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war in the Middle East.</p><p>Figures from the Office for National Statistics (ONS) show the headline rate of inflation as measured by the consumer prices index rose from <a href=\"https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices\">3.5% in September</a> and was in line with City economists’ forecasts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil\">Continue reading...</a>",
-    "matched_keywords": [
-      "Oil",
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5859
   }
 ]
