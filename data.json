@@ -1,5 +1,41 @@
 [
   {
+    "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T11:27:00+00:00",
+    "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+    "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T10:12:00+00:00",
+    "summary": "Inflation and nominal growth have been way too high for too long, argues Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
+    "matched_keywords": [
+      "Fed"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4215
+  },
+  {
+    "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
+    "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T10:05:00+00:00",
+    "summary": "Kylie Jenner’s fortress-like home is back on the market, this time with a fresh set of listing images—some of which have been enhanced by AI.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3182
+  },
+  {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
     "source": "CNBC Finance",
@@ -49,30 +85,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.2023
-  },
-  {
-    "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-    "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T21:45:00+00:00",
-    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8658
-  },
-  {
-    "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-    "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T21:22:00+00:00",
-    "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
-    "matched_keywords": [
-      "Chips"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.6249
   },
   {
     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
@@ -354,17 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9492
-  },
-  {
-    "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-    "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T05:00:19+00:00",
-    "summary": "<p>About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users</p><p>At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users than those containing vegetarians and pescatarians combined.</p><p>About 2.6 million adults were using weight-loss medication in August, a rise of about 700,000 people since February, according to a survey by <a href=\"https://www.theguardian.com/business/2026/jun/10/weight-loss-drugs-grocery-bills-glp-1s\">Worldpanel by Numerator</a>.</p> <a href=\"https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9062
   }
 ]
