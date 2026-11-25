@@ -1,5 +1,32 @@
 [
   {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-25T01:13:56+00:00",
+    "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "matched_keywords": [
+      "Semiconductors",
+      "Chips",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6956
+  },
+  {
+    "title": "Dell’s stock rises as the AI boom helps sales more than double",
+    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T01:11:00+00:00",
+    "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3818
+  },
+  {
     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +37,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5927
-  },
-  {
-    "title": "Dell’s stock rises as the AI boom helps sales more than double",
-    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-24T23:34:00+00:00",
-    "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
   },
   {
     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -351,18 +366,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9062
-  },
-  {
-    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-18T19:41:59+00:00",
-    "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-    "matched_keywords": [
-      "Fed",
-      "AI"
-    ],
-    "sentiment_label": "Neutral",
-    "sentiment_score": -0.0422
   }
 ]
