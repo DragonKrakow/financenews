@@ -1,34 +1,24 @@
 [
   {
-    "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+    "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+    "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T11:27:00+00:00",
-    "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
+    "published": "2026-11-25T17:31:00+00:00",
+    "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
     "matched_keywords": [
-      "Artificial Intelligence"
+      "Interest Rates",
+      "Fed",
+      "AI"
     ],
     "sentiment_label": "Bullish",
-    "sentiment_score": 0.4767
+    "sentiment_score": 0.9136
   },
   {
-    "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
-    "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+    "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+    "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T10:12:00+00:00",
-    "summary": "Inflation and nominal growth have been way too high for too long, argues Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
-    "matched_keywords": [
-      "Fed"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.4215
-  },
-  {
-    "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-    "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T10:05:00+00:00",
-    "summary": "Kylie Jenner’s fortress-like home is back on the market, this time with a fresh set of listing images—some of which have been enhanced by AI.",
+    "published": "2026-11-25T17:24:00+00:00",
+    "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
     "matched_keywords": [
       "AI"
     ],
@@ -36,10 +26,46 @@
     "sentiment_score": 0.3182
   },
   {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T17:15:00+00:00",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
+    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+    "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-25T17:08:03+00:00",
+    "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5267
+  },
+  {
+    "title": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+    "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-25T16:52:00+00:00",
+    "summary": "Sandisk, Nebius and Micron shares were all down more than 10%, as the tech-heavy Nasdaq 100 has seen nearly all of Monday’s gains evaporate.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.3612
+  },
+  {
     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
     "source": "CNBC Finance",
-    "published": "2026-11-25T01:13:56+00:00",
+    "published": "2026-11-25T14:29:00+00:00",
     "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
     "matched_keywords": [
       "Semiconductors",
@@ -51,28 +77,17 @@
     "sentiment_score": 0.6956
   },
   {
-    "title": "Dell’s stock rises as the AI boom helps sales more than double",
-    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T01:11:00+00:00",
-    "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+    "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-25T12:26:41+00:00",
+    "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
     "matched_keywords": [
+      "Fed",
       "AI"
     ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3818
-  },
-  {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T00:05:00+00:00",
-    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5927
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.1779
   },
   {
     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -354,17 +369,5 @@
     ],
     "sentiment_label": "Neutral",
     "sentiment_score": 0.1531
-  },
-  {
-    "title": "Flexibility more important to jobseekers than pay, global survey finds",
-    "link": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T05:45:18+00:00",
-    "summary": "<p>A poll of more than 40,000 workers found that a better work-life balance was the main reason people consider leaving their jobs</p><p>Work-life balance has become the leading reason why workers consider leaving their jobs, according to a new global workforce survey, as flexibility is valued more than a higher salary despite the cost of living crisis.</p><p>A poll of more than 40,000 global workers found that the top reasons for seeking a new role were better balance between professional and private lives, more flexibility over working schedules or remote working opportunities.</p> <a href=\"https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9492
   }
 ]
