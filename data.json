@@ -1,5 +1,116 @@
 [
   {
+    "title": "David Collard obituary",
+    "link": "https://www.theguardian.com/education/2026/nov/26/david-collard-obituary",
+    "source": "The Guardian Economics",
+    "published": "2026-11-26T17:59:13+00:00",
+    "summary": "<p>My friend and colleague David Collard, who has died aged 89, was an economist of unusual breadth: a theorist steeped in the history of ideas who never accepted that people act from self-interest alone.</p><p>Based at the University of Bath for nearly 25 years, he joined as professor of economics in 1978, becoming emeritus in 2002. He led the political economy group for 16 years (which later evolved into the economics department), headed the school of social sciences, and served as pro-vice-chancellor from 1989 to 1992. In those roles, he did much to raise the standing of the social sciences in a university built on science and engineering.</p> <a href=\"https://www.theguardian.com/education/2026/nov/26/david-collard-obituary\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.2991
+  },
+  {
+    "title": "Semiconductor chips are the new oil. Here's why",
+    "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+    "source": "CNBC Finance",
+    "published": "2026-11-26T17:52:15+00:00",
+    "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+    "matched_keywords": [
+      "Oil",
+      "Chips",
+      "AI"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": -0.128
+  },
+  {
+    "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+    "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+    "source": "The Guardian Economics",
+    "published": "2026-11-26T17:50:54+00:00",
+    "summary": "<p>Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries</p><p>Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries.</p><p>The economist and monetary policymaker will become the first Spaniard to lead the ECB, defeating his rival candidate Klaas Knot, the former head of the Dutch central bank.</p> <a href=\"https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.9623
+  },
+  {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T16:30:00+00:00",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
+    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T15:13:00+00:00",
+    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.5927
+  },
+  {
+    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+    "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T14:00:00+00:00",
+    "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.4588
+  },
+  {
+    "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+    "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T13:41:00+00:00",
+    "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after the tech washout.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+    "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+    "source": "The Guardian Economics",
+    "published": "2026-11-26T12:44:46+00:00",
+    "summary": "<p>Bank of England warns of increases for millions coming off fixed deals over next three years as interest rates rise</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates\">Business live – latest updates</a></p></li></ul><p>More than 400,000 UK homeowners will face a £500-a-month increase in their mortgage payments over the next three years, as rising interest rates heap extra pressure on households, the Bank of England has said.</p><p>The Bank’s financial policy committee said on Thursday that out of the 7 million borrowers coming off fixed-rate deals before December 2029, about 6.5 million would have to cough up extra funds to cover their home loan payments.</p> <a href=\"https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates\">Continue reading...</a>",
+    "matched_keywords": [
+      "Interest Rates",
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6908
+  },
+  {
+    "title": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
+    "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T12:37:00+00:00",
+    "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5106
+  },
+  {
     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
     "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
     "source": "The Guardian Economics",
@@ -12,30 +123,6 @@
     "sentiment_score": 0.2023
   },
   {
-    "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-    "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T10:37:00+00:00",
-    "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
-    "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-    "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T10:11:00+00:00",
-    "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
-    "matched_keywords": [
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5994
-  },
-  {
     "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
     "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
     "source": "CNBC Finance",
@@ -46,18 +133,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.8047
-  },
-  {
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T22:45:00+00:00",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
   },
   {
     "title": "UK food inflation could hit 5% next year, Bank of England says",
@@ -293,77 +368,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
-  },
-  {
-    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T12:28:12+00:00",
-    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
-  },
-  {
-    "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-    "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T07:25:31+00:00",
-    "summary": "<p>UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn</p><p>The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure on Britain’s economy from the Middle East war.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/october2026\">Office for National Statistics</a> (ONS) said public sector net borrowing – the difference between government spending and income – was £17bn in October, about £800m higher than the same month a year ago. City economists had forecast borrowing would increase by more, to £18bn.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.25
-  },
-  {
-    "title": "What impact has Brexit had on the UK and EU economies?",
-    "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T07:00:26+00:00",
-    "summary": "<p>As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead</p><p>The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.</p><p>Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, <a href=\"https://www.theguardian.com/world/ursula-von-der-leyen\">Ursula von der Leyen</a>, and the president of the European Council, António Costa.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5574
-  },
-  {
-    "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T03:33:45+00:00",
-    "summary": "<p>A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\"><strong>Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO</strong></a></p></li></ul><p>In the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one of the AI industry’s most talked about companies has resulted in the maker of the Claude chatbot becoming one of the world’s most valuable firms after just one day of trading.</p><p>With many of the company’s founders, investors and employees <a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">now worth billions of dollars</a> – and demand for the company’s stock remaining resilient – attention now turns to the stability of the wider market, and the global headwinds that experts say could threaten the AI industry over the coming months.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6946
-  },
-  {
-    "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T22:13:52+00:00",
-    "summary": "<p>All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic closes first day of public trading at $1.3tn valuation</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests\">Protesters rally in New York and San Francisco</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p><strong>Anthropic </strong>needs to grow into its $1.5tn valuation, argues <strong>Kathleen Brooks,</strong> research director at <strong>XTB:</strong></p><p>Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fundamentals. Anthropic could not be more different. It has generated strong revenue growth, but only in the short term, added to this, it is still unprofitable.</p><p>Anthropic is another major tech company that requires investors to have a lot of faith about the future generation of revenues based on technology that will change the world. It seems like plenty are willing to give it that faith, and it is having a huge impact on the broader market today.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9631
-  },
-  {
-    "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T18:15:48+00:00",
-    "summary": "<p>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask</p><p>Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on <a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates?page=with%3Ablock-6aff28ce8f083b93122aef4e#block-6aff28ce8f083b93122aef4e\">its first day as a listed company</a>.</p><p>From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting <a href=\"https://www.thebanker.com/content/72741eef-55ad-4088-bf31-a63103deaa55\">$550m of underwriting fees</a>.</p> <a href=\"https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9332
   }
 ]
