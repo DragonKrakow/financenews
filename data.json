@@ -1,5 +1,41 @@
 [
   {
+    "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "source": "The Guardian Economics",
+    "published": "2026-11-26T12:00:22+00:00",
+    "summary": "<p>Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe\">Trump proposing new tariffs on 14 partners including China and EU</a></p></li></ul><p>Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from China and other major trading partners, triggering a global backlash.</p><p>Among the suggested levies on 14 major trading partners announced on Wednesday, China is potentially facing one of the biggest hits. It would face the highest capped rate of 20%, which in some cases will be stacked on top of other import taxes for a total rate of 45%.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.2023
+  },
+  {
+    "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+    "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T10:37:00+00:00",
+    "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7096
+  },
+  {
+    "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+    "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T10:11:00+00:00",
+    "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+    "matched_keywords": [
+      "Artificial Intelligence"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5994
+  },
+  {
     "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
     "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
     "source": "CNBC Finance",
@@ -22,30 +58,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6652
-  },
-  {
-    "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T22:11:00+00:00",
-    "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5574
-  },
-  {
-    "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-    "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-25T21:36:00+00:00",
-    "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.3182
   },
   {
     "title": "UK food inflation could hit 5% next year, Bank of England says",
@@ -353,19 +365,5 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9332
-  },
-  {
-    "title": "AI demand will push up interest rates around the world, IMF head warns",
-    "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-    "source": "The Guardian Economics",
-    "published": "2026-11-19T15:15:14+00:00",
-    "summary": "<p>Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned.</p><p>Kristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology products was pushing up consumer prices around the world.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec\">Continue reading...</a>",
-    "matched_keywords": [
-      "Interest Rates",
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.8955
   }
 ]
