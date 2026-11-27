@@ -1,5 +1,42 @@
 [
   {
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T22:00:00+00:00",
+    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.6124
+  },
+  {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-26T21:30:00+00:00",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+    "source": "The Guardian Economics",
+    "published": "2026-11-26T19:41:37+00:00",
+    "summary": "<p>In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party.</p><p>In a holiday message <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117683512952489451\">on social media</a> tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms\">Continue reading...</a>",
+    "matched_keywords": [
+      "Election",
+      "Fed"
+    ],
+    "sentiment_label": "Bearish",
+    "sentiment_score": -0.7096
+  },
+  {
     "title": "David Collard obituary",
     "link": "https://www.theguardian.com/education/2026/nov/26/david-collard-obituary",
     "source": "The Guardian Economics",
@@ -38,18 +75,6 @@
     "sentiment_score": 0.9623
   },
   {
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T16:30:00+00:00",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
-  },
-  {
     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -74,18 +99,6 @@
     "sentiment_score": -0.4588
   },
   {
-    "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-    "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T13:41:00+00:00",
-    "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after the tech washout.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7096
-  },
-  {
     "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
     "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
     "source": "The Guardian Economics",
@@ -97,18 +110,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.6908
-  },
-  {
-    "title": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
-    "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T12:37:00+00:00",
-    "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
-    "matched_keywords": [
-      "Gold"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5106
   },
   {
     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
