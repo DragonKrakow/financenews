@@ -1,9 +1,21 @@
 [
   {
+    "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+    "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-27T12:01:00+00:00",
+    "summary": "Analysts raised their profit forecasts for S&amp;P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.7906
+  },
+  {
     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-27T01:15:00+00:00",
+    "published": "2026-11-27T11:15:00+00:00",
     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
     "matched_keywords": [
       "AI"
@@ -12,16 +24,40 @@
     "sentiment_score": 0.6652
   },
   {
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
+    "link": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T22:00:00+00:00",
-    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "published": "2026-11-27T10:54:00+00:00",
+    "summary": "Goldman Sachs traders say one big bout of selling is left for stocks this year by some trend-following trend funds.",
+    "matched_keywords": [
+      "Gold"
+    ],
+    "sentiment_label": "Neutral",
+    "sentiment_score": 0.1531
+  },
+  {
+    "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+    "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-27T10:37:00+00:00",
+    "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for higher-risk investments, but not yet.",
+    "matched_keywords": [
+      "Interest Rates"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.4767
+  },
+  {
+    "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
+    "link": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-27T10:32:00+00:00",
+    "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan’s European quant team.",
     "matched_keywords": [
       "AI"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.6124
+    "sentiment_score": -0.9287
   },
   {
     "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
@@ -73,18 +109,6 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.9623
-  },
-  {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T15:13:00+00:00",
-    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.5927
   },
   {
     "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
@@ -345,29 +369,5 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.3384
-  },
-  {
-    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-    "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-    "source": "CNBC Finance",
-    "published": "2026-11-20T13:29:50+00:00",
-    "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4019
-  },
-  {
-    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-    "source": "The Guardian Economics",
-    "published": "2026-11-20T12:28:12+00:00",
-    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.5859
   }
 ]
