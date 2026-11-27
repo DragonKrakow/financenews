@@ -1,5 +1,17 @@
 [
   {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-27T01:15:00+00:00",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,18 +22,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.6124
-  },
-  {
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T21:30:00+00:00",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.6652
   },
   {
     "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
@@ -85,18 +85,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5927
-  },
-  {
-    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-    "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-26T14:00:00+00:00",
-    "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bearish",
-    "sentiment_score": -0.4588
   },
   {
     "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
@@ -369,5 +357,17 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.4019
+  },
+  {
+    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T12:28:12+00:00",
+    "summary": "<p>Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies</p><p>Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government <a href=\"https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting\">issued a warning to stock up in case of a disaster.</a></p><p>The Office for National Statistics (ONS) said the volume of goods sold jumped by 0.7% month on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the <a href=\"https://beready.campaign.gov.uk/\">government’s Be Ready campaign</a> to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.5859
   }
 ]
