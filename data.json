@@ -1,5 +1,17 @@
 [
   {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published": "2026-11-27T23:30:00+00:00",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.6652
+  },
+  {
     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -10,31 +22,6 @@
     ],
     "sentiment_label": "Bearish",
     "sentiment_score": -0.5927
-  },
-  {
-    "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
-    "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-27T15:04:00+00:00",
-    "summary": "‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’",
-    "matched_keywords": [
-      "AI"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.9633
-  },
-  {
-    "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-    "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published": "2026-11-27T15:01:00+00:00",
-    "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate.",
-    "matched_keywords": [
-      "AI",
-      "Artificial Intelligence"
-    ],
-    "sentiment_label": "Bullish",
-    "sentiment_score": 0.7906
   },
   {
     "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -54,13 +41,13 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
     "source": "The Guardian Economics",
     "published": "2026-11-26T19:41:37+00:00",
-    "summary": "<p>In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party.</p><p>In a holiday message <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117683512952489451\">on social media</a> tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms\">Continue reading...</a>",
+    "summary": "<p>In a bitter Thanksgiving post, president seeks investigation after blue wave of Democrats unseated Republicans</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party.</p><p>In a holiday message <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117683512952489451\">on social media</a> tinged with bitterness, the US president wished a happy Thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms\">Continue reading...</a>",
     "matched_keywords": [
       "Election",
       "Fed"
     ],
     "sentiment_label": "Bearish",
-    "sentiment_score": -0.7096
+    "sentiment_score": -0.8625
   },
   {
     "title": "David Collard obituary",
@@ -370,5 +357,17 @@
     ],
     "sentiment_label": "Bullish",
     "sentiment_score": 0.5859
+  },
+  {
+    "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+    "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+    "source": "The Guardian Economics",
+    "published": "2026-11-20T07:25:31+00:00",
+    "summary": "<p>UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn</p><p>The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure on Britain’s economy from the Middle East war.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/october2026\">Office for National Statistics</a> (ONS) said public sector net borrowing – the difference between government spending and income – was £17bn in October, about £800m higher than the same month a year ago. City economists had forecast borrowing would increase by more, to £18bn.</p> <a href=\"https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey\">Continue reading...</a>",
+    "matched_keywords": [
+      "AI"
+    ],
+    "sentiment_label": "Bullish",
+    "sentiment_score": 0.25
   }
 ]
